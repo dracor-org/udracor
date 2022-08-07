@@ -47,7 +47,7 @@
               Айтра
             </persName>
           </person>
-          <person xml:id="1-j_vartovij">
+          <person xml:id="vartovij_1-j">
             <persName>
               1-й вартовий
             </persName>
@@ -137,12 +137,12 @@
               Вісник
             </persName>
           </person>
-          <person xml:id="2-j_vartovij">
+          <person xml:id="vartovij_2-j">
             <persName>
               2-й вартовий
             </persName>
           </person>
-          <person xml:id="5-j_vartovij">
+          <person xml:id="vartovij_5-j">
             <persName>
               5-й вартовий
             </persName>
@@ -152,7 +152,7 @@
               Третій голос
             </persName>
           </person>
-          <person xml:id="3-j_vartovij">
+          <person xml:id="vartovij_3-j">
             <persName>
               3-й вартовий
             </persName>
@@ -257,7 +257,7 @@
               Четвертий голос
             </persName>
           </person>
-          <person xml:id="4-j_vartovij">
+          <person xml:id="vartovij_4-j">
             <persName>
               4-й вартовий
             </persName>

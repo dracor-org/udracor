@@ -22,16 +22,16 @@
           <person xml:id="moroziha">
             <persName>Морозиха</persName>
           </person>
-          <person xml:id="7-j_parubok">
+          <person xml:id="parubok_7-j">
             <persName>7-й парубок</persName>
           </person>
           <person xml:id="dejaki_parubki">
             <persName>Деякі парубки</persName>
           </person>
-          <person xml:id="1-j_parubok">
+          <person xml:id="parubok_1-j">
             <persName>1-й парубок</persName>
           </person>
-          <person xml:id="5-j_parubok">
+          <person xml:id="parubok_5-j">
             <persName>5-й парубок</persName>
           </person>
           <person xml:id="divchata">
@@ -40,7 +40,7 @@
           <person xml:id="dejaki">
             <persName>Деякі</persName>
           </person>
-          <person xml:id="6-j_parubok">
+          <person xml:id="parubok_6-j">
             <persName>6-й парубок</persName>
           </person>
           <person xml:id="hristja">
@@ -55,10 +55,10 @@
           <person xml:id="semen">
             <persName>Семен</persName>
           </person>
-          <person xml:id="2-j_muzika">
+          <person xml:id="muzika_2-j">
             <persName>2-й музика</persName>
           </person>
-          <person xml:id="3-j_parubok">
+          <person xml:id="parubok_3-j">
             <persName>3-й парубок</persName>
           </person>
           <person xml:id="usi">
@@ -88,7 +88,7 @@
           <person xml:id="zhinochij_golos">
             <persName>Жіночий голос</persName>
           </person>
-          <person xml:id="2-j_parubok">
+          <person xml:id="parubok_2-j">
             <persName>2-й парубок</persName>
           </person>
           <person xml:id="golosi">
@@ -97,16 +97,13 @@
           <person xml:id="golos_za_viknom_">
             <persName>Голос за вікном</persName>
           </person>
-          <person xml:id="1-j_muzika">
+          <person xml:id="muzika_1-j">
             <persName>1-й музика</persName>
           </person>
           <person xml:id="skubko">
             <persName>Скубко</persName>
           </person>
-          <person xml:id="2-j_muzika">
-            <persName>2-й музика</persName>
-          </person>
-          <person xml:id="4-j_parubok">
+          <person xml:id="parubok_4-j">
             <persName>4-й парубок</persName>
           </person>
           <person xml:id="marusja">

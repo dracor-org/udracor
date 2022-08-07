@@ -62,7 +62,7 @@
               Хлопець-пролетарій
             </persName>
           </person>
-          <person xml:id="1-j_vidpuschenik">
+          <person xml:id="vidpuschenik_1-j">
             <persName>
               1-й відпущеник
             </persName>
@@ -102,7 +102,7 @@
               Один з прибулих
             </persName>
           </person>
-          <person xml:id="2-j_didich">
+          <person xml:id="didich_2-j">
             <persName>
               2-й дідич
             </persName>
@@ -162,11 +162,6 @@
               Клієнт
             </persName>
           </person>
-          <person xml:id="[nartal]">
-            <persName>
-              [Нартал]
-            </persName>
-          </person>
           <person xml:id="rimljanka">
             <persName>
               Римлянка
@@ -177,7 +172,7 @@
               Наглядач з крематорію
             </persName>
           </person>
-          <person xml:id="2-j_z_prohachiv">
+          <person xml:id="prohachiv_2-j_z">
             <persName>
               2-й з прохачів
             </persName>
@@ -197,12 +192,12 @@
               Молодий римлянин
             </persName>
           </person>
-          <person xml:id="1-j_vartovij">
+          <person xml:id="vartovij_1-j">
             <persName>
               1-й вартовий
             </persName>
           </person>
-          <person xml:id="2-j_tabuljarij">
+          <person xml:id="tabuljarij_2-j">
             <persName>
               2-й табулярій
             </persName>
@@ -367,7 +362,7 @@
               Редівівус-Фавстін
             </persName>
           </person>
-          <person xml:id="1-j_didich">
+          <person xml:id="didich_1-j">
             <persName>
               1-й дідич
             </persName>
@@ -412,7 +407,7 @@
               Другий дідич
             </persName>
           </person>
-          <person xml:id="2-j_vidpuschenik">
+          <person xml:id="vidpuschenik_2-j">
             <persName>
               2-й відпущеник
             </persName>
@@ -477,7 +472,7 @@
               Тихший голос
             </persName>
           </person>
-          <person xml:id="3-j">
+          <person xml:id="tretіj">
             <persName>
               3-й
             </persName>
@@ -512,7 +507,7 @@
               Друга жінка
             </persName>
           </person>
-          <person xml:id="3-j_z_prohachiv">
+          <person xml:id="prohachiv_3-j_z">
             <persName>
               3-й з прохачів
             </persName>
@@ -527,7 +522,7 @@
               Стара жінка
             </persName>
           </person>
-          <person xml:id="2-j_z_gromadki">
+          <person xml:id="gromadki_2-j_z">
             <persName>
               2-й з громадки
             </persName>
@@ -622,7 +617,7 @@
               Сестра Ренати
             </persName>
           </person>
-          <person xml:id="1-j">
+          <person xml:id="peršij">
             <persName>
               1-й
             </persName>
@@ -702,7 +697,7 @@
               Дехто з новоприбулих
             </persName>
           </person>
-          <person xml:id="1-j_tabuljarij">
+          <person xml:id="tabuljarij_1-j">
             <persName>
               1-й табулярій
             </persName>
@@ -717,7 +712,7 @@
               Вояки і частина люду
             </persName>
           </person>
-          <person xml:id="1-j_z_prohachiv">
+          <person xml:id="prohachiv_1-j_z">
             <persName>
               1-й з прохачів
             </persName>
@@ -807,7 +802,7 @@
               Фортунат
             </persName>
           </person>
-          <person xml:id="2-j">
+          <person xml:id="drugij">
             <persName>
               2-й
             </persName>
@@ -8276,7 +8271,7 @@
           <stage>(По черзі кладе їм руки на голови і цілує всіх трьох, ті відходять потішені.)</stage>
         </sp>
         <stage>Двоє молодих християн наближаються до Руфіна і вклоняються.</stage>
-        <sp who="#1-j">
+        <sp who="#peršij">
           <speaker>1-й</speaker>
           <l>Благослови нас, брате преподобний!</l>
           <l>дай душам мир.</l>
@@ -8285,7 +8280,7 @@
           <speaker>Руфін</speaker>
           <l>Я сам його не маю.</l>
         </sp>
-        <sp who="#2-j">
+        <sp who="#drugij">
           <speaker>2-й</speaker>
           <l>То помолися богу вкупі з нами.</l>
         </sp>
@@ -8293,7 +8288,7 @@
           <speaker>Руфін</speaker>
           <l>Молитись я не можу.</l>
         </sp>
-        <sp who="#2-j">
+        <sp who="#drugij">
           <speaker>2-й</speaker>
           <l>Ми негідні?</l>
         </sp>
@@ -8756,7 +8751,7 @@
           <speaker>2-й з громадки</speaker>
           <l>Ми…</l>
         </sp>
-        <sp who="#3-j">
+        <sp who="#tretіj">
           <speaker>3-й</speaker>
           <stage>(сіпає його)</stage>
           <l>Мовчи!</l>
@@ -8833,7 +8828,7 @@
           <l>Я дозволяю і велю сказати,</l>
           <l>бо мушу знати всі недуги церкви.</l>
         </sp>
-        <sp who="#2-j">
+        <sp who="#drugij">
           <speaker>2-й</speaker>
           <l>Він каже, що не з божої встанови</l>
           <l>ти став єпископом. «Син князя лжі» –</l>
@@ -8847,7 +8842,7 @@
           <speaker>Єпископ</speaker>
           <l>І що ж?</l>
         </sp>
-        <sp who="#2-j">
+        <sp who="#drugij">
           <speaker>2-й</speaker>
           <l>Віддав пророчиці, а та ногами</l>
           <l>його стоптала й прокляла тебе.</l>

@@ -29,7 +29,7 @@
           <person xml:id="nadezhda_petrivna">
             <persName>Надежда Петрівна</persName>
           </person>
-          <person xml:id="1-sha_pannochka">
+          <person xml:id="pannochka_1-sha">
             <persName>1-ша панночка</persName>
           </person>
           <person xml:id="ostrozhin">
@@ -44,16 +44,16 @@
           <person xml:id="kritskij">
             <persName>Крицький</persName>
           </person>
-          <person xml:id="2-ga_pannochka">
+          <person xml:id="pannochka_2-ga">
             <persName>2-га панночка</persName>
           </person>
           <person xml:id="orest">
             <persName>Орест</persName>
           </person>
-          <person xml:id="2-ga_panna">
+          <person xml:id="panna_2-ga">
             <persName>2-га панна</persName>
           </person>
-          <person xml:id="1-sha_panna">
+          <person xml:id="panna_1-sha">
             <persName>1-ша панна</persName>
           </person>
           <person xml:id="olimpiada_ivanivna">

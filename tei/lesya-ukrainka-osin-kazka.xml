@@ -20,13 +20,13 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="3-j_robitnik">
+          <person xml:id="robitnik_3-j">
             <persName>3-й робітник</persName>
           </person>
-          <person xml:id="2-j_robitnik">
+          <person xml:id="robitnik_2-j">
             <persName>2-й робітник</persName>
           </person>
-          <person xml:id="4-j_majster">
+          <person xml:id="majster_4-j">
             <persName>4-й майстер</persName>
           </person>
           <person xml:id="budivnichij">
@@ -41,19 +41,19 @@
           <person xml:id="litsar">
             <persName>Лицар</persName>
           </person>
-          <person xml:id="1-j_majster">
+          <person xml:id="majster_1-j">
             <persName>1-й майстер</persName>
           </person>
           <person xml:id="shvachka">
             <persName>Швачка</persName>
           </person>
-          <person xml:id="5-j_robitnik">
+          <person xml:id="robitnik_5-j">
             <persName>5-й робітник</persName>
           </person>
           <person xml:id="molodij_hlopets">
             <persName>Молодий хлопець</persName>
           </person>
-          <person xml:id="1-j_robitnik">
+          <person xml:id="robitnik_1-j">
             <persName>1-й робітник</persName>
           </person>
           <person xml:id="printsesa">
@@ -65,7 +65,7 @@
           <person xml:id="pastuh">
             <persName>Пастух</persName>
           </person>
-          <person xml:id="3-j_majster">
+          <person xml:id="majster_3-j">
             <persName>3-й майстер</persName>
           </person>
           <person xml:id="zhinka">
@@ -74,13 +74,13 @@
           <person xml:id="golos">
             <persName>Голос</persName>
           </person>
-          <person xml:id="4-j_robitnik">
+          <person xml:id="robitnik_4-j">
             <persName>4-й робітник</persName>
           </person>
           <person xml:id="vsja_jurba">
             <persName>Вся юрба</persName>
           </person>
-          <person xml:id="2-j_majster">
+          <person xml:id="majster_2-j">
             <persName>2-й майстер</persName>
           </person>
           <person xml:id="skilka_golosiv">

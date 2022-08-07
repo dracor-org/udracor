@@ -22,7 +22,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="3-j_levit">
+          <person xml:id="levit_3-j">
             <persName>
               3-й левіт
             </persName>
@@ -32,7 +32,7 @@
               Старий чоловік
             </persName>
           </person>
-          <person xml:id="2-j_levit">
+          <person xml:id="levit_2-j">
             <persName>
               2-й левіт
             </persName>
@@ -92,7 +92,7 @@
               Другий левіт
             </persName>
           </person>
-          <person xml:id="2-j_prorok">
+          <person xml:id="prorok_2-j">
             <persName>
               2-й пророк
             </persName>
@@ -117,7 +117,7 @@
               Елеазар
             </persName>
           </person>
-          <person xml:id="1-j_prorok">
+          <person xml:id="prorok_1-j">
             <persName>
               1-й пророк
             </persName>
@@ -182,7 +182,7 @@
               Товаришка
             </persName>
           </person>
-          <person xml:id="1-j_levit">
+          <person xml:id="levit_1-j">
             <persName>
               1-й левіт
             </persName>
