@@ -1,4 +1,4 @@
-<TEI xml:lang="ukr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000019" xml:lang="ukr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -1746,7 +1746,6 @@
           <l>Але ж й зимі на світі є кінець.</l>
         </sp>
         <stage>Кінець, може, колись буде.</stage>
-        <p></p>
       </div>
     </body>
   </text>
