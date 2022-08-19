@@ -546,7 +546,7 @@
             <p>Як собі хочете, панове товариство, а я не можу; зберіть собі кого другого; я й так за дві
               зими прийняв муки.</p>
           </sp>
-          <sp who="#1-j_parubok">
+          <sp who="#parubok_1-j">
             <speaker>1-й парубок.</speaker>
             <p>Велика мука! Може, ти ремствуєш на кого з нас? Може, тебе хто зобидив, так скажи.</p>
           </sp>
@@ -555,7 +555,7 @@
             <stage>(підійшов до парубоцтва)</stage>
             <p>Добривечір вам, панове товариство!</p>
           </sp>
-          <sp who="#omelko #1-j_parubok #2-j_parubok #3-j_parubok #4-j_parubok #5-j_parubok #6-j_parubok #7-j_parubok">
+          <sp who="#omelko #parubok_1-j #parubok_2-j #parubok_3-j #parubok_4-j #parubok_5-j #parubok_6-j #parubok_7-j">
             <speaker>Усі.</speaker>
             <p>Семен!… На ж тобі!… Здоров! Чи давно прийшов? Як поживаєш?</p>
           </sp>
@@ -567,7 +567,7 @@
             <speaker>Іван.</speaker>
             <p>Що ж, обібрали березу?</p>
           </sp>
-          <sp who="#2-j_parubok">
+          <sp who="#parubok_2-j">
             <speaker>2-й парубок.</speaker>
             <p>Та он Омелько єрепениться! Іван. Я ж казав, що без мене ладу не буде! Хлопці, хто за
               Омелька, обізвись!</p>
@@ -658,29 +658,29 @@
             <p>І-і, лихо, не дадуть і поторгуватись. Ну, нехай стара в'язне! <stage>(Перейшов)</stage>
               .</p>
           </sp>
-          <sp who="#2-j_parubok">
+          <sp who="#parubok_2-j">
             <speaker>2-й парубок</speaker>
             <stage>(переходячи)</stage>
             <p>І я туди, де більш!</p>
           </sp>
-          <sp who="#3-j_parubok">
+          <sp who="#parubok_3-j">
             <speaker>3-й парубок</speaker>
             <stage>(теж)</stage>
             <p>У гурті й каша смачніш!</p>
           </sp>
-          <sp who="#4-j_parubok">
+          <sp who="#parubok_4-j">
             <speaker>4-й парубок.</speaker>
             <p>Куди кобила, туди й лоша!</p>
           </sp>
-          <sp who="#5-j_parubok">
+          <sp who="#parubok_5-j">
             <speaker>5-й парубок.</speaker>
             <p>Що громаді, те й бабі!</p>
           </sp>
-          <sp who="#6-j_parubok">
+          <sp who="#parubok_6-j">
             <speaker>6-й парубок.</speaker>
             <p>Гуртом і батька добре бить!</p>
           </sp>
-          <sp who="#7-j_parubok">
+          <sp who="#parubok_7-j">
             <speaker>7-й парубок.</speaker>
             <p>Слухайте, хлопці, я ще вам торік казав, щоб Соломію прогнати з нашої кумпанії, бо вона в
               городі зовсім ошаліла.</p>
@@ -689,12 +689,12 @@
             <speaker>Іван.</speaker>
             <p>Стало буть, перевчилась на один бік.</p>
           </sp>
-          <sp who="#7-j_parubok">
+          <sp who="#parubok_7-j">
             <speaker>7-й парубок.</speaker>
             <p>Іноді таке неподобне сплеще, що й парубкові соромно слухати, не те що дівці. Там як
               розпусте губу, так і не вговтаєш її!</p>
           </sp>
-          <sp who="#6-j_parubok">
+          <sp who="#parubok_6-j">
             <speaker>6-й парубок.</speaker>
             <p>Так, так, вона таки любить скороминку.</p>
           </sp>
@@ -702,7 +702,7 @@
             <speaker>Омелько.</speaker>
             <p>Та ну-бо, не перебивай!</p>
           </sp>
-          <sp who="#7-j_parubok">
+          <sp who="#parubok_7-j">
             <speaker>7-й парубок.</speaker>
             <p>Тепер же знов кажу вам, що як вона буде ходить на наші вечорниці, то я вам не товариш.
             </p>
@@ -715,7 +715,7 @@
             <speaker>Омелько.</speaker>
             <p>Мало б чого ти не схотів!</p>
           </sp>
-          <sp who="#7-j_parubok">
+          <sp who="#parubok_7-j">
             <speaker>7-й парубок.</speaker>
             <p>От спарувать би її з Микитою,— була б пара!</p>
           </sp>
@@ -723,7 +723,7 @@
             <speaker>Микита.</speaker>
             <p>А чому ж не з тобою?</p>
           </sp>
-          <sp who="#7-j_parubok">
+          <sp who="#parubok_7-j">
             <speaker>7-й парубок</speaker>
             <stage>(сміючись)</stage>
             <p>Бо ви обоє панського кодла: твій батько з лакизів, а її з поварів!…</p>
@@ -789,7 +789,7 @@
               матір, з дівчатами обіходитись з повагою; та не забувать, братця, що чесна дівчина — то є
               краса і честь усього села.</p>
           </sp>
-          <sp who="#1-j_parubok #2-j_parubok #3-j_parubok #4-j_parubok #5-j_parubok #6-j_parubok #7-j_parubok">
+          <sp who="#parubok_1-j #parubok_2-j #parubok_3-j #parubok_4-j #parubok_5-j #parubok_6-j #parubok_7-j">
             <speaker>Всі.</speaker>
             <p>Так! Так!</p>
           </sp>
@@ -807,7 +807,7 @@
                 <stage>(Кида у бриль Семенові срібні гроші)</stage>. А ти, Гнате, збігай за музиками та й
               дівчатам дай звістку.</p>
           </sp>
-          <sp who="#3-j_parubok">
+          <sp who="#parubok_3-j">
             <speaker>3-й парубок.</speaker>
             <p>Та це я знов за попихача?</p>
           </sp>
@@ -1627,7 +1627,7 @@
             <p>Дай же, боже, гуляти нам тихо, без сварки і без худого слова! <stage>(Одпив трохи, частує
                 Морозиху)</stage>.</p>
           </sp>
-          <sp who="#ivan #semen #1-j_parubok #2-j_parubok #3-j_parubok #4-j_parubok #5-j_parubok #6-j_parubok #7-j_parubok">
+          <sp who="#ivan #semen #parubok_1-j #parubok_2-j #parubok_3-j #parubok_4-j #parubok_5-j #parubok_6-j #parubok_7-j">
             <speaker>Усі.</speaker>
             <p>Дай, боже!</p>
           </sp>
@@ -2424,7 +2424,7 @@
         </div>
         <div type="scene">
           <head>Ява 5</head>
-          <sp who="#omelko #ivan #1-j_parubok #2-j_parubok #3-j_parubok #4-j_parubok #5-j_parubok #6-j_parubok #7-j_parubok">
+          <sp who="#omelko #ivan #parubok_1-j #parubok_2-j #parubok_3-j #parubok_4-j #parubok_5-j #parubok_6-j #parubok_7-j">
             <speaker>Омелько, Іван і парубки</speaker> <stage>(йдуть через кін з піснею).</stage> 
             <lg>
               <l>Гей, по синьому морю</l> 
@@ -2688,7 +2688,7 @@
         <div type="scene">
           <head>Ява 11</head>
           <stage>Ті ж, парубки, дівчата, музика, старости, Одарка, Маруся і народ.</stage>
-          <sp who="#odarka #marusja #skubko #kugut #1-j_parubok #2-j_parubok #3-j_parubok #4-j_parubok #5-j_parubok #6-j_parubok #7-j_parubok #divchata">
+          <sp who="#odarka #marusja #skubko #kugut #parubok_1-j #parubok_2-j #parubok_3-j #parubok_4-j #parubok_5-j #parubok_6-j #parubok_7-j #divchata">
             <speaker>Всі.</speaker>
             <p>А що тут таке?</p>
           </sp>
