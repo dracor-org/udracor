@@ -3102,10 +3102,10 @@
       <div type="act">
         <head>ДІЯ П'ЯТА</head>
         <stage>Через чотири роки після третьої дії.</stage>
-        <div type="change"> 
+        <div type="scene"> 
           <stage>Одміна перша</stage>
           <stage>Середина Семенової хати. Семен і Іван сидять край столу. Одарка порядкує біля печі.</stage>
-          <div type="scene">
+          <div type="subscene">
             <head>Ява 1</head>
             <stage>Іван, Семен і Одарка.</stage>
             <sp who="#ivan">
@@ -3201,7 +3201,7 @@
               <p>Чого не знаю, про те не охочий балакати…</p>
             </sp>
           </div>
-          <div type="scene">
+          <div type="subscene">
             <head>Ява 2</head>
             <stage>Ті ж, Микита і провідник; згодом деякі селяни.</stage>
             <sp who="#providnik">
@@ -3304,7 +3304,7 @@
                 голодний, валявся попід чужими дахами.</p>
             </sp>
           </div>
-          <div type="scene">
+          <div type="subscene">
             <head>Ява 3</head>
             <stage>Ті ж і Одарка.</stage>
             <sp who="#odarka">
@@ -3411,7 +3411,7 @@
             </sp>
             <stage>Завіса</stage>
           </div>
-          <div type='change'>
+          <div type='scene'>
             <head>Одміна друга</head>
             <stage>В тій же хаті. Микита лежить на печі, зодягнений в чисту сорочку; Семен спить біля
               столу, на лаві; Одарка на полу; Іван долі, біля печі, на соломі. Ніч. Хату деколи освічує
