@@ -51,16 +51,16 @@
           <person xml:id="angel" sex="MALE">
             <persName>Ангел</persName>
           </person>
-          <person xml:id="čort" sex="MALE">
+          <person xml:id="chort" sex="MALE">
             <persName>Чорт</persName>
           </person>
           <person xml:id="vakula" sex="MALE">
             <persName>Вакула</persName>
           </person>
-          <person xml:id="marisâ" sex="FEMALE">
+          <person xml:id="marysia" sex="FEMALE">
             <persName>Марися</persName>
           </person>
-          <person xml:id="orisâ" sex="FEMALE">
+          <person xml:id="orysia" sex="FEMALE">
             <persName>Орися</persName>
           </person>
           <person xml:id="pavlus" sex="MALE">
@@ -69,10 +69,10 @@
           <person xml:id="maksim" sex="MALE">
             <persName>Максим</persName>
           </person>
-          <person xml:id="čort" sex="MALE">
-            <persName>Чорт</persName>
+          <person xml:id="mihas" sex="MALE">
+            <persName>Михась</persName>
           </person>
-          <person xml:id="olûnâ" sex="FEMALE">
+          <person xml:id="oliunia" sex="FEMALE">
             <persName>Олюня</persName>
           </person>
         </listPerson>
@@ -97,10 +97,8 @@
         <castItem>Максим, їх батько.</castItem>
         <castItem>Михась, паничик, чепурний, гордий.</castItem>
         <castItem>Олюня, слушна дівчина (около 12 літ), з інтелігентної верстви.</castItem>
-      </castList>
-      <set>
-        <stage>Сцена представляє кімнату, святочно прибрану й освітлену. В глибині підвищення, на котрім стоїть золочений трон. По боках коло підвищення два стільці. Коли піднесеться заслона, сцена пуста, за сценою чути дзвінок. Входить св. Николай в звичайнім костюмі і ангел з великою книгою під пахвою.</stage>
-      </set>
+      </castList> 
+      <stage>Сцена представляє кімнату, святочно прибрану й освітлену. В глибині підвищення, на котрім стоїть золочений трон. По боках коло підвищення два стільці. Коли піднесеться заслона, сцена пуста, за сценою чути дзвінок. Входить св. Николай в звичайнім костюмі і ангел з великою книгою під пахвою.</stage>
       <sp who="#svnikolaj">
         <speaker>Св. Николай</speaker>
         <l>Ось нині власне рік минув,</l>
@@ -169,7 +167,7 @@
         <l>А ми се все розберемо</l>
         <l>І медяник найліпшому дамо.</l>
       </sp>
-      <sp who="#čort">
+      <sp who="#chort">
         <speaker>Чортик</speaker>
         <stage>(вбігає з лівого боку)</stage>
         <l>Ай вай, що я чую, отче Николаю!</l>
@@ -193,7 +191,7 @@
         <l>А чорт, що всьому злому голова є,</l>
         <l>Най їх оскаржує, як знає.</l>
       </sp>
-      <sp who="#čort">
+      <sp who="#chort">
         <speaker>Чорт</speaker>
         <stage>(чухається в потилицю)</stage>
         <l>Правду вам сказати, отче Николаю,</l>
@@ -210,7 +208,7 @@
         <stage>Марися входить.</stage>
         <l>Хто ти?</l>
       </sp>
-      <sp who="#marisâ">
+      <sp who="#marysia">
         <speaker>Марися</speaker>
         <l>Я дівчина Марися.</l>
       </sp>
@@ -218,7 +216,7 @@
         <speaker>Св. Николай</speaker>
         <l>Чим є твій татко?</l>
       </sp>
-      <sp who="#marisâ">
+      <sp who="#marysia">
         <speaker>Марися</speaker>
         <l>Я не маю татка.</l>
       </sp>
@@ -226,7 +224,7 @@
         <speaker>Св. Николай</speaker>
         <l>А де живеш?</l>
       </sp>
-      <sp who="#marisâ">
+      <sp who="#marysia">
         <speaker>Марися</speaker>
         <l>Ось тут десята хатка.</l>
         <l>Мамуня шиють, я ходжу до школи.</l>
@@ -235,7 +233,7 @@
         <speaker>Св. Николай</speaker>
         <l>А добре вчишся?</l>
       </sp>
-      <sp who="#marisâ">
+      <sp who="#marysia">
         <speaker>Марися</speaker>
         <l>Не зовсім. Ніколи</l>
         <l>Часу не маю вільного, бо є</l>
@@ -248,12 +246,12 @@
         <l>Скажи ж мені, Марисю мила,</l>
         <l>Ти в тім році доброго зробила?</l>
       </sp>
-      <sp who="#marisâ">
+      <sp who="#marysia">
         <speaker>Марися</speaker>
         <stage>(глядить на нього здивовано)</stage>
         <l>Я… я… нічого.</l>
       </sp>
-      <sp who="#čort">
+      <sp who="#chort">
         <speaker>Чортик</speaker>
         <l>Ну, а чого ж прийшла сюди, небого?</l>
         <l>Чого нам дармо забираєш час?</l>
@@ -271,7 +269,7 @@
         <l>Хоч маленьке тіло струджене послабне,</l>
         <l>То вона все тиха і охоту має.</l>
       </sp>
-      <sp who="#čort">
+      <sp who="#chort">
         <speaker>Чорт</speaker>
         <l>Чи в тім є заслуга, то й сама не знає.</l>
       </sp>
@@ -313,7 +311,7 @@
         <l>Я зробив і сміло</l>
         <l>Тут являюсь нині.</l>
       </sp>
-      <sp who="#čort">
+      <sp who="#chort">
         <speaker>Чорт</speaker>
         <l>Гарно, синку, гарно</l>
         <l>Ти зробив і слушно!</l>
@@ -364,7 +362,7 @@
         <speaker>Ангел</speaker>
         <l>Він не рветься к нагороді.</l>
       </sp>
-      <sp who="#čort">
+      <sp who="#chort">
         <speaker>Чорт</speaker>
         <l>Знає, що ні за що й брати.</l>
       </sp>
@@ -424,7 +422,7 @@
         <l>І заким я вспів озватись,</l>
         <l>Він драпнув – хтозна-куда.</l>
       </sp>
-      <sp who="#čort">
+      <sp who="#chort">
         <speaker>Чорт</speaker>
         <l>Дармо, діду, ти трудився!</l>
         <l>Гриць урвитель, пустошак</l>
@@ -441,7 +439,7 @@
         <l>Розростесь в огнище ясне,</l>
         <l>Станесь добрим, чесним він.</l>
       </sp>
-      <sp who="#čort">
+      <sp who="#chort">
         <speaker>Чорт</speaker>
         <l>Я би мусив буть не я,</l>
         <l>Сли б його не звів до зла.</l>
@@ -452,12 +450,12 @@
         <l>Чи ще хто на суд наш забагає стати?</l>
       </sp>
       <stage>Орися і Павлусь входять.</stage>
-      <sp who="orisâ">
+      <sp who="orysia">
         <speaker>Орися</speaker>
         <l>Наш татко вислав нас ось тут</l>
         <l>На суд святого Николая.</l>
       </sp>
-      <sp who="#čort">
+      <sp who="#chort">
         <speaker>Чорт</speaker>
         <l>Що ж принесли ви на той суд?</l>
       </sp>
@@ -472,7 +470,7 @@
         <speaker>Ангел</speaker>
         <l>А де ж вона?</l>
       </sp>
-      <sp who="orisâ">
+      <sp who="orysia">
         <speaker>Орися</speaker>
         <l>Ані крихітки</l>
         <l>Не хтіла йти сюди, та татко</l>
@@ -483,7 +481,7 @@
         <l>Кажіте ж гладко,</l>
         <l>Що там таке вона зробила?</l>
       </sp>
-      <sp who="orisâ">
+      <sp who="orysia">
         <speaker>Орися</speaker>
         <l>Ще як наша бідна мама проживала,</l>
         <l>Золота Олюня часто в нас бувала,</l>
@@ -525,7 +523,7 @@
         <l>Ось є наш рятунок – ся дівчина мила,</l>
         <l>Без неї б нас нині вже могила вкрила!</l>
       </sp>
-      <sp who="olûnâ">
+      <sp who="oliunia">
         <speaker>Олюня</speaker>
         <l>Ти мовчи, Максиме! Дякуй татка мого.</l>
         <l>Чи ж без нього вам я помогла би много?</l>
@@ -536,13 +534,13 @@
         <speaker>Ангел</speaker>
         <l>Але душу маєш ти любові повну.</l>
       </sp>
-      <sp who="olûnâ">
+      <sp who="oliunia">
         <speaker>Олюня</speaker>
         <l>Що ж, мені се чинить радість невимовну,</l>
         <l>Як лиш можу другим добре щось зробити,</l>
         <l>Особливо ж бідних, скорбних звеселити.</l>
       </sp>
-      <sp who="#čort">
+      <sp who="#chort">
         <speaker>Чорт</speaker>
         <l>Тут її заслуги я зовсім не бачу:</l>
         <l>Вже така вродилась, таку має вдачу.</l>
@@ -570,7 +568,7 @@
         <l>З любові, що пройма нутро,</l>
         <l>Так робить другому добро.</l>
       </sp>
-      <sp who="olûnâ">
+      <sp who="oliunia">
         <speaker>Олюня</speaker>
         <l>Отче Николаю! Вниз мене гне туга:</l>
         <l>Більша твоя ласка, ніж моя заслуга.</l>
