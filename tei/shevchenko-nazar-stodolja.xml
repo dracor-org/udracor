@@ -81,7 +81,7 @@
     </profileDesc>
   </teiHeader>
   <text>
-    <body level="0">
+    <front>
       <castList>
         <head>ДЕЙСТВУЮЩИЕ ЛИЦА</head>
         <castItem>Хома Кичатиб, сотник</castItem>
@@ -92,6 +92,8 @@
         <castItem>Хозяйка на вечерницах</castItem>
         <castItem>Слепой кобзарь, жиди-музыканты, молодые козаки и девушки и сваты от чигиринского полковника.</castItem>
       </castList>
+    </front>
+    <body level="0">
       <stage>Действие происходнт в XVII столетии, близ Чигирина , в козацкой слободе, в ночь на рождество христово.</stage>
       <div type="act">
         <head>АКТ ПЕРВЫЙ</head>
