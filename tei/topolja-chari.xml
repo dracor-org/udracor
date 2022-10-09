@@ -21,6 +21,18 @@
           </licence>
         </availability>
       </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>«Ізборник» — Історія України IX-XVIII ст. Першоджерела та інтерпретації</name>
+          <idno type="URL">http://litopys.org.ua/dramukr/dram06.htm</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>Українська драматургія першої половини XIX ст.: Маловідомі п’єси. — К., 1958. — С. 175-265.</title>
+          </bibl>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <particDesc>

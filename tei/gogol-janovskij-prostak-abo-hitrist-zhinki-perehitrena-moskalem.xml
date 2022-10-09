@@ -21,6 +21,18 @@
           </licence>
         </availability>
       </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>«Ізборник» — Історія України IX-XVIII ст. Першоджерела та інтерпретації</name>
+          <idno type="URL">http://litopys.org.ua/rizne/prostak2.htm</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>В. А. Гоголь. Простак, или хитрость женщины, перехитренная солдатом // Основа. — 1862. — № 2. — С. 19-43.</title>
+          </bibl>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <particDesc>

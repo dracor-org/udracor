@@ -22,6 +22,15 @@
           </licence>
         </availability>
       </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Бібліотека української літератури УкрЛіб</name>
+          <idno type="URL">https://www.ukrlib.com.ua/books/printitzip.php?tid=1020</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <particDesc>
