@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Айша та Мохаммед</title>
+        <title type="sub">Діалог</title>
         <author>
           <persName>
             <forename>Леся</forename>
@@ -11,6 +12,16 @@
           <idno type="wikidata">Q298033</idno>
         </author>
       </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <idno type="URL">
@@ -39,10 +50,6 @@
   <text>
     <body>
       <div type="act">
-        Айша та Мохаммед
-        <head>
-          Діалог
-        </head>
         <stage>Садок в Мохаммедовім гаремі. Айша в малій виноградній альтанці сидить і їсть солодощі, ліниво одкинувшись на низенькому ослоні, вкритому великим килимом. Мохаммед приходить і мовчки сідає біля її ніг на край килима.</stage>
         <sp who="#ajsha">
           <speaker>Айша</speaker>
