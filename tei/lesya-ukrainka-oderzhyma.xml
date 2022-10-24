@@ -12,6 +12,16 @@
           <idno type="wikidata">Q298033</idno>
         </author>
       </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/Oderzhyma.html</idno>
@@ -51,10 +61,6 @@
     </profileDesc>
   </teiHeader>
   <text>
-    <front>
-      <title>Одержима</title>
-      <title type="sub">Драматична поема</title>
-    </front>
     <body>
       <div type="act">
         <head>1</head>
@@ -1141,9 +1147,8 @@
           <l>не за небесне царство… ні… з любові!</l>
           <stage>(Падає під градом каміння.)</stage>
         </sp>
+        <p>[18.01.1901]</p>
       </div>
-
-      <p>[18.01.1901]</p>
     </body>
   </text>
 </TEI>
