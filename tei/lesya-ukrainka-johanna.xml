@@ -11,6 +11,16 @@
           <idno type="wikidata">Q298033</idno>
         </author>
       </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/Johanna.html</idno>
@@ -59,7 +69,9 @@
   </teiHeader>
   <text>
     <body>
-      <div type="act">1<sp who="#husa">
+      <div type="act">
+        <head>1</head>
+        <sp who="#husa">
           <speaker>Хуса</speaker>
           <stage>(чоловік середнього віку, дуже чорнявий, кучерявий, кремезний, вираз обличчя у нього не
             лихий, але владний; увіходить заклопотаний і плеще кілька раз у долоні)</stage>
@@ -202,7 +214,9 @@
           світлиці нерівним кроком, посіпуючи випещену бороду і відпихаючи ногою стільці тощо, коли
           трапляються йому на дорозі.</stage>
       </div>
-      <div type="act">2<stage>Незабаром увіходить Мелхола, дуже стара жінка; її ведуть попід руки
+      <div type="act">
+        <head>2</head>
+        <stage>Незабаром увіходить Мелхола, дуже стара жінка; її ведуть попід руки
           дві рабині.</stage>
         <sp who="#melhola">
           <speaker>Мелхола</speaker>
@@ -496,7 +510,9 @@
           <stage>(Виходить з рабинями.)</stage>
         </sp>
       </div>
-      <div type="act">3<sp who="#husa">
+      <div type="act">
+        <head>3</head>
+        <sp who="#husa">
           <speaker>Хуса</speaker>
           <l>От, кара божа з нею!</l>
           <stage>(Плеще в долоні.)</stage>
@@ -796,7 +812,9 @@
         </sp>
         <stage>Раб і Сабіна виходять.</stage>
       </div>
-      <div type="act">4<stage>Увіходить Йоганна, ще молода жінка, з слідами неабиякої вроди, але
+      <div type="act">
+        <head>4</head>
+        <stage>Увіходить Йоганна, ще молода жінка, з слідами неабиякої вроди, але
           дочасно змарніла; убрана вбого, буйні коси, мідяного кольору з золотистими полисками, прикриті
           простим сільським покривалом. Вона спиняється у порога.</stage>
         <sp who="#husa">
@@ -1178,7 +1196,9 @@
         <stage>Увіходить раб.</stage>
         <l>Поклич Сабіну!</l>
       </div>
-      <div type="act">5<stage>Ледве раб виходить за двері, Сабіна з’являється.</stage>
+      <div type="act">
+        <head>5</head>
+        <stage>Ледве раб виходить за двері, Сабіна з’являється.</stage>
         <sp who="#husa">
           <speaker>Хуса</speaker>
           <stage>(до неї)</stage>
@@ -1374,7 +1394,9 @@
         </sp>
         <stage>Йоганна виходить, за нею Сабіна з одежею.</stage>
       </div>
-      <div type="act">6<sp who="#rab">
+      <div type="act">
+        <head>6</head>
+        <sp who="#rab">
           <speaker>Раб</speaker>
           <stage>(з’являється на порозі)</stage>
           <l>Прибув високородний Публій в гості!</l>
@@ -1674,7 +1696,9 @@
           «Біжи до пані, – хай там поспішиться!»</stage>
         <stage>Раб швидко подається.</stage>
       </div>
-      <div type="act">7<stage>Який час нема нікого, згодом увіходять Публій і Марція поруч, за ними
+      <div type="act">
+        <head>7</head>
+        <stage>Який час нема нікого, згодом увіходять Публій і Марція поруч, за ними
           Хуса. Марція немолода вже пані, обличчя суворого римського типу, рухи повільні, поводіння
           гордовите; одежа на їй уложена дуже майстерно; довга, дрібно-зафалдована стола, темна, шовкова,
           з довгими рукавами, з вузенькою, але чудово гаптованою лиштвою, тягнеться ззаду по землі на
@@ -2027,7 +2051,9 @@
         <stage>Марція з Публієм виходять у садок, Хуса відстає від них. Чутно знадвору голос Марції:
           «Глянь, Публію, там озеро! Як гарно!»</stage>
       </div>
-      <div type="act">8<sp who="#husa">
+      <div type="act">
+        <head>8</head>
+        <sp who="#husa">
           <speaker>Хуса</speaker>
           <stage>(шпарким, приглушеним голосом до Йоганни)</stage>
           <l>Я мало не забув тобі сказати…</l>
