@@ -39,9 +39,6 @@
           <person xml:id="uchenik">
             <persName>Ученик</persName>
           </person>
-          <person xml:id="vsi_tri">
-            <persName>Всі три</persName>
-          </person>
           <person xml:id="organist">
             <persName>Органіст</persName>
           </person>
@@ -57,7 +54,7 @@
           <person xml:id="dzhon_mils">
             <persName>Джон Мільс</persName>
           </person>
-          <person xml:id="kaleb_peddinton">
+          <person xml:id="kaleb">
             <persName>Калеб Педдінтон</persName>
           </person>
           <person xml:id="brukli">
@@ -69,11 +66,8 @@
           <person xml:id="kristabel">
             <persName>Крістабель</persName>
           </person>
-          <person xml:id="dzhenni_kembl">
+          <person xml:id="dzhenni">
             <persName>Дженні Кембль</persName>
-          </person>
-          <person xml:id="kaleb">
-            <persName>Калеб</persName>
           </person>
           <person xml:id="mak_gardi">
             <persName>Мак Гарді</persName>
@@ -84,9 +78,6 @@
           <person xml:id="edita">
             <persName>Едіта</persName>
           </person>
-          <person xml:id="dzhenni">
-            <persName>Дженні</persName>
-          </person>
           <person xml:id="zhinka">
             <persName>Жінка</persName>
           </person>
@@ -96,12 +87,9 @@
           <person xml:id="golos">
             <persName>Голос</persName>
           </person>
-          <person xml:id="edita_i_kristabel">
-            <persName>Едіта і Крістабель</persName>
-          </person>
-          <person xml:id="godvinson_i_gromada">
-            <persName>Годвінсон і громада</persName>
-          </person>
+          <personGrp xml:id="gromada">
+            <name>Громада</name>
+          </personGrp>
           <person xml:id="magister">
             <persName>Магістер</persName>
           </person>
@@ -125,7 +113,32 @@
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <castList>
+        <castItem>Річард Айрон – скульптор.</castItem>
+        <castItem>Едіта – його стара мати.</castItem>
+        <castItem>Крістабель – його сестра, вдовиця.</castItem>
+        <castItem>Деві – син Крістабелі, підліток.</castItem>
+        <castItem>Джонатан – скульптор, товариш Річарда.</castItem>
+        <castItem>Джошуе Кембль – старий приятель родини Айронів.</castItem>
+        <castItem>Джоанна (Дженні) – його дочка, молода дівчина.</castItem>
+        <castItem>Ріверсова жінка.</castItem>
+        <castItem>Годвінсон – учитель і проповідник.</castItem>
+        <castItem>Калеб Педдінтон – найстарший літами громадянин в колонії.</castItem>
+        <castItem>Джірімая Ортвін, Джон Мільс, Метью Фільдінг, Абрагам Сміт – найповажніші громадяни в колонії в країні Масачузеті.</castItem>
+        <castItem>Магістер – учитель лічби в Род-Айленді.</castItem>
+        <castItem>Брайд – органіста й учитель співу там же.</castItem>
+        <castItem>Бруклі – швачка.</castItem>
+        <castItem>Чарлі – ученик Річарда.</castItem>
+        <castItem>Другий ученик.</castItem>
+        <castItem>Мак Гарді, Джонс, О’Патрік – громадяни в Род-Айленді.</castItem>
+        <castItem>Мессер Антоніо – торговий посол з Венеції.</castItem>
+        <castItem>Індіанка – дикарка, молода дівчина.</castItem>
+        <castItem>Громадяни в Масачузеті, школярі в Род-Айленді.</castItem>        
+      </castList>
+    </front>
     <body>
+      <stage>Діється в XVII ст. в Північній Америці; перші два акти в невеличкій колонії в Масачузеті, останній – в Род-Айленді.</stage>
       <div type="act">
         <head>1</head>
         <stage>Хата, грубо збита з колод; великий коминок, на ньому бюст, статуетки і
@@ -657,7 +670,7 @@
           <l>Ти думаєш, за правду не карають?</l>
         </sp>
         <stage>Деві з фігуркою в руках мовчки задумався.</stage>
-        <sp who="#dzhenni_kembl">
+        <sp who="#dzhenni">
           <speaker>Дженні Кембль</speaker>
           <stage>(молоденька дівчина в дуже простому вбранні. Ввіходить і спиняється на порозі)</stage>
           <l>Ах, вибачайте! Ви самі?..</l>
@@ -1489,7 +1502,8 @@
           <l>Еге-ге-ге-ге! Се що таке, Джоанне?</l>
         </sp> 
         <sp who="#dzhenni">
-          <speaker>Дженні</speaker> <stage>(знищена)</stage> <l>Я, таточку, не знаю.</l>
+          <speaker>Дженні</speaker> <stage>(знищена)</stage> 
+          <l>Я, таточку, не знаю.</l>
         </sp> 
         <sp who="#kembl">
           <speaker>Кембль</speaker> <stage>(суворо)</stage> 
@@ -3116,7 +3130,7 @@
         </sp>
         <stage>Старі сідають вряд по лавах позастіллю. Едіта стає осторонь. Джонатан сідає на окремому
           ослоні ближче до Річарда.</stage>
-        <sp who="#kaleb_peddinton">
+        <sp who="#kaleb">
           <speaker>Калеб Педдінтон</speaker>
           <stage>(до Річарда)</stage>
           <l>Сину,</l>
@@ -4254,7 +4268,7 @@
           <l>Я, мамо, тут, з тобою!</l>
         </sp>
         <stage>Крістабель поривчасто тулить до себе Деві. Річард пробився до порога і одчинив двері.</stage>
-        <sp who="#godvinson_i_gromada">
+        <sp who="#godvinson #gromada">
           <speaker>Годвінсон і громада</speaker>
           <stage>(услід Річардові)</stage>
           <l>Будь проклятий!</l>
@@ -4535,7 +4549,7 @@
         </sp>
         <stage>Бруклі, збентежена, бере гроші, вклоняється, присідаючи, і виходить, зоставивши двері
           непричинені. Ледве вона вийшла, увіходять троє колоністів: Джонс, О’Патрік і Мак Гарді.</stage>
-        <sp who="#vsi_tri">
+        <sp who="#dzhons #opatrik #mak_gardi">
           <speaker>Всі три</speaker>
           <l>Добривечір!</l>
         </sp>
