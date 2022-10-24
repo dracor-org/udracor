@@ -3,6 +3,7 @@
     <fileDesc>
       <titleStmt>
         <title type="main">У полоні</title>
+        <title type="sub">Драматична поема</title>
         <author>
           <persName>
             <forename>Леся</forename>
@@ -11,6 +12,16 @@
           <idno type="wikidata">Q298033</idno>
         </author>
       </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <idno type="URL">
@@ -194,10 +205,6 @@
   <text>
     <body>
       <div type="act">
-        У полоні
-        <head>
-          Драматична поема
-        </head>
         <stage>Розлога рівнина. Червоний захід зміняє в кров широкі води Тігру та Євфрату, що зливаються докупи. По всій рівнині розкидані намети бранців. Голі діти шукають скойок в ріні та сухого баговиння на паливо. Обшарпані, змучені, здебільшого старі жінки лагодять вечерю – кожна при своїм багатті – для чоловіків, що по тяжкій роботі прийшли з міста і посідали мовчки під вербами, над водою. Трохи осторонь, теж під вербами, стоять два гурти: левіти й пророки. Над пророками, на вербах, висять арфи, і гойдаються, і часом бринять від поривів вечірнього вітру. Здалека видко вавілонські мури і вежі, часом доноситься міський гамір.</stage>
         <sp who="#zhinka">
           <speaker>Жінка</speaker>
