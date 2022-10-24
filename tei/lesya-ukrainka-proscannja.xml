@@ -11,6 +11,16 @@
           <idno type="wikidata">Q298033</idno>
         </author>
       </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <idno type="URL">
@@ -39,7 +49,6 @@
   <text>
     <body>
       <div type="act">
-        Прощання
         <stage>В хаті молодого хлопця. Дівчина в гостях, його мила, не коханка, не заручена, – мила.</stage>
         <stage>На столі великий, портрет, прикрашений квітками, портрет гарної молодої дівчини, не тої, що в гостях. Ніжна сцена.</stage>
         <sp who="#hlopets">

@@ -11,6 +11,16 @@
           <idno type="wikidata">Q298033</idno>
         </author>
       </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
           <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/Orgija.html</idno>
@@ -71,7 +81,9 @@
   </teiHeader>
   <text>
     <body>
-      <div type="act">1<stage>Садок в оселі співця-поета Антея, невеличкий, оточений глухими мурами,
+      <div type="act">
+        <head>1</head>
+        <stage>Садок в оселі співця-поета Антея, невеличкий, оточений глухими мурами,
           з хвірткою в одній стіні; в глибині садка домок повіткою на чотирьох стовпах і з двома дверима
           – одні в андроніт, другі – в гінекей.</stage>
         <stage>Герміона, стара мати Антеєва, сидить на порозі гінекея і пряде вовну. Чутно стук у
@@ -1799,8 +1811,9 @@
           <l>Невже се правда?!</l>
         </sp>
       </div>
-      <div type="act">2<div type="scene">
-          <head>1 | 2 | 3 | 4</head>
+      <div type="act">
+        <head>2</head>
+        <div type="scene">
           <stage>В господі Мецената, нащадка того славутнього Мецената, що жив за Августа. Велика,
             пишна, прибрана як для оргії світлиця, аркою переділена на дві нерівні частини: у першій,
             меншій (на передньому плані), поставлено триклініум для господаря Мецената і двох
