@@ -38,45 +38,6 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="lizka">
-            <persName>Лизька</persName>
-          </person>
-          <personGrp xml:id="žìnki">
-            <name>жінки</name>
-          </personGrp>
-          <person xml:id="zlij_golos">
-            <persName>Злий голос</persName>
-          </person>
-          <personGrp xml:id="ŝe_golosi">
-            <name>Ще голоси</name>
-          </personGrp>
-          <person xml:id="dìd_z_cìpkom">
-            <persName>Дід з ціпком</persName>
-          </person>
-          <person xml:id="htos_ìz_lûdej">
-            <persName>Хтось із людей</persName>
-          </person>
-          <person xml:id="orina">
-            <persName>Орина</persName>
-          </person>
-          <person xml:id="dìd_ûhim">
-            <persName>Дід Юхим</persName>
-          </person>
-          <person xml:id="perša_act_1_scene_2">
-            <persName>Перша</persName>
-          </person>
-          <person xml:id="perša_act_2_scene_8">
-            <persName>Перша</persName>
-          </person>
-          <person xml:id="druga_act_2_scene_8">
-            <persName>Друга</persName>
-          </person>
-          <person xml:id="druga_act_1_scene_2">
-            <persName>Друга</persName>
-          </person>
-          <personGrp xml:id="golosi">
-            <name>Голоси</name>
-          </personGrp>
           <person xml:id="larivon">
             <persName>Ларивон</persName>
           </person>
@@ -92,6 +53,42 @@
           <person xml:id="paraska">
             <persName>Параска</persName>
           </person>
+          <person xml:id="orina">
+            <persName>Орина</persName>
+          </person>
+          <person xml:id="dìd_ûhim">
+            <persName>Дід Юхим</persName>
+          </person>
+          <personGrp xml:id="žìnki">
+            <name>Жінки</name>
+          </personGrp>
+          <person xml:id="zlij_golos">
+            <persName>Злий голос</persName>
+          </person>
+          <personGrp xml:id="ŝe_golosi">
+            <name>Ще голоси</name>
+          </personGrp>
+          <person xml:id="dìd_z_cìpkom">
+            <persName>Дід з ціпком</persName>
+          </person>
+          <person xml:id="htos_ìz_lûdej">
+            <persName>Хтось із людей</persName>
+          </person>
+          <person xml:id="perša_act_1_scene_2">
+            <persName>Перша</persName>
+          </person>
+          <person xml:id="perša_act_2_scene_8">
+            <persName>Перша</persName>
+          </person>
+          <person xml:id="druga_act_2_scene_8">
+            <persName>Друга</persName>
+          </person>
+          <person xml:id="druga_act_1_scene_2">
+            <persName>Друга</persName>
+          </person>
+          <personGrp xml:id="golosi_act_3_scene_7">
+            <name>Голоси</name>
+          </personGrp>
           <person xml:id="drugij_act_3_scene_7">
             <persName>Другий</persName>
           </person>
@@ -106,6 +103,15 @@
           </person>
           <person xml:id="girâ">
             <persName>Гиря</persName>
+          </person>
+          <person xml:id="panko">
+            <persName>Панько</persName>
+          </person>
+          <person xml:id="ganna">
+            <persName>Ганна</persName>
+          </person>
+          <person xml:id="smik">
+            <persName>Смик</persName>
           </person>
           <personGrp xml:id="černicì">
             <name>Черниці</name>
@@ -145,22 +151,12 @@
           <person xml:id="tretìj_act_4_scene_6">
             <persName>Третій</persName>
           </person>
-          <person xml:id="panko">
-            <persName>Панько</persName>
-          </person>
           <personGrp xml:id="dva_golosi">
             <name>Два голоси</name>
           </personGrp>
           <person xml:id="dikij_golos">
             <persName>Дикий голос</persName>
           </person>
-          <person xml:id="ganna">
-            <persName>Ганна</persName>
-          </person>
-          <person xml:id="smik">
-            <persName>Смик</persName>
-          </person>
-          
         </listPerson>
       </particDesc>
     </profileDesc>
@@ -1641,10 +1637,10 @@
             <p>А ти ж думав як? Я хочу, щоб нас повінчали... Я хочу, щоб ти був моїм, нашим, а не совєцьким...</p>
           </sp>
           <stage><name>Панько</name> в і згадалося:</stage>
-          <sp who="#lizâ">
+          <sp who="#panko">
             <p>— Ще як у повстанцях був, то волочив патлатих... Ех, і йтересно тоді було, да!.. Трощили ми буржуїв, як хотіли... Керенок було за поясом... <stage>(Зарипіли чобітки. Завихрився чубок над лобом).</stage> Раз в одного попа ночували... От де сміху було, як на приставленії! Попаді наказали грамофона крутити, а попові гопака танцювати. Ха-ха-ха... Якби ти, Лизько, бачила, як він у рясі...</p>
           </sp>
-          <sp who="#lizka">
+          <sp who="#lizâ">
             <speaker>Лизька</speaker>
             <stage>(на його морозом війнула).</stage>
             <p>Не люблю я таких балачок!.. Перестань!</p>
