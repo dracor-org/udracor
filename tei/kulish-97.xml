@@ -167,15 +167,21 @@
         <head>ДІЙОВІ ЛЮДИ</head>
         <castItem>Смик Сергій — голова сільради</castItem>
         <castItem>Панько — секретар</castItem>
-        <castItem>Копистка Мусій</castItem>
-        <castItem>Параска — його жінка</castItem>
-        <castItem>Стоножка Іван незаможні</castItem>
-        <castItem>Ганна — його жінка</castItem>
-        <castItem>Вася — його син</castItem>
+        <castGroup>
+          <castItem>Копистка Мусій</castItem>
+          <castItem>Параска — його жінка</castItem>
+          <castItem>Стоножка Іван</castItem>
+          <castItem>Ганна — його жінка</castItem>
+          <castItem>Вася — його син</castItem>
+          <roleDesc>незаможні</roleDesc>
+        </castGroup>
         <castItem>Дід Юхим — 105 років</castItem>
-        <castItem>Гиря Гнат</castItem>
-        <castItem>Лизя — його дочка багатії</castItem>
-        <castItem>Годований</castItem>
+        <castGroup>
+          <castItem>Гиря Гнат</castItem>
+          <castItem>Лизя — його дочка</castItem>
+          <castItem>Годований</castItem>
+          <roleDesc>багатії</roleDesc>
+        </castGroup>
         <castItem>Дід з ціпком</castItem>
         <castItem>Черниці з монастиря</castItem>
         <castItem>Ларивон — глухонімий, Гирин наймит і сторож при церкві</castItem>
