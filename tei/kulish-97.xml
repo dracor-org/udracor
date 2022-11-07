@@ -1,0 +1,4177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u0000026" xml:lang="ukr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">97</title>
+        <title type="sub">П’єса на чотири дії</title>
+        <author>
+          <persName>
+            <forename>Микола</forename>
+            <surname>Куліш</surname>
+          </persName>
+          <idno type="wikidata">Q933749</idno>
+         </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <name>Бібліотека української літератури УкрЛіб</name>
+          <idno type="URL">https://www.ukrlib.com.ua/books/printitzip.php?tid=1086</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+        </bibl>
+        <bibl type="originalSource">
+          <title>Куліш М. ”97”: [п’єса] / Микола Куліш. – [Вид. 5-те]. – Харків; Київ: Лім, 1934. – 112 с.</title>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="laryvon">
+            <persName>Ларивон</persName>
+          </person>
+          <person xml:id="kopystka">
+            <persName>Копистка</persName>
+          </person>
+          <person xml:id="hodovanyj">
+            <persName>Годований</persName>
+          </person>
+          <person xml:id="stonozhka">
+            <persName>Стоножка</persName>
+          </person>
+          <person xml:id="paraska">
+            <persName>Параска</persName>
+          </person>
+          <person xml:id="oryna">
+            <persName>Орина</persName>
+          </person>
+          <person xml:id="did_jukhym">
+            <persName>Дід Юхим</persName>
+          </person>
+          <personGrp xml:id="zhinky">
+            <name>Жінки</name>
+          </personGrp>
+          <person xml:id="zlyj_holos">
+            <persName>Злий голос</persName>
+          </person>
+          <personGrp xml:id="shche_holosy">
+            <name>Ще голоси</name>
+          </personGrp>
+          <person xml:id="did_z_tsipkom">
+            <persName>Дід з ціпком</persName>
+          </person>
+          <person xml:id="khtos_iz_ljudej">
+            <persName>Хтось із людей</persName>
+          </person>
+          <person xml:id="persha_act_1_scene_2">
+            <persName>Перша</persName>
+          </person>
+          <person xml:id="persha_act_2_scene_8">
+            <persName>Перша</persName>
+          </person>
+          <person xml:id="druha_act_2_scene_8">
+            <persName>Друга</persName>
+          </person>
+          <person xml:id="druha_act_1_scene_2">
+            <persName>Друга</persName>
+          </person>
+          <personGrp xml:id="holosy_act_3_scene_7">
+            <name>Голоси</name>
+          </personGrp>
+          <person xml:id="druhyj_act_3_scene_7">
+            <persName>Другий</persName>
+          </person>
+          <person xml:id="druhyj_act_4_scene_5">
+            <persName>Другий</persName>
+          </person>
+          <person xml:id="druhyj_act_4_scene_6">
+            <persName>Другий</persName>
+          </person>
+          <person xml:id="vasja">
+            <persName>Вася</persName>
+          </person>
+          <person xml:id="hyrja">
+            <persName>Гиря</persName>
+          </person>
+          <person xml:id="panko">
+            <persName>Панько</persName>
+          </person>
+          <person xml:id="hanna">
+            <persName>Ганна</persName>
+          </person>
+          <person xml:id="smyk">
+            <persName>Смик</persName>
+          </person>
+          <personGrp xml:id="chernytsi">
+            <name>Черниці</name>
+          </personGrp>
+          <personGrp xml:id="cholovyky">
+            <name>Чоловики</name>
+          </personGrp>
+          <personGrp xml:id="z_natovpu_holosy">
+            <persName>З натовпу голоси:</persName>
+          </personGrp>
+          <person xml:id="holos_act_4_scene_4">
+            <persName>Голос</persName>
+          </person>
+          <person xml:id="holos_act_3_scene_7">
+            <persName>Голос</persName>
+          </person>
+          <person xml:id="lyzja">
+            <persName>Лизя</persName>
+          </person>
+          <personGrp xml:id="crowd">
+            <name>Юрба</name>
+            <name>Гомін</name>
+            <name>В юрбі</name>
+          </personGrp>
+          <person xml:id="htos_act_2_scene_1">
+            <persName>Хтось</persName>
+          </person>
+          <person xml:id="htos_act_4_scene_5">
+            <persName>Хтось</persName>
+          </person>
+          <person xml:id="htos_act_4_scene_6">
+            <persName>Хтось</persName>
+          </person>
+          <person xml:id="tretij_act_4_scene_5">
+            <persName>Третій</persName>
+          </person>
+          <person xml:id="tretij_act_4_scene_6">
+            <persName>Третій</persName>
+          </person>
+          <personGrp xml:id="dva_holosy">
+            <name>Два голоси</name>
+          </personGrp>
+          <person xml:id="dykyj_holos">
+            <persName>Дикий голос</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <castList>
+        <head>ДІЙОВІ ЛЮДИ</head>
+        <castItem>Смик Сергій — голова сільради</castItem>
+        <castItem>Панько — секретар</castItem>
+        <castGroup>
+          <castItem>Копистка Мусій</castItem>
+          <castItem>Параска — його жінка</castItem>
+          <castItem>Стоножка Іван</castItem>
+          <castItem>Ганна — його жінка</castItem>
+          <castItem>Вася — його син</castItem>
+          <roleDesc>незаможні</roleDesc>
+        </castGroup>
+        <castItem>Дід Юхим — 105 років</castItem>
+        <castGroup>
+          <castItem>Гиря Гнат</castItem>
+          <castItem>Лизя — його дочка</castItem>
+          <castItem>Годований</castItem>
+          <roleDesc>багатії</roleDesc>
+        </castGroup>
+        <castItem>Дід з ціпком</castItem>
+        <castItem>Черниці з монастиря</castItem>
+        <castItem>Ларивон — глухонімий, Гирин наймит і сторож при церкві</castItem>
+        <castItem>Орина — старчиха</castItem>
+        <castItem></castItem>
+      </castList>
+      <div type="act">
+        <head>ДІЯ ПЕРША</head>
+        <div type="scene">
+          <head>1</head>
+          <stage>Запалила Ганна у печі. Стала, схилилась на комин, сумує:</stage>
+          <sp who="#hanna">
+            <p>— Отакого наробили, що й варити нічого. Слобода!..</p>
+          </sp>
+          <stage>А на лаві край віконця син Вася вчив грамоти сусіду Мусія Копистку.</stage>
+          <sp who="#vasja">
+            <p>— Ти не так, дядю Мусію, не так. Не о-си-а, а о-с-а, оса... Протягом треба — ооссаа...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Оооссиа...</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Та киньте своє читання! В печінках уже сидить. Чуєте, чи вже позакладало?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Тр-р, мамашо!..</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Люди сміються...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Бо дурні.</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Годі, розумний!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>І ти, мамашо, дурна.</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Наробили слободи...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Дурна, як отой рогач... Ти чула, що казав Ленін? Тоді світ новий настане, як ми з тобою рихметики вивчимось...</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Хай вона тобі сказиться!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Рихметики й усякої політики вивчимось. а тоді зладнаємо тобі таку піч, що сама варитиме, сама й пектиме...</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Варнякай...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>От тоді побачиш! Покрутиш гвинта, а воно... ш-ш-ш! — борщ закипів, іще покрутиш — трах-тара-рах! — борщ на столі...</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Варити он нічого! Голод заходить! <stage>(До сина).</stage> Кинь, бо'гже, їй-бо, попалю всі твої книжки!</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Мамо! Ми люди темні, а я не хочу бути темним. Я не можу так... Тепер революція, і вчитися треба всім, всім...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>І тобі, мамашо!</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>І вам, мамо, вчитися треба, а не гарчати на мене раз у раз.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(аж плеснув у долоні).</stage>
+            <p>Трах-тара-рах, резолюцію прийнято!</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Ой лишечко! Так от що слобода наробила! Вже я гарчу, вже я собака...</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Та не собака, мамо!..</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>А все через книжки оці, через книжки!.. <stage>(Кинулась до книжок).</stage></p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Тр-р! <stage>(Заступив їй дорогу).</stage></p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Втечу до Червоної Армії. Там лучче буде...</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Тю на тебе!.. Дурний... Я ж тобі добра бажаю, як рідная неня, а ти... <stage>(Одійшла).</stage></p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Їй-бо, втечу!</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Схаменись!.. Та хіба оті книжки мені вадять! Тобі, Васю!.. Подивись, як ти змарнів, Васю!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ну тебе к лихій матері, мамашо, — не заважай нам! Учи, Васько, та вчи уголос, щоб і вона чула, і всі щоб чули!.. Хай сміються! Осиа!..</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>2</head>
+          <stage>Рип у хату — дві черниці.</stage>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(аж тюкнув).</stage>
+            <p>Тю! Диви — темна сила прилізла.</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна</speaker>
+            <stage>(на Копистку).</stage>
+            <p>Тю на тебе! Здурів?</p>
+          </sp>
+          <stage>Черниці мов не чули, низенько вклонились, перехрестились. Одна загугнявила:</stage>
+          <sp who="#persha_act_1_scene_2">
+            <p>— Жертвуйте, православні, на построєнія божої церкви, якщо ласка ваша...</p>
+          </sp>
+          <sp who="#druha_act_1_scene_2">
+            <speaker>Друга</speaker>
+            <stage>(приспівувала).</stage>
+            <p>І не оставить вас господь та пресвята богородиця за жертву вашу.</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна</speaker>
+            <stage>(зашарілася, розгубилася).</stage>
+            <p>Пожертвувала б, сестриці, коли ж ані пилинки борошна... Хіба, пождіть, я рушничок вам вийму на церкву. Вишитий. <stage>(Одчинила скриню. Шукає).</stage></p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(скоса на черниць).</stage>
+            <p>Колядуєте, дівчата?</p>
+          </sp>
+          <stage>Черниці ні в тих ні в сих. Зашморгали носиками.</stage>
+          <sp who="#kopystka">
+            <p>І хіба ото вас ще не розігнали?</p>
+          </sp>
+          <sp who="#persha_act_1_scene_2">
+            <speaker>Перша</speaker>
+            <stage>(зчулася).</stage>
+            <p>Розігнали, благодії наші, розігнали...</p>
+          </sp>
+          <sp who="#druha_act_1_scene_2">
+            <speaker>Друга</speaker>
+            <stage>(вже приспівувала).</stage>
+            <p>А в церкву божую коней поставили.</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна</speaker>
+            <stage>(рушник затремтів у руках).</stage>
+            <p>Ой матінко божа! У церкву — коней?</p>
+          </sp>
+          <sp who="#chernytsi">
+            <speaker>Черниці</speaker>
+            <stage>(так і посипали)</stage>
+            <p>Правду знайте, православні!..</p>
+            <p>— Прийшла комуна, вигнала нас з обителі нашої дівочої, а в церкву коней...</p>
+            <p>— І хреста з церкви знято...</p>
+            <p>— Уночі зняли...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(цигарка не скручується).</stage>
+            <p>Та де, ви кажете? В якому монастирі?</p>
+          </sp>
+          <sp who="#chernytsi">
+            <speaker>Черниці.</speaker>
+            <p>У Благовіщенському, благодію, може, знаєте...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Це той, що коло зеленого броду?</p>
+          </sp>
+          <sp who="#chernytsi">
+            <speaker>Черниці.</speaker>
+            <p>Істинно, благодію, — коло броду.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(цигарка скрутилася).</stage>
+            <p>Так... Ловко ж ви брешете, дівчата!</p>
+          </sp>
+          <sp who="#chernytsi">
+            <speaker>Черниці</speaker>
+            <stage>(очатками блик-блик).</stage>
+            <p>Істинно православні, істинно так! Нам гріх неправду казати...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(до Ганни, до Васі).</stage>
+            <p>От же брешуть, аж курява встає! Я ж там був оце... в понеділок чи в неділю, коли б не збрехати. Авжеж, у неділю! Що розігнали монашок, то таки розігнали. Тільки не коней, а дітей туди навели, отих сиріток воєнних і всяких... <stage>(Повернувся до черниць).</stage> Та й брешете ж ви!.. Ти диви — їх уже нема! Щезли, як відьми... <stage>(Прочинивши двері, крикнув услід).</stage> Га? Піймалися на брехні, сучі дочки! <stage>(До Васі).</stage> От, синок, інцидент... Ану, як оте совіцьке слово, що про такий случай говориться? Подивись лишень у тетрадьку, ти там був записав...</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Та й ти ж кажеш, що розігнали?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Тр-р-р, тобі нема тепер слова. Шукай, синок, шукай!</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася</speaker>
+            <stage>(взявся вичитувати).</stage>
+            <p>Конституція, дядю?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ні...</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Резолюція?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ні... Резолюцію ж я знаю.</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Революція?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(аж зачухався).</stage>
+            <p>Та ні... Шукай того слова, що на акацію скидається.</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Та киньте ви ці гаспидські слова!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Тр-р-р...</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Реєстрація?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>О! Щось трошки виходить.</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Експропріація? Експлуатація? Провокація?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ось воно! Впіймав! Провокація... От ти, мамашо, не вірила, а воно виходить на моє. <stage>(Загнув пальця).</stage> Попи — раз. <stage>(Загнув другого, третього).</stage> Дяки — два. Монахи — три. Пани — чотири.</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Ну?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Монашки — п'ять. Вся ця наволоч робить нам провокацію... От що, синок: тут щось неспроста... Катай за монашками!</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Як за монашками? Чого?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>За монашками, на вивідки. До кого зайдуть, що казатимуть — про все вивідай, синок...</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>І навіщо ото? Не ходи!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ша! Чула, що монашки казали? Чула?</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Ну й що такого вони сказали?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>От тобі й на! Ну й дурна ж ти!.. Слухай ще раз! Монашки збрехали?</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Одчепися!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ні, ти скажи — збрехали?</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Ну, може й збрехали.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Сказали, що комуна в церкву коней поставила?</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Сказали.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А ти їм рушника за це дала?</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна</speaker>
+            <stage>(вже од печі).</stage>
+            <p>Не монашкам дала, а богові в прийом!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Не богові, а провокації!.. Біжи, синок, та наглянь, де вони спиняться, у кого ночуватимуть... Катай!..</p>
+          </sp>
+          <stage>Побіг Вася.</stage>
+          <sp who="#kopystka">
+            <stage>Копистка, закуривши, до Ганни:</stage>
+            <p>— От моя жінка цього б не зробила.</p>
+          </sp>
+          <stage>Ганну зачепило.</stage>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Годі хвалитися! Може й зробила б...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Бив би!..</p>
+          </sp>
+          <stage>Тут з печі Дід Юхим ізліз. Кахи, кахи, — сплюнув у черепок.</stage>
+          <sp who="#did_jukhym">
+            <p>— І добре зробив би, бо жінка, сину, як коса: не поклепеш — не покосиш...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>От бач! Трах-тара-рах! Резолюцію прийнято... Чули, діду, провокацію?</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Та я оце закуняв був трошки... Приснилось, немовби я знов у солдатах, на Шипці. А їсти, а курити — як оце, приміром, тепер, да... Коли бачу — наш ротний цигарку курить. Побачив мене та...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Закуріть, діду Юхиме!</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим</speaker>
+            <stage>(допався до кисета).</stage>
+            <p>Радий старатися... Побачив та як крикне: "Здоров був, молодець!" Я так і скочив. Дивлюсь, аж це ти...</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>А вже мені оце куріння ввірилось! Тож вікон не видно!</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Кури його, прокляте зілля, — воно богові не вклонилося. Кажуть же люди, якщо не брешуть, що колись бог та святий Петро прийшли на землю...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Туг ось монашки такої розказали, що... От якби дізнатися, коли вони прийшли?</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Хто?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Монашки...</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Та не монашки, а бог з Петром!.. Ішли степом. То всі трави й квіти вклонилися їм низенько, один тютюн не вклонився...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(до Ганни).</stage>
+            <p>Ти не бачила їх вчора?</p>
+          </sp>
+          <stage>Ганна мовчить.</stage>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Кого? Бога й Петра?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та монашок.</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Та я тобі не про монашок, а про Бога та Петра! Слухай! Один тютюн не вклонився. Тоді сказав бог: "Будеш ти, тютюне, однині проклятий, і палитимуть тебе люди, доки світу..."</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(замислився).</stage>
+            <p>Гм... Треба було б мовчати!</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Як мовчати?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Хай би вони язички свої порозв'язали...</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Хто? Бог та Петро?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та монашки, діду! Було б мені, кажу, помовчати та послухати, чого б вони наказали...</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Та ти слухай! Бог тютюнові сказав...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Побіжу. <stage>(Та й подався з хати).</stage></p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим</speaker>
+            <stage>(до Ганни).</stage>
+            <p>Та куди це він зірвався? <stage>(По паузі).</stage> А сонечко вже за сніданок! Чи нема у тебе там?..</p>
+          </sp>
+          <sp who="#hanna,_ïsti?">
+            <speaker>Ганна, їсти?</speaker>
+            <p>Учора ж і послідки вишкребла — хіба повилазило?</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Та ні... Води гаряченької...</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>4</head>
+          <stage>Двері навстіж — чобітками зарипів <name>Панько</name> — секретар сільради:</stage>
+          <sp who="#panko">
+            <p>— Та що скоїлось — сюрприз який чи пужар, дядьку Мусію?</p>
+          </sp>
+          <stage>За Паньком увійшов Мусій Копистка, за Кописткою Іван Стоножка — господар хати.</stage>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та кажу ж — провокація... У церкву, кажуть, коней навели... Я зразу не добрав діла, а тоді подумав-подумав: це ж вони все село нам зворушать, а найпаче багатіїв отих — Гирю, Годованого... Добре, що догадався — трах-тара-рах, погнав парнишку і сам оце...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Дурниці! Ніякої воєнної небезпечності... Просто баби понапивались опію релігії та й плещуть язиками...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ой, не кажи! Такого, брат, наплещуть, що аж-аж... Треба побігти наглянути. Найпаче до Гирі під двір, до Годованого.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Плюньте й розітріть!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Не можна!.. Не будь Гирі, Годованого — наплював би, а так... чує моя душенька...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Не ходіть — є йтересніше діло.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Я на хвилинку! Тільки до Гириного двору... Я зараз!</p>
+          </sp>
+          <stage>Уже взявся Копистка за клямку, як тут <name>Панько</name> пляшку з-під поли на стіл та:</stage>
+          <sp who="#panko">
+            <p>— Вип'ємо, дядьку Мусію?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(очі забігали).</stage>
+            <p>Ні, я мабуть... побіжу. <stage>(А сам за кисет, ще й дідові дав).</stage> Ось тільки закурю... і побіжу.</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Поспієте, сваток! Сідайте, товаришу секретар! Ганно! Чи нема у тебе там...</p>
+          </sp>
+          <stage>Ганна настовбурчилась. Він до неї стиха:</stage>
+          <sp who="#stonozhka">
+            <p>— Товариш же секретар наш... Зранку не їли... і той...</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Одної лише капусти дві чи три пелюстки, а більш нічогісінько...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(уші чуткі).</stage>
+            <p>Дайош, тітко, й капусти! Аби в животі було чим подряпати...</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Треба ж, як то кажуть, по-братськи...</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <stage><name>Дід Юхим</name>, кахикнувши, пішов до припічка.</stage>
+            <p>— А ви, тату, куди?..</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Та я вже, сину, їв...</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Ага, ото й добре...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(наливши Стоножці).</stage>
+            <p>Хазяїну! Пожалуста...</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Нашому брату й не годилось би тепер пити, та вже нехай нам Радянська влада простить...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Саме тепер треба пити... Чому? А тому, що в самогоні хліб є, так би мовити, — сила, а ми без хліба... Сьорбаніть, дядьку Мусію!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(повагавшись, взяв чарку, вихилив, сполоскав зуби).</stage>
+            <p>І не пив би, дак через зуби... Крутять і крутять, немов у них контра завелась...</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>А за монашками хто брався бігти?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(мов не до нього було сказано).</stage>
+            <p>Гм... ми випили, а за діда забули...</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Та той... Вони он закуняли.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Не годиться так... А знаєте, що я надумав?.. Як був я в городі, то бачив, як ушановували трудових героїв... Ой ловко вийшло! Предсідатель таке слово сказав, що аж-аж... Каже: спасибі, товариші, що потрудилися для Совіцької власті. Скільки віку, каже, вона вас не забуде.</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>А хто ж вони за люди, оті герої?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Думаєш, пани? Наш брат, трудовий елі-мент!.. Один дідок був з робочих — так його на руках гойдали... їй-бо! Щоб не пити оце по-дурному, даваймо діда Юхима вшануємо? Га?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>А це — кумедія буде. Дайош!.. Гей, діду!</p>
+          </sp>
+          <sp who="#kopystka #stonozhka">
+            <speaker>Копистка й Стоножка</speaker> 
+            <stage>(до діда):</stage> 
+            <p>— Діду Юхиме!</p>
+            <p>— Тату!</p></sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Га-га!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Просимо до столу, як трудового елімента...</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Люди просять на чарку горілки...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Жаль, нема музики, а то б зараз ушкварили дідові "Інтернаціонала"... <stage>(Наливши чарки, подав одну дідові).</stage> Ну, брати-товариші, й ви, Тарасовичу! Поздоровляю вас, Юхиме Тарасовичу, як трудового героя, од щирого серця... Спасибі, що потрудилися за свій довгий вік, бо Совіцька власть... От не вмію як слід балакати...</p>
+          </sp>
+          <stage>Панько засміявся.</stage>
+          <sp who="#kopystka">
+            <p>— Ану, Панько, ти!..</p>
+          </sp>
+          <stage>Панько в регіт.</stage>
+          <sp who="#kopystka">
+            <p>— Гех, якби ж то я вмів говорити! Я тоді б сказав таке, що попадали б усі буржуї у світі... а Дід Юхим возрадовався б...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Ану, дядьку Мусію! їй-бо, йтересно...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Граждани буржуї! — сказав би... — Шапки скиньте перед дідом, чолом йому бийте, таку вашу маму... Він вам землю орав? Орав... Овець випасав? Випасав. А скільки солі виволочив?.. Сто літ робив? А що собі придбав? Горб на спину, та ціпок у руки, та ще денікінських шомполів у спину... Ех ви!.. А ще вчені... Та що там казати! Вра — і більш нічого!..</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(аж зайшовся).</stage>
+            <p>Вра-а!..</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Оце мені нагадало, як колись ми генерала Гурка на вра брали... Ще за турецької війни...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Ану, діду, ану?</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Стоїмо ми раз, да... <stage>(Звівся на ноги).</stage> Коли під'їздить отак <stage>(показав у вікно на стіжок соломи)</stage> як до соломи... "Здорові, дєті мої, орли!" <stage>(По цім слові покивав головою і урочисто додав).</stage> Та й заплакав...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(так і розлігся).</stage>
+            <p>Заплакав? Ха-ха-ха... А Скобильова генерала ви, діду, бачили?..</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Аякже... Видав і Скобильова. Дісьвительно, під'їздить отак як... до соломи... "Здорові, дєті мої, говорить, орли!" <stage>(знову суворо, врочисто).</stage> Та й заплакав... <stage>(А в самого аж сльози).</stage> На вра взяли, як оце ви мене... Спасибі вам...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Грай, музико, "Інтернаціонал"!.. Жаль, що немає моєї Параски... Хіба побігти?..</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Куди?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>По жінку...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Плюньте на жінку... Хто тепер з таким барахлом возиться? Моди нема. Тепер яку попав, та й жінка. Правду кажу?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ні, братику, це не так. Це ти, не во гнів будь сказано, трошки брешеш...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Я брешу?..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Бо чоловік не півень, і обратно ж: без жінки, як без хати.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Дурниці! Ви докажіть, що це іменно так.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та хоч би й я з Параскою...</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Годі вже — з Параскою!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Тридцять годочків, як один, вижили. А бувало всього. Бувало, й нап'єшся отак та прителіпаєш-ся додому без розуму... Прокинешся вранці — у кишені вітер, у голові ковалі. То вона: "Що, п'янюго, голова болить?" — "Болить, Парасю, ой як болить..." Одчине скриню, витягне шкалика: "Сідай, ка, п'янюго, та випий із жінкою". Сіли, випили, закусили...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Це не доказ і не йтересно... Гех, як був я у повстанцях! От де було, да... І обще йтересно було. Не то що тепер: хліб повивозили, голод... Вип'ємо!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Підожди... Бо було ще й гірше: не то що хліба, — кізяка, щоб витопити, не було. А надворі б є, мете, ще й до того ніякої тобі Совіцької власті не було. То вона: "Знаєш, ка, старий, що я надумала?" А що, кажу? "Продамо хату?" То й продамо, кажу... Що ви думаєте — продали хату! Ну там сіли, випили, закусили, а тоді як пішли у найми, як пішли... І де вже ми з нею не служили...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Не йтересно!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Підожди! Засадили мене в тюрму за те, що панську економію палили. Сидю у віконця та й кукую. Коли трах-тара-рах — жінку приводять... Побачила мене, гукає...</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>5</head>
+          <stage>Аж тут увійшла Параска.</stage>
+          <sp who="#paraska">
+            <p>— Ось де він сидить, руда сатана!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Парасю!</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Йди, п'янюго, додому!</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Ага, впіймавсь?.. Хрестись мерщій та читай — да воскресне бог...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ось вона, моє ладо. Парасю!.. <stage>(Шуткуючи обняв її).</stage></p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Одчепись, нечиста сило!.. Мусію! Та хіба на людях так годиться?</p>
+          </sp>
+          <stage>Поцілував.</stage>
+          <sp who="#paraska">
+            <p>Хай ти сказишся... Та пусти!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Парасю! Подивись мені у вічі... не так!..</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Додому йди, нечиста сило!.. Ти ж слово давав не баритись...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та нема ж у нас дому. Ні хати, ні худоби... Клопіт нам який, чи що?</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Авжеж, клопіт!.. Гуляєш, а там он монашки по хатах, як ті ворони на хугу...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Знаю! Зараз побіжу. Ось тільки випий чарочку, ладо моє...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Випий, тітко, слиш?</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>Та випий, свахо, коли чоловіки просять!</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим</speaker>
+            <stage>(до Копистки).</stage>
+            <p>Та кресни її кулаком раз! А то припадає, як півень до курки...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ви не дивуйте, що вона зверху сердита... Всередині ж серце у неї — дак істинно пуховая по-душенька... Та що там казати! Випий, зіронько!.. Та випий, ну тебе к лихій матері!</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>От сатана, таки спокусив. Ну, за ваше всіх здоровлячко!.. І за твоє, моє ладо коханеє!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ура-вра!.. А слухай, Парасю, що я надумав...</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>А що, старий?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Живем ми до которого часу благополучно, а що далі з нами буде, то й ти, мабуть, не знаєш...</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Пхи, голоду не бачили?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Тр-р-р, старенька... Підемо в город та на патрет ізнімемось!..</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>І куди вам, мурим, та на патрет!</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>А що ж!.. І підем!.. Шкоди од цього людям не буде.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Трах-тара-рах, резолюцію прийнятої</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>6</head>
+          <stage>Припадаючи на ліву ногу, ввійшла Орина — старчиха.</stage>
+          <stage>Стала у порога.</stage>
+          <sp who="#oryna">
+            <p>— Здрастуйте-е!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Здрастуй, мамашо!</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>З п'ятінкою вас усіх святою... Бачте, — по миру побираюся... До кого не прийду — гонять, лають... Такий голод. Голод-голод...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Голод скрізь, бабо.</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>То я оце й подумала: завітаю до комітетських. Хоть самі вони без хліба, дак хоть тепле слово скажуть...</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Чи не зосталось там капусти?</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна</speaker>
+            <stage>(тільки пальцями хруснула).</stage>
+            <p>Нема.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ну, то хоть випий, мамашо!..</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина</speaker>
+            <stage>(випила).</stage>
+            <p>Хай же вам, мій таточку, боженька за це та ласку духу свого пошле!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>От якби він замість духу та лантушок борошна кинув! А духом ми вже давно живем, мамашо.</p>
+          </sp>
+          <sp who="#hanna">
+            <speaker>Ганна.</speaker>
+            <p>А то правда, Орино, що тя, кажуть, кота зварила?..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(аж рукою замахнувся на Ганну).</stage>
+            <p>А ще про що спитай! Ну й кручена...</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Ганно!</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Та вдар її, Йване!..</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина</speaker>
+            <stage>(заплакала).</stage>
+            <p>Коли ж п'ятеро, вірите... Од першої пречисти без хліба... А тут і Оленка померла. Люди присікались — якби, кажуть, рідну доньку, то не поховала б без батюшки... А я, от побий мене боженька, таточку, не чужа Оленці... Аж тепер признаюся: у житі родила, принесла й сама собі підкинула.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(кулаком об стіл).</stage>
+            <p>Не йтересно! Годі!.. Набридло мені усе це... Щодня у сільраді: той помер, той помирає, а той пухне... Дурні ми були, що хліб дали вивезти!.. Ходили, шукали, трусили, а що нам за це?.. І обще революція не йтересна стала, от!..</p>
+          </sp>
+          <stage>Повів Панько оком, випитуючи кожного приховану думку.</stage>
+          <stage>Похнюпились усі, мовчали. Тільки в Мусія губи аж бриніли, от-от щось скаже.</stage>
+          <stage>Засміявся Панько:</stage>
+          <sp who="#panko:">
+            <p>— Ну, це я шуткома... Вип'ємо, дядю Мусію! Вип'ємо, та розкажіть такого, щоб за пупа взяло!..</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>7</head>
+          <stage>Ніхто й не помітив, як у хату ввійшов Серьога Смик, голова сільради.</stage>
+          <stage>Почув він Панько в у мову.</stage>
+          <sp who="#smyk">
+            <p>— Ну, коли вже Панькові захотілось такого, щоб за пупа взяло, то я розкажу...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Це ти, Серього?</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Ні, не я...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А ми оце трошки...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Бачу... Так хочеш такого, щоб за пупа взяло?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(зніяковів).</stage>
+            <p>Та то я так... Згадалось, як у повстанцях, да... Один чудій розказував... Кишки рвали...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Я кращої розкажу... Такої, що й пупа порвеш. Хочеш?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Дайош!.. Тільки ти випий... І щоб було йтересно...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>А слухай!.. Сьогодні я довідавсь, що Гнат Гиря млинового продкомові не платив. Був агент у волості й казав, немов у Гирі є посвідчення з печаткою й підписами од нашої сільради, що його млин ціле літо не молов...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Гирин млин? Та він ще й тепер меле...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>То оце я й питаю секретаря, молов чи не молов Гирин млин?</p>
+          </sp>
+          <stage>Панько прикипів до лави. Хотілося встати. Не зміг.</stage>
+          <sp who="#smyk">
+            <p>— Хіба вже за пупа взяло?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Дурниці!.. Це на мене поговори... Це брехня! Ти докажи, а не так...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Як?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Не такечки, як...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Ну як?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Як той... як його.</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик</speaker>
+            <stage>(важко підійшов до Панька).</stage>
+            <p>Ти посвідчення писав?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Яке посвідчення?</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Посвідчення Гирі, що його млин ціле літо не молов?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>А чорт його зна! Може й писав... Бо в мене вже нерви в голові заплутались од такої роботи, що зраня й до ночі сидиш у Раді та пишеш статистику...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик</speaker>
+            <stage>(важко вгруз руками в стіл).</stage>
+            <p>Ти не викручуйсь... от... Посвідчення ти написав за три фунти кримського табаку... Звільнив Гирю з черги в підводи, бо віявся за його дочкою... і продавав наше більшовицьке движення.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Хто продавав? Ти докажи!.. Да й плювати хотів я на цей твій виказ! Бо я теж переворот у революції робив і з кадетами воював. А млин — це дурниці, й обще ми ще побачимо, які будуть докази... <stage>(Одскочив до порога).</stage> Я в повіт напишу. Я ще покажу вам!.. <stage>(Ударив дверима. Вийшов.)</stage></p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик</speaker>
+            <stage>(услід).</stage>
+            <p>Ах ти ж... Юда-предатель! Хабарник! Гад! Прийшов наказ з повіту: забороняється хліб одби-рати й трусити, дак про це перший узнав... не я, голова сільради, а Гиря... Гирі продався, гад, і революцію продавав по шматочку...</p>
+          </sp>
+          <stage>Посмутніли всі у хаті.</stage>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Аж тепер я бачу, який ми ще темний народ... Повна ніч у голові. То був урядник, хабарі брав, а тепер свій брат спотикається.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Не журись, браття!.. Тільки держись купи, головне тут — контахту держись... Повагом, повагом — та й вийдем на рівний шлях... Та що там казати!.. Сідаймо та вип'ємо, закусимо, поговоримо про це!</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Вилий!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(не дочувши, налив йому чарку).</stage>
+            <p>Чарчину од серця, щоб не пекло...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Вилий, кажу!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та що ти, Серього?..</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Вилий!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А не гарячись, братухо, тр-р... бо можна захекатись!..</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Вилий, бо це той самогон, що Гиря умисне підкинув, як хліб у його шукали... Знав, як замазати очі комісії. Підкинув п'ятнадцять царських карбованців, оберемок старої вовни, а всередині барильце самогону поклав... Де б шукати далі, а комісія за барильце та ч назад...</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>А не казала я?..</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Бо Панько перед вів!.. А я знаю, що в Гирі ще одна яма з хлібом є.</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p><stage>(до Копистки),</stage> Не казала: ой Мусію, не водись з Панько м, не пий!.. Дак хіба послуха, руда сатана!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Знаєш що, Параско?</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Що?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Не піднімай преній, от що!.. <stage>(До Смика).</stage> Так не вип'єш?</p>
+          </sp>
+          <stage>Той ні слова.</stage>
+          <sp who="#kopystka">
+            <p>Ну, як так, то й я не питиму. І ніколи більше не питиму...Та що там казати! Виливай її к лихій матері, Серього! <stage>(Дивиться, що Смик жде, щоб він вилив).</stage> Знаєш, Парасю, що?</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Ну що?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>На, вилий!..</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>А сам ти що — боїшся?</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик</speaker>
+            <stage>(тоді).</stage>
+            <p>Авжеж боїться.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Народнеє ж добро...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Куркульського самогону вилити боїться!.. Аякже! Це ж святе причастя Гирине, а Мусієве добро.</p>
+          </sp>
+          <stage>По цих словах аж крекнув Копистка.</stage>
+          <stage>Схопив недопиту пляшку — підійшов до помийниці та й узявся виливати.</stage>
+          <stage>Тиша в хаті стала. Всі до Копистки повернулись, аж витягайсь.</stage>
+          <stage>Як уже вилив Мусій самогон, підійшов до помийниці Дід Юхим.</stage>
+          <stage>Постояв, подививсь і усміхнувся:</stage>
+          <sp who="#did_jukhym">
+            <p>— Горе нам... та й ми ж сукині сини! </p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Трах-тара-рах, резолюцію прийнято!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>8</head>
+          <stage>Вася на дверях:</stage>
+          <sp who="#vasja">
+            <p>— Дядю Мусію! Монашки у Гирі... Акафіста вже читають... Людей повен двір... Кажуть, од архирея прийшли з благословенням.</p>
+          </sp>
+          <stage>Завіса</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ДІЯ ДРУГА</head>
+        <div type="scene">
+          <head>1</head>
+          <stage>У Гириній хаті Черниці акафіста читали.</stage>
+          <stage>Жінки приспівували:</stage>
+          <sp who="#zhinky">
+            <p>— Радуйся, невєсто неневєстная.</p>
+          </sp>
+          <stage>У порога глухонімий Ларивон на сторожі стояв, темний, високий, з дрючком у руках. Мугикав:</stage>
+          <sp who="#laryvon">
+            <p>— Го-гег-гу-ги-и...</p>
+          </sp>
+          <stage>Шепотіли жінки:</stage>
+          <sp who="#zhinky">
+            <p>— Чули, що монашки казали?</p>
+            <p>— Аякже! У монастирі коні стоять, ігуменю замучено...</p>
+            <p>— А чули, знаки на небі появилися?</p>
+            <p>— Аякже! Хрест зоряний вночі й титла огняні, щоб ополчалися на комунію...</p>
+            <p>— А правда, що в одного чоловіка дитина народилася, стали хрестити, а воно на сокиру обернулося?</p>
+            <p>— На канат, я чула. Це знак тому, що багато ще люду загине на шибеницях...</p>
+            <p>— А сокира — то на кров, кажуть...</p>
+            <p>— Радуйся, невєсто неневєстная!</p>
+          </sp>
+          <stage>Приспівували:</stage>
+          <stage>Гомоніли тихо чоловіки:</stage>
+          <sp who="#cholovyky">
+            <p>— Бачили, половина комнезамів пухлі ходять?</p>
+            <p>— Аякже! Стоножку Івана питав, чом їх не рятує комуна.</p>
+            <p>— Ну?</p>
+            <p>— Мовчить.</p>
+            <p>— Невже мовчить?</p>
+            <p>— Ані слова. Мовчить та ще гірше пухне.</p>
+            <p>— Кумедія, хи-хи-хи...</p>
+            <p>— Отож, кажу, чи чужого хліба об'ївся, кхи-кхи-кхи...</p>
+            <p>— Радуйся, невєсто неневєстная!</p>
+            <p>— Собак їдять.</p>
+            <p>— Так їм!</p>
+            <p>— Котів.</p>
+            <p>— Отак їм!</p>
+            <p>— Радуйся, невєсто неневєстная!</p>
+          </sp>
+          <stage>Приспівували:</stage>
+          <stage>Задзвонив годинник.</stage>
+          <stage>Хтось почислив:</stage>
+          <sp who="#htos_act_2_scene_1">
+            <p>— Раз, два, три... сім, вісім.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>2</head>
+          <stage>Гиря вийшов із другої хати:</stage>
+          <sp who="#hyrja">
+            <p>— Кінчайте, сестриці, бо вже ніч.</p>
+          </sp>
+          <sp who="#crowd">
+            <speaker>Всі загомоніли:</speaker>
+            <p>— А пора!</p>
+            <p>— Авжеж, пора!</p>
+          </sp>
+          <stage>Стали розходитись.</stage>
+          <sp who="#crowd">
+            <p>— Спасибі, сестриці, за акафіста!</p>
+            <p>— І вам <stage>(до Гирі),</stage> Гнате Архиповичу! За просвіщеніє...</p>
+          </sp>
+          <stage>У сінях.</stage>
+          <sp who="#crowd">
+            <p>— А сніг! А мете!</p>
+          </sp>
+          <stage>Розійшлися. Монашки як тіні. Тихо погасили свічечки, безгучно вийшли в другу хату.</stage>
+          <stage>Гиря підійшов до глухонімого, на кивах, на мигах йому:</stage>
+          <sp who="#hyrja">
+            <p>— Ну, а ти чого стоїш? Цібе на сторожу!.. Що? Ага, пайку ждеш, їсти хочеш. Дам, дам... Тільки трошки дам, щоб не спав та злий був. Краще будеш стерегти... <stage>(Причинив двері в чуланчик, гукнув).</stage> Лизю! Уріж там Ларивонові скибку хліба. Чуєш?</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>3</head>
+          <stage>Увійшла Лизя у шовковій юпці, на високих каблуках.</stage>
+          <stage>Гиря до неї:</stage>
+          <sp who="#hyrja">
+            <p>— Уріж, кажу, Ларивонві... Та що це ти моду взяла прибиратися щовечора, як на весілля? Що це за норови на тебе напали?</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Які там норови? Ще що видумайте!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Та ще й набілилася?</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Пхи!.. Ще що видумайте!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Зараз скинь! Люди приходять акафіста слухати, а вона... Одразу чутки рознесуть, що ми барахла за хліб наміняли.</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Та коли ж я приберуся? Вже два тижні, як той акафіст читається...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Тоді, як голод перестане, а тепер не смій!</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Пхи! Як голод перестане. Ще що видумайте! Он Килька Годованого щодня прибирається.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(повів очима).</stage>
+            <p>Я тобі кажу. Чуєш?</p>
+          </sp>
+          <stage>Лизя взялася краяти хліб.</stage>
+          <sp who="#hyrja">
+            <p>Багато не ріж! Та не криши, чуєш?.. Дай-но сюди крихти!</p>
+          </sp>
+          <stage>Лизя одкинула ножа.</stage>
+          <sp who="#hyrja">
+            <p>Та не сердься! От повечеряємо, тоді й прибирайся. Занавісь вікна й хорошись собі хоч до ранку, аби тільки ніхто не бачив...</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Та я тільки приміряла, а ви вже й на крик.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Ну годі, не сердься! Бач, усього понамінював тобі.</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Пхи! Он у Кильки Годованого барахла ще більш нашого. У неї пахощі французькі й гітара...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Ну нічого. От скоро я поїду в город і куплю тобі, знаєш, що?</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>А що?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Ану, вгадай.</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Пхи! Стану я ще вгадувати.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Дуреня ти! Грамофон тобі куплю. Кажуть, що дешево стоїть — півпуда ячменю.</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Папашо! От аби ви купили мені духів... У такому гранчастому бутлику. Що запашні — міри нема! Ось понюхайте. <stage>(Дала йому хусточку).</stage> Килька побризкала.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(понюхав хусточку).</stage>
+            <p>Ти ба, й справді пахуще яке, немов миро церковне. Ти розпитай Годованих, де вони купували. Поїду в город і тобі куплю.— Зараз дам!..</p>
+          </sp>
+          <stage>Замугикав глухонімий. Гиря до нього:</stage>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>І навіщо ото закликаєте його в хату! Вошей на йому, грязюки, що й страшно дивитись... А смердить!..</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Він акафіста стеріг, старців не пускав...</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Ой, їй-бо, не можу дихати! Пху, як з барлоги! Утечу!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Не показуй виду, а то ще розсердиться! Ти не дивись, що він глухий і німий. Норовистий, а злий! Правда, дядюго, що хоть дурний, а злий?.. Ну, на тобі твою пайку... Та перехрести лоба, глуха манія... Де вже там! Підожди, хоть я за тебе помолюсь. <stage>(Повернувсь до божниці).</stage> Отче всіх, на тя вповаємо, і ти даєш нам пищу...</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>4</head>
+          <stage>Тихо, через силу ввійшла Орина. Лизька накрила хліб рушником:</stage>
+          <sp who="#lyzja">
+            <p>— Папашо! Орина!..</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(обернувся, заступив хліб).</stage>
+            <p>Ти знов приперлась?</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>Драстуйте-драстуйте, татонько мій рідний!.. Хоч шматочок дайте!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Скільки я тобі казав, що нема в мене хліба! Сам голодний сидю.</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>Хоч шкуриночку, мій боженько...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Тобі що сказано?! Нема!</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>Хоч понюхати дайте, а то ж усе сніг та сніг... Що вже набридло його їсти.</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Ідіть з хати, бо холоду нанесли...</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>Хоч гарячої водиці, щоб погрітися. Ой любі мої, золоті мої, я ж у вас колись служила, хату мазала і тебе, моя доню, няньчила... Доглядала, доглядала, як свою рідну. Та все тобі співала оцієї, як її... Пам'ятаєш?.. <stage>(Заспівала).</stage></p>
+            <lg>
+              <l>М'ята моя рум'яная,</l>
+              <l>Дитя моє коханеє.</l>
+            </lg>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Кажу тобі — хліба нема! І не буде!.. До комуни йди!</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>Хоч капельку, хоч посидіти, бо вдома ж холодно-холодно... Я тільки хвилиночку, я тільки отак рученьками до тепленького, бо вже, здається, цілий вік сніг іде... <stage>(Торкнулася пучками комина).</stage></p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(як не визвіриться).</stage>
+            <p>Буду з тобою ще панькатися! Геть, собача печінко, з хати! Чуєш?</p>
+          </sp>
+          <stage>Посунулась Орина в сіни. Коли тут Ларивон до неї мугика, тиче їй у руки свою пайку хліба. Вийшли.</stage>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Чи не симпатія вона йому! <stage>(Зареготалась).</stage></p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(плюнув).</stage>
+            <p>Пху! Ти диви на його, на глуху манію... Та куди ж це він? Оце так сторія! Собак покрали, а тут ще й сторож за старчихою побіг.</p>
+          </sp>
+          <stage>Ларивон вернувся. На голові й на плечах сніг.</stage>
+          <sp who="#hyrja">
+            <p><stage>(До його).</stage> Дурний ти, як беркові штани! Та не реви, як той віл... Оддав хліб, тим і здобрій. Більше не дам! Не дам, не дам!.. Бо ще понесеш якійсь симпатії, а вона й розбовкає на все село, що в мене є хліб... Цібе на сторожу — ніч!.. Підожди, я сам за тобою вийду та покажу, де стояти й ходити, щоб і церкви доглядав, і моє добро стеріг... А ти, Лизю, постели мені в цій хаті, бо тут зручніше буде з вікон поглядати. <stage>(Вийшов за Ларивоном).</stage></p>
+          </sp>
+          <stage>Лизя занавісила вікна, принесла дві подушки, кожух. Потім вийняла люстерко і почала виглядатись. Заспівала:</stage>
+          <sp who="#lyzja">
+            <l>Об чом, дєво, плачеш,</l>
+            <l>Об чом сльози ллєш.</l>
+          </sp>
+          <stage>Чобітками рип-рип увійшов Панько.</stage>
+          <sp who="#panko">
+            <p>— Здрастуй, Лизько!</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Паню!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>А старий?</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Цс-с... Вийшли до худоби... Та струси сніг, на якусь марюку похожий! <stage>(Почала сама трусити).</stage></p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Дурниці! Не чіпляйсь хоть ти...</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Диви, який сердитий! Яка це муха тебе вкусила?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Не муха, Лизько, а... <stage>(Потер лоба).</stage> Слиш... дай шамати, Лизю!.. Зранку не їв.</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Я б дала, Паню, та зараз увійдуть папаша. Краще, як вони ляжуть, тоді. Чом учора не приходив? Я й борщу була зоставила.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Ніколи було. Статистика замучила.</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>І коли вже ти її скінчиш?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Дурниці питаєш! Хіба можна тепер статистику скінчити? Тільки-но складу та перепишу — один помер, другий помер, п'ятий, десятий... Чортзна-що робиться! Всю статистику мертві перевертають догори ногами.</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Зараз увійдуть папаша. Може б, ти вийшов на який час у ту хату або надвір?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(узяв її за руки).</stage>
+            <p>Дурниці! Не боюсь, бо маю до старого діло. Слиш, Лизю... дай пошамати! Віриш, аж темно в очах і ввесь світ немов... хитається, хилиться отак набік...</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя</speaker>
+            <stage>(пригорнулася).</stage>
+            <p>Зажди трошки. Паню! От нехай усі ляжуть... Тоді пошамаєш... Слухай, Паню, а ти ж мене будеш сватати?</p>
+          </sp>
+          <stage>Не зрозумів Панько. Знову потер собі лоба;</stage>
+          <sp who="#panko">
+            <p>— Сватати? Як це сватати?</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Диви! А ти думав, що так і ночуватимеш зо мною даром?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>А, сватати! Себто весілля справляти, самогон пити, шамати. Шамати, слиш, Лизю, шамати я хочу!.. <stage>(Подивився на неї голодними очима).</stage> Гляну на тебе й на себе. Ти, як цвіт той, вся налита — у мене ж самі маслаки... Сил нема вже, Лизю... <stage>(Сів до столу. Схилився).</stage></p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя</speaker>
+            <stage>(так і прилипла до його).</stage>
+            <p>Як засватаєш мене та повінчаємось. Паню, ох і годуватиму: борщем, м'ясом, холодцю наварю, вареників з маслечком, сиром...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(аж застогнав).</stage>
+            <p>Коли, коли ж це буде? Даваймо завтра. Лизько, сьогодні!.. Зараз!..</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>А хто ж тобі заважа, дурненький? Проси папашу сьогодні, засилай сватів, а в неділю й до церкви...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(устав, одхиливсь од Лизі).</stage>
+            <p>До церкви, кажеш... Не можна мені, бо я ще совєцький. Та й патлатих не люблю!</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя</speaker>
+            <stage>(напружилась, твердо сказала).</stage>
+            <p>А ти ж думав як? Я хочу, щоб нас повінчали... Я хочу, щоб ти був моїм, нашим, а не совєцьким...</p>
+          </sp>
+          <stage><name>Панько</name> в і згадалося:</stage>
+          <sp who="#panko">
+            <p>— Ще як у повстанцях був, то волочив патлатих... Ех, і йтересно тоді було, да!.. Трощили ми буржуїв, як хотіли... Керенок було за поясом... <stage>(Зарипіли чобітки. Завихрився чубок над лобом).</stage> Раз в одного попа ночували... От де сміху було, як на приставленії! Попаді наказали грамофона крутити, а попові гопака танцювати. Ха-ха-ха... Якби ти, Лизько, бачила, як він у рясі...</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизька</speaker>
+            <stage>(на його морозом війнула).</stage>
+            <p>Не люблю я таких балачок!.. Перестань!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(знітився).</stage>
+            <p>Йтересно було, да... А тепер голод, шамати хочеться, шамати... Хіба доведеться?.. А чорт йо'бери! Все одно комнезами мене з Ради вигризуть.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>6</head>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(вернувсь. Бликнув на Панька, на Лизю, усмішку в уса сховав).</stage>
+            <p>А я чую — двері рипнули... Думав, що Лизя виходила.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(картуза в руці закрутив).</stage>
+            <p>Доброго здоров'я, Гнате Архиповичу!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Здоров, здоров, товаришу секретар! Яким вітром до нас?..</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Та це скінчив діла у Раді та йшов додому... Дивлюсь — у вас ще світиться</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Так, так... Ну, що там нового? Що чути?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>А є новини, Гнате Архиповичу...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(поважно, спокійно).</stage>
+            <p>Ти б, дочко, дала Пантелеймонові Петровичу поїсти. Що там є у тебе?</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Трошки галушок зосталось.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Галушки ж, либонь, холодні... Краще достань огірків, укриши сала абощо...</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Може, папашо, яєчню спрягти?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Во-во. Хай чоловік по трудах своїх попоїсть. Знаю, яке те писарювання та й ще під лихий такий час... Жалування, мабуть, не платять?..</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Бомага з повіту прийшла: з усіх церков речі коштовні забрати: чаші, хрести золоті, обще — срібло, золото...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(уважно).</stage>
+            <p>Гм... Як це чаші?.. Навіщо?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>На голодних немовби. Так пишуть.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(по паузі).</stage>
+            <p>Гм... Приїдуть з повіту, комісія, чи як?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Ні, тут... Як на обчеських зборах більш половини за це голоси подадуть, тоді вже комісію...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Немовби виходить, що як народ скаже? Не силою?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Та воно так тільки пишуть, щоб комнезами перед повели... Оце Смик та Копистка по хатах і побігли...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Ага... А збори коли?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Не буде.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Як це... адже ж пишеться?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Смик казав, навряд щоб біднота зібралась... Не дійдуть...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>А то так. Куди їм, сердешним... Не ходять вже, а лазять... Доведеться, ма'ть, одкласти?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Так Смик хоче, щоб по хатах підписались, щоб без зборів це діло зробити...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Що?! А коли?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>Немовби завтра.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(аж стілець тріснув під ним).</stage>
+            <p>Що-о!? Завтра?.. <stage>(Устав).</stage> Господи, ще не все! Ще не все! Та що вони думають — життя все зірвати, як двері з петель? А не дозво... <stage>(Гримнув на дочку).</stage> Ану там совайся скоріш!</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя</speaker>
+            <stage>(здивувалася).</stage>
+            <p>Папашо!</p>
+          </sp>
+          <stage>Стукнуло в причільне вікно. Гиря не почув.</stage>
+          <stage>Зиркнув на Панька, потому на дочку.</stage>
+          <sp who="#hyrja">
+            <p>— Пантелеймон же Петрович той... голодний, либонь, наробився, а ми його про те, про се...</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Та я й так уже захапалась. Хай краще Пантелеймон Петрович поможе в печі розпалити.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Ще що скажи з дурного розуму! <stage>(До Панька).</stage> Чи бачили таку ледачу дівку?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько.</speaker>
+            <p>А чому ж не помогти! Та я залюбки... Раз-два — лєвой! На послугу до вас, молодая хазяйка!</p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя.</speaker>
+            <p>Зараз ідіть у чулан та запаліть мені в печі! Солома й кізяки у сінях...</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(стукнув, рипнув чобітками).</stage>
+            <p>Радий слухати! <stage>(Пішов).</stage></p>
+          </sp>
+          <sp who="#lyzja">
+            <speaker>Лизя</speaker>
+            <stage>(до збентеженого батька).</stage>
+            <p>Хтось стукнув у вікно. Мабуть, Годований. Послі розпитаєтесь. <stage>(Вийшла).</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>7</head>
+          <stage>Гиря зиркнув у вікно. Пішов одчиняти.</stage>
+          <stage>Прийшли двоє: дід а ціпком і високий огрядний чоловік — Годований.</stage>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком</speaker>
+            <stage>(струсив сніг).</stage>
+            <p>Насилу добились: б'є, мете, крутить, щоб ти знав. Прямо тобі ціла ліворуція. А тут ще Ларивон трохи дрючком не загилив...</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Стереже, як часовий на посту. Насилу вгамували. Ху! А ми оце до вас, Гнате Архиповичу, прийшли, чи не знаєте ви...</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком</speaker>
+            <stage>(перехопив).</stage>
+            <p>Чого отой Смик та Копистка...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>По хатах бігають?</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Еге... Невже знаєш?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Знаю.</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Хто сказав?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>А є такі. <stage>(Показав на двері).</stage> Не так поки що голосно кажіть, бо...</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Ага! Молодця у вас дєвка!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Та вже діло своє знає...</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Так оце ми до вас: що то значить, що вони по хатах бігають?</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Як би чого не вийшло, щоб ти знав?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>А вже виходить! Я оце по вас сестриць думав посилати...</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Он як!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Виходить так, як од архирея через монашки було упереджено: завтра братимуть з церкви чашу й хрест... Прийшла така бомага... Пишеться, щоб на об-чеських зборах, з народного дозволу це робилось, та Смик і Копистка не дурні. Знають, що голота вся на збори не полізе, так вони ото й майнули по хатах своїх писати. Думають без зборів це діло зробити...— Та невже ж таки заберуть?</p>
+          </sp>
+          <stage>Пауза. Сипнуло снігом у вікно. Годований аж за голову вхопився:</stage>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Га?</p>
+          </sp>
+          <stage>Гиря мовчки поправив лампадика.</stage>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Ну то як же, Гнате Архиповичу?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(перехрестився).</stage>
+            <p>Пора.</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Що саме, Гнате?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Пора, кажу!</p>
+          </sp>
+          <stage>Скинулись Гиря й Годований очима. Один одного зрозуміли.</stage>
+          <sp who="#hodovanyj">
+            <speaker>Годований</speaker>
+            <stage>(по паузі).</stage>
+            <p>Так граймо на тривогу?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>А так...</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком</speaker>
+            <stage>(залупау очима).</stage>
+            <p>Та що саме — не второпаю?</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Це, діду Онисько, воєнний сигнал такий є — тривога. Щоб, значить, ать-два — і всі як один на ногах!</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Ага, ага!.. Тепер добрав діла.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Удосвіта рано сесіриці підуть по наших хатах. Казатимуть, щоб не піддавалися і хреста та чаші святої — анікому. Бо скоро, мовляв, край буде комуні...</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>І большевицькому движенію, щоб казали.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>А виходить — край їм!.. Оце й золото з церков забирають, щоб було чим по загряницях жити. Не дозволимо, господи!</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>А як дійдеться чого?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>В усі дзвони вдаримо, з хуторів людей покличемо, муром станемо!</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Та ні, я про щось протчее...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(підвів брови).</stage>
+            <p>Ви думаєте?</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>А не обійдеться.</p>
+          </sp>
+          <stage>Пауза. Тріснуло в лампадику.</stage>
+          <stage>На обличчі в Гирі тіні заграли.</stage>
+          <stage>Поправив лампадика і мовив глухо:</stage>
+          <sp who="#hyrja">
+            <p>— Ну, що ж... і про такий случай є чоловік.</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Хто?</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>А я знов не второпаю, що ви й до чого?</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Помовчіть, діду. <stage>(До Гирі).</stage> Хто?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Ларивон!</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований</speaker>
+            <stage>(несподівано, розложиста).</stage>
+            <p>Ха-ха-ха. Оце вже ілюзійон!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(зачепило його).</stage>
+            <p>Не ймете віри?</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Та... Глухе ж і німе. Як говорилось у нас, у драгунів, — ідійот!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Хочете, при вас наведу його на тропу? <stage>(Гукнув у другу хату).</stage> А ввійдіть, сестриці, сюди!.. Нечутно з'явились Черниці. </p>
+          </sp>
+          <stage><name>Гиря</name> до них:</stage>
+          <sp who="#hyrja:">
+            <p>— Побіжіть котора та покличте Ларивона! Він там біля клуні або біля церкви... Через садок ідіть!</p>
+          </sp>
+          <stage>Черниці метнулись обидві.</stage>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Ет... Даремно й язика терти — воно ж не зрозуміє!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Ви немов за дурного мене маєте...</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Та ні! Ларивона я маю за дурня.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>А не такий вже дурний. Я йому на мигах, на знаках про царя й про комуну — про все. Та й сам він бачив, як хліб трусили та забирали... Там такий злий на комнезам, що аж-аж.</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Ой, чи такий же він до самого споду?</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>8</head>
+          <stage>Вернулись Черниці.</stage>
+          <stage>За ними завіяний снігом всунувсь Ларивон.</stage>
+          <stage>Без шапки. На голові білим вінком сніг.</stage>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Та в його шапки нема, чи як?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>А то як вітер, гроза або оце хуга, дак він без шапки отак цілу ніч виходить. <stage>(Повернувся до Ларивона. На мигах, на знаках йому).</stage> Сідай, Ларивоне, до печі!.. Погрійся! Та сніг обтруси, сніг... Та дрючка у куток постав. Не хочеш? То сідай так.</p>
+          </sp>
+          <stage>Замугикав Ларивон . Обтрусився. Тільки на голові сніг білим вінком зостався.</stage>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Та невже ото він розуміє?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(на мигах, на знаках).</stage>
+            <p>Дивись, Ларивоне!.. Комуна ота написала... комнезамам... що у нас хліб забрали й одвезли, знаєш?..</p>
+          </sp>
+          <stage>Ларивон замугикав.</stage>
+          <sp who="#hyrja">
+            <p>От-от... Зрозумів? Комуна написала хреста й чашу з церкви брати, корогви брати. <stage>(До Годованого).</stage> Він любить корогви носити. <stage>(До Ларивона).</stage> Усе срібло-золото... Всі цяці брати... цяці... <stage>(Показав йому на позолоту й срібні вінці в іконах).</stage> Написали забрати!</p>
+          </sp>
+          <stage>Ларивон замугикав.</stage>
+          <sp who="#hyrja">
+            <p>І чашу божу заберуть! Чашу!.. Оту саме, що батюшка з неї меду давав тобі... Зрозумів? Но-но! Одвезуть, одвезуть. Зуби собі робитимуть! Бачив у комісара, що жив у нас отут на квартирі?.. Ну от... А церкву зачинять, запечатають і тебе наженуть...</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Як собаку наженуть, щоб ти зна...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Завтра прийдуть до церкви. Не треба пускати!.. Бити їх треба!..</p>
+          </sp>
+          <stage>Звівся Ларивон. Голосніш замугикав.</stage>
+          <sp who="#hyrja">
+            <p>Смика отого, Копистку Мусія знаєш?..</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком</speaker>
+            <stage>(не втерпів).</stage>
+            <p>Бити їх!</p>
+          </sp>
+          <stage>Засварився дрючком Ларивон. Замахав. Тіні по стінах побігли.</stage>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Отак!.. Отак!.. <stage>(До Годованого).</stage> От хто вдарить! А ви не вірили...</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований</speaker>
+            <stage>(годі й собі).</stage>
+            <p>Бий їх!</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>За развьорстку бий!</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>На махан бий! Черниці <stage>(й собі):</stage> — Бий їх! — Бий! Бий!</p>
+          </sp>
+          <sp who="#persha_act_2_scene_8">
+            <speaker>Перша</speaker>
+            <stage>(підскочила до Ларивона. Співає. Плаче).</stage>
+            <p>Ми трудились... Килимки, обруси ткали... Людям... Ми капусту, квітки поливали... Васильками пахло, сонечко було. А вони нас... на сніг, на мороз...</p>
+          </sp>
+          <sp who="#druha_act_2_scene_8">
+            <speaker>Друга</speaker>
+            <stage>(збоку забігла. Простягла руки).</stage>
+            <p>Хрест зняли на брамі... Хлак червоний там... А ми бігли, бігли... через греблю, лугом, степом... Ніч та сніг... Ніч та сніг... Ще й досі трусимось... Ось дивись — трусимось.</p>
+          </sp>
+          <stage>Обступили Ларивона. Сіпають, шарпають, плачуть. Гиря насилу їх вгамував:</stage>
+          <sp who="#hyrja">
+            <p>— Та він же глухий, не чує... На знаках йому треба, на мигах... А ви... Та ви, дивіться, засмикали його!.. А господи!.. Та ви його ще з тропи зіб'єте, що допіру я навів... Одступіться!</p>
+          </sp>
+          <stage>Одсапались усі. Ларивон, сварячись, став до стіни.</stage>
+          <stage>Сніговий вінок почав танути. Скотилися перші краплини — немов чужі сльози на Ларивонві м обличчі. Тоді Гиря до Годованого:</stage>
+          <sp who="#hyrja">
+            <p>— А що! Тепер вірите?</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Спиніть, бо ще когось загилить.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(до Ларивона).</stage>
+            <p>Ну годі... Завтра!.. Розумієш — завтра! Во-во... А зараз...</p>
+          </sp>
+          <stage>Зашаруділо щось, замацало за дверима.</stage>
+          <stage>Всі обернулись до дверей. Гиря занепокоївся:</stage>
+          <sp who="#hyrja">
+            <p>— Це ви, сестриці, сіней не заперли... Хто там?</p>
+          </sp>
+          <stage>Почувся голос:</stage>
+          <sp who="#stonozhka">
+            <p>— Це я... Стоножка Іван. Одчиніть!Гиря пошепки показав усім, щоб вийшли у другу хату.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>9</head>
+          <stage>Засніжений, спираючись на ціпок, тихо увійшов Стоножка:</stage>
+          <sp who="#stonozhka">
+            <p>— Це я, Гнате Архиповичу... От що я вам скажу, Гнате Архиповичу. Я прийшов... Позичте мені хоч з півпуда...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Гай, гай, голубе мій, якби ж то я мав що позичити...</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Озадку чи той... макухи, може, а то ж сами бачите — гину... У Ганни вже ноги спухли...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>По щирості скажу, Йване, зосталось ячменю того пудів з десять — держу на насіння. Ні жита, ні пшениці й озадку нема. Коли не віриш, ходім покажу горище, засіки, бочки... Ось ходім!</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Та нащо! Не треба, Гнате Архиповичу, я вірю вам...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Бачиш, посивів? Ночами не сплю, все думаю, об весні помишляю, як сіяти будемо, Йване? На все село семеро коней зосталося: у мене, у Годованого, у діда Ониська, у Щербака Трохима. А пшениці — ні зернини, ні проса, ні гречки нема. От коли загибель прийде, Йване, дак це весною. Усім буде край!.. <stage>(По паузі).</stage> Ну, що там кажуть Смик та Копистка? Невже тому правда, що мають забрати в церкві чашу христову, хрест, позолоту й срібло?..</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Кажуть, бомага прийшла...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Ну а ти, Йване, як про це думаєш?</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Не думав про це, Гнате Архиповичу, бо не можу... Світ в очах отак хилиться, крутиться... Запаморочилось у голові так, що іноді не знаю, де я й що мені робиться.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Га? До чого довели людей! Дивитися тяжко...</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Гнате Архиповичу!.. Може, у вас... кішка є, то позичте!..</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Стямся, Йване! Де ж таки видано було, щоб християнська душа вживала коли котятину... Та краще вже вмерти, як ото їсти котів чи собак...</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Та ні, я не їсти... Миші завелись у хаті, дак Ганна просила дістати кішку...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(засміявся).</stage>
+            <p>А де в тебе тії миші взялися! Давно, ма'ть, подохли вони... От що, голубе мій, дав би я тобі ячменю, якби ти...</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка</speaker>
+            <stage>(аж скинувсь, ожив).</stage>
+            <p>Я одроблю!.. Я...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Дав би з останнього, кажу, якби ж ти одцурався їх, одсахнувся від Копистки та Смик а та й повернув на християнську тропу...</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Я той... я краще одроблю вам...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>А, голубе, що мені твій одробіток! Ти на правильну тропу вийди! Он завтра вони забиратимуть з церкви чашу і хрест, ти що їм скажеш? Дозволиш чи ні?..</p>
+          </sp>
+          <stage>У Стоножки голова поникла.</stage>
+          <sp who="#stonozhka">
+            <p>Га?</p>
+          </sp>
+          <stage>Стоножка засіпався.</stage>
+          <sp who="#hyrja">
+            <p>Невже, питаюсь, дозволиш і з богів сорочки познімати?</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Не знаю про це...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Гм... Так-таки й не знаєш?</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Не думав про це...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Гм... Якщо не думав, то піди та подумай, помисли. А тоді приходь! Тим часом і я подумаю, обмислю... <stage>(Глянув на годинник).</stage> Та дивися, вже скоро десять! Біжить час, обминає нас... І не зглянешся, як отак і смерть у двері набіжить...</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка</speaker>
+            <stage>(глухим голосом).</stage>
+            <p>Гнате Архиповичу І Я за вами руку підійму... Як скажете, так і чинитиму...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Е, ні!.. Я не приневолюю, я не силю тебе, Йване. Ти краще подумай, голубе, виваж все це, обміркуй...</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Я вже надумавсь... Я за хрест і чашу... Щоб не брали їх, скажу, і щоб більше нічого у людей силою не брали.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Ось-ось воно й є: щоб силою не брали! Святу правду, Йване, кажеш — щоб не брали силою!.. А брали, спитавшись у хазяїна, дозволу випросивши у людей... у громади... Ех, жаль який, Йване, що ти прозрів тоді, коли вже у мене силою забрали хліб, а ти ж і помагав його брати!..</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Простіть, Гнате Архиповичу!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Ну, та вже хай бог тебе простить... Мішечка у тебе часом нема?.. Ага, торба!.. Давай... Та вона така, що пудів зо два влізе. Постій тут, я зараз... <stage>(Вийшов у сіни і скоро вернувся).</stage> А знаєш, Іване, ти ось що... Ти краще прийди по ячмінь до мене завтра чи там позавтра.</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Я їй-бо, дядечку, за хрест і чашу... Може, не вірите, то я заприсягнуся...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Приходь завтра... Як тільки ото скажеш привселюдно, біля церкви, що ти за хрест і чашу, як тільки покаєшся, так і приходь... Позичу, голубе, їй-бо, позичу і так дам... Серця увірву шматочок, а таки дам...</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка.</speaker>
+            <p>Дядечку, Гнате Архиповичу! Сили моєї не вистачить до завтра... Боюсь, що не встану, до церкви не дійду, десь упаду...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>А господи, не можу на такі муки дивитися... Не можу, Йване!.. Серце крається... Постій, постій, голубе... <stage>(Підійшов до столу, одкинув рушника і, взявши в руки буханок хліба, урізав половину. Потому, повагавшись, ще шматочок додав).</stage> На, Йване! Оддаю тобі свій завтрашній пай, бо сам уже давно на порціях живу.</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка</speaker>
+            <stage>(чолом йому давши).</stage>
+            <p>Спасибі вам!.. Спасибі!..</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>А завтра приходь до церкви... Чуєш?</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка</speaker>
+            <stage>(із сіней).</stage>
+            <p>Прийду!</p>
+          </sp>
+        </div>
+      </div>
+      <div type="act">
+        <head>10</head>
+        <stage>Вернувся Гиря в хату, аж тут Лизька із чулану вийшла.</stage>
+        <stage>Очі сяють, на щоках ягідки грають. Підійшла і пошепки:</stage>
+        <sp who="#lyzja">
+          <p>— Папаню, милий... Завтра свати до нас будуть. Чуєте? Свати!</p>
+        </sp>
+        <sp who="#hyrja">
+          <speaker>Гиря</speaker>
+          <stage>(стрепенувся).</stage>
+          <p>А не бреше?</p>
+        </sp>
+        <sp who="#lyzja">
+          <speaker>Лизя.</speaker>
+          <p>Ні, ні, щось на його оті комзлидні насіли, дак він на все рішився...</p>
+        </sp>
+        <sp who="#hyrja">
+          <speaker>Гиря.</speaker>
+          <p>Та невже?</p>
+        </sp>
+        <sp who="#lyzja">
+          <speaker>Лизя.</speaker>
+          <p>Цс-с...</p>
+        </sp>
+        <sp who="#hyrja">
+          <speaker>Гиря.</speaker>
+          <p>Рішився, кажеш?</p>
+        </sp>
+        <sp who="#lyzja">
+          <speaker>Лизя.</speaker>
+          <p>Цс-с-с, папаню... Не показуйте йому, що ми так і зраділи... Пхи!</p>
+        </sp>
+        <sp who="#hyrja">
+          <speaker>Гиря.</speaker>
+          <p>Гм... Подивлюсь на тебе, Лизю, — вилита ти мати. Покійна теж така була, царство їй небесне... Ну, йди, доню, до нього... Та гляди лишень, щоб не обдурив!..</p>
+        </sp>
+        <sp who="#lyzja">
+          <speaker>Лизя.</speaker>
+          <p>Пхи! Ще що вигадаєте! Не на таку напав...</p>
+        </sp>
+        <sp who="#hyrja">
+          <speaker>Гиря.</speaker>
+          <p>А про церкву ти йому нагадала?</p>
+        </sp>
+        <sp who="#lyzja">
+          <speaker>Лизя.</speaker>
+          <p>Піде й до церкви.</p>
+        </sp>
+        <sp who="#hyrja">
+          <speaker>Гиря.</speaker>
+          <p>Гляди ж... А на весілля — духів отих та пахощів повне відро тобі куплю... Постривай ще... <stage>(Озирнувся, одчинив якусь лядку, витяг пляшку самогону, одлив половину).</stage> На, почастуй... Тільки багато не давай... Та гляди мені!..</p>
+        </sp>
+      </div>
+      <div type="act">
+        <head>11</head>
+        <stage>Вийшла Лизя. Гиря пройшовся по хаті.</stage>
+        <stage>Із другої хати вийшов Годований, Дід з ціпком, Черниці, Ларивон .</stage>
+        <sp who="#hyrja">
+          <speaker>Гиря</speaker>
+          <stage>(усміхнувся до них).</stage>
+          <p>Чули?</p>
+        </sp>
+        <sp who="#hodovanyj">
+          <speaker>Годований.</speaker>
+          <p>Голова у вас, Гнате Архиповичу.</p>
+        </sp>
+        <sp who="#hyrja">
+          <speaker>Гиря.</speaker>
+          <p>Просвітляється життя, просвітляється. <stage>(Повернувся до божниці).</stage> О господи, царю небесний! Перебори ти силою своєю революцію! Попали ти її огнем своїм! Попелом укрий! Вітром розвій!</p>
+        </sp>
+        <stage>Черниці стали навколішки.</stage>
+        <stage>Зашелестіли губами й широкими рукавами. Молилися всі.</stage>
+        <sp who="#crowd">
+          <p>— Поверни все на старий лад!.. Та невже ж ти не в силах подужати комуну? Бий її, трощи, з корінням виривай геть!.. Ти покарав був Йова милосердного, дак ти ж йому повернув усе добро... Верни ж нам наше добро, що комнезами забрали!.. Верни коні, хліб, худобу, гроші!.. Ну. верни ж, верни, тебе благаємо!..</p>
+        </sp>
+        <stage>Завіса</stage>
+      </div>
+      <div type="act">
+        <head>ДІЯ ТРЕТЯ</head>
+        <div type="scene">
+          <head>1</head>
+          <stage>Біля церковної брами зібралась комісія:</stage>
+          <stage>Смик, два незаможники. Підійшов Копистка з ключами.</stage>
+          <sp who="#smyk">
+            <speaker>Смик</speaker>
+            <stage>(назустріч йому).</stage>
+            <p>Ну як?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ключі ось, а піп не хоче йти. Каже, що хорий...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Він прочитав протокола і що з центра пишуть?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Прочитав.</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Ну й що?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Дуже, видно, зрадів, бо губи так і вдарили тропака...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Кинь жарти!.. Ти йому сказав, що й як?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>За все сказав... Каже — не вийду, хорий...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик</speaker>
+            <stage>(одімкнув браму).</stage>
+            <p>Будемо брати й без його. А в протокол впишемо, що піп одмовився... Заходьте, товариші! <stage>(Спинив Копистку).</stage> А ти в церкву не заходь, чуєш? Твоє діло тут наглядати. <stage>(Пошепки).</stage> Наш Юда — Панько — ночував сю ніч у Гирі, спав з його дочкою, то, мабуть, про все уже вишепотів...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Про це, братухо, я вже знаю. У мене жінка — телеграф.</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Так я його сьогодні із Ради вигнав і наказав на очі не з'являтись.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Торкай, братухо, торкай!</p>
+          </sp>
+          <stage>Смик. А як що трапиться, то...</stage>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ет!.. Не малолітнє ж я дитя, — торкай!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>2</head>
+          <stage>Пішов Смик.</stage>
+          <stage>Копистка, щоб не стояти на видноті, зайшов за примурок.</stage>
+          <stage>Тільки скрутив цигарку, аж тут Гиря:</stage>
+          <sp who="#hyrja">
+            <p>— Що це ти, Мусію батьковичу, стоїш тут? Хіба чого стережеш?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(йому під тон).</stage>
+            <p>Авжеж, так! Даром не стояв би.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Може, церкву святу, щоб часом ніхто не окрав?..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Може й церкву.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Спитать би, чашу долоту, чи як?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Сказать би, й чашу, і плащаницю, і все чисто.</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Гм... Од злодіїв, чи як?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А то ж од кого, думаєш?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Невже ж воно є такі, що й на божеє добро вже зазіхають?..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Якби-то на боже, а то ж на наше, на народне...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Гм... А хто ж вони, оті злодії?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та ті ж самі, що, чужими руками хліб робивши, позакопували його в ями, як крадене, — ви!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Ой шануйсь, Мусію!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А то що?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>А то, що за такі слова... не помилує тебе господь милосердний... Не помилує!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А хто тобі казав за це?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Не помилує!.. Знаю!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Хіба з богом балакав, що знаєш?</p>
+          </sp>
+          <stage>Звіром глянув Гиря на Копистку. Пішов.</stage>
+        </div>
+        <div type="scene">
+          <head>3</head>
+          <stage>Прибрела Орина:</stage>
+          <sp who="#oryna">
+            <p>— Здрастуйте, дядечку Мусію!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Здрастуй, мамашо!</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>З п'ятінкою вас святою!.. Таки послав господь ласку свою. Як не гнівили його, милосердного, а він таки зглянувся на нас, бідних.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Як саме, мамашо?</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>Кажу ж, п'ятінку послав, а був четвер, і не знала я, чи й виживу з діточками, — так же їстоньки всі похотіли...</p>
+          </sp>
+          <stage>Покрутив головою Копистка.</stage>
+          <sp who="#oryna">
+            <p>Оце прийшла під церкву. Кажуть, чашу золотую й кадильницю мінятимуть на хліб, дак я хоть подивлюсь, який він є... Може, таки п'ятінка святая і мені шкуриноньку або зерниноньку пошле... А як не то, то пережду тут до суботоньки... А в суботоньку, може, хто поминання до церкви принесе... Колись багато приносили. <stage>(Сіла собі осторонь на сніг. Та все бурмотить щось, киваючи головою),</stage></p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>4</head>
+          <stage>А вже до брами надійшов Дід з ціпком.</stage>
+          <stage>Стали збиратися чоловіки, жінки.</stage>
+          <stage>Дід приступивсь до Копистки, лупнув очатами:</stage>
+          <sp who="#did_z_tsipkom">
+            <p>— Хіба до церкви прийшов, Мусію? Сьогодні ж будень!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А ви, діду, чого прийшли, коли будень?</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Молитися прийшов, щоб ти знав, а не кадить, як ти ось, цигаркою. Кинь мені зараз! Хіба повилазило — церква?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та я ж не в церкві курю, а на вулиці. Кому яка з цього шкода.</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Не маєш такого права, щоб цигаркою смердіти під церквою! Не маєш права, щоб ти знав!</p>
+          </sp>
+          <sp who="#zlyj_holos">
+            <speaker>Злий голос.</speaker>
+            <p>Та хіба вони послухають старих людей?</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Думають, що забрали собі слободу, дак можна й на бога верхи сісти? Ні, він-вам не стерпить. Він знайде на вас кару, пождіть, анахтеми. Він, милосердний, загонить вас у пекло.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Нехай у пекло — там хоть тепло. А піди у рай, то й за дрова дбай...</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Ач, який! Ах ти ж безбожнику! Бузувіре ти окаяннийі.. Кинь цигарку, кажу!</p>
+          </sp>
+          <stage>Прийшов Годований. Немов нічого не знаючи:</stage>
+          <sp who="#hodovanyj">
+            <p>— Що тут такеє, діду Онисько?</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Отак, як бачиш. Стоїть коло божого дому та куриіь, та смердить, щоб ти знав, цигаркою.</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>А чого, дозвольте, стоїть?</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Спитай його!</p>
+          </sp>
+          <sp who="#khtos_iz_ljudej">
+            <speaker>Хтось із людей.</speaker>
+            <p>Чашу, святиню церковну забирають!.. Позолоту, срібло...</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Як це забирають, дозвольте? Хто бере? По якому праву?</p>
+          </sp>
+          <sp who="#khtos_iz_ljudej">
+            <speaker>Хтось із людей.</speaker>
+            <p>А по такому, як і хліб брали. Камуні отій.</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований</speaker>
+            <stage>(прикидаючись).</stage>
+            <p>Дозвольте, то хліб — вещ зрозумілая, але ж чаша й хрест — це ж божії речі... Та хто бере?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Комісія.</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Яка така комісія? Хто її обрав?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Народ.</p>
+          </sp>
+          <sp who="#zlyj_holos">
+            <speaker>Злий голос.</speaker>
+            <p>Який народ? Де той народ?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Бєдний народ.</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Та народ аж ось коли сходиться, а про комісію то ніхто, ма'іь, і не чув?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А я кажу — которий найбідніший народ. Як і полагається тепер.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>6</head>
+          <stage>Прийшли ще люди.</stage>
+          <stage>З ними Стоножка, Дід Юхим, Вася, Параска. Гомін пішов.</stage>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Ось що. Копистко! Ми, народ, вже знаємо про все... Бо ми, народ, знаємо, коли й яка з повіту бомага прийшла і що в тій бомазі пишеться. Ми, народ, тепер питаємось, як це так? В бомазі пишеться, щоб брати срібло-злато церковнеє з дозволу народного, а ми, народ,про це знаємо?</p>
+          </sp>
+          <sp who="#holos_scene_6">
+            <speaker>Голос</speaker>
+            <stage>(незаможницький з натовпу).</stage>
+            <p>Которе бідне — знає як один.</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Підожди там!.. Як це так, ми, народ, питаємось, що в бомазі пишеться так, а ви чините навиворіт та ще й нишком од усіх? У бомазі сказано, щоб на об-чеських зборах проголосовані були всі церковні речі, а ви, як ті злодії, вдерлись в церкву і що робите?</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Чуєш?</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Так оце ми, увесь народ, і кажемо: чи дамо, чи не дамо чашу і хрест — об цім ви в народа спитайтеся!..</p>
+          </sp>
+          <sp who="#crowd">
+            <speaker>Гомін.</speaker>
+            <p>У народа спитайтеся!..</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Чуєш, що народ каже?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та який же з вас народ, чудак ти, чоловіче?</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Як так?.. А хто ж ми, щоб ти знав?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ви ж незорганізований елімент, та й усе...</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований</speaker>
+            <stage>(по паузі).</stage>
+            <p>А ми ось що, граждани, комісія од народу! Ходімо зараз в церкву та й заборонимо їм по закону совєцькому...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ша!.. Підождіть!.. Закон то совєцький, та не про вас його писано.</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Та ти чого тут розкамашуєш! Що ти нам — начальство чи хто?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Не начальство, а Совєцька власть!</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Яке ти маєш право?.. Хто тебе настановив?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А звісно, не ви, діду. Були такі, що настановили... Ми тепер власть, і більше ніхто!</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Розступись, море, — кізяк пливе.</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Оце правда — розступись, море... Недавно з кізяка й не вилазило, а тепер — начальство!</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p><stage>(тут як не вихопиться).</stage> А вам досадно? Га? Аж очі пухнуть з досади, що колись Мусій мій з панського загону й не вилазив, а я в кізяці й діти плодила, а тепер... тепер питають: де тут живе товариш Мусій Копистка?..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(посміхаючись).</stage>
+            <p>Тут! Осьдечки я, Мусій Копистка!</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Не перебивай, сатана!.. Пожалуста, на з'їзд до нас... Ось воно! Колись моєму сатані й на землю забороняли сісти, а тепер його й на плисові крісла садовлять, раду з ним радять, як воно, що й до чого, а вам що? А вам сто сухих досад од цього!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Трах-тара-рах — оце вам, діду, резолюція!..</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>А ти... А ти кинь цигарку, кажу! <stage>(Та й замірився на Копистку ціпком).</stage></p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(не зворухнувся).</stage>
+            <p>Ша, діду!</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Кинь, бо...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Не дмухайте, діду, проти вітру...</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Бо...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Бо пуп увірветься.</p>
+          </sp>
+          <stage>Ударити дід не наважився. Одступивсь. Трясеться.</stage>
+        </div>
+        <div type="scene">
+          <head>7</head>
+          <stage>Разом сливе вийшли: із церкви — комісія, з-за огради — Гиря, монашки, глухонімий Ларивон.</stage>
+          <stage>Натовп подався назад. Галас упав, ущух.</stage>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Що тут таке, Мусію?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та як би тобі й сказати... Виходить інцидент.</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Що саме?.. Хто?..</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Та хто ж, як не дід Онисько.</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>.. Бач, досадно стало, що мій рудий...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та цить! Дід Юхим десь луною озвався: "Моя мила, щоб ти воза не побила!" Незорганізований елімент поприходив і за пазухою свою резолюцію держить...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Яку тут резолюцію? В циркулярі пишеться, хто буде невдоволений, хай о своїм невдоволенні напише до повітової комісії, і там розсудять...</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>А ми, народ, знаємо, що в циркулярі обратнеє пишеться. Отож ми, народ, і питаємось: як це так, дозвольте? Пишеться, щоб брати срібло-злато церковнеє з дозволу народного, а ви як берете?</p>
+          </sp>
+          <sp who="#crowd:">
+            <speaker>Гомін:</speaker>
+            <p>— Хто вам дозволив?</p>
+            <p>— Сказано, щоб на обчеських зборах!..</p>
+            <p>— Пишеться, щоб увесь народ проголосував, а ви самі?</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Хто нам дозволив?.. <stage>(Нагукав).</stage> Стоножкин Василько! Ось іди сюди, Васю! <stage>(А сам до Копистки),</stage> На, Мусію, подержу, поки ми протокола їм прочитаємо...</p>
+          </sp>
+          <stage>Немов блискавка в очах у всіх блиснула, як побачили, що Смик дав Копистці речі церковні, в голубу тканину повиті.</stage>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(помітивши блиск цей і рух).</stage>
+            <p>Не гарячись, Сергію! Чуєш?</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Не боюсь, бо маємо право!.. <stage>(Вийняв протокола).</stage> Товаришу Вася! Просю вас прочитати.</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася</speaker>
+            <stage>(почав читати).</stage>
+            <p>Протокол найбідніших граждан слобідки Рибальчанської. Слухали й постановили ми собі третього марта 1923 року, що дійсно придумали не треба лучче товариші в центрі, щоб забрати з церков срібло-злато і повернути на хліб голодним, которі у нас дійсно пухнуть і мруть без соблюдєнія статистики...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>А скільки вас вписалося?</p>
+          </sp>
+          <sp who="#holosy_act_3_scene_7">
+            <speaker>Голоси.</speaker>
+            <p>Скільки вас душ?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Дев'яносто сім!</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Всіх, хто має право голосу в нашій слобідці, сто вісімдесят дев'ять. Нас вписалося дев'яносто сім. Кого більше?.. Маємо право?.. Отож не крутіть, бо на своє не викрутите!..</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>А хто вписався в протокол?</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Не вам питати, та вже прочитай їм, Васю, щоб не крутили! Вичитай усіх... Хто там? Ну?</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася</speaker>
+            <stage>(вичитував).</stage>
+            <p>Підписались срібло-злато церковне брати: Смик Серьога, Копистка Мусій та Парасковея...</p>
+          </sp>
+          <sp who="#holos_act_3_scene_7">
+            <speaker>Голос.</speaker>
+            <p>І сюди вскочила!</p>
+          </sp>
+          <sp who="#druhyj_act_3_scene_7">
+            <speaker>Другий.</speaker> 
+            <p>Аякже! Без неї й паски не посвятяться.</p></sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Рогачка Василь, Клименко Захар, Барило Свирид. Золото Мойсей, Стоножка Іван...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Не вірю!</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Що?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Не вірю! Ви багато без спросу повписували...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Кого, наприклад?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Та хоть би й Стоножку Івана. Та чимало є таких, що не хотіли, а ви їх повписували, щоб протоколом уим незаконним людей дурити.</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик</speaker>
+            <stage>(усміхнувся).</stage>
+            <p>Ану спитай, он Стоножка Іван стоїть, спитай його!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(до Стоножки).</stage>
+            <p>Чуєте, сваток?.. Ха-ха-ха! Та на таких, як сваток Іван Стоножка, весь цей протокол, мало протокол — уся Совєцька власть держиться...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(до Стоножки).</stage>
+            <p>Скажи, Йване, привселюдно, ти з доброї волі писався? Ти згоджуєшся, щоб чашу й хрест у нас забрали?..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Скажіть йому, сваток!.. Посадіть його на лід — ану?</p>
+          </sp>
+          <stage>Всі обернулися до Стоножки Івана.</stage>
+          <stage>Він вимовив тихо і хрипко помертвілим язиком:</stage>
+          <sp who="#stonozhka">
+            <p>— Я не з доброї волі писався... Я щоб не давати чаші і хреста...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(блиснув злим смішком).</stage>
+            <p>Чули?</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Отак вони дурять нашого брата — народ!</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Отак, щоб ви знали!</p>
+          </sp>
+          <sp who="#crowd">
+            <speaker>З на товпу:</speaker>
+            <p>— Га?</p>
+            <p>— Га-га?</p>
+            <p>— Ага!</p>
+            <p>— Ага-га.</p>
+          </sp>
+          <stage>Копистка аж зблід.</stage>
+          <stage>Подивився на Стоножку, щось хотів сказати та тільки крекнув:</stage>
+          <sp who="#kopystka">
+            <p>— Хто б знав, що такий інцидент случиться! </p>
+          </sp>
+          <stage>У Васі затремтіли губи, заскакав папір у руках:</stage>
+          <sp who="#vasja">
+            <p>— Тату!.. Ви ж, тату, погодились, а я... за вас, за неграмотного, писався... <stage>(До всіх).</stage> Тато писалися!..</p>
+          </sp>
+          <sp who="#stonozhka">
+            <speaker>Стоножка</speaker>
+            <stage>(захитався та все щось каже, немов хоче тими словами підпертися, щоб не впасти).</stage>
+            <p>Яка ж ми властд, коли маслаки по дорозі, земля пухне і світ увесь хитається, хилиться — не вдержишся... Ніяк не вдержишся... <stage>(Поточився, був би впав, якби не Ганна).</stage></p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик</speaker>
+            <stage>(до Васі — аж голос вломився).</stage>
+            <p>Викресли!.. Дев'яносто шість... Вичитуй далі, хто там!..</p>
+          </sp>
+          <sp who="#dva_holosy:">
+            <speaker>Два голоси:</speaker>
+            <p>— Випишіть і мене!..— І мене. Драча Микиту...— Сироту Юхима!..</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Граждани народ! Протокол увесь чисто фальшивий... Виписуйтесь!</p>
+          </sp>
+          <sp who="#zlyj_holos">
+            <speaker>Злий голос.</speaker>
+            <p>Виписуйтеся! Виписуйтеся!</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим</speaker>
+            <stage>(протиснувся крізь натовп).</stage>
+            <p>Пропустіть, кажу!.. Маю щось казати — ось слухайте!.. Ось ну-бо, послухайте! <stage>(Виступив наперед, скинув шапку, на ціпочка сперся та й почав).</stage> Отак саме було, достеменно так, як ми на Шипці стояли... Отак, пригадую... Три тижні без харчу, ще й лихоманка — нікоторий солдат на ногах не держався. І от, з'явіть собі — генерал-лейтенант Скобильов під'їздить, ну отак як до соломи: "Здорово, дєті мої, орли!.." Бачить — нікоторий солдат на ногах не встоїть... та й заплакав. "Дісьвительно, говорить... <stage>(По паузі).</stage> Та не рябєй, говорить, дєті, — богові молитва, а церкві служба... даром не минеться!.."</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Сутая правда, старик! Кажи — говори!.. Говори!</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>І не минулась! Не пропала, кажу, бо дісьвительно прийшла Совєцька власть, которая за нашого брата стала і стоїть... І до судної дошки стоятиме... <stage>(Обернувся до сина. Затрусилася сива голова).</stage> А ти, сину, що їй зараз заподіяв?.. Виходить, вроді як до турків передався?.. Гай-гай!.. <stage>(До Васі).</stage> Впиши мене у протокол... за твого батька!.. І щоб дісьвительно було!..</p>
+          </sp>
+          <sp who="#z_natovpu_holosy">
+            <speaker>З натовпу голоси:</speaker>
+            <p>— Впишіть і мене!..</p>
+            <p>— І мене: Кондратія Хурсу!</p>
+            <p>— Сироту Юхима!</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Впиши! <stage>(Взявши у Васі протоколи, згорнув його).</stage> Було і є дев'яносто сім!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(на сторону Гирі та Годованого).</stage>
+            <p>Оце вам резолюція!— А на тім світі?.. На тім світі що тобі скажуть за хрест та за чашу? Куди тебе за них посадять?..</p>
+          </sp>
+          <stage>Тут дід з ділком як не вчепиться в діда Юхима:</stage>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим.</speaker>
+            <p>Куди б не засадили, аби тільки не з тобою! Так і богові скажу: у очі в пекло, тільки не з тобою!.. <stage>(Одійшов геть, суворий, спокійний).</stage></p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком</speaker>
+            <stage>(заверещав услід йому).</stage>
+            <p>А ти думав, у рай?.. У пекло попадеш, щоб ти знав! У пекло!</p>
+          </sp>
+          <sp who="#did_jukhym">
+            <speaker>Дід Юхим</speaker>
+            <stage>(обернувся, подивився на всіх).</stage>
+            <p>Солдат пекла не боїться!..</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Годі незгоди, граждани! Не треба ні бою, ні крові, бо вже й так земля наша вся в сукровищах... Краще попросимо товаришів, а наших сусід і братів... Навколішки станьмо... <stage>(Простяг руки).</stage> Благаємо вас, Серього й Мусію, і вас, діду Юхиме, ви ж найстаріша в слобідці нашій людина... благаємо — поставте чашу і хрест, покладіть на божий трон!.. Не знущайтеся!..</p>
+          </sp>
+          <sp who="#monaški">
+            <speaker>Монашки</speaker>
+            <stage>(як пні вклонилися).</stage>
+            <p>Молимо вас, православні... Благащим просимо словом...</p>
+          </sp>
+          <stage>Вклонилися і ті, що поруч стояли.</stage>
+          <stage>Ще вищою визначилась на задньому плані понура і грізна постать глухонімого.</stage>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>А ти, Гнате, не знущайся з темного люду! Кого дуриш? Кому очі замазуєш?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Сам же ти колись до церкви ходив, на криласі навіть співав, і люди тебе за це поважали. Коли тепер не віриш, то не заважай другому, не заступай стежки до бога...</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Був і я темним, та, спасибі революції, прозрів… Побачив, що віра — темниця, а попи то є сторожа... От і кажу...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Благаємо, покладіть святиню, бо їй же, сердешній, болить у немитих, може і грішних руках... Вона ж батьківськими й нашими молитвами вкрита, вона слізьми нашими полита... <stage>(Упав навколішки і заспівав: "Взбраннєй воєводо, побєдмгельная").</stage></p>
+          </sp>
+          <stage>До його пристали Черниці.</stage>
+          <sp who="#zlyj_holos">
+            <speaker>Злий голос.</speaker>
+            <p>Не знущайся, собако!.. Люди ж тебе просять, не звірі!..</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Благаю!</p>
+          </sp>
+          <sp who="#crowd:">
+            <speaker>Гомін:</speaker>
+            <p>— Хліб заграбували...</p>
+            <p>— Худобу забрали...</p>
+            <p>— Овець, вороного коня..</p>
+            <p>.— Качок, гусей, рядна, а тепер і святиню беруть...</p>
+            <p>— Та що ж це робиться?</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Як треба було царям воюватися, то з церков золото брали і дзвони, а як ми за шматок хліба воюємо, за свою власть, то вже й гріх? Граждане! Прошу вас циркулярно розійтисяі.. <stage>(До комісії).</stage> Ходімо!</p>
+          </sp>
+          <stage>Взявся йти, за ним рушила була комісія. Коли тут злий, аж дикий голос:</stage>
+          <sp who="#dykyj_holos">
+            <p>— Люди добрі, заступіть святиню!.. Рятуйте! Рятуйте, хто в господа бога вірує!..</p>
+          </sp>
+          <stage>Гиря підштовхнув Ларивона.</stage>
+          <stage>Глухонімий вийшов, нахиливши голову, навперейми комісії.</stage>
+          <stage>Вишкірив зуби. Грізно мугикнув.</stage>
+          <stage>Раптом одним рухом вирвав у Копистки церковні речі, плечем одкинув Смика і ще когось. Од черевного дикого його ревіння шугнули, розступились усі.</stage>
+          <stage>Причинивши браму, поклав речі, вийшов, зачинив браму і став перед нею, темний, грізний, ошкірений.</stage>
+          <stage>Кинулись до його Смик, Копистка:</stage>
+          <sp who="#smyk #kopystka">
+            <p>— Оддай, Ларивоне!</p>
+            <p>— Чуєш ти?.. Оддай, братко!</p>
+          </sp>
+          <stage>Ларивон замахнувся дрючком — засвистіло в повітрі. Мусили одійти.</stage>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Не займайте його, не займайте! Це ж бог його з неба врозумив і силою своєю осіяв... <stage>(До всіх).</stage> Чудо явив!..</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Знаємо, хто врозумив!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Врозумили його тут, на землі! <stage>(До Ларивона).</stage> Ех, ти ж темниця, темниця, братко! Кого ти послухав, подумай!..</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Хіба можна йому людське слово почути чи чоловіка послухати, коли він од роду глухий і німий, граждани? Не що інше, як чудо господнє, граждани...</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Авжеж, чудо! Тільки бога почути воно може, тільки бога, щоб ти знав.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Почує він і нас. грішних. <stage>(До Ларивона).</stage> Слухай, братко <stage>(на мигах та знаках),</stage> ось слухай: бач, пухлі кругом, їсти хочуть — як хочуть! Приходять до його <stage>(показав на Гирю),</stage> просять, падають... Дай-дай! Ворота заперто, собаки гав-гав — не дає!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Душу б оддав! Забрали! Нема!</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Душі в тебе нема й не було, а хліб іще є!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Нема!</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Є!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(до Ларивона).</stage>
+            <p>Помирають, братко, сам же ти бачив такі інциденти. І там помирають. І скрізь помирають. Ніхто даром хліба не дає. Говорять — дай гроші, що круглі і сяють... От-от, що круглі і сяють. А грошей нема: і в тебе, і в мене... А з чаші й хреста Совіцька влада викує гроші!.. От-от! Гроші, браток!</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Зуби!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Що?</p>
+          </sp>
+          <sp who="#hodovanyj #did_z_tsipkom #monaški">
+            <speaker>Годований, дід з ціпк ом, монашки:</speaker>
+            <p>— Комісарам зуби!</p>
+            <p>— Каблучки!</p>
+            <p>— Персні!</p>
+          </sp>
+          <sp who="#kopystka #paraska #smyk">
+            <speaker>Копистка, Параска і Смик.</speaker>
+            <p>Гроші на хліб!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Бідному класу — тобі, братухо, мені й усім — за чашу і хрест золоті — хліба, браток, привезуть. Добрав тепер діла? От-от. Привезуть! Он-он з того краю, тією дорогою, з города... Брат, брат, як зариплять вози! А то й машиною, отим автомобілем. Бачив! Чох-чох...</p>
+          </sp>
+          <stage>Мабуть, надія замріяла в кожного, бо в натовпі голови всіх повернулись у той бік.</stage>
+          <stage>Глянув туди й Ларивон.</stage>
+          <sp who="#hodovanyj">
+            <speaker>Годований</speaker>
+            <stage>(іронічно).</stage>
+            <p>Подивіться, граждани, подивіться! Он-он головний комісар їхній їде — голодная смерть! Га-га! Хіба не чуєте — ребрами торохтить?.. Подивіться, як кажуть, пожалуста...</p>
+          </sp>
+          <stage>У натовпі рух. В очах затінилось страхіття.</stage>
+          <sp who="#hodovanyj">
+            <p>Чого ж ви всі одвертаєтесь?.. Га-га! Отож воно й є! Не привезуть! Бо ніколи ще до нас не возили — тільки вивозили. Га-га! Птиця повтікала — подумайте. Гав не стало!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(підійшовши близько до Ларивона).</stage>
+            <p>Голодної смерті хрестом не одгониш, тільки хлібом... Все одно без чаші, без причастя народ умирає... На біса воно? Оддай, Ларивоне!.. Ну, голубе?</p>
+            <stage>Визвірився знов Ларивон, замахнувся дрючком. Копистка одскочив:</stage>
+          </sp>
+          <sp who="#kopystka">
+            <p>— Ех ти, темная сило!</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Одійди, Мусію!.. Його вже освітили й осяяли... <stage>(Вийняв нишком револьвера).</stage> Тепер тільки оце й допоможе...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ти здурів?.. Та вони цього тільки й ждуть... Кинь!.. Заховай!.. <stage>(Та й прикрив своєю рукою револьвер. Учепився за Смикові руки).</stage></p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Пусти! Як оддамо цінності — оддамо усе. Або тепер, або... Пусти, кажу!</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p><stage>(помітила, що лихо).</stage> Стійте, чоловіки, ось стійте! <stage>(Ухопила за руку Орину, вивела наперед).</stage> Ходімо, Орино, Ларивон нас не вдарить... Ганно! Явдохо, чого стоїте? Ходімо всі жінки! Візьмемо чашу і хрест од його! Він нам оддасть, от їй-бо... <stage>(До черниць).</stage> А ви, ґави, цитьте! <stage>(До жінок).</stage> Ну?</p>
+          </sp>
+          <stage>Одна Орина пошкандибала, безтямно бурмочучи:</stage>
+          <sp who="#oryna">
+            <p>— Авжеж, ходімо!.. Ходімо, ходімо... Аби не додому — ходімо! По чашу ходімо!..</p>
+          </sp>
+          <stage>Жінки зворухнулись проте не пішли.</stage>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Стій, Ларивоне, голубе, стій!</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>Авжеж, стій! Стій-стій! Татонько, стій!</p>
+          </sp>
+          <stage>Став Ларивон. Дрючок додолу спустив. Дивиться.</stage>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Я тобі ще раз сорочку з бруду виперу... Тричі виперу, тільки ти не бийся...</p>
+          </sp>
+          <stage>Вищиривсь на неї Ларивон, подобно усміхнувся.</stage>
+          <stage>А Параска так і засвітилась радісно:</stage>
+          <sp who="#paraska">
+            <p>— Бач, не забув, як колись я сорочку йому випрала</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>Авжеж, не забув, мій татонько. Бо хто ж, як не я, на його каліцтво зглянулась і в житі з ним трошеньки полежала... Татонько мій! Не забув — не забув...</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Ти ж її не вдариш, Ларивоне? А мене? Ні? А чашу та хрест оддасиш? Дурненький, на хліб поміняємо, діток погодуємо, од голодної смерті врятуємо...</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>Авжеж, погодуємо! Хоч раз погодуємо! Погодуємо-погодуємо. А вони засміються, татоньку мій... <stage>(Аж засміялась, до Ларивона припавши).</stage></p>
+          </sp>
+          <stage>Повернувся Ларивон, браму одчинив і виніс чашу та хрест.</stage>
+          <stage>Тиче іх Орині, Парасці, а сам одкрив рота, мугикає.</stage>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Сам винеси, Ларивоне! Он-он туди, у ревком! Неси! Неси!..</p>
+          </sp>
+          <stage>Підійшли ще жінки, оточили Ларивона. Підбіг Смик.</stage>
+          <sp who="#oryna">
+            <speaker>Орина</speaker>
+            <stage>(шкандибаючи попліч з Ларивоном, за чашу рукою вхопилась).</stage>
+            <p>Авжеж, неси! Неси, неси!..</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>А що! Дорогу дайте, чоловіки!</p>
+          </sp>
+          <stage>Натовп посунув за ними. Тільки біля Гирі та Годованого купка зосталась.</stage>
+          <stage>Та ще Копистка, скручуючи цигарку, одстав.</stage>
+          <stage>Запалив, цвіркнув та й кинув на сторону Гирі:</stage>
+          <sp who="#kapistka">
+            <p>— Оце й я скажу — чудо! З резолюцією... <stage>(Іронічно).</stage> Ну, моліться, моліться, бо я б молився, та, вірите, ніколи... <stage>(Та й подався).</stage></p>
+          </sp>
+          <stage>Завіса</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>ДІЯ ЧЕТВЕРТА</head>
+        <div type="scene">
+          <head>1</head>
+          <stage>Напровесні Копистка сидів у сільраді сам. Коли чує: бам-бам-бам! — задзвонили в церкві. Задзвонили — перестали.</stage>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Гм... Що за знак? Немов на пужар, тільки ж перестало... <stage>(Одчинив віконце, виглянув).</stage> Ага, Васько!.. Чуєш, Василю? Чи не знаєш часом, чого так у церкві задзвонили?.. Питаю, чого так чудно задзвонили?.. Не знаєш... А куди це ти з торбою, га?.. Що?.. Ти ось краще зайди сюди, синашу! Та на часинку!.. <stage>(Повернувся до дверей).</stage> Щось надумав, мабуть, хлопець.</p>
+          </sp>
+          <stage>Увійшов Вася. Ноги пухлі. В руках паличка, за плечима торбинка.</stage>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Здрастуй, синок!.. Так, кажеш, не знаєш, чого дзвонили?</p>
+          </sp>
+          <stage>Вася тільки головою хитнув.</stage>
+          <sp who="#kopystka">
+            <p>Може, де пужар?.. Не видко, кажеш... Гм... А куди це ти налагодився?</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася</speaker>
+            <stage>(як хворий, повів рукою).</stage>
+            <p>А... туди.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>От тобі й на! Та куди саме?</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Не знаю... В город думка була.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>В город?</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Мати померла й батько, ви ж знаєте. А сьогодні дід вночі: тікай, кажуть, закурили — і вмерли. Сумно якось стало одному. Так я встав уранці та й пішов.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А дід хіба не ходив до церкви? Гиря ж там, кажуть, вареним ячменем людей годує!</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Діда прогнали... А я не ходив. Маслаки кінські збирав і варив. А палива з стріхи Смикав.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(зворушився).</stage>
+            <p>То чом же до мене не прийшов, чудій ти, не чоловік! Я б тебе печеною ґавою нагодував... А в торбинці в тебе що?</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Та... Книжки.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Гм. . Книжки? І букваря, ма'ть, забрав?</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Та... й букваря.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>І тетрадьку?</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Яку тетрадьку?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та тую, що... совіцькі слова вписував.</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>А-а... Забрав, дядю! Аякже!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(заходив по хаті).</stage>
+            <p>Ти ось що, синок!.. Ти не ходи в город, бо не дійдеш. Помреш у дорозі. Зоставайся тут... За секретаря будеш. Тобі скільки років?</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Та... ще помру я тут.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Чорта помремо, синок! Будь єрой!.. От-от, як не видно, їде вже, повертає з города Серьога і, мабуть, з хлібом...</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Кажуть, що не приїде, бо вже місяць, як повіз у город чашу й хрест, а не видно й не чути, кажуть...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Хто каже?.. Приїде! Ось побачиш — приїде! А он тобі надворі що — весна? А ондечки подивись що — сонце? Та яке сонце, гей!</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Та... сонця ж не можна їсти.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А то так: сонце не ґава — його не впіймаєш. Та тільки ти не добрав діла, синок! Сонце припече, трава наросте, рогоза в річці, риби наловимо, юшки наваримо... Ну, а там незабаром трах-тара-рах — хліб уродить... А поки що в мене сьогодні ґава є. Катай, синок, до мене жити! Ну що?</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася</speaker>
+            <stage>(осміхнувся крізь сльози).</stage>
+            <p>Та... не знаю, як це воно буде.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Знаєш, синок, що я надумав?</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Що?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А ось що: я тебе смаженою ґавою годуватиму, а ти мене за це букваря довчиш. Гаразд?</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Гаразд!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Трах-тара-рах, резолюцію прийнято! Отже, таки вивчусь я грамоти, туди його маму! І рихметики вивчусь, і всякої політики...</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>3</head>
+          <stage>Убігла Параска.</stage>
+          <sp who="#kopystka_do_neï:">
+            <speaker>Копистка до неї:</speaker>
+            <p>— Чуєш, стара? Давай на старість ще таку штуку встругнемо — і тебе грамоти вивчимо, га?</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Годі! Он що в церкві робиться!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Що?</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Я так і думала: сидить, мабуть, руда сатана та цигарку смокче, а не туди, що вже треба нам ховатися або тікати!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>От тобі й на!</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Тобі на!.. То ж закурив собі голову так. що й смерті вже своєї не бачиш! І так увесь вік. Як ще колись козаки приїздили вбиваги людей за ту панську економію, що спалили, — так люди — як люди... Той утік, той заховався, а він, руда сатана, досидівся, докурився отак, аж поки наскочили козаки...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та через кого ж, як не через тебе, зозулько, увесь той інцидент і случився. Прибігла отак: гари, гари... їдуть! А хто їде — не добереш...</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Що? Через мене, кажеш?.. Подивись, Мусію, мені у вічі!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Подивись ти мені у вічі!..</p>
+          </sp>
+          <stage>І дивились одне одному в вічі, аж поки Копистка не одвів своїх.</stage>
+          <sp who="#kopystka">
+            <p>Ну годі, бо хіба жінку передивишся!..</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Моя правда, Мусію!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Годі!..</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>І побачиш, як не на моє вийде! Отак і вб'ють тебе, отак через цигарку не вбачиш, де й смерть на тебе візьметься...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та кажи, що в церкві?</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Ага! Тепер кажи... Слухай, Мусію! Вони ось-ось прийдуть з церкви сюди... вбивати...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Хто?</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Кого?</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Орину, Ларивона і нас!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та кажи товком!</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Слухай! Орина й Ларивон (він живе у неї) прийшли до церкви. Гиря ж ото роздавав по ложці варений ячмінь людям, і Лизька була, і знаєш ще хто? Панько! Прибрався, одягся, миску з ячменем за Лизькою носить, ще й свічечку. А Лизька роздає. Побачив мене і, як пес той, щулився і свічечку ту не зна, де подіти... Га, Мусію? Наш секретар!.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та мать його!.. Кажи далі!</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Отож Гиря не дав Орині ячменю, каже:"Піди та перш помолись, у батюшки посповідайся". А вона вже несповна розуму, пішла, ще й Ларивона потягла. А на сповіді й каже: дітей з Ларивоном поїла...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(аж похитнувся).</stage>
+            <p>Та що ти кажеш, Параско?..</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Піп про це Гирі, Гиря людям... Задзвонили в дзвони, позбігалися, Ларивона пов'язали... До розправи, кричать, повбивати їх треба!.. Чую, й на тебе похвалки гонять... Кажуть: Смик утік, Совіта нема — саме слушний час... Та я з церкви та городами, городами сюди... Тікаймо, Мусію, бо вб'ють!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ти ось що, Параско!.. Ти...</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Тікаймо, кажу! Чого ще сидіти отут! Щоб на шматки розірвали?.. Якби ти чув, що вони казали!.. Сюди прийдуть, казали... Тікаймо! Отак городами повз стару греблю, щоб не побачили...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ша, Парасю, ша!.. Ти ось що, кажу, біжи зараз та скликай...</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Кого?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Наших!.. Усіх, хто живий ще зостався.</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Вже й: їх не докличешся, дурний ти!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Дев'яносто сім...</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Було та загуло! Сьогодні вночі не спалося, дак я всім число склала. Половина слободи людей вимерло, а наша голота поперед усіх в ямки попадала...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А Кондратій Хурса, Клименко Захар, Барило один і другий, Сирота Юхим, Золото Мойша?..</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Та вони вже такі, що й ніг, либонь, не потягнуть...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Клименко Захар, завчора бачились, ось тут сидів... Та й Сергій казав, як їхав: гляди ж, стережи, Мусію, казав...</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Стережи! Кого?.. Що?.. Оцю порожню халупу?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Совіцькую власть, дурна на тобі голова!..</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>На тобі! Бо як поприходять ось, то й ту дурну зірвуть, а без неї що ти встережеш. Що, питаю?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker> 
+            <p>Серьога ось-ось як не приїде...</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Не приїде твій Серьога! Він уже забув, відкіля й двері до нас одчиняються. П'ятий тиждень пішов, а його нема. І не буде! Бо він не такий дурний: забрав золото...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(аж руку звів).</stage>
+            <p>Знаєш що, Параско?</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Ну що?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Не піднімай преній — от що!</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Мусію! Благаю!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Я що сказав?</p>
+          </sp>
+          <stage>Параска принишкла.</stage>
+          <sp who="#kopystka">
+            <p>Зараз, кажу, біжи!.. Нагукай там, хто живий!.. Та не барися, чуєш? Одною ногою там — другою щоб тут!..</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>А коли я вже тебе здихаюсь, руда сатана! Коли вже ти мені світ розв'яжеш! І якби ж путяще що, а то ж... <stage>(Вибігла і за хвилину назад).</stage> Мусію!.. Ідуть!.. Вже недалеко, ось...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ну що ти їй!.. Біжи!</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Тепер я городами... Ти ж гляди, Мусію, без мене... нічого не роби тут... Я одним духом... <stage>(Побігла).</stage></p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(до Васі).</stage>
+            <p>А ми, синок, ось що... Зараз зорганізуємо ревком.</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Як це ревком?..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А так, що Совєта у нас нема? Нема, бо повмирали або неспособні лежать. Гиря до власті свої руці простяга? Простяга, через Панька простяга, бо Панько йому продався... Я оце про все подумав, про всю їхню політику... А ти, Василю, грамотний, пишеш так аж-аж — і хлопець — єрой революції. Сідай за секретаря.</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Та я не вмію, щоб по-писарському. Не вчився.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>На біса по-писарському! Пиши по-нашому. <stage>(Дістав із шафки паперу, перо, чорнило, тиче Васі).</stage> Пиши: як у нашій слобідці комнезами вимерли, Совєта нема, а контра висунула голову, сичить гадюкою, от-от укусить, то постановили...</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Та не можу я, щоб за секретаря! От право, не можу!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та ти ж уже писав раз! Сідай! <stage>(Посадив Васю, умочив йому перо).</stage> Я буду проказувати, а ти пиши! Одно знай пиши, а тоді підпишемо... удвох... Ну, слухай! Пиши: призначення ревкому. Написав? Тепер пиши: постановили...</p>
+          </sp>
+          <sp who="#vasja">
+            <speaker>Вася.</speaker>
+            <p>Щось не так, дядьку Мусію. Треба перш — слухали.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та кого ти будеш слухати, як нікого нема! Кажу я — повмирали або неспособні лежать...</p>
+          </sp>
+          <stage>Близько грізно підступив до вікон гомін. Уже стало чути тупотняву.</stage>
+          <sp who="#kopystka">
+            <p>Та що його довго балакати! Пиши: постановили призначити на ревком, поки повернеться з города Серьога, на предсідателя Мусія Копистку, а на секретаря — товариша Стоножкина Василя... Пиши, синок! Трах-тара-рах — резолюцію прийнято! Шабаш!.. А тепер — треба покурити, бо хто його зна, що там буде...</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>4</head>
+          <stage>Хтось одкинув двері навстіж. Гунув натовп.</stage>
+          <stage>Попереду ввійшов Годований. За ним Дід з ціпком:</stage>
+          <sp who="#did_z_tsipkom">
+            <p>— Ведіть їх сюди! Зараз судитимемо!..</p>
+          </sp>
+          <stage>Увели Орину й Ларивона, зв'язаного й спутаного.</stage>
+          <stage>Увійшов Гиря. Набилося людей.</stage>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Де предсідатель?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Що трапилось?</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Я питаю, де предсідатель? Де ваша вдасть?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Що трапилось, питаю?</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Людоїдів привели, щоб ти знав!.. Хіба не бачиш?</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Ми, народ, питаємо — де предсідатель?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Хіба не знаєш — у повіт поїхав!</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Граждани люди! Уже місяць, як нема предсідателя! Чи не пора нам спитати: а чому його так довго нема?</p>
+          </sp>
+          <sp who="#zlyj_holos">
+            <speaker>Злий голос.</speaker>
+            <p>Утік!</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Сутая правда! Утік! Забрав золото, народне добро, і втік. <stage>(До Копистки).</stage> Виходить — утекла ваша власть? Виходить — власті нема? <stage>(До натовпу).</stage> Граждани люди! Власть утекла, Совєта нема — мабуть, самі судитимемо?</p>
+          </sp>
+          <sp who="#zlyj_holos">
+            <speaker>Злий голос.</speaker>
+            <p>Авжеж, самі!</p>
+          </sp>
+          <sp who="#crowd:">
+            <speaker>Гомін:</speaker>
+            <p>— Самі!</p>
+            <p>— Починайте!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ша трошки, ша!.. Бо є ревком...</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Ревком? Де він? Хто?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Тутечки він, ось!.. Я предсідатель, а оцей парнишка — товариш Стоножкин — секретар. Протокол є. Вам чого требується?</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Та хто вас обрав? Де ви взялися?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Тут і не требується обирати. Тут так: об'явився — й шабаш. Аби тільки за бідний клас стояв. Такий совіцький закон є... І не думайте, не простий собі закон, а секретний і вроді воєнний...</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Так це ти об'явився ревкомом?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Еге ж!</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Ти?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>От чудак, ще й питаєш... Та кому ж і об'явитися, як не нам?.. Ну, подумай! Не станеш же ти, чи Гиря, чи там дід Онисько ревкомом, коли по закону вам не полагається...Годований, <stage>(аж очі налилися кров'ю, засіпалися губи).</stage> Та це ти думаєш ще раз заступити нам дорогу?.. Граждани, люди!.. Та доки ще він буде!..</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(спинив Годованого).</stage>
+            <p>Постривай! Не треба сварки... Хай покаже, який він ревком. <stage>(Тоді до Копистки).</stage> Ну, що ж! Обібрався грибом, то лізь у козуб. Ось народ привів людоїдів. Скажи, що з ними робитимеш? <stage>(До людей).</stage> Постороніться трошки! Хай людоїди вийдуть наперед, щоб їх ревком побачив.</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>От до чого призвело більшовицькеє движеніє! Людоїдство повелося!.. Ну, що тепер скажеш, товаришу ревком?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А от розпитаюся, тоді й скажу. Ану цитьте! До порядку! Діду, одступіться трошки назад!..</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Годі вже наставляти на порядок! Бо вже допорядкувалися, годі!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Вам, діду, слова не дадено!</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>І просить тебе не стану. Захочу сказати, то скажу, ще й в очі плюну. Отак!.. <stage>(Та й плюнув на Копистку).</stage></p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(не зворухнувся. Вийняв кисет. Закурив).</stage>
+            <p>Товаришу секретар! Впишіть цього факта в протокол. А резолюція трошки згодом вийде... <stage>(До натовпу).</stage> Зараз ревком править засідання. Якщо маєте щось сказати, то кажіть по-людському! А плювати тепер і на долівку заборонено...</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>А людей їсти у вас заборонено?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Ось тихо, граждани!.. <stage>(До Копистки).</stage> Сьогодні люди довідались, що оцей чоловік, Ларивон , порізав дітей... Аж три тижні оця женщина, Орина, сказать би, мати, варила й смажила вночі своїх діток м'ясо. Маслаки ось у ряднині — речовий доказ... Тепер народ привів їх до розправи, щоб судити. Правду я кажу, граждани?</p>
+          </sp>
+          <sp who="#crowd">
+            <speaker>Гомін</speaker>
+            <stage>(грізно):</stage>
+            <p>— Авжеж, правду!— Гола правда!</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Суди ж їх, коли ти ревком! При всіх суди, при людях, щоб кожне бачило й чуло, як судить ревком людоїдів... А тоді й ми своє слово скажемо...</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Та хіба в їх суд є? Більшовицьке движеніє, та й усе!.. Нема бога, нема царя — нема й суда, щоб ти знав!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Скажи, Орино, ти їла своїх дітей м'ясо? Правду кажи, не бійся!</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина</speaker>
+            <stage>(чудно якось посміхаючись).</stage>
+            <p>Їстоньки хотілось. Дуже хотілось. Я прийшла увечері додому, аж Маринка померла. А Ларивон, дай бог йому здоров'ячка, й показує: або всім помирати, або давайте по шматочку їсти Маринку...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Виходить, ви їли мертвих дітей?</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>Авжеж, мертвеньких! Мертвеньких, мертвеньких... Ларивон , спасибі йому, нагострив ножа... А я стала до ікони, помолилася. І боженька бачив, як Ларивон різав, а нічого не сказав. Тільки осміхнувся... <stage>(Засміялась тихим напівбожевільним сміхом).</stage> Я їстоньки дуже хотіла, аж в голові каламутилось... Я в печі запалила, пополоскала гарненько, чистенько.</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(аж хитнувся).</stage>
+            <p>Що пополоскала?</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>Маринку, мою донечку... Хоч їстоньки дуже хотілося, проте я в той вечір Маринки не їла. Ларивон їв і дітям давав. Тільки солі не було... Без солі бідненькі їли... Без солі — без солі...</p>
+          </sp>
+          <stage>З натовпу гомін.</stage>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Брешеш, і ти їла! Троє діток було — і всіх поїла! Ось у ряднині кістки...</p>
+          </sp>
+          <sp who="#oryna">
+            <speaker>Орина.</speaker>
+            <p>Авжеж, кістки. <stage>(Махнула кудись рукою).</stage> І там кістки, і скрізь-скрізь кістоньки-кістоньки... Учора в церкві, думала, свічки горять, аж то кістки... такі жовтенькі, як у Маринки... Ій-бо... Стирчать і сяють...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(до всіх).</stage>
+            <p>Чуєте? Вона призналась, вона не криється. Ось тихо! Даймо тепер ревкомові слово! Хай він перший скаже, якою карою покарати людоїдів... Ну, Копистко?</p>
+          </sp>
+          <stage>З натовпу підхопили:</stage>
+          <sp who="#z_natovpu">
+            <p>— Кажи!</p>
+            <p>— Говори!</p>
+            <p>— Суди!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ось що я скажу! Не мені й не вам їх судити...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Он як!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Не мені, кажу, і не вам, бо ми не спеціальнії люди. До повіту треба вдаритися, щоб приїхала комісія, бо до цього діла треба таких суддів, щоб на голову спеціальні були...</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Ага! Он куди він гне... Га?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А ти як думав: трах-тара-рах — і весь суд? А може, вони з голоду розум втеряли і треба, щоб доктор їм у голову заглянув. Як там і що... Може, у їх щось не в порядку, і тоді хто за це одвітить?..Та ще й незвісно, що в повіті скажуть, як дознають, що в нас таке лихо повелося. А дознають!..</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Виходить, що ревком не в силах людоїдів судити?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ревком зараз візьме їх під арешт і негайно сповістить у повіт... Товаришу секретар! Напишіть у повіт циркуляра, щоб зараз, негайно...</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(перебив).</stage>
+            <p>Виходить, що ревком за людоїдів?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Підожди!..</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Аякже: де б вивести зараз людоїдів отуди до канави та повбивати, а ти їх під арешт, годуватимеш, та ще й доктора до них?.. Оце суді Оце ревком, я вам скажу! <stage>(До юрби).</stage> Бачили? Чули?</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Погибаємо! Од більшовицького движенія погибаємо!</p>
+          </sp>
+          <sp who="#holos_act_4_scene_4">
+            <speaker>Голос.</speaker>
+            <p>Повбивати їх... Людоїдів і ревкома разом!.. Щоб не було!..</p>
+          </sp>
+          <sp who="#shche_holosy">
+            <speaker>Ще голоси.</speaker>
+            <p>Повбивати, як собак!</p>
+          </sp>
+          <sp who="#zlyj_holos">
+            <speaker>Злий голос.</speaker>
+            <p>Мало повбивати! Бо собака, як голодна, то лежить і здохне, а не з'їсть своїх дітей... Живих закопати їх в землю, ось що я скажу!</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Хто за те, щоб повбивати людоїдів, хай підніме руку!.. Раз, два, три, чотири... сім... десять-тринадцять... Всі, як один!</p>
+          </sp>
+          <sp who="#zlyj_holos">
+            <speaker>Злий голос.</speaker>
+            <p>І Копистку з ними.</p>
+          </sp>
+          <stage>Галас, вигуки, аж затанцювали:</stage>
+          <sp who="#crowd">
+            <p>— І Копистку!</p>
+            <p>— Увесь ревком!</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Хто за те, щоб і Копистку та й цього парубійка з ними? <stage>(Показав на Васю).</stage> Раз, два, три... п'ять... сім... десять... Всі, як один! Так! І хто за те, щоб це діло зробити по-воєнному, одним заходом, зараз?.. Раз, два, три... сім... дев'ять... Всі, як один!..</p>
+          </sp>
+          <sp who="#zlyj_holos">
+            <speaker>Злий голос.</speaker>
+            <p>Та годі щитати! Виводь їх! До канави!..</p>
+          </sp>
+          <stage>В юрбі закричали, замахали руками, ціпками:</stage>
+          <sp who="#crowd">
+            <p>— В'яжи!</p>
+            <p>— Давай мотузка!..</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(виступив).</stage>
+            <p>Іще, граждани, забулися!.. Нам треба нову власть обрати! Чуєте? Я думаю так: Годованого на предсідателя, а за секретаря...</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Та кого ж, як не Пантелеймона Петровича! Панька!..</p>
+          </sp>
+          <stage>Та вже їх ніхто не слухав. В'язали Копистку.</stage>
+          <stage>Виводили Васю, Орину, Ларивона. Дід з ціпком шматував і топтав протокола.</stage>
+        </div>
+        <div type="scene">
+          <head>5</head>
+          <stage>Вивели їх на вигін до канави. Поставили вряд. Гомін, вигуки вщухли.</stage>
+          <sp who="#hyrja">
+            <speaker>Гиря</speaker>
+            <stage>(виступив наперед).</stage>
+            <p>Ну, чого ж ми стали?.. Кінчаймо?</p>
+          </sp>
+          <stage>Юрба завагалася. Гиря знов:</stage>
+          <sp who="#hyrja">
+            <p>— Ну от... Привели, а самі поставали... Треба ж той... Ну?.. <stage>(Усміхнувся, скривившись).</stage> Не молиться ж на їх!.. Ану-ну? Хто перший, починай!</p>
+          </sp>
+          <stage>Юрба зворухнулась і знову стала.</stage>
+          <sp who="#hyrja">
+            <p>Та невже ніхто не наважиться, га? Все одно назад вже не можна. Раз почали... Граждани!</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований</speaker>
+            <stage>(годі).</stage>
+            <p>Господи благослови! Я первий піднімаю руку... <stage>(Вийняв з-під поли обріза, повернувся до Гирі).</stage> По одному чи всіх підряд будемо?</p>
+          </sp>
+          <sp who="#hyrja">
+            <speaker>Гиря.</speaker>
+            <p>Як хочеш... Я ж не вмію стріляти.</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Доведеться по одному... там за канавою... <stage>(Гукнув на юрбу).</stage> Ану розступіться, граждани!.. Дайте дорогу... <stage>(Смикнув Ларивона).</stage> Ходім, ти!.. <stage>(Повів його, взявшись за кінчик пов'язаного мотуза).</stage></p>
+          </sp>
+          <stage>Юрба загомоніла і втихла.</stage>
+          <stage>Кожне стежило. очима, як заводив Годований глухонімого за канаву, як спинив його й наказав стати на коліна.</stage>
+          <stage>Чулося звідти:</stage>
+          <sp who="#hodovanyj">
+            <p>"Стань навколішки! Ну?.. Чуєш?.. Отак, дивись. Отак!.."</p>
+          </sp>
+          <sp who="#htos_act_4_scene_5">
+            <speaker>Хтось</speaker>
+            <stage>(тоді в натовпу).</stage>
+            <p>Навіщо він його навколішки?</p>
+          </sp>
+          <sp who="#druhyj_act_4_scene_5">
+            <speaker>Другий.</speaker>
+            <p>Щоб краще вцілити... </p>
+          </sp>
+          <sp who="#tretij_act_4_scene_5">
+            <speaker>Третій</speaker>
+            <stage>(не одводячи очей).</stage>
+            <p>Цитьте! </p>
+          </sp>
+          <sp who="#crowd">
+            <speaker>В юрбі.</speaker>
+            <p>Цитьте!.. Цитьте!..</p>
+          </sp>
+          <stage>Юрба завмерла. Гримнув вистріл.</stage>
+          <stage>У Копистки впав з голови картузик. Вася заплющив очі.</stage>
+          <stage>Юрба ожила, вибухла гомоном, криками:</stage>
+          <sp who="#crowd">
+            <p>— Попав!</p>
+            <p>— Як у серце вліпив!..</p>
+            <p>— Дивись, кров он...</p>
+          </sp>
+          <sp who="#htos_act_4_scene_5">
+            <speaker>Хтось</speaker>
+            <stage>(аж підскочив).</stage>
+            <p>Так його!</p>
+          </sp>
+          <sp who="#crowd">
+            <speaker>Юрба</speaker>
+            <stage>(раптом подалася назад):</stage>
+            <p>— Дивись, він встає!— Живий!..— Лізе!</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Його куля не візьме.</p>
+          </sp>
+          <stage>Дехто взявся тікати. Ще раз бахнув вистріл. Втікачі спинились:</stage>
+          <sp who="#crowd">
+            <p>— Упав! Упав!</p>
+            <p>— Тепер вже капут йому!.</p>
+            <p>— Ні, дивись, ще встає...</p>
+          </sp>
+          <sp who="#did_z_tsipkom">
+            <speaker>Дід з ціпком.</speaker>
+            <p>Кажу, куля не візьме! Свяченим ножем дорізати треба!.. Свяченим, щоб ти знав!..</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>6</head>
+          <stage>Прискочив Годований.</stage>
+          <sp who="#hodovanyj">
+            <p>— Дайте сокиру!.. Добити треба!</p>
+          </sp>
+          <stage>Юрба підхопила:</stage>
+          <sp who="#crowd">
+            <p>— Сокиру сюди!</p>
+            <p>— Авжеж, сокирою требаї</p>
+          </sp>
+          <stage>Подали сокиру. Годований вихопив з рук. Хтось до його, нетерпляче:</stage>
+          <sp who="#htos_act_4_scene_6">
+            <p>— Дай я!</p>
+          </sp>
+          <sp who="#druhyj_act_4_scene_6">
+            <speaker>Другий.</speaker>
+            <p>Ось я! </p>
+          </sp>
+          <sp who="#tretij_act_4_scene_6">
+            <speaker>Третій.</speaker>
+            <p>Я! Я!</p>
+          </sp>
+          <stage>Вчепилися в сокиру.</stage>
+          <sp who="#druhyj_act_4_scene_6">
+            <p>— Пусти!</p>
+          </sp>
+          <sp who="#tretij_act_4_scene_6">
+            <p>— Ти пусти!</p>
+          </sp>
+          <sp who="#crowd">
+            <speaker>З юрби.</speaker>
+            <p>Пустіть! Нехай один хто...— Один нехай!</p>
+          </sp>
+          <sp who="#htos_act_4_scene_6">
+            <speaker>Хтось</speaker>
+            <stage>(тоном філософа).</stage>
+            <p>Ну й народ у нас! І тут один в одного з-під рук вихоплює.</p>
+          </sp>
+          <sp who="#hodovanyj">
+            <speaker>Годований.</speaker>
+            <p>Пустіть, я самі <stage>(Побіг за канаву).</stage></p>
+          </sp>
+          <stage>За ним посунулась сп'яніла од крові юрба.</stage>
+          <sp who="#oryna">
+            <speaker>Орина</speaker>
+            <stage>(безтямно).</stage>
+            <p>Ху, мухи... <stage>(Замахала руками).</stage> Мухи... Нічого не видно... Одгоніте ж мух!.. Одгоніте-одгоніте!..— Дядю Мусію! Отак вони і нас... вбиватимуть.</p>
+          </sp>
+          <stage>У Васі зацокотіли зуби.</stage>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ось зараз, синок... Прийдуть наші, синок... Параска ж побігла. Та ось і вона!... Ось!..</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>7</head>
+          <stage>Прибігла Параска. Хустка злізла, от-от упаде:</stage>
+          <sp who="#paraska">
+            <p>— Мусію! Що ж це таке, Мусію?!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(здвигнувся, повів головою).</stage>
+            <p>Ша!.. Кажи тихо!.. Покликала?</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Не докликалась!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Клименко Захар?</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Учора пішов в поле корінці копати, нахилився й помер...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>А Хурса?..</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Хурса на печі помер...</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Та ти всіх оббігала?.. А Барили, Сирота Юхим, Золото Мойша?..</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Всіх! Барили десь подалися в город. Сирота п'ятий день у хаті мертвий лежить... <stage>(Та й замовкла).</stage></p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(по паузі).</stage>
+            <p>Ти ось що, Параско</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Ну?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Скрути мені цигарку... Кисет отут... у правій кишені... і сірнички...</p>
+          </sp>
+          <stage>Взялася Параска крутити цигарку. Пальці тремтять.</stage>
+          <sp who="#paraska">
+            <p>— Мусію! Знаєш, що я надумала?</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Не розсипай!..</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Я з тобою стану... Нехай вбивають разом!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Ти ось що... Ти зараз катай в город!.. Ярком, понад греблею, щоб не побачили.</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Годі! Нікуди я не піду!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Не заводь преній! Звістку даси, за свідка на суді будеш...</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Мусійчику!..</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка.</speaker>
+            <p>Мерщій крути!.. За свідка, кажу, будеш!.. Про все розкажеш, як і що... Скажеш — протоколе порвали.</p>
+          </sp>
+          <stage>З-за канави почулося:</stage>
+          <sp who="#crowd">
+            <p>— Готовий!.. Ведіть тепер Копистку!</p>
+          </sp>
+          <stage>Крикнуло кілька голосів:</stage>
+          <sp who="#crowd">
+            <p>— Копистку!</p>
+            <p>— Подай Копистку!</p>
+          </sp>
+          <sp who="#kopystka">
+            <speaker>Копистка</speaker>
+            <stage>(до Параски).</stage>
+            <p>Запали!..</p>
+          </sp>
+          <stage>Запалила Параска цигарку, потягла, дала чоловікові,.</stage>
+          <sp who="#kopystka">
+            <p>Ну, гляди ж мені... щоб дійшла благополучно!.. Йди! Біжи, а то...</p>
+          </sp>
+          <stage>Насунулась юрба. Повели Мусія Копистку. Тоді Вася немов виріс:</stage>
+          <sp who="#vasja">
+            <p>— Стійте! Ось і я з ним... Стійте, кажу! Дядю Мусію, підождіть! Бо як же я без вас буду?.. <stage>(Побіг спотикаючись до Копистки).</stage></p>
+          </sp>
+          <stage>Кинулась була й Параска. та спинилась.</stage>
+          <stage>Підняла з землі Мусієвого картузика, притулила до уст, до грудей, заплакала і вже взялася бігти, аж тут зацокотіло, загуркотіло десь недалеко возом.</stage>
+          <stage>Параска замахала руками, крикнула:</stage>
+          <sp who="#paraska">
+            <p>— Серього! Серього! Ось сюди, Серього!.. Хтось <stage>(злякано крикнув).</stage> Смик вернувся! Серьога! Предсідатель!..</p>
+          </sp>
+          <stage>Юрбу мов заціпило. І раптом кілька чоловік вдарилось тікати. Зчинилась паніка.</stage>
+        </div>
+        <div type="scene">
+          <head>8</head>
+          <stage>З'явився Смик. За ним продармієць з рушницею.</stage>
+          <stage>Побачивши все, кинулись за канаву. Параска попереду:</stage>
+          <sp who="#paraska">
+            <p>— Мусію! Ось Серьога!.. Стій!.. Не стріляй!..</p>
+          </sp>
+          <stage>Юрба кинулась врозтіч.</stage>
+          <stage>І в цей час, коли все рухалось, бігло, одна Орина зосталась на тім місці, де й стояла.</stage>
+          <stage>Бурмотіла. Махала перед очима руками.</stage>
+        </div>
+        <div type="scene">
+          <head>9</head>
+          <stage>Повернулись од канави: Смик, Копистка, Параска, Вася, дехто з людей.</stage>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Учора б приїхав, та вісь заломилась... Хліба привезли, Мусію!.. Не тільки їсти, а й сіяти буде! Ще пришлють... Та як все це вийшло? Як почалося? Мусію, га?</p>
+          </sp>
+          <sp who="#paraska">
+            <speaker>Параска.</speaker>
+            <p>Підожди, дай йому до тями дійти. <stage>(До чоловіка).</stage> Ось картуз, Мусію!.. Та я сама надіну! <stage>(Наділа на Копистку картузика).</stage></p>
+          </sp>
+          <stage>Він приправив його, потому закурив, цвіркнув і, немов нічого не було з ним, спитав Смика:</stage>
+          <sp who="#kopystka">
+            <p>— А скільки пудів хліба?</p>
+          </sp>
+          <sp who="#smyk">
+            <speaker>Смик.</speaker>
+            <p>Три хури!.. Дев'яносто сім пудів... іще дадуть, на оранку, бо дивись, вже весна...</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>10</head>
+          <stage>Продармієць привів Гирю й Годованого.</stage>
+          <stage>Завіса</stage>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
