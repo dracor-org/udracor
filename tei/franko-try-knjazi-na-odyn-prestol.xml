@@ -184,9 +184,6 @@
           <person sex="MALE" xml:id="vtoryj_voyin_act_2_scene_5">
             <name>Вторий</name>
           </person>
-          <personGrp sex="MALE" xml:id="voyiny_act_2_scene_5">
-            <name>Воїни</name>
-          </personGrp>
           <personGrp sex="MALE" xml:id="voyiny_act_2_scene_7">
             <name>Воїни</name>
           </personGrp>
@@ -216,9 +213,6 @@
           </person>
           <person sex="MALE" xml:id="druhyj_voyin_act_3_scene_4">
             <name>Другий</name>
-          </person>
-          <person sex="MALE" xml:id="vtoryj_seljanyn_act_3_scene_4">
-            <name>Вторий</name>
           </person>
           <person sex="MALE" xml:id="druhyj_iz_rostyslavtsiv_act_3_scene_4">
             <name>Другий</name>
