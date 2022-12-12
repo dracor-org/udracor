@@ -4,7 +4,15 @@
       <titleStmt>
         <title type="main">Глитай, або ж павук</title>
         <title type="sub">Драма у 4-х діях і 5-ти одмінах</title>
-        <author>Марко Кропивницький</author>
+        <author>
+          <persName>
+            <forename>Марко</forename>
+            <surnameКропивницький</surname>
+          </persName>
+          <idno type="wikidata">Q2366031</idno>
+        </author>
+        Марко Кропивницький
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
