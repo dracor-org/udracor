@@ -76,12 +76,12 @@
           </person>
         </listPerson>
       </particDesc>
-      <revisionDesc>
-        <listChange>
-          <change when="2022-12-02">Julia Dudar encoded the source text</change>
-        </listChange>
-      </revisionDesc>
-    </profileDesc>
+     </profileDesc>
+     <revisionDesc>
+       <listChange>
+         <change when="2022-12-02">Julia Dudar encoded the source text</change>
+       </listChange>
+     </revisionDesc>
   </teiHeader>
   <text>
     <body>﻿<castList>
