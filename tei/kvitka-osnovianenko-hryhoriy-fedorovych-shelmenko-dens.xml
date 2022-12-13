@@ -4,7 +4,13 @@
       <titleStmt>
         <title type="main">Шельменко-денщик</title>
         <title type="sub">Комедия в пяти действиях</title>
-        <author>Григорій Квітка-Основ'яненко</author>
+        <author>
+          <persName>
+            <forename>Григорій</forename>
+            <surname>Квітка-Основ'яненко</surname>
+          </persName>
+          <idno type="wikidata">Q2596987</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
