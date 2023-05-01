@@ -127,7 +127,9 @@
         <castItem>Любка, Мотря — дівчата</castItem>
         <castItem>Дівчата, парубки, народ, старці, діти і музики.</castItem>
       </castList>
-      <set>Діється на селі.</set>
+      <set>
+        <p>Діється на селі.</p>
+      </set>
     </front>
     <body>
       <div type="act">
