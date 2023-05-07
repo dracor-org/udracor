@@ -86,18 +86,20 @@
   <text>
     <front>
       <head>Дійові люде:</head>
-      <castItem>Драбиниха Явдоха – вдова.</castItem>
-      <castItem>Маруся – дочка її.</castItem>
-      <castItem>Наталка – кревна, за наймичку у Драбинихи.</castItem>
-      <castItem>Іван – козак, сирота.</castItem>
-      <castItem>Тупиця – сотник, хрещений батько Івана.</castItem>
-      <castItem>Кабиця – старий козак, гультяй.</castItem>
-      <castItem>Ілько – молодий хлопець, брат Івана.</castItem>
-      <castItem>Цвіркун – пристаркуватий чоловік.</castItem>
-      <castItem>Цвіркуниха – жона його, молода, жвава.</castItem>
-      <castItem>Очкурня – запияка.</castItem>
-      <castItem>Кулина – дівчина з Самари, перша коханка Кабиці.</castItem>
-      <castItem>Козаки, дівчата і поїзжане.</castItem>
+      <castList>      
+        <castItem>Драбиниха Явдоха – вдова.</castItem>
+        <castItem>Маруся – дочка її.</castItem>
+        <castItem>Наталка – кревна, за наймичку у Драбинихи.</castItem>
+        <castItem>Іван – козак, сирота.</castItem>
+        <castItem>Тупиця – сотник, хрещений батько Івана.</castItem>
+        <castItem>Кабиця – старий козак, гультяй.</castItem>
+        <castItem>Ілько – молодий хлопець, брат Івана.</castItem>
+        <castItem>Цвіркун – пристаркуватий чоловік.</castItem>
+        <castItem>Цвіркуниха – жона його, молода, жвава.</castItem>
+        <castItem>Очкурня – запияка.</castItem>
+        <castItem>Кулина – дівчина з Самари, перша коханка Кабиці.</castItem>
+        <castItem>Козаки, дівчата і поїзжане.</castItem>
+      </castList>
       <set>
         <p>Діється на Чорноморії.</p>
       </set>
