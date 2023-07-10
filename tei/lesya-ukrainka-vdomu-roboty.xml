@@ -30,25 +30,26 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="dozorets">
-            <persName>Дозорець</persName>
-          </person>
           <person xml:id="starshij_dozorets">
             <persName>Старший дозорець</persName>
           </person>
           <person xml:id="egiptjanin">
             <persName>Єгиптянин</persName>
           </person>
-          <person xml:id="rab-gebrej">
-            <persName>Раб-гебрей</persName>
-          </person>
           <person xml:id="gebrej">
-            <persName>Гебрей</persName>
+            <persName>Раб-гебрей</persName>
           </person>
         </listPerson>
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1906">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <front>
       <p>В дому роботи, в країні неволі</p>
@@ -77,7 +78,7 @@
           межи колонами, навіть на колінах у колосальних богів; сонце блищить на спітнілих лобах, одежа
           мов палає відблиском гарячого проміння – раби не чують, сплять важким сном, що розпирає їм
           груди спішним, нерівним диханням.</stage>
-        <sp who="#rab-gebrej">
+        <sp who="#gebrej">
           <speaker>Раб-гебрей</speaker>
           <stage>(в заболоченій одежі, шкарубкій від мулу, увесь засмічений присохлим баговинням, худий,
             вузькогрудий, знесилений. Нетерпляче кидається, притуляючи голову до затіненого боку бруса
@@ -273,7 +274,7 @@
         </sp>
         <stage>Єгиптянин мовчки одводить руку і дає в лице гебреєві, той з проникливим криком падає
           додолу.</stage>
-        <sp who="#dozorets">
+        <sp who="#starshij_dozorets">
           <speaker>Дозорець</speaker>
           <stage>(прибігає з києм)</stage>
           <l>Що за крик?</l>

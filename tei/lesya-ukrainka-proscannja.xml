@@ -32,12 +32,12 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="hlopets">
+          <person xml:id="hlopets" sex="MALE">
             <persName>
               Хлопець
             </persName>
           </person>
-          <person xml:id="divchina">
+          <person xml:id="divchina" sex="FEMALE">
             <persName>
               Дівчина
             </persName>
@@ -46,6 +46,13 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1896">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <body>
       <div type="act">

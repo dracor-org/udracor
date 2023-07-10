@@ -32,247 +32,237 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="sinon">
+          <person xml:id="sinon" sex="MALE">
             <persName>
               Сінон
             </persName>
           </person>
-          <person xml:id="golosi_z_ljudu">
+          <personGrp xml:id="golosi_z_ljudu" sex="UNKNOWN">
             <persName>
               Голоси з люду
             </persName>
-          </person>
-          <person xml:id="klimena">
+          </personGrp>
+          <person xml:id="klimena" sex="FEMALE">
             <persName>
               Клімена
             </persName>
           </person>
-          <person xml:id="odissej">
+          <person xml:id="odissej" sex="MALE">
             <persName>
               Одіссей
             </persName>
           </person>
-          <person xml:id="ajtra">
+          <person xml:id="ajtra" sex="FEMALE">
             <persName>
               Айтра
             </persName>
           </person>
-          <person xml:id="vartovij_1-j">
+          <person xml:id="vartovij_1-j" sex="MALE">
             <persName>
               1-й вартовий
             </persName>
           </person>
-          <person xml:id="deifob">
+          <person xml:id="deifob" sex="MALE">
             <persName>
               Деїфоб
             </persName>
           </person>
-          <person xml:id="golos_kassandri">
-            <persName>
-              Голос Кассандри
-            </persName>
-          </person>
-          <person xml:id="dolon">
+          <person xml:id="dolon" sex="MALE">
             <persName>
               Долон
             </persName>
           </person>
-          <person xml:id="inshi_zhinki_z_tsarskoi_rodini">
+          <personGrp xml:id="inshi_zhinki_z_tsarskoi_rodini" sex="FEMALE">
             <persName>
               Інші жінки з царської родини
             </persName>
-          </person>
-          <person xml:id="andromaha">
+          </personGrp>
+          <person xml:id="andromaha" sex="FEMALE">
             <persName>
               Андромаха
             </persName>
           </person>
-          <person xml:id="kreuza">
+          <person xml:id="kreuza" sex="FEMALE">
             <persName>
               Креуза
             </persName>
           </person>
-          <person xml:id="vojaki-spartantsi">
+          <personGrp xml:id="vojaki-spartantsi" sex="UNKNOWN">
             <persName>
               Вояки-спартанці
             </persName>
-          </person>
-          <person xml:id="klitemnestra">
+          </personGrp>
+          <person xml:id="klitemnestra" sex="FEMALE">
             <persName>
               Клітемнестра
             </persName>
           </person>
-          <person xml:id="paris">
+          <person xml:id="paris" sex="MALE">
             <persName>
               Паріс
             </persName>
           </person>
-          <person xml:id="golos_z_jurbi">
+          <person xml:id="golos_z_jurbi" sex="UNKNOWN">
             <persName>
               Голос з юрби
             </persName>
           </person>
-          <person xml:id="agamemnon">
+          <person xml:id="agamemnon" sex="MALE">
             <persName>
               Агамемнон
             </persName>
           </person>
-          <person xml:id="golosi_v_narodi">
+          <personGrp xml:id="golosi_v_narodi" sex="UNKNOWN">
             <persName>
               Голоси в народі
             </persName>
-          </person>
-          <person xml:id="pershij_golos">
+          </personGrp>
+          <person xml:id="pershij_golos" sex="UNKNOWN">
             <persName>
               Перший голос
             </persName>
           </person>
-          <person xml:id="hor">
+          <personGrp xml:id="hor" sex="UNKNOWN">
             <persName>
               Хор
             </persName>
-          </person>
-          <person xml:id="ajaks">
+          </personGrp>
+          <person xml:id="ajaks" sex="MALE">
             <persName>
               Аякс
             </persName>
           </person>
-          <person xml:id="egist">
+          <person xml:id="egist" sex="MALE">
             <persName>
               Егіст
             </persName>
           </person>
-          <person xml:id="visnik">
+          <person xml:id="visnik" sex="MALE">
             <persName>
               Вісник
             </persName>
           </person>
-          <person xml:id="vartovij_2-j">
+          <person xml:id="vartovij_2-j" sex="MALE">
             <persName>
               2-й вартовий
             </persName>
           </person>
-          <person xml:id="vartovij_5-j">
+          <person xml:id="vartovij_5-j" sex="MALE">
             <persName>
               5-й вартовий
             </persName>
           </person>
-          <person xml:id="tretij_golos">
+          <person xml:id="tretij_golos" sex="MALE">
             <persName>
               Третій голос
             </persName>
           </person>
-          <person xml:id="vartovij_3-j">
+          <person xml:id="vartovij_3-j" sex="MALE">
             <persName>
               3-й вартовий
             </persName>
           </person>
-          <person xml:id="gelen">
+          <person xml:id="gelen" sex="MALE">
             <persName>
               Гелен
             </persName>
           </person>
-          <person xml:id="hrize">
+          <person xml:id="hrize" sex="MALE">
             <persName>
               Хрізе
             </persName>
           </person>
-          <person xml:id="golosi_z_gurtu">
+          <person xml:id="golosi_z_gurtu" sex="UNKNOWN">
             <persName>
               Голоси з гурту
             </persName>
           </person>
-          <person xml:id="odin_golos">
+          <person xml:id="odin_golos" sex="UNKNOWN">
             <persName>
               Один голос
             </persName>
           </person>
-          <person xml:id="poliksena">
+          <person xml:id="poliksena" sex="MALE">
             <persName>
               Поліксена
             </persName>
           </person>
-          <person xml:id="diomed">
+          <person xml:id="diomed" sex="MALE">
             <persName>
               Діомед
             </persName>
           </person>
-          <person xml:id="kitarist">
+          <person xml:id="kitarist" sex="MALE">
             <persName>
               Кітарист
             </persName>
           </person>
-          <person xml:id="menelaj">
+          <person xml:id="menelaj" sex="MALE">
             <persName>
               Менелай
             </persName>
           </person>
-          <person xml:id="kassandra">
+          <person xml:id="kassandra" sex="FEMALE">
             <persName>
               Кассандра
             </persName>
           </person>
-          <person xml:id="deifob_i_gelen">
-            <persName>
-              Деїфоб і Гелен
-            </persName>
-          </person>
-          <person xml:id="stara_rabinja">
+          <person xml:id="stara_rabinja" sex="FEMALE">
             <persName>
               Стара рабиня
             </persName>
           </person>
-          <person xml:id="drugij_golos">
+          <person xml:id="drugij_golos" sex="UNKNOWN">
             <persName>
               Другий голос
             </persName>
           </person>
-          <person xml:id="ljudi">
+          <personGrp xml:id="ljudi" sex="UNKNOWN">
             <persName>
               Люди
             </persName>
-          </person>
-          <person xml:id="flejtist">
+          </personGrp>
+          <person xml:id="flejtist" sex="FEMALE">
             <persName>
               Флейтист
             </persName>
           </person>
-          <person xml:id="hor_vartovih">
+          <personGrp xml:id="hor_vartovih" sex="UNKNOWN">
             <persName>
               Хор вартових
             </persName>
-          </person>
-          <person xml:id="gelena">
+          </personGrp>
+          <person xml:id="gelena" sex="FEMALE">
             <persName>
               Гелена
             </persName>
           </person>
-          <person xml:id="levke">
+          <person xml:id="levke" sex="MALE">
             <persName>
               Левке
             </persName>
           </person>
-          <person xml:id="odna_z_trojanok">
+          <person xml:id="odna_z_trojanok" sex="FEMALE">
             <persName>
               Одна з троянок
             </persName>
           </person>
-          <person xml:id="onomaj">
+          <person xml:id="onomaj" sex="MALE">
             <persName>
               Ономай
             </persName>
           </person>
-          <person xml:id="chetvertij_golos">
+          <person xml:id="chetvertij_golos" sex="UNKNOWN">
             <persName>
               Четвертий голос
             </persName>
           </person>
-          <person xml:id="vartovij_4-j">
+          <person xml:id="vartovij_4-j" sex="MALE">
             <persName>
               4-й вартовий
             </persName>
           </person>
-          <person xml:id="rabinja">
+          <person xml:id="rabinja" sex="FEMALE">
             <persName>
               Рабиня
             </persName>
@@ -281,6 +271,13 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1907">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <body>
       <div type="act">
@@ -1759,7 +1756,7 @@
           <stage>(Несамовито пручається, далі одкидається назад, знесилена боротьбою і розбита жахом.)</stage>
           <l>Вже пізно!..</l>
         </sp>
-        <sp who="#deifob_i_gelen">
+        <sp who="#deifob #gelen">
           <speaker>Деїфоб і Гелен</speaker>
           <stage>(брати Кассандрині, надійшли з людьми і, взявши за руки, хотять звести Кассандру з брами)</stage>
           <l>Ходи додому, сестро!</l>
@@ -3073,7 +3070,7 @@
           <speaker>Люди</speaker>
           <l>Ахейцям честь!</l>
         </sp>
-        <sp who="#golos_kassandri">
+        <sp who="#kassandra">
           <speaker>Голос Кассандри</speaker>
           <stage>(з храму)</stage>
           <l>За кров, за смерть, за сльози!</l>
@@ -3991,7 +3988,7 @@
           <l>Хіба піди в Кассандри попроси</l>
           <l>жертовних чаш. Он там вона, у храмі.</l>
         </sp>
-        <sp who="#golos_kassandri">
+        <sp who="#kassandra">
           <speaker>Голос Кассандри</speaker>
           <stage>(з храму)</stage>
           <l>Вартуй, стороже!</l>
@@ -4100,13 +4097,13 @@
         </sp>
         <stage>Допивають удвох решту вина і йдуть до царського двору.</stage>
         <stage>На сцені який час тихо, всі сплять, тільки здалека чутно відгуки музик, пісень, гомону веселого.</stage>
-        <sp who="#golos_kassandri">
+        <sp who="#kassandra">
           <speaker>Голос Кассандри</speaker>
           <stage>(з храму)</stage>
           <l>Чувай, стороже!</l>
         </sp>
         <stage>Повна тиша. Відгуки затихають. Сінон помалу підводиться і сторожко оглядається навколо.</stage>
-        <sp who="#golos_kassandri">
+        <sp who="#kassandra">
           <speaker>Голос Кассандри</speaker>
           <l>Гей, чатуй! вартуй!</l>
         </sp>

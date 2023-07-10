@@ -32,74 +32,64 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="avrelija">
+          <person xml:id="avrelija" sex="FEMALE">
             <persName>
               Аврелія
             </persName>
           </person>
-          <person xml:id="tsenturion">
+          <person xml:id="tsenturion" sex="MALE">
             <persName>
               Центуріон
             </persName>
           </person>
-          <person xml:id="martian">
+          <person xml:id="martian" sex="MALE">
             <persName>
               Мартіан
             </persName>
           </person>
-          <person xml:id="golos">
+          <person xml:id="golos" sex="UNKNOWN">
             <persName>
               Голос
             </persName>
           </person>
-          <person xml:id="toj_samij_golos">
-            <persName>
-              Той самий голос
-            </persName>
-          </person>
-          <person xml:id="konstantsij">
+          <person xml:id="konstantsij" sex="MALE">
             <persName>
               Констанцій
             </persName>
           </person>
-          <person xml:id="izogen">
+          <person xml:id="izogen" sex="MALE">
             <persName>
               Ізоген
             </persName>
           </person>
-          <person xml:id="ljutsilla">
+          <person xml:id="ljutsilla" sex="FEMALE">
             <persName>
               Люцілла
             </persName>
           </person>
-          <person xml:id="odin_grubij_golos">
+          <person xml:id="odin_grubij_golos" sex="UNKNOWN">
             <persName>
               Один грубий голос
             </persName>
           </person>
-          <person xml:id="skilka_golosiv">
+          <personGrp xml:id="skilka_golosiv" sex="UNKNOWN">
             <persName>
               Скілька голосів
             </persName>
-          </person>
-          <person xml:id="albina">
+          </personGrp>
+          <person xml:id="albina" sex="FEMALE">
             <persName>
               Альбіна
             </persName>
           </person>
-          <person xml:id="ardent">
+          <person xml:id="ardent" sex="MALE">
             <persName>
               Ардент
             </persName>
           </person>
-          <person xml:id="valent">
+          <person xml:id="valent" sex="MALE">
             <persName>
               Валент
-            </persName>
-          </person>
-          <person xml:id="golos_ljutsilli">
-            <persName>
-              Голос Люцілли
             </persName>
           </person>
           <person xml:id="golos_za_bramoju">
@@ -107,12 +97,12 @@
               Голос за брамою
             </persName>
           </person>
-          <person xml:id="odin_vigil">
+          <person xml:id="odin_vigil" sex="UNKNOWN">
             <persName>
               Один вігіл
             </persName>
           </person>
-          <person xml:id="dehto_z_storozhi">
+          <person xml:id="dehto_z_storozhi" sex="UNKNOWN">
             <persName>
               Дехто з сторожі
             </persName>
@@ -121,6 +111,13 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1911">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <body>
       <div type="act">
@@ -2434,7 +2431,7 @@
           <l>душа моя не скине, поки в тілі.</l>
         </sp>
         <stage>Мовчання. Альбіна стискає братові руку.</stage>
-        <sp who="#golos_ljutsilli">
+        <sp who="#ljutsilla">
           <speaker>Голос Люцілли</speaker>
           <stage>(здалека)</stage>
           <l>Ну, мамо! де ти?</l>
@@ -2554,7 +2551,7 @@
           <speaker>Мартіан</speaker>
           <l>Якого?</l>
         </sp>
-        <sp who="#toj_samij_golos">
+        <sp who="#odin_grubij_golos">
           <speaker>Той самий голос</speaker>
           <l>Сам ти знаєш! Одчиняй!</l>
         </sp>

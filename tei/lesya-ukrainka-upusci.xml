@@ -30,88 +30,95 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="dzhirimaja_ortvin">
+          <person xml:id="dzhirimaja_ortvin" sex="MALE">
             <persName>Джірімая Ортвін</persName>
           </person>
-          <person xml:id="opatrik">
+          <person xml:id="opatrik" sex="MALE">
             <persName>О’Патрік</persName>
           </person>
-          <person xml:id="uchenik">
+          <person xml:id="uchenik" sex="MALE">
             <persName>Ученик</persName>
           </person>
-          <person xml:id="organist">
+          <person xml:id="organist" sex="MALE">
             <persName>Органіст</persName>
           </person>
-          <person xml:id="abragam_smit">
+          <person xml:id="abragam_smit" sex="MALE">
             <persName>Абрагам Сміт</persName>
           </person>
-          <person xml:id="dzhons">
+          <person xml:id="dzhons" sex="MALE">
             <persName>Джонс</persName>
           </person>
-          <person xml:id="metju_filding">
+          <person xml:id="metju_filding" sex="MALE">
             <persName>Метью Фільдінг</persName>
           </person>
-          <person xml:id="dzhon_mils">
+          <person xml:id="dzhon_mils" sex="MALE">
             <persName>Джон Мільс</persName>
           </person>
-          <person xml:id="kaleb">
+          <person xml:id="kaleb" sex="MALE">
             <persName>Калеб Педдінтон</persName>
           </person>
-          <person xml:id="brukli">
+          <person xml:id="brukli" sex="FEMALE">
             <persName>Бруклі</persName>
           </person>
-          <person xml:id="richard">
+          <person xml:id="richard" sex="MALE">
             <persName>Річард</persName>
           </person>
-          <person xml:id="kristabel">
+          <person xml:id="kristabel" sex="MALE">
             <persName>Крістабель</persName>
           </person>
-          <person xml:id="dzhenni">
+          <person xml:id="dzhenni" sex="FEMALE">
             <persName>Дженні Кембль</persName>
           </person>
-          <person xml:id="mak_gardi">
+          <person xml:id="mak_gardi" sex="MALE">
             <persName>Мак Гарді</persName>
           </person>
-          <person xml:id="antonio">
+          <person xml:id="antonio" sex="MALE">
             <persName>Антоніо</persName>
           </person>
-          <person xml:id="edita">
+          <person xml:id="edita" sex="FEMALE">
             <persName>Едіта</persName>
           </person>
-          <person xml:id="zhinka">
+          <person xml:id="zhinka" sex="FEMALE">
             <persName>Жінка</persName>
           </person>
-          <person xml:id="kembl">
+          <person xml:id="kembl" sex="MALE">
             <persName>Кембль</persName>
           </person>
-          <person xml:id="golos">
+          <person xml:id="golos" sex="UNKNOWN">
             <persName>Голос</persName>
           </person>
-          <personGrp xml:id="gromada">
+          <personGrp xml:id="gromada" sex="UNKNOWN">
             <name>Громада</name>
           </personGrp>
-          <person xml:id="magister">
+          <person xml:id="magister" sex="MALE">
             <persName>Магістер</persName>
           </person>
-          <person xml:id="charli">
+          <person xml:id="charli" sex="MALE">
             <persName>Чарлі</persName>
           </person>
-          <person xml:id="dzhonatan">
+          <person xml:id="dzhonatan" sex="MALE">
             <persName>Джонатан</persName>
           </person>
-          <person xml:id="devi">
+          <person xml:id="devi" sex="MALE">
             <persName>Деві</persName>
           </person>
-          <person xml:id="godvinson">
+          <person xml:id="godvinson" sex="MALE">
             <persName>Годвінсон</persName>
           </person>
-          <person xml:id="cholovik">
+          <person xml:id="cholovik" sex="MALE">
             <persName>Чоловік</persName>
           </person>
         </listPerson>
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1909">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <front>
       <castList>

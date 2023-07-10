@@ -32,802 +32,742 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="starij_jurist">
+          <person xml:id="starij_jurist" sex="MALE">
             <persName>
               Старий юрист
             </persName>
           </person>
-          <person xml:id="bagato_golosiv">
+          <personGrp xml:id="bagato_golosiv" sex="UNKNOWN">
             <persName>
               Багато голосів
             </persName>
-          </person>
-          <person xml:id="molodij_grek">
+          </personGrp>
+          <person xml:id="molodij_grek" sex="MALE">
             <persName>
               Молодий грек
             </persName>
           </person>
-          <person xml:id="molodij_komonnik">
+          <person xml:id="molodij_komonnik" sex="MALE">
             <persName>
               Молодий комонник
             </persName>
           </person>
-          <person xml:id="golos_z_najgustishih_rjadiv">
+          <person xml:id="golos_z_najgustishih_rjadiv" sex="UNKNOWN">
             <persName>
               Голос з найгустіших рядів
             </persName>
           </person>
-          <person xml:id="flegon">
+          <person xml:id="flegon" sex="MALE">
             <persName>
               Флегон
             </persName>
           </person>
-          <person xml:id="nevidomij">
+          <person xml:id="nevidomij" sex="UNKNOWN">
             <persName>
               Невідомий
             </persName>
           </person>
-          <person xml:id="hlopets-proletarij">
+          <person xml:id="hlopets-proletarij" sex="MALE">
             <persName>
               Хлопець-пролетарій
             </persName>
           </person>
-          <person xml:id="vidpuschenik_1-j">
+          <person xml:id="vidpuschenik_1-j" sex="MALE">
             <persName>
               1-й відпущеник
             </persName>
           </person>
-          <person xml:id="pristsilla">
+          <person xml:id="pristsilla" sex="FEMALE">
             <persName>
               Прісцілла
             </persName>
           </person>
-          <person xml:id="zhrets_tsibeli">
+          <person xml:id="zhrets_tsibeli" sex="MALE">
             <persName>
               Жрець Цібели
             </persName>
           </person>
-          <person xml:id="gromadka_ljudej">
+          <personGrp xml:id="gromadka_ljudej" sex="UNKNOWN">
             <persName>
               Громадка людей
             </persName>
-          </person>
-          <person xml:id="episkop">
+          </personGrp>
+          <person xml:id="episkop" sex="MALE">
             <persName>
               Єпископ
             </persName>
           </person>
-          <person xml:id="tretij_golos">
+          <person xml:id="tretij_golos" sex="UNKNOWN">
             <persName>
               Третій голос
             </persName>
           </person>
-          <person xml:id="pansa">
-            <persName>
-              Панса
-            </persName>
-          </person>
-          <person xml:id="odin_z_pribulih">
+          <person xml:id="odin_z_pribulih" sex="UNKNOWN">
             <persName>
               Один з прибулих
             </persName>
           </person>
-          <person xml:id="didich_2-j">
+          <person xml:id="didich_2-j" sex="MALE">
             <persName>
               2-й дідич
             </persName>
           </person>
-          <person xml:id="bagatij_kramar">
+          <person xml:id="bagatij_kramar" sex="MALE">
             <persName>
               Багатий крамар
             </persName>
           </person>
-          <person xml:id="nofretis">
+          <person xml:id="nofretis" sex="MALE">
             <persName>
               Нофретіс
             </persName>
           </person>
-          <person xml:id="golos_z_narodu">
+          <person xml:id="golos_z_narodu" sex="UNKNOWN">
             <persName>
               Голос з народу
             </persName>
           </person>
-          <person xml:id="pidlitok">
+          <person xml:id="pidlitok" sex="MALE">
             <persName>
               Підліток
             </persName>
           </person>
-          <person xml:id="tabuljarij">
+          <person xml:id="tabuljarij" sex="MALE">
             <persName>
               Табулярій
             </persName>
           </person>
-          <person xml:id="vulichna_zhinka">
+          <person xml:id="vulichna_zhinka" sex="FEMALE">
             <persName>
               Вулична жінка
             </persName>
           </person>
-          <person xml:id="moloda_matrona">
+          <person xml:id="moloda_matrona" sex="FEMALE">
             <persName>
               Молода матрона
             </persName>
           </person>
-          <person xml:id="zhinka">
+          <person xml:id="zhinka" sex="FEMALE">
             <persName>
               Жінка
             </persName>
           </person>
-          <person xml:id="ljutsij">
+          <person xml:id="ljutsij" sex="MALE">
             <persName>
               Люцій
             </persName>
           </person>
-          <person xml:id="zhertsi">
+          <personGrp xml:id="zhertsi" sex="MALE">
             <persName>
               Жерці
             </persName>
-          </person>
-          <person xml:id="klient">
+          </personGrp>
+          <person xml:id="klient" sex="MALE">
             <persName>
               Клієнт
             </persName>
           </person>
-          <person xml:id="rimljanka">
+          <person xml:id="rimljanka" sex="FEMALE">
             <persName>
               Римлянка
             </persName>
           </person>
-          <person xml:id="nagljadach_z_krematoriju">
+          <person xml:id="nagljadach_z_krematoriju" sex="MALE">
             <persName>
               Наглядач з крематорію
             </persName>
           </person>
-          <person xml:id="prohachiv_2-j_z">
+          <person xml:id="prohachiv_2-j_z" sex="MALE">
             <persName>
               2-й з прохачів
             </persName>
           </person>
-          <person xml:id="bagatij_plebej">
+          <person xml:id="bagatij_plebej" sex="MALE">
             <persName>
               Багатий плебей
             </persName>
           </person>
-          <person xml:id="poet">
+          <person xml:id="poet" sex="MALE">
             <persName>
               Поет
             </persName>
           </person>
-          <person xml:id="molodij_rimljanin">
+          <person xml:id="molodij_rimljanin" sex="MALE">
             <persName>
               Молодий римлянин
             </persName>
           </person>
-          <person xml:id="vartovij_1-j">
+          <person xml:id="vartovij_1-j" sex="MALE">
             <persName>
               1-й вартовий
             </persName>
           </person>
-          <person xml:id="tabuljarij_2-j">
+          <person xml:id="tabuljarij_2-j" sex="MALE">
             <persName>
               2-й табулярій
             </persName>
           </person>
-          <person xml:id="dijakon">
+          <person xml:id="dijakon" sex="MALE">
             <persName>
               Диякон
             </persName>
           </person>
-          <person xml:id="divchina">
+          <person xml:id="divchina" sex="FEMALE">
             <persName>
               Дівчина
             </persName>
           </person>
-          <person xml:id="filosof">
+          <person xml:id="filosof" sex="MALE">
             <persName>
               Філософ
             </persName>
           </person>
-          <person xml:id="moloda_divchina">
+          <person xml:id="moloda_divchina" sex="FEMALE">
             <persName>
               Молода дівчина
             </persName>
           </person>
-          <person xml:id="drugij_vidpuschenik">
+          <person xml:id="drugij_vidpuschenik" sex="MALE">
             <persName>
               Другий відпущеник
             </persName>
           </person>
-          <person xml:id="kljuchar">
+          <person xml:id="kljuchar" sex="MALE">
             <persName>
               Ключар
             </persName>
           </person>
-          <person xml:id="teofil">
+          <person xml:id="teofil" sex="MALE">
             <persName>
               Теофіл
             </persName>
           </person>
-          <person xml:id="jurist">
+          <person xml:id="jurist" sex="MALE">
             <persName>
               Юрист
             </persName>
           </person>
-          <person xml:id="golos_poklikacha">
-            <persName>
-              Голос покликача
-            </persName>
-          </person>
-          <person xml:id="golos_ljutsievij">
-            <persName>
-              Голос Люцієвий
-            </persName>
-          </person>
-          <person xml:id="provintsialka">
+          <person xml:id="provintsialka" sex="FEMALE">
             <persName>
               Провінціалка
             </persName>
           </person>
-          <person xml:id="golosi_z_publiki">
+          <person xml:id="golosi_z_publiki" sex="UNKNOWN">
             <persName>
               Голоси з публіки
             </persName>
           </person>
-          <person xml:id="dehto_z_prisutnih">
+          <person xml:id="dehto_z_prisutnih" sex="UNKNOWN">
             <persName>
               Дехто з присутніх
             </persName>
           </person>
-          <person xml:id="aetsij_pansa">
+          <person xml:id="aetsij_pansa" sex="MALE">
             <persName>
               Аецій Панса
             </persName>
           </person>
-          <person xml:id="rimljanin_u_dalmatitsi">
+          <person xml:id="rimljanin_u_dalmatitsi" sex="MALE">
             <persName>
               Римлянин у далматиці
             </persName>
           </person>
-          <person xml:id="golos_pristsilli">
-            <persName>
-              Голос Прісцілли
-            </persName>
-          </person>
-          <person xml:id="starij_seljanin">
+          <person xml:id="starij_seljanin" sex="MALE">
             <persName>
               Старий селянин
             </persName>
           </person>
-          <person xml:id="proletarij">
+          <person xml:id="proletarij" sex="MALE">
             <persName>
               Пролетарій
             </persName>
           </person>
-          <person xml:id="golosi_zvidusil">
+          <person xml:id="golosi_zvidusil" sex="UNKNOWN">
             <persName>
               Голоси звідусіль
             </persName>
           </person>
-          <person xml:id="svojak">
+          <person xml:id="svojak" sex="MALE">
             <persName>
               Свояк
             </persName>
           </person>
-          <person xml:id="renata">
+          <person xml:id="renata" sex="FEMALE">
             <persName>
               Рената
             </persName>
           </person>
-          <person xml:id="fortunatova_zhinka">
+          <person xml:id="fortunatova_zhinka" sex="FEMALE">
             <persName>
               Фортунатова жінка
             </persName>
           </person>
-          <person xml:id="zhinka_fortunatova">
-            <persName>
-              Жінка Фортунатова
-            </persName>
-          </person>
-          <person xml:id="nartal">
+          <person xml:id="nartal" sex="MALE">
             <persName>
               Нартал
             </persName>
           </person>
-          <person xml:id="tsenturion">
+          <person xml:id="tsenturion" sex="MALE">
             <persName>
               Центуріон
             </persName>
           </person>
-          <person xml:id="molodij_hlopets">
+          <person xml:id="molodij_hlopets" sex="MALE">
             <persName>
               Молодий хлопець
             </persName>
           </person>
-          <person xml:id="golosi_z_gromadi">
+          <person xml:id="golosi_z_gromadi" sex="MALE">
             <persName>
               Голоси з громади
             </persName>
           </person>
-          <person xml:id="z_gurtu_tabuljariiv">
+          <person xml:id="z_gurtu_tabuljariiv" sex="UNKNOWN">
             <persName>
               З гурту табуляріїв
             </persName>
           </person>
-          <person xml:id="molodij_rimljanin_u_dalmatitsi">
+          <person xml:id="molodij_rimljanin_u_dalmatitsi" sex="MALE">
             <persName>
               Молодий римлянин у далматиці
             </persName>
           </person>
-          <person xml:id="starkuvatij_didich-provintsial">
+          <person xml:id="didich_1-j" sex="MALE">
             <persName>
               Старкуватий дідич-провінціал
             </persName>
           </person>
-          <person xml:id="starij">
+          <person xml:id="starij" sex="MALE">
             <persName>
               Старий
             </persName>
           </person>
-          <person xml:id="redivivus-favstin">
+          <person xml:id="redivivus-favstin" sex="MALE">
             <persName>
               Редівівус-Фавстін
             </persName>
           </person>
-          <person xml:id="didich_1-j">
-            <persName>
-              1-й дідич
-            </persName>
-          </person>
-          <person xml:id="golosi_z_gurtu_molodih_vojakiv">
+          <person xml:id="golosi_z_gurtu_molodih_vojakiv" sex="MALE">
             <persName>
               Голоси з гурту молодих вояків
             </persName>
           </person>
-          <person xml:id="lihvar">
+          <person xml:id="lihvar" sex="MALE">
             <persName>
               Лихвар
             </persName>
           </person>
-          <person xml:id="drugij_golos">
+          <person xml:id="drugij_golos" sex="UNKNOWN">
             <persName>
               Другий голос
             </persName>
           </person>
-          <person xml:id="servilija">
+          <person xml:id="servilija" sex="FEMALE">
             <persName>
               Сервілія
             </persName>
           </person>
-          <person xml:id="kaj_letitsij">
+          <person xml:id="kaj_letitsij" sex="MALE">
             <persName>
               Кай Летіцій
             </persName>
           </person>
-          <person xml:id="hlopets">
+          <person xml:id="hlopets" sex="MALE">
             <persName>
               Хлопець
             </persName>
           </person>
-          <person xml:id="didich">
+          <person xml:id="didich" sex="MALE">
             <persName>
               Дідич
             </persName>
           </person>
-          <person xml:id="drugij_didich">
+          <person xml:id="drugij_didich" sex="MALE">
             <persName>
               Другий дідич
             </persName>
           </person>
-          <person xml:id="vidpuschenik_2-j">
+          <person xml:id="vidpuschenik_2-j" sex="MALE">
             <persName>
               2-й відпущеник
             </persName>
           </person>
-          <person xml:id="nachalnik_storozhi">
+          <person xml:id="nachalnik_storozhi" sex="MALE">
             <persName>
               Начальник сторожі
             </persName>
           </person>
-          <person xml:id="golos_parvusa">
-            <persName>
-              Голос Парвуса
-            </persName>
-          </person>
-          <person xml:id="rufin_i_pristsilla">
-            <persName>
-              Руфін і Прісцілла
-            </persName>
-          </person>
-          <person xml:id="mischanka">
+          <person xml:id="mischanka" sex="FEMALE">
             <persName>
               Міщанка
             </persName>
           </person>
-          <person xml:id="sempronij">
+          <person xml:id="sempronij" sex="MALE">
             <persName>
               Семпроній
             </persName>
           </person>
-          <person xml:id="vojaki">
+          <personGrp xml:id="vojaki" sex="MALE">
             <persName>
               Вояки
             </persName>
-          </person>
-          <person xml:id="golos_nartalovij">
+          </personGrp>
+          <person xml:id="golos_nartalovij" sex="MALE">
             <persName>
               Голос Нарталовий
             </persName>
           </person>
-          <person xml:id="golos_poklikacha_sudovogo">
-            <persName>
-              Голос покликача судового
-            </persName>
-          </person>
-          <person xml:id="starij_vojak">
+          <person xml:id="starij_vojak" sex="MALE">
             <persName>
               Старий вояк
             </persName>
           </person>
-          <person xml:id="cholovik">
+          <person xml:id="cholovik" sex="MALE">
             <persName>
               Чоловік
             </persName>
           </person>
-          <person xml:id="golos_z_publiki">
+          <person xml:id="golos_z_publiki" sex="UNKNOWN">
             <persName>
               Голос з публіки
             </persName>
           </person>
-          <person xml:id="tihshij_golos">
+          <person xml:id="tihshij_golos" sex="UNKNOWN">
             <persName>
               Тихший голос
             </persName>
           </person>
-          <person xml:id="tretіj">
+          <person xml:id="tretіj" sex="MALE">
             <persName>
               3-й
             </persName>
           </person>
-          <person xml:id="dehto_z_hristijan">
+          <person xml:id="dehto_z_hristijan" sex="UNKNOWN">
             <persName>
               Дехто з християн
             </persName>
           </person>
-          <person xml:id="vigil">
+          <person xml:id="vigil" sex="MALE">
             <persName>
               Вігіл
             </persName>
           </person>
-          <person xml:id="temnichnij_vartovij">
+          <person xml:id="temnichnij_vartovij" sex="MALE">
             <persName>
               Темничний вартовий
             </persName>
           </person>
-          <person xml:id="parvus">
+          <person xml:id="parvus" sex="MALE">
             <persName>
               Парвус
             </persName>
           </person>
-          <person xml:id="pershij_didich">
+          <person xml:id="pershij_didich" sex="MALE">
             <persName>
               Перший дідич
             </persName>
           </person>
-          <person xml:id="druga_zhinka">
+          <person xml:id="druga_zhinka" sex="FEMALE">
             <persName>
               Друга жінка
             </persName>
           </person>
-          <person xml:id="prohachiv_3-j_z">
+          <person xml:id="prohachiv_3-j_z" sex="MALE">
             <persName>
               3-й з прохачів
             </persName>
           </person>
-          <person xml:id="zhrets">
+          <person xml:id="zhrets" sex="MALE">
             <persName>
               Жрець
             </persName>
           </person>
-          <person xml:id="stara_zhinka">
+          <person xml:id="stara_zhinka" sex="FEMALE">
             <persName>
               Стара жінка
             </persName>
           </person>
-          <person xml:id="gromadki_2-j_z">
+          <person xml:id="gromadki_2-j_z" sex="MALE">
             <persName>
               2-й з громадки
             </persName>
           </person>
-          <person xml:id="inshi_golosi">
+          <personGrp xml:id="inshi_golosi" sex="UNKNOWN">
             <persName>
               Інші голоси
             </persName>
-          </person>
-          <person xml:id="getera">
+          </personGrp>
+          <person xml:id="getera" sex="FEMALE">
             <persName>
               Гетера
             </persName>
           </person>
-          <person xml:id="molodij_vojak">
+          <person xml:id="molodij_vojak" sex="MALE">
             <persName>
               Молодий вояк
             </persName>
           </person>
-          <person xml:id="vojak">
+          <person xml:id="vojak" sex="MALE">
             <persName>
               Вояк
             </persName>
           </person>
-          <person xml:id="susidka">
+          <person xml:id="susidka" sex="FEMALE">
             <persName>
               Сусідка
             </persName>
           </person>
-          <person xml:id="urban">
+          <person xml:id="urban" sex="MALE">
             <persName>
               Урбан
             </persName>
           </person>
-          <person xml:id="grek">
+          <person xml:id="grek" sex="MALE">
             <persName>
               Грек
             </persName>
           </person>
-          <person xml:id="pomichnik">
+          <person xml:id="pomichnik" sex="MALE">
             <persName>
               Помічник
             </persName>
           </person>
-          <person xml:id="spilnij_krik">
+          <person xml:id="spilnij_krik"  sex="UNKNOWN">
             <persName>
               Спільний крик
             </persName>
           </person>
-          <person xml:id="gromada">
+          <personGrp xml:id="gromada" sex="UNKNOWN">
             <persName>
               Громада
             </persName>
-          </person>
-          <person xml:id="zhrets_eskulapiv">
+          </personGrp>
+          <person xml:id="zhrets_eskulapiv" sex="MALE">
             <persName>
               Жрець Ескулапів
             </persName>
           </person>
-          <person xml:id="patron">
+          <person xml:id="patron" sex="MALE">
             <persName>
               Патрон
             </persName>
           </person>
-          <person xml:id="z_gurtu_vojakiv">
+          <person xml:id="z_gurtu_vojakiv" sex="MALE">
             <persName>
               З гурту вояків
             </persName>
           </person>
-          <person xml:id="starij_hristijanin">
+          <person xml:id="starij_hristijanin" sex="MALE">
             <persName>
               Старий християнин
             </persName>
           </person>
-          <person xml:id="odin_z_gromadki">
+          <person xml:id="odin_z_gromadki" sex="MALE">
             <persName>
               Один з громадки
             </persName>
           </person>
-          <person xml:id="renata-negrina">
+          <person xml:id="renata-negrina" sex="FEMALE">
             <persName>
               Рената-Негріна
             </persName>
           </person>
-          <person xml:id="vidpuschenik">
+          <person xml:id="vidpuschenik" sex="MALE">
             <persName>
               Відпущеник
             </persName>
           </person>
-          <person xml:id="sestra_renati">
+          <person xml:id="sestra_renati" sex="FEMALE">
             <persName>
               Сестра Ренати
             </persName>
           </person>
-          <person xml:id="peršij">
+          <person xml:id="peršij" sex="MALE">
             <persName>
               1-й
             </persName>
           </person>
-          <person xml:id="klient_jogo">
-            <persName>
-              Клієнт його
-            </persName>
-          </person>
-          <person xml:id="duzhe_vbogij_cholovik">
+          <person xml:id="vbogij" sex="MALE">
             <persName>
               Дуже вбогий чоловік
             </persName>
           </person>
-          <person xml:id="matrona">
+          <person xml:id="matrona" sex="FEMALE">
             <persName>
               Матрона
             </persName>
           </person>
-          <person xml:id="hlopja">
+          <person xml:id="hlopja" sex="FEMALE">
             <persName>
               Хлоп’я
             </persName>
           </person>
-          <person xml:id="rabinja">
+          <person xml:id="rabinja" sex="FEMALE">
             <persName>
               Рабиня
             </persName>
           </person>
-          <person xml:id="krusta">
+          <person xml:id="krusta" sex="FEMALE">
             <persName>
               Круста
             </persName>
           </person>
-          <person xml:id="gromadka_prohachiv">
+          <personGrp xml:id="gromadka_prohachiv" sex="UNKNOWN">
             <persName>
               Громадка прохачів
             </persName>
-          </person>
-          <person xml:id="remisnik">
+          </personGrp>
+          <person xml:id="remisnik" sex="MALE">
             <persName>
               Ремісник
             </persName>
           </person>
-          <person xml:id="stara">
+          <person xml:id="stara" sex="FEMALE">
             <persName>
               Стара
             </persName>
           </person>
-          <person xml:id="babusja">
+          <person xml:id="babusja" sex="FEMALE">
             <persName>
               Бабуся
             </persName>
           </person>
-          <person xml:id="troe">
+          <personGrp xml:id="troe" sex="UNKNOWN">
             <persName>
               Троє
             </persName>
-          </person>
-          <person xml:id="vbogij">
-            <persName>
-              Вбогий
-            </persName>
-          </person>
-          <person xml:id="svojak_fortunatovij">
+          </personGrp>
+          <person xml:id="svojak_fortunatovij" sex="MALE">
             <persName>
               Свояк Фортунатовий
             </persName>
           </person>
-          <person xml:id="patritsij">
+          <person xml:id="patritsij" sex="MALE">
             <persName>
               Патрицій
             </persName>
           </person>
-          <person xml:id="dehto_z_novopribulih">
+          <person xml:id="dehto_z_novopribulih" sex="UNKNOWN">
             <persName>
               Дехто з новоприбулих
             </persName>
           </person>
-          <person xml:id="tabuljarij_1-j">
+          <person xml:id="tabuljarij_1-j" sex="UNKNOWN">
             <persName>
               1-й табулярій
             </persName>
           </person>
-          <person xml:id="skulptor">
-            <persName>
-              Скульптор
-            </persName>
-          </person>
-          <person xml:id="vojaki_i_chastina_ljudu">
+          <personGrp xml:id="vojaki_i_chastina_ljudu" sex="UNKNOWN">
             <persName>
               Вояки і частина люду
             </persName>
-          </person>
-          <person xml:id="prohachiv_1-j_z">
+          </personGrp>
+          <person xml:id="prohachiv_1-j_z" sex="MALE">
             <persName>
               1-й з прохачів
             </persName>
           </person>
-          <person xml:id="poklikach">
+          <person xml:id="poklikach" sex="MALE">
             <persName>
               Покликач
             </persName>
           </person>
-          <person xml:id="dribnij_kramar">
+          <person xml:id="dribnij_kramar" sex="MALE">
             <persName>
               Дрібний крамар
             </persName>
           </person>
-          <person xml:id="akvila">
+          <person xml:id="akvila" sex="MALE">
             <persName>
               Аквіла
             </persName>
           </person>
-          <person xml:id="vulichnij_filosof">
+          <person xml:id="vulichnij_filosof" sex="MALE">
             <persName>
               Вуличний філософ
             </persName>
           </person>
-          <person xml:id="rufin">
+          <person xml:id="rufin" sex="MALE">
             <persName>
               Руфін
             </persName>
           </person>
-          <person xml:id="remisnik_i_dvoe_jogo_susidiv">
+          <personGrp xml:id="remisnik_i_dvoe_jogo_susidiv" sex="UNKNOWN">
             <persName>
               Ремісник і двоє його сусідів
             </persName>
-          </person>
-          <person xml:id="rab">
+          </personGrp>
+          <person xml:id="rab" sex="MALE">
             <persName>
               Раб
             </persName>
           </person>
-          <person xml:id="redivivus">
+          <person xml:id="redivivus" sex="MALE">
             <persName>
               Редівівус
             </persName>
           </person>
-          <person xml:id="zhrets_eskulapa">
+          <person xml:id="zhrets_eskulapa" sex="MALE">
             <persName>
               Жрець Ескулапа
             </persName>
           </person>
-          <person xml:id="golosi">
+          <personGrp xml:id="golosi" sex="UNKNOWN">
             <persName>
               Голоси
             </persName>
-          </person>
-          <person xml:id="golosi_za_hvirtkoju">
+          </personGrp>
+          <personGrp xml:id="golosi_za_hvirtkoju" sex="UNKNOWN">
             <persName>
               Голоси за хвірткою
             </persName>
-          </person>
-          <person xml:id="visokij_isterichnij_golos_zhinki">
+          </personGrp>
+          <person xml:id="visokij_isterichnij_golos_zhinki" sex="FEMALE">
             <persName>
               Високий істеричний голос жінки
             </persName>
           </person>
-          <person xml:id="golos_za_hvirtkoju">
+          <person xml:id="golos_za_hvirtkoju" sex="UNKNOWN">
             <persName>
               Голос за хвірткою
             </persName>
           </person>
-          <person xml:id="skulptor_z_peredmistja">
+          <person xml:id="skulptor" sex="MALE">
             <persName>
               Скульптор з передмістя
             </persName>
           </person>
-          <person xml:id="golos">
+          <person xml:id="golos" sex="UNKNOWN">
             <persName>
               Голос
             </persName>
           </person>
-          <person xml:id="susid">
+          <person xml:id="susid" sex="MALE">
             <persName>
               Сусід
             </persName>
           </person>
-          <person xml:id="fortunat">
+          <person xml:id="fortunat" sex="MALE">
             <persName>
               Фортунат
             </persName>
           </person>
-          <person xml:id="drugij">
+          <person xml:id="drugij" sex="MALE">
             <persName>
               2-й
             </persName>
           </person>
-          <person xml:id="komonnik">
+          <person xml:id="komonnik" sex="MALE">
             <persName>
               Комонник
             </persName>
           </person>
-          <person xml:id="golos_z_gromadi">
+          <person xml:id="golos_z_gromadi" sex="UNKNOWN">
             <persName>
               Голос з громади
             </persName>
           </person>
-          <person xml:id="stara_seljanka">
+          <person xml:id="stara_seljanka" sex="FEMALE">
             <persName>
               Стара селянка
             </persName>
@@ -836,6 +776,13 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1910">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <body>
       <div type="act">
@@ -1767,7 +1714,7 @@
           <speaker>Кай Летіцій</speaker>
           <l>Здоров’я й щастя вам.</l>
         </sp>
-        <sp who="#rufin_i_pristsilla">
+        <sp who="#rufin #pristsilla">
           <speaker>Руфін і Прісцілла</speaker>
           <l>Вітай нам в домі.</l>
         </sp>
@@ -4563,7 +4510,7 @@
           <speaker>Руфін</speaker>
           <l>Хто там?</l>
         </sp>
-        <sp who="#golos_ljutsievij">
+        <sp who="#ljutsij">
           <speaker>Голос Люцієвий</speaker>
           <l>Кней Люцій.</l>
         </sp>
@@ -6705,7 +6652,7 @@
         <l>Хтось прийшов.</l>
         <stage>(Трохи відступає від Прісцілли.)</stage>
         <stage>В одчинені двері увіходить Аецій Панса з ключарем.</stage>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(з порога)</stage>
           <l>Де тут Прісцілла?</l>
@@ -6721,7 +6668,7 @@
           <l>як хто з старших надійде, я скажу.</l>
           <stage>(Виходить.)</stage>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(якусь хвилину мовчить, зрушений, прислонивши трохи обличчя тогою, тимчасом як Прісцілла силкується встати йому назустріч, а Руфін мовчки стискає йому руку. Далі говорить голосом тремтячим, з видимим зусиллям удавати твердість і суворість)</stage>
           <l>До чого я дожив?! Чого діждав?!</l>
@@ -6732,7 +6679,7 @@
           <speaker>Руфін</speaker>
           <l>Даремне ти її картаєш, батьку.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(до Руфіна, гостріше)</stage>
           <l>Так, справді, слід мені тебе картати,</l>
@@ -6753,7 +6700,7 @@
           <l>Не він мені, а я йому дала</l>
           <l>нову господу і нового пана.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(знов запанував над собою)</stage>
           <l>Сьому б то правда? Що я чую, зятю?</l>
@@ -6774,7 +6721,7 @@
           <l>де вже ні батьківське, ні мужнє право</l>
           <l>не мають сили.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Що ж то вже й за справи!</l>
         </sp>
@@ -6784,7 +6731,7 @@
           <l>що змусила б до зради християнку,</l>
           <l>душею щиру, серцем незрадливу.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(тратить свою удавану суворість. Тривожно, безпорадно)</stage>
           <l>Так що ж се? Як же се? Я не збагну…</l>
@@ -6798,7 +6745,7 @@
         <stage>Панса сідає коло Прісцілли, вона притуляється до його плеча головою.</stage>
         <l>Я, таточку, не вірю, щоб ти справді</l>
         <l>нечесною вважав свою Прісціллу.</l>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(розчулений)</stage>
           <l>Ні, ні, забудь про се, моя дитино!</l>
@@ -6811,7 +6758,7 @@
           <speaker>Прісцілла</speaker>
           <l>Так саме мушу й я вразити…</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Доню!</l>
           <l>Не говори такого! Мама вмерла,</l>
@@ -6828,7 +6775,7 @@
           <l>Я здавна вже мов гість на сьому світі.</l>
           <l>Душа моя вгорі…</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(встає, відчужений дивним екстатичним виразом її слів)</stage>
           <l>Руфіне! Що се?</l>
@@ -6844,7 +6791,7 @@
           <l>Батеньку, чого ти?</l>
           <l>Таж я зовсім притомна.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Лихо тяжке</l>
           <l>з притомністю такою… Ні, Руфіне,</l>
@@ -6857,7 +6804,7 @@
           <speaker>Руфін</speaker>
           <l>Я вмру скоріш від тебе.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Ой не кажи сього! Се ніж для мене!</l>
           <l>Та що з тобою? Я не розумію.</l>
@@ -6872,7 +6819,7 @@
           <l>якби мене не змусила до того</l>
           <l>повинність вища над родинні зв’язки.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Яка ж повинність? Ти ж повинен жити,</l>
           <l>щоб службу Римові сповняти чесно.</l>
@@ -6909,7 +6856,7 @@
           <l>Неслава й батькові прийняти поміч</l>
           <l>від сина-зрадника.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(оглядаючись, нишком)</stage>
           <l>Стривай, Руфіне.</l>
@@ -6919,7 +6866,7 @@
           <speaker>Руфін</speaker>
           <l>А про що ж?</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Я заплатив старшому ключареві,</l>
           <l>щоб він двох в’язнів випустив смерком.</l>
@@ -6940,7 +6887,7 @@
           <l>Всі, хто тут є, могли б сказати «згода»,</l>
           <l>а тільки ми не сміємо.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Чому?</l>
         </sp>
@@ -6950,7 +6897,7 @@
           <l>Було б се, наче ми їх всіх піймали</l>
           <l>в смертельну засідку, а самі втекли.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Неправда! Ви ж заздалегідь не знали,</l>
           <l>що я вас порятую.</l>
@@ -6961,7 +6908,7 @@
           <l>в очах людських се так здаватись буде.</l>
         </sp>
         <stage>Руфін задумується. Прісцілла пильно дивиться на нього.</stage>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Та хто ж із сих людей тебе побачить?</l>
         </sp>
@@ -6981,7 +6928,7 @@
           <l>мій батеньку. Розлука наша буде</l>
           <l>зовсім недовга.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(радісно)</stage>
           <l>Так? Ти звідси вийдеш?</l>
@@ -6991,7 +6938,7 @@
           <l>На небо, тату. Так нам сподіватись</l>
           <l>велів Христос.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Боги! вона безумна!</l>
           <l>Опам’ятайся, дочко, що ти кажеш?</l>
@@ -7004,7 +6951,7 @@
           <l>і ми з тобою будем вічно жити,</l>
           <l>не розлучаючись, в раю господнім.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(хапаючи Руфіна за руку з мукою і страхом)</stage>
           <l>Про що вона говорить? Я не тямлю.</l>
@@ -7016,7 +6963,7 @@
           <l>ти все це зрозумієш, коли схочеш,</l>
           <l>я попрошу братів, вони поможуть.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(все з острахом)</stage>
           <l>Яких братів?</l>
@@ -7025,7 +6972,7 @@
           <speaker>Руфін</speaker>
           <l>Се значить – християн.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Нехай поможуть визволити вас, –</l>
           <l>я їх озолочу.</l>
@@ -7035,7 +6982,7 @@
           <l>Не треба злота</l>
           <l>моїм братам.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Почім ти знаєш, дочко?</l>
           <l>Кому не треба злота? Всім треба.</l>
@@ -7046,7 +6993,7 @@
           <speaker>Прісцілла</speaker>
           <l>Авжеж, татусю, нас брати не зрадять.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(до громади)</stage>
           <l>Гей, люди добрі! приступіть, прошу вас.</l>
@@ -7058,7 +7005,7 @@
           <speaker>Єпископ</speaker>
           <l>Як ?</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Не питайте як… Втекти поможу.</l>
           <l>От сії персні виведуть їх звідси…</l>
@@ -7074,7 +7021,7 @@
           <stage>(з посміхом)</stage>
           <l>Чи ж пак?</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Та от ніяк не допрошуся згоди.</l>
           <l>Бояться діти добру славу втратить,</l>
@@ -7092,7 +7039,7 @@
           <l>Коли сумління стане – хай втікають.</l>
           <stage>(Подається вбік, щоб відступити.)</stage>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(утримує єпископа)</stage>
           <l>Ні, бачу, ви не хочете пустить їх!</l>
@@ -7104,7 +7051,7 @@
           <speaker>Парвус</speaker>
           <l>Чи ти без глузду? Що се ти плетеш?!</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(злякано)</stage>
           <l>Не гнівайся, добродію. Я теє…</l>
@@ -7119,7 +7066,7 @@
           <l>Наш бог не потребує твого злота,</l>
           <l>йому найпаче мила людська віра.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Я й вірити готов, лиш поможіть!</l>
         </sp>
@@ -7136,7 +7083,7 @@
           <l>я де він був, як не було біди?</l>
           <stage>(Теофіл відмахується від Парвуса і щось потиху допроваджує дияконові, часом звертаючись і до інших, хто ближче стоїть.)</stage>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Вони дозволять, синку, попроси їх,</l>
           <l>вони дозволять!</l>
@@ -7148,7 +7095,7 @@
           <l>та ми самі собі забороняєм,</l>
           <l>і вже ніхто тут не поможе.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(до Прісцілли)</stage>
           <l>Доню!</l>
@@ -7175,7 +7122,7 @@
           <l>Такої муки я ще не терпіла!</l>
           <l>Дай силу, господи! Дай звагу, Христе!</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(кидається до неї)</stage>
           <l>Прісцілло! Знай, що ти мене уб’єш!</l>
@@ -7202,7 +7149,7 @@
           <l>Глянь, всі з тобою плачуть. Сам єпископ</l>
           <l>насилу стримує сльозу.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(немічно спираючись на Люцієву руку)</stage>
           <l>Мій сину,</l>
@@ -7213,7 +7160,7 @@
           <stage>(навчаюче)</stage>
           <l>Богів нема багато, бог єдиний.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(покірно до Теофіла)</stage>
           <l>Так, так, єдиний.</l>
@@ -7235,7 +7182,7 @@
           <l>Так, се може</l>
           <l>пошкодить справі.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(з тривогою)</stage>
           <l>З чим же я піду?</l>
@@ -7244,7 +7191,7 @@
           <speaker>Люцій</speaker>
           <l>Я все владнаю. Я ручусь за теє.</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <l>Руфіне, ти що скажеш?</l>
         </sp>
@@ -7253,7 +7200,7 @@
           <l>Я не знаю,</l>
           <l>що міг би я сказати…</l>
         </sp>
-        <sp who="#pansa">
+        <sp who="#aetsij_pansa">
           <speaker>Панса</speaker>
           <stage>(схиляючись до Прісцілли)</stage>
           <l>Доню! Доню!</l>
@@ -9692,7 +9639,7 @@
           <l>Та й всі вони запеклі християни.</l>
         </sp>
         <stage>Молодий юрист зникає між рядами.</stage>
-        <sp who="#starkuvatij_didich-provintsial">
+        <sp who="#didich_1-j">
           <speaker>Старкуватий дідич-провінціал</speaker>
           <l>Невдячне то завдання для юриста</l>
           <l>в такім процесі бути адвокатом.</l>
@@ -9742,7 +9689,7 @@
           <l>Уа! Яка нудота!</l>
           <l>Скоріше б вирок той! Чого марудять?</l>
         </sp>
-        <sp who="#klient_jogo">
+        <sp who="#klient">
           <speaker>Клієнт його</speaker>
           <stage>(сидить за спиною молодого римлянина у вищому ряду)</stage>
           <l>Патроне, як гадаєш, що їм буде?</l>
@@ -10041,18 +9988,18 @@
           <l>Я в се не вірю.</l>
           <l>Чарівники б від суду врятувались.</l>
         </sp>
-        <sp who="#starij">
+        <sp who="#starij_seljanin">
           <speaker>Старий</speaker>
           <l>Не проти всього чари помагають.</l>
           <l>З Фемідою змагатись їм несила.</l>
           <l>Той християнський бог від наших слабший,</l>
           <l>лиш над хоробами він має силу.</l>
         </sp>
-        <sp who="#stara">
+        <sp who="#stara_seljanka">
           <speaker>Стара</speaker>
           <l>А як же зветься бог отой?</l>
         </sp>
-        <sp who="#starij">
+        <sp who="#starij_seljanin">
           <speaker>Старий</speaker>
           <l>Забув.</l>
           <l>Так якось наче Хрестус.</l>
@@ -10063,7 +10010,7 @@
           <l>зовсім інакше. Нехороше ймення,</l>
           <l>якесь жидівське.</l>
         </sp>
-        <sp who="#starij">
+        <sp who="#starij_seljanin">
           <speaker>Старий</speaker>
           <l>Може. Не згадаю.</l>
         </sp>
@@ -10086,7 +10033,7 @@
           <stage>(з вищої лавки)</stage>
           <l>Чому ж? Меркурій, бабко, теж прокрався.</l>
         </sp>
-        <sp who="#duzhe_vbogij_cholovik">
+        <sp who="#vbogij">
           <speaker>Дуже вбогий чоловік</speaker>
           <stage>(озивається з лави ще вищої)</stage>
           <l>А я чував, що їм не можна красти.</l>
@@ -10186,7 +10133,7 @@
           <stage>(Обертається до нього плечима.)</stage>
         </sp>
         <stage>В середніх лавах, але в вищому їх ряді.</stage>
-        <sp who="#skulptor_z_peredmistja">
+        <sp who="#skulptor">
           <speaker>Скульптор з передмістя</speaker>
           <stage>(до жерця Ескулапового, що тільки що надійшов)</stage>
           <l>Коли б ти чув, що там селюк той плів!</l>
@@ -10299,7 +10246,7 @@
           <l>Ку-ку!</l>
           <l>Кукуріку! Гав-гав! Няв-няв! А кшшш!</l>
         </sp>
-        <sp who="#golos_poklikacha_sudovogo">
+        <sp who="#poklikach">
           <speaker>Голос покликача судового</speaker>
           <stage>(в рупор)</stage>
           <l>Народе римський! Суд спокою просить!</l>
@@ -10363,7 +10310,7 @@
           <l>Повибиваєш людям очі!</l>
           <stage>(Вириває у Фортунатової жінки покривало, тая сідає.)</stage>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Обвинуваченим остатнє слово!</l>
         </sp>
@@ -10384,7 +10331,7 @@
           <speaker>Голос з найгустіших рядів</speaker>
           <l>Христос вам поможи! Одважно, браття!</l>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Раб Аквіла, Урбан, Флегон, Фавстін,</l>
           <l>Негріна – всі посполу прості родом –</l>
@@ -10400,7 +10347,7 @@
           <speaker>Голоси з публіки</speaker>
           <l>Обридли вже балачки!</l>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Теофіл,</l>
           <l>вигнанець і втікач, а християнський</l>
@@ -10450,7 +10397,7 @@
           <l>з левами вміє битись… А худого</l>
           <l>я б віддала пантері…</l>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Теофіл</l>
           <l>все потвердив, що говорив і перше.</l>
@@ -10459,7 +10406,7 @@
           <speaker>Голос з публіки</speaker>
           <l>Ха-ха-ха-ха! Було що слухать! Справді!</l>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Кней Люцій, громадянин, промовляє.</l>
         </sp>
@@ -10521,7 +10468,7 @@
           <l>мені є невигода тут сидіти.</l>
         </sp>
         <stage>Старий патрицій пускає її на своє місце, сам сідає біля комонника, але той раптово встає і виходить геть.</stage>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Кней Люцій просить взяти до уваги,</l>
           <l>що всі обвинувачені ніколи</l>
@@ -10537,7 +10484,7 @@
           <speaker>Старий вояк</speaker>
           <l>Вжеж, хай докажуть! Говорити легко!</l>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Кней Люцій свідчить ранами своїми,</l>
           <l>що він здобув, воюючи за Рим.</l>
@@ -10556,7 +10503,7 @@
           <l>Навчають суддів і самих весталок,</l>
           <l>що їм робить!</l>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Відпущеник Нартал</l>
           <l>сказав, що він не хоче знати Риму,</l>
@@ -10597,11 +10544,11 @@
           <l>Гей, до звірів!!</l>
         </sp>
         <stage>Гетера поривчасто обіймає його. Сміх, оплески серед сусідів гетери і вояка.</stage>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Промовить має Фортунат-плебей.</l>
         </sp>
-        <sp who="#zhinka_fortunatova">
+        <sp who="#fortunatova_zhinka">
           <speaker>Жінка Фортунатова</speaker>
           <stage>(знов стає, як уперед, махаючи покривалом)</stage>
           <l>Я тут! Ось діти! Змилуйся над нами!</l>
@@ -10610,13 +10557,13 @@
           <speaker>Ремісник</speaker>
           <l>Та сядь, туди ж однаково не чутно.</l>
         </sp>
-        <sp who="#zhinka_fortunatova">
+        <sp who="#fortunatova_zhinka">
           <speaker>Жінка Фортунатова</speaker>
           <l>Ні, він почув! Побачив!</l>
           <stage>(Кричить побиваючись.)</stage>
           <l>Фортунате!!</l>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Він заявив про щире каяття</l>
           <l>і має зараз се довести ділом.</l>
@@ -10633,7 +10580,7 @@
           <l>Сей чесний! Сей не винен! Дати пільгу!</l>
           <l>На волю випустить!</l>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Народе римський,</l>
           <l>спокою просить суд!</l>
@@ -10673,7 +10620,7 @@
           <speaker>Табулярій</speaker>
           <l>Вирок буде.</l>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Оскаржений, що сам себе зве Парвус,</l>
           <l>образив тяжко маєстат святині</l>
@@ -10689,7 +10636,7 @@
           <l>Ні, посадити б на залізне крісло</l>
           <l>та розпекти…</l>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>…Прісцілла промовляє.</l>
         </sp>
@@ -10746,7 +10693,7 @@
           <speaker>Міщанка</speaker>
           <l>Я сама з Субурри, – можеш вірить.</l>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Префект казав Прісціллі говорити</l>
           <l>про себе тільки.</l>
@@ -10755,7 +10702,7 @@
           <speaker>Юрист</speaker>
           <l>Так і слід! Авжеж!</l>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Прісцілла так до суду промовляє:</l>
           <l>«Оправдуйте мене їх оправданням,</l>
@@ -10804,7 +10751,7 @@
           <l>от тим вони і рвуться вслід за нею.</l>
         </sp>
         <stage>Тихий гомін сусідів жерця передається на дальші ряди.</stage>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Руфін Емілій має слово.</l>
         </sp>
@@ -10840,7 +10787,7 @@
           <l>Ні, він святий.</l>
           <stage>(Шепоче їй далі щось на вухо, вона чудується.)</stage>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Руфін заздалегідь приймає вирок</l>
           <l>і просить виконать його скоріше.</l>
@@ -10849,7 +10796,7 @@
           <speaker>Лихвар</speaker>
           <l>Розжалобити хоче ? Ні, не діжде?</l>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Префект ясновельможний Кай Летіцій</l>
           <l>гадає, що зменшити кару можна…</l>
@@ -10859,7 +10806,7 @@
           <l>Іще чого!</l>
           <stage>(Тупотить ногами і стукає києм, його наслідують інші.)</stage>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>…з уваги на покірність.</l>
         </sp>
@@ -10867,7 +10814,7 @@
           <speaker>Жрець Цібели</speaker>
           <l>Усі вони покірні! Не одурять!</l>
         </sp>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <l>Але Руфін покірність хай докаже:</l>
           <l>присягу імператору хай зложить,</l>
@@ -10893,7 +10840,7 @@
           <l>Не розумію сих людей!</l>
         </sp>
         <stage>В публіці, надто серед вояків, галас.</stage>
-        <sp who="#golos_poklikacha">
+        <sp who="#poklikach">
           <speaker>Голос покликача</speaker>
           <stage>(після сурмлення і деякого втихомирення)</stage>
           <l>Руфін</l>
@@ -11174,7 +11121,7 @@
           <l>Пантеру!</l>
           <l>З пантерою сюди! Гей, бестіарій!</l>
         </sp>
-        <sp who="#golos_parvusa">
+        <sp who="#parvus">
           <speaker>Голос Парвуса</speaker>
           <stage>(за сценою, але не дуже далеко)</stage>
           <l>Віддай їм, господи, по їх ділах,</l>
@@ -11203,7 +11150,7 @@
           <stage>(спокійно)</stage>
           <l>Ну, то що?</l>
         </sp>
-        <sp who="#golos_parvusa">
+        <sp who="#parvus">
           <speaker>Голос Парвуса</speaker>
           <stage>(екстаз у нього бореться з болем і мукою)</stage>
           <l>Господь мій захист!.. Мій притулок… сила…</l>
@@ -11214,7 +11161,7 @@
           <speaker>Жрець</speaker>
           <l>Ага! Скоренько припекло! А бач?</l>
         </sp>
-        <sp who="#golos_pristsilli">
+        <sp who="#pristsilla">
           <speaker>Голос Прісцілли</speaker>
           <stage>(здалека, але виразно співає псалом)</stage>
           <l>«Господь мій захист і моя потуга!</l>
@@ -11223,7 +11170,7 @@
           <l>її не подолає брама пекла!..»</l>
         </sp>
         <stage>Згодом до неї прилучаються голоси й інших засуджених християн.</stage>
-        <sp who="#golos_parvusa">
+        <sp who="#parvus">
           <speaker>Голос Парвуса</speaker>
           <stage>(знову екстатично)</stage>
           <l>Вінець!.. Мені вінець!.. Я бачу!.. Боже!..</l>
@@ -11344,7 +11291,7 @@
           <speaker>Гетера</speaker>
           <l>Ну, а тепер же що? Сього нам мало.</l>
         </sp>
-        <sp who="#golos_poklikacha_sudovogo">
+        <sp who="#poklikach">
           <speaker>Голос покликача судового</speaker>
           <l>Зволив божистий цезар-імператор,</l>
           <l>щоб Кнея Люція скарать вигнанням,</l>

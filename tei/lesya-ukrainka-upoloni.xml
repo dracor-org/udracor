@@ -33,167 +33,167 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="levit_3-j">
+          <person xml:id="levit_3-j" sex="MALE">
             <persName>
               3-й левіт
             </persName>
           </person>
-          <person xml:id="starij_cholovik">
+          <person xml:id="starij_cholovik" sex="MALE">
             <persName>
               Старий чоловік
             </persName>
           </person>
-          <person xml:id="levit_2-j">
+          <person xml:id="levit_2-j" sex="MALE">
             <persName>
               2-й левіт
             </persName>
           </person>
-          <person xml:id="divchina">
+          <person xml:id="divchina" sex="FEMALE">
             <persName>
               Дівчина
             </persName>
           </person>
-          <person xml:id="golosi_z_narodu">
+          <person xml:id="golosi_z_narodu" sex="UNKNOWN">
             <persName>
               Голоси з народу
             </persName>
           </person>
-          <person xml:id="stara_zhinka">
+          <person xml:id="stara_zhinka" sex="FEMALE">
             <persName>
               Стара жінка
             </persName>
           </person>
-          <person xml:id="gurt_prorokiv">
+          <personGrp xml:id="gurt_prorokiv" sex="UNKNOWN">
             <persName>
               Гурт пророків
             </persName>
-          </person>
-          <person xml:id="molodij_hlopets">
+          </personGrp>
+          <person xml:id="molodij_hlopets" sex="MALE">
             <persName>
               Молодий хлопець
             </persName>
           </person>
-          <person xml:id="iudejskij_prorok">
+          <person xml:id="iudejskij_prorok" sex="MALE">
             <persName>
               Іудейський пророк
             </persName>
           </person>
-          <person xml:id="tretij_did">
+          <person xml:id="tretij_did" sex="MALE">
             <persName>
               Третій дід
             </persName>
           </person>
-          <person xml:id="zhinka_serednogo_viku">
+          <person xml:id="zhinka_serednogo_viku" sex="FEMALE">
             <persName>
               Жінка середнього віку
             </persName>
           </person>
-          <person xml:id="odin_did">
+          <person xml:id="odin_did" sex="MALE">
             <persName>
               Один дід
             </persName>
           </person>
-          <person xml:id="odin_levit">
+          <person xml:id="odin_levit" sex="MALE">
             <persName>
               Один левіт
             </persName>
           </person>
-          <person xml:id="drugij_levit">
+          <person xml:id="drugij_levit" sex="MALE">
             <persName>
               Другий левіт
             </persName>
           </person>
-          <person xml:id="prorok_2-j">
+          <person xml:id="prorok_2-j" sex="MALE">
             <persName>
               2-й пророк
             </persName>
           </person>
-          <person xml:id="bozhevilna">
+          <person xml:id="bozhevilna" sex="FEMALE">
             <persName>
               Божевільна
             </persName>
           </person>
-          <person xml:id="ditinka">
+          <person xml:id="ditinka" sex="MALE">
             <persName>
               Дитинка
             </persName>
           </person>
-          <person xml:id="samarijskij_prorok">
+          <person xml:id="samarijskij_prorok" sex="MALE">
             <persName>
               Самарійський пророк
             </persName>
           </person>
-          <person xml:id="eleazar">
+          <person xml:id="eleazar" sex="MALE">
             <persName>
               Елеазар
             </persName>
           </person>
-          <person xml:id="prorok_1-j">
+          <person xml:id="prorok_1-j" sex="MALE">
             <persName>
               1-й пророк
             </persName>
           </person>
-          <person xml:id="gurt_levitiv">
+          <personGrp xml:id="gurt_levitiv" sex="MALE">
             <persName>
               Гурт левітів
             </persName>
-          </person>
-          <person xml:id="zhinka">
+          </personGrp>
+          <person xml:id="zhinka" sex="FEMALE">
             <persName>
               Жінка
             </persName>
           </person>
-          <person xml:id="batko">
+          <person xml:id="batko" sex="MALE">
             <persName>
               Батько
             </persName>
           </person>
-          <person xml:id="mati_ditini">
+          <person xml:id="mati_ditini" sex="FEMALE">
             <persName>
               Мати дитини
             </persName>
           </person>
-          <person xml:id="golos_poklikacha_z_taboru">
+          <person xml:id="golos_poklikacha_z_taboru" sex="MALE">
             <persName>
               Голос покликача з табору
             </persName>
           </person>
-          <person xml:id="did">
+          <person xml:id="did" sex="MALE">
             <persName>
               Дід
             </persName>
           </person>
-          <person xml:id="drugij_did">
+          <person xml:id="drugij_did" sex="MALE">
             <persName>
               Другий дід
             </persName>
           </person>
-          <person xml:id="golosi_zhinochi_z_narodu">
+          <personGrp xml:id="golosi_zhinochi_z_narodu" sex="FEMALE">
             <persName>
               Голоси жіночі з народу
             </persName>
-          </person>
-          <person xml:id="diti">
+          </personGrp>
+          <personGrp xml:id="diti" sex="UNKNOWN">
             <persName>
               Діти
             </persName>
-          </person>
-          <person xml:id="malij_hlopchik">
+          </personGrp>
+          <person xml:id="malij_hlopchik" sex="MALE">
             <persName>
               Малий хлопчик
             </persName>
           </person>
-          <person xml:id="cholovik">
+          <person xml:id="cholovik" sex="MALE">
             <persName>
               Чоловік
             </persName>
           </person>
-          <person xml:id="tovarishka">
+          <person xml:id="tovarishka" sex="FEMALE">
             <persName>
               Товаришка
             </persName>
           </person>
-          <person xml:id="levit_1-j">
+          <person xml:id="levit_1-j" sex="MALE">
             <persName>
               1-й левіт
             </persName>
@@ -202,6 +202,13 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1903">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <body>
       <div type="act">
