@@ -33,22 +33,22 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="strofa">
+          <person xml:id="strofa" sex="FEMALE">
             <persName>
               Строфа
             </persName>
           </person>
-          <person xml:id="ifigenija">
+          <person xml:id="ifigenija" sex="FEMALE">
             <persName>
               Іфігенія
             </persName>
           </person>
-          <person xml:id="hor_divchat">
+          <personGrp xml:id="hor_divchat" sex="FEMALE">
             <persName>
               Хор дівчат
             </persName>
-          </person>
-          <person xml:id="antistrofa">
+          </personGrp>
+          <person xml:id="antistrofa" sex="FEMALE">
             <persName>
               Антистрофа
             </persName>
@@ -57,6 +57,13 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1898">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <body>
       <div type="act">
