@@ -30,76 +30,83 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="robitnik_3-j">
+          <person xml:id="robitnik_3-j" sex="MALE">
             <persName>3-й робітник</persName>
           </person>
-          <person xml:id="robitnik_2-j">
+          <person xml:id="robitnik_2-j" sex="MALE">
             <persName>2-й робітник</persName>
           </person>
-          <person xml:id="majster_4-j">
+          <person xml:id="majster_4-j" sex="MALE">
             <persName>4-й майстер</persName>
           </person>
-          <person xml:id="budivnichij">
+          <person xml:id="budivnichij" sex="MALE">
             <persName>Будівничий</persName>
           </person>
-          <person xml:id="litsar">
+          <person xml:id="litsar" sex="MALE">
             <persName>Лицар-в’язень</persName>
           </person>
-          <person xml:id="majster_1-j">
+          <person xml:id="majster_1-j" sex="MALE">
             <persName>1-й майстер</persName>
           </person>
-          <person xml:id="shvachka">
+          <person xml:id="shvachka" sex="MALE">
             <persName>Швачка</persName>
           </person>
-          <person xml:id="robitnik_5-j">
+          <person xml:id="robitnik_5-j" sex="MALE">
             <persName>5-й робітник</persName>
           </person>
-          <person xml:id="molodij_hlopets">
+          <person xml:id="molodij_hlopets" sex="MALE">
             <persName>Молодий хлопець</persName>
           </person>
-          <person xml:id="robitnik_1-j">
+          <person xml:id="robitnik_1-j" sex="MALE">
             <persName>1-й робітник</persName>
           </person>
-          <person xml:id="printsesa">
+          <person xml:id="printsesa" sex="FEMALE">
             <persName>Принцеса</persName>
           </person>
-          <person xml:id="sluzhebka">
+          <person xml:id="sluzhebka" sex="MALE">
             <persName>Служебка</persName>
           </person>
-          <person xml:id="pastuh">
+          <person xml:id="pastuh" sex="MALE">
             <persName>Пастух</persName>
           </person>
-          <person xml:id="majster_3-j">
+          <person xml:id="majster_3-j" sex="MALE">
             <persName>3-й майстер</persName>
           </person>
-          <person xml:id="zhinka">
+          <person xml:id="zhinka" sex="FFEMALE">
             <persName>Жінка</persName>
           </person>
-          <person xml:id="golos">
+          <person xml:id="golos" sex="UNKNOWN">
             <persName>Голос</persName>
           </person>
-          <person xml:id="robitnik_4-j">
+          <person xml:id="robitnik_4-j" sex="MALE">
             <persName>4-й робітник</persName>
           </person>
-          <person xml:id="vsja_jurba">
+          <personGrp xml:id="vsja_jurba" sex="UNKNOWN">
             <persName>Вся юрба</persName>
-          </person>
-          <person xml:id="majster_2-j">
+          </personGrp>
+          <person xml:id="majster_2-j" sex="MALE">
             <persName>2-й майстер</persName>
           </person>
-          <person xml:id="skilka_golosiv">
+          <personGrp xml:id="skilka_golosiv" sex="UNKNOWN">
             <persName>Скілька голосів</persName>
-          </person>
-          <person xml:id="prjaha">
+          </personGrp>
+          <person xml:id="prjaha" sex="FEMALE">
             <persName>Пряха</persName>
           </person>
-          <person xml:id="tkalja">
+          <person xml:id="tkalja" sex="FEMALE">
             <persName>Ткаля</persName>
           </person>
         </listPerson>
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1905">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <body>
       <div type="act">
