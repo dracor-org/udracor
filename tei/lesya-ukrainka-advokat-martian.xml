@@ -77,11 +77,11 @@
               Один грубий голос
             </persName>
           </person>
-          <person xml:id="skilka_golosiv">
+          <personGrp xml:id="skilka_golosiv">
             <persName>
               Скілька голосів
             </persName>
-          </person>
+          </personGrp>
           <person xml:id="albina">
             <persName>
               Альбіна
