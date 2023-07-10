@@ -62,11 +62,6 @@
               Степан
             </persName>
           </person>
-          <person xml:id="golos_materi">
-            <persName>
-              Голос матері
-            </persName>
-          </person>
           <person xml:id="ivan">
             <persName>
               Іван
@@ -815,7 +810,7 @@
           <l>не буду говорити, коли так!</l>
           <stage>(Без слів пригортає й милує її. Вона спершу пручається, потім піддається його пестощам).</stage>
         </sp>
-        <sp who="#golos_materi">
+        <sp who="#mati">
           <speaker>Голос матері</speaker>
           <stage>(з будинку)</stage>
           <l>Оксано!</l>
@@ -843,7 +838,7 @@
           <l>Вийди, люба!</l>
           <l>Я виглядатиму тебе до світа!</l>
         </sp>
-        <sp who="#golos_materi">
+        <sp who="#mati">
           <speaker>Голос матері</speaker>
           <l>Оксано, де ти?</l>
         </sp>
