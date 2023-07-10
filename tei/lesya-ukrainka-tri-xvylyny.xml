@@ -30,25 +30,32 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="zhinka">
+          <person xml:id="zhinka" sex="FEMALE">
             <persName>Жінка</persName>
           </person>
-          <person xml:id="konrad">
+          <person xml:id="konrad" sex="MALE">
             <persName>Конрад</persName>
           </person>
-          <person xml:id="montanjar">
+          <person xml:id="montanjar" sex="MALE">
             <persName>Монтаньяр</persName>
           </person>
-          <person xml:id="zhirondist">
+          <person xml:id="zhirondist" sex="MALE">
             <persName>Жірондист</persName>
           </person>
-          <person xml:id="zhirondistka">
+          <person xml:id="zhirondistka" sex="FEMALE">
             <persName>Жірондистка</persName>
           </person>
         </listPerson>
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1905">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <front>
       <head>Три хвилини</head>
