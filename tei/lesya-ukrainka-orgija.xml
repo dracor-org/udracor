@@ -30,55 +30,56 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="hilon">
+          <person xml:id="hilon" sex="MALE">
             <persName>Хілон</persName>
           </person>
-          <person xml:id="golos">
+          <person xml:id="golos" sex="UNKNOWN">
             <persName>Голос</persName>
           </person>
-          <person xml:id="antej">
+          <person xml:id="antej" sex="MALE">
             <persName>Антей</persName>
           </person>
-          <person xml:id="fedon">
+          <person xml:id="fedon" sex="MALE">
             <persName>Федон</persName>
           </person>
-          <person xml:id="germiona">
+          <person xml:id="germiona" sex="FEMALE">
             <persName>Герміона</persName>
           </person>
-          <person xml:id="hor_panegiristiv">
+          <personGrp xml:id="hor_panegiristiv" sex="UNKNOWN">
             <persName>Хор панегіристів</persName>
-          </person>
-          <person xml:id="prefekt">
+          </personGrp>
+          <person xml:id="prefekt" sex="MALE">
             <persName>Префект</persName>
           </person>
-          <person xml:id="rab-atrienzij">
+          <person xml:id="atrienzij" sex="MALE">
             <persName>Раб-атрієнзій</persName>
           </person>
-          <person xml:id="atrienzij">
-            <persName>Атрієнзій</persName>
-          </person>
-          <person xml:id="evfrozina">
+          <person xml:id="evfrozina" sex="FEMALE">
             <persName>Евфрозіна</persName>
           </person>
-          <person xml:id="metsenat">
+          <person xml:id="metsenat" sex="MALE">
             <persName>Меценат</persName>
           </person>
-          <person xml:id="golos_z_horu_panegiristiv">
+          <person xml:id="golos_z_horu_panegiristiv" sex="UNKNOWN">
             <persName>Голос з хору панегіристів</persName>
           </person>
-          <person xml:id="golos_evfrozini">
-            <persName>Голос Евфрозіни</persName>
-          </person>
-          <person xml:id="nerisa">
+          <person xml:id="nerisa" sex="FEMALE">
             <persName>Неріса</persName>
           </person>
-          <person xml:id="prokurator">
+          <person xml:id="prokurator" sex="MALE">
             <persName>Прокуратор</persName>
           </person>
         </listPerson>
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1913">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <body>
       <div type="act">
@@ -1765,7 +1766,7 @@
         </sp>
         <stage>Антей сягає за голову, здіймає лаври, з проймаючим жалем дивиться на їх і мовчки кладе
           там, де стояла Евфрозіна, коли квітчала його.</stage>
-        <sp who="#golos_evfrozini">
+        <sp who="#evfrozina">
           <speaker>Голос Евфрозіни</speaker>
           <stage>(озивається з глибини дому)</stage>
           <l>Нерісо! клич Антея! Йдіть обідать!</l>
@@ -2107,7 +2108,7 @@
             <l>Ну, тут я мушу</l>
             <l>зложити зброю. В сьому ти найдужчий.</l>
           </sp>
-          <sp who="#rab-atrienzij">
+          <sp who="#atrienzij">
             <speaker>Раб-атрієнзій</speaker>
             <stage>(увіходить)</stage>
             <l>Прийшов Антей-співець.</l>
