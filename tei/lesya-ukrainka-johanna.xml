@@ -30,43 +30,50 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="husa">
+          <person xml:id="husa" sex="MALE">
             <persName>Хуса</persName>
           </person>
-          <person xml:id="melhola">
+          <person xml:id="melhola" sex="FEMALE">
             <persName>Мелхола</persName>
           </person>
-          <person xml:id="rab">
+          <person xml:id="rab" sex="MALE">
             <persName>Раб</persName>
           </person>
-          <person xml:id="martsija">
+          <person xml:id="martsija" sex="FEMALE">
             <persName>Марція</persName>
           </person>
-          <person xml:id="skorohod_gabal">
+          <person xml:id="skorohod_gabal" sex="MALE">
             <persName>Скороход Габал</persName>
           </person>
-          <person xml:id="upravitel">
+          <person xml:id="upravitel" sex="MALE">
             <persName>Управитель</persName>
           </person>
-          <person xml:id="kravchij">
+          <person xml:id="kravchij" sex="MALE">
             <persName>Кравчий</persName>
           </person>
-          <person xml:id="joganna">
+          <person xml:id="joganna" sex="FEMALE">
             <persName>Йоганна</persName>
           </person>
-          <person xml:id="publij">
+          <person xml:id="publij" sex="MALE">
             <persName>Публій</persName>
           </person>
-          <person xml:id="vinocherpets">
+          <person xml:id="vinocherpets" sex="MALE">
             <persName>Виночерпець</persName>
           </person>
-          <person xml:id="sabina">
+          <person xml:id="sabina" sex="FEMALE">
             <persName>Сабіна</persName>
           </person>
         </listPerson>
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1909">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <body>
       <div type="act">
