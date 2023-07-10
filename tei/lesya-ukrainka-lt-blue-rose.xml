@@ -30,67 +30,65 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="ljubov">
+          <person xml:id="ljubov" sex="FEMALE">
             <persName>Любов</persName>
           </person>
-          <person xml:id="divchinka">
+          <person xml:id="divchinka" sex="FEMALE">
             <persName>Дівчинка</persName>
           </person>
-          <person xml:id="nadezhda_petrivna">
+          <person xml:id="nadezhda_petrivna" sex="FEMALE">
             <persName>Надежда Петрівна</persName>
           </person>
-          <person xml:id="pannochka_1-sha">
+          <person xml:id="pannochka_1-sha" sex="FEMALE">
             <persName>1-ша панночка</persName>
           </person>
-          <person xml:id="ostrozhin">
+          <person xml:id="ostrozhin" sex="MALE">
             <persName>Острожин</persName>
           </person>
-          <person xml:id="gruicheva">
+          <person xml:id="gruicheva" sex="FEMALE">
             <persName>Груїчева</persName>
           </person>
-          <person xml:id="sanja">
+          <person xml:id="sanja" sex="FEMALE">
             <persName>Саня</persName>
           </person>
-          <person xml:id="kritskij">
+          <person xml:id="kritskij" sex="MALE">
             <persName>Крицький</persName>
           </person>
-          <person xml:id="pannochka_2-ga">
+          <person xml:id="pannochka_2-ga" sex="FEMALE">
             <persName>2-га панночка</persName>
           </person>
-          <person xml:id="orest">
+          <person xml:id="orest" sex="MALE">
             <persName>Орест</persName>
           </person>
-          <person xml:id="panna_2-ga">
-            <persName>2-га панна</persName>
-          </person>
-          <person xml:id="panna_1-sha">
-            <persName>1-ша панна</persName>
-          </person>
-          <person xml:id="olimpiada_ivanivna">
+          <person xml:id="olimpiada_ivanivna" sex="FEMALE">
             <persName>Олімпіада Іванівна</persName>
           </person>
-          <person xml:id="likar">
+          <person xml:id="likar" sex="MALE">
             <persName>Лікар</persName>
           </person>
-          <person xml:id="milevskij">
+          <person xml:id="milevskij" sex="MALE">
             <persName>Милевський</persName>
           </person>
-          <person xml:id="l-sha_panna">
-            <persName>l-ша панна</persName>
-          </person>
-          <person xml:id="hlopchik">
+          <person xml:id="hlopchik" sex="MALE">
             <persName>Хлопчик</persName>
           </person>
-          <person xml:id="mati">
+          <person xml:id="mati" sex="FEMALE">
             <persName>Мати</persName>
           </person>
-          <person xml:id="psihiatr">
+          <person xml:id="psihiatr" sex="MALE">
             <persName>Психіатр</persName>
           </person>
         </listPerson>
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1896">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <body>
       <div type="act">
@@ -2078,7 +2076,7 @@
             <stage>(до другої панночки)</stage>
             <p>Добре ваші українські пісні придаються замість баркароли, ніяк я не сподівався!</p>
           </sp>
-          <sp who="#2-ga_pannochka">
+          <sp who="#pannochka_2-ga">
             <speaker>2-га панночка</speaker>
             <p>Чому не сподівались?</p>
           </sp>
@@ -2099,7 +2097,7 @@
             <speaker>Острожин</speaker>
             <p>Я?</p>
           </sp>
-          <sp who="#2-ga_pannochka">
+          <sp who="#pannochka_2-ga">
             <speaker>2-га панночка</speaker>
             <p>M-r Острожин був ласкавий обізвати наш народ дикарями.</p>
           </sp>
@@ -2149,7 +2147,7 @@
             <stage>(од берега озивається)</stage>
             <p>Добре!</p>
           </sp>
-          <sp who="#2-ga_pannochka">
+          <sp who="#pannochka_2-ga">
             <speaker>2-га панночка</speaker>
             <p>Яка ж ваша домівка, Саню? Добре врядились?</p>
           </sp>
@@ -2171,7 +2169,7 @@
             <p>Ще зайдете, маєте час, ходіть, ходіть; не зраджуйте товариства.</p>
           </sp>
           <stage>Ідуть з Орестом вперед; панночки з Острожиним трохи відстали.</stage>
-          <sp who="#2-ga_pannochka">
+          <sp who="#pannochka_2-ga">
             <speaker>2-га панночка</speaker>
             <stage>(стиха)</stage>
             <p>Хто б міг думати, щоб з Милевського вийшов такий взірцевий чоловік і господар дому!</p>
@@ -2343,7 +2341,7 @@
             <speaker>Любов</speaker>
             <p>Так, без мене обійдеться. (Повертається до Сані.) Здорова! Ви були аж у місті?</p>
           </sp>
-          <sp who="#1-sha_panna">
+          <sp who="#pannochka_1-sha">
             <speaker>1-ша панна</speaker>
             <stage>(оддалі стоїть, з Любов’ю не вітається, незнайома)</stage>
             <p>Оресте Михайловичу, у мене гачка нема! Поможіть.</p>
@@ -2372,7 +2370,7 @@
               однак, се досить противна штука!</p>
             <stage>(Нишком одійшов і поставив долі.)</stage>
           </sp>
-          <sp who="#1-sha_panna">
+          <sp who="#pannochka_1-sha">
             <speaker>1-ша панна</speaker>
             <stage>(говорить з Орестом під час розмови Люби з іншими)</stage>
             <p>Ви, здається, нудитесь сьогодні, Оресте Михайловичу?</p>
@@ -2381,7 +2379,7 @@
             <speaker>Орест</speaker>
             <p>Ні, то вам так здається.</p>
           </sp>
-          <sp who="#1-sha_panna">
+          <sp who="#pannochka_1-sha">
             <speaker>1-ша панна</speaker>
             <p>Ні, у вас чудна натура, ви, наприклад, казали, що вам тут не пишеться, а тим часом ви на
               лоні природи…</p>
@@ -2390,7 +2388,7 @@
             <speaker>Орест</speaker>
             <p>Часом одного лона природи буває мало…</p>
           </sp>
-          <sp who="#1-sha_panna">
+          <sp who="#pannochka_1-sha">
             <speaker>1-ша панна</speaker>
             <stage>(кокетливо спускає очі)</stage>
             <p>Так, се правда.</p>
@@ -2445,7 +2443,7 @@
             <stage>(сміється)</stage>
             <p>Ет!</p>
           </sp>
-          <sp who="#2-ga_panna">
+          <sp who="#pannochka_2-ga">
             <speaker>2-га панна</speaker>
             <stage>(до Люби)</stage>
             <p>Вас можна повіншувати?</p>
@@ -2454,7 +2452,7 @@
             <speaker>Любов</speaker>
             <p>З чим?</p>
           </sp>
-          <sp who="#2-ga_panna">
+          <sp who="#pannochka_2-ga">
             <speaker>2-га панна</speaker>
             <p>Мені казали, що ви заручені.</p>
           </sp>
@@ -2462,7 +2460,7 @@
             <speaker>Любов</speaker>
             <p>Спасибі за новину. З ким же се?</p>
           </sp>
-          <sp who="#2-ga_panna">
+          <sp who="#pannochka_2-ga">
             <speaker>2-га панна</speaker>
             <stage>(оглядається на Ореста)</stage>
             <p>Ах, вибачайте, се, значить, так собі, чутка. А мені переказували, як щось певного.</p>
@@ -2489,7 +2487,7 @@
             <speaker>Орест</speaker>
             <p>Я, може, згодом прийду, мені справді треба до матері зайти на який час.</p>
           </sp>
-          <sp who="#l-sha_panna">
+          <sp who="#pannochka_1-sha">
             <speaker>l-ша панна</speaker>
             <p>Приходьте ж, ви обіцяли показати мені, як ловити сачком.</p>
           </sp>
