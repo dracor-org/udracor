@@ -31,35 +31,42 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="sluga">
+          <person xml:id="sluga" sex="MALE">
             <persName>Слуга</persName>
           </person>
-          <person xml:id="starij">
+          <person xml:id="starij" sex="MALE">
             <persName>Старий</persName>
           </person>
-          <person xml:id="miriam">
+          <person xml:id="miriam" sex="FEMALE">
             <persName>Міріам</persName>
           </person>
-          <person xml:id="pretorianets">
+          <person xml:id="pretorianets" sex="MALE">
             <persName>Преторіанець</persName>
           </person>
-          <person xml:id="golosi_z_jurbi">
+          <personGrp xml:id="golosi_z_jurbi" sex="UNKNOWN">
             <persName>Голоси з юрби</persName>
-          </person>
-          <person xml:id="joganna">
+          </personGrp>
+          <person xml:id="joganna" sex="FEMALE">
             <persName>Йоганна</persName>
           </person>
-          <person xml:id="mesija">
+          <person xml:id="mesija" sex="MALE">
             <persName>Месія</persName>
           </person>
-          <person xml:id="golosi_v_jurbi">
+          <personGrp xml:id="golosi_v_jurbi" sex="UNKNOWN">
             <!-- it is unclear if we should merge this with the Golosi_z_jurbi-->
             <persName>Голоси в юрбі</persName>
-          </person>
+          </personGrp>
         </listPerson>
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1901">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <body>
       <div type="act">
