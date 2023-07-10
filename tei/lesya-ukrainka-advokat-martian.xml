@@ -32,62 +32,62 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="avrelija">
+          <person xml:id="avrelija" sex="FEMALE">
             <persName>
               Аврелія
             </persName>
           </person>
-          <person xml:id="tsenturion">
+          <person xml:id="tsenturion" sex="MALE">
             <persName>
               Центуріон
             </persName>
           </person>
-          <person xml:id="martian">
+          <person xml:id="martian" sex="MALE">
             <persName>
               Мартіан
             </persName>
           </person>
-          <person xml:id="golos">
+          <person xml:id="golos" sex="UNKNOWN">
             <persName>
               Голос
             </persName>
           </person>
-          <person xml:id="konstantsij">
+          <person xml:id="konstantsij" sex="MALE">
             <persName>
               Констанцій
             </persName>
           </person>
-          <person xml:id="izogen">
+          <person xml:id="izogen" sex="MALE">
             <persName>
               Ізоген
             </persName>
           </person>
-          <person xml:id="ljutsilla">
+          <person xml:id="ljutsilla" sex="FEMALE">
             <persName>
               Люцілла
             </persName>
           </person>
-          <person xml:id="odin_grubij_golos">
+          <person xml:id="odin_grubij_golos" sex="UNKNOWN">
             <persName>
               Один грубий голос
             </persName>
           </person>
-          <personGrp xml:id="skilka_golosiv">
+          <personGrp xml:id="skilka_golosiv" sex="UNKNOWN">
             <persName>
               Скілька голосів
             </persName>
           </personGrp>
-          <person xml:id="albina">
+          <person xml:id="albina" sex="FEMALE">
             <persName>
               Альбіна
             </persName>
           </person>
-          <person xml:id="ardent">
+          <person xml:id="ardent" sex="MALE">
             <persName>
               Ардент
             </persName>
           </person>
-          <person xml:id="valent">
+          <person xml:id="valent" sex="MALE">
             <persName>
               Валент
             </persName>
@@ -97,12 +97,12 @@
               Голос за брамою
             </persName>
           </person>
-          <person xml:id="odin_vigil">
+          <person xml:id="odin_vigil" sex="UNKNOWN">
             <persName>
               Один вігіл
             </persName>
           </person>
-          <person xml:id="dehto_z_storozhi">
+          <person xml:id="dehto_z_storozhi" sex="UNKNOWN">
             <persName>
               Дехто з сторожі
             </persName>
@@ -111,6 +111,13 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1911">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <body>
       <div type="act">
