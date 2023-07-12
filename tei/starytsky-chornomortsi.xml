@@ -83,7 +83,14 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <text>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1872">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
+    <text>
     <front>
       <head>Дійові люде:</head>
       <castList>      

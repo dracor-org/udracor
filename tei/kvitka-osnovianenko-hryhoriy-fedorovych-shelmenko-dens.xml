@@ -86,7 +86,14 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1835">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
+    <text>
     <body>
       <castList>
         <head>ДЕЙСТВУЮЩИЕ</head>

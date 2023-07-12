@@ -92,7 +92,14 @@
        </listChange>
      </revisionDesc>
   </teiHeader>
-  <text>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1882">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
+    <text>
     <body>
       <castList>
         <head>ЛИЦЕДІЇ:</head>

@@ -161,7 +161,14 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <text>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1924">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
+    <text>
     <body>
       <castList>
         <head>ДІЙОВІ ЛЮДИ</head>

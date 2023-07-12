@@ -79,7 +79,14 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <text>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1895">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
+    <text>
     <front>
       <docTitle>
         <titlePart type="main">Суд святого Николая</titlePart>

@@ -75,7 +75,14 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <text>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1836">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
+    <text>
     <front>
       <castList>
         <head>ДЕЙСТВУЮЩИЕ ЛИЦА:</head>
