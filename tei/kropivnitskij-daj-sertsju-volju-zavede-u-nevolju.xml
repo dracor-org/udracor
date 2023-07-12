@@ -126,7 +126,14 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <text>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1863">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
+    <text>
     <body>
       <castList>
         <head>Лицедії:</head>

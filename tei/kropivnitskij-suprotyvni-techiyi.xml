@@ -114,7 +114,14 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <text>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1900">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
+    <text>
     <front>
       <castList>
         <head>ЛИЦЕДІЇ</head>
