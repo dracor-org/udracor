@@ -1,0 +1,4345 @@
+<TEI xml:lang="ukr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Різдвяна ніч</title>
+        <title type="sub">Музикальна комедія на чотири дії (тема по Гоголю)</title>
+        <author>Михайло Петрович Старицький</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <idno type="URL">https://www.myslenedrevo.com.ua/uk/Lit/S/Starycky/Dramas/RizdvjanaNich.html</idno>
+          <bibl type="originalSource">
+            <title>Старицький М. Твори у 8 тт. – К.: Державне видавництво художньої літератури, 1964 р., т. 2, с. 53 – 120.</title>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="patsjuk">
+            <persName>Пацюк</persName>
+          </person>
+          <person sex="FEMALE" xml:id="odarka">
+            <persName>Одарка</persName>
+          </person>
+          <person sex="MALE" xml:id="parubok_2-j">
+            <persName>2-й парубок</persName>
+          </person>
+          <person sex="MALE" xml:id="djak">
+            <persName>Дяк</persName>
+          </person>
+          <person sex="MALE" xml:id="parubok_1-j">
+            <persName>1-й парубок</persName>
+          </person>
+          <personGrp sex="FEMALE" xml:id="druhi_divchata_act_one_scene_nine">
+            <persName>Другі дівчата</persName>
+          </personGrp>
+          <personGrp sex="FEMALE" xml:id="druhi_divchata_act_one_scene_thirteen">
+            <persName>Другі дівчата</persName>
+          </personGrp>
+          <personGrp sex="FEMALE" xml:id="druhi_divchata_act_four_scene_three">
+            <persName>Другі дівчата</persName>
+          </personGrp>
+          <person sex="FEMALE" xml:id="katrja">
+            <persName>Катря</persName>
+          </person>
+          <person sex="MALE" xml:id="vakula">
+            <persName>Вакула</persName>
+          </person>
+          <person sex="MALE" xml:id="tymish">
+            <persName>Тиміш</persName>
+          </person>
+          <person sex="FEMALE" xml:id="shportunykha">
+            <persName>Шпортуниха</persName>
+          </person>
+          <person sex="MALE" xml:id="chub">
+            <persName>Чуб</persName>
+          </person>
+          <person sex="FEMALE" xml:id="holova">
+            <persName>Голова</persName>
+          </person>
+          <person sex="MALE" xml:id="divchata_odni_act_one_scene_twelve">
+            <persName>Дівчата одні</persName>
+          </person>
+          <person sex="MALE" xml:id="hrytsko">
+            <persName>Грицько</persName>
+          </person>
+          <personGrp sex="MALE" xml:id="dejaki_khloptsi_act_one_scene_eleven">
+            <persName>Деякі хлопці</persName>
+          </personGrp>
+          <person sex="FEMALE" xml:id="yivha">
+            <persName>Ївга</persName>
+          </person>
+          <personGrp sex="MALE" xml:id="khloptsi">
+            <persName>Хлопці</persName>
+          </personGrp>
+          <person sex="FEMALE" xml:id="divchyna_1-a">
+            <persName>1-а дівчина</persName>
+          </person>
+          <personGrp sex="MALE" xml:id="parubky">
+            <persName>Парубки</persName>
+          </personGrp>
+          <person sex="FEMALE" xml:id="solokha">
+            <persName>Солоха</persName>
+          </person>
+          <person sex="FEMALE" xml:id="divchata">
+            <persName>Дівчата</persName>
+          </person>
+          <person sex="FEMALE" xml:id="divchyna_2-a">
+            <persName>2-а дівчина</persName>
+          </person>
+          <person sex="FEMALE" xml:id="marusja_j_odarka">
+            <persName>Маруся й Одарка</persName>
+          </person>
+          <person sex="FEMALE" xml:id="parubky_i_divchata">
+            <persName>Парубки і дівчата</persName>
+          </person>
+          <person sex="FEMALE" xml:id="odarka_i_oksana">
+            <persName>Одарка і Оксана</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="holos">
+            <persName>Голос</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="dejaki_act_one_scene_eight">
+            <persName>Деякі</persName>
+          </personGrp>
+          <personGrp sex="UNKNOWN" xml:id="dejaki_act_one_scene_nine">
+            <persName>Деякі</persName>
+          </personGrp>
+          <personGrp sex="UNKNOWN" xml:id="dejaki_act_one_scene_eleven">
+            <persName>Деякі</persName>
+          </personGrp>
+          <personGrp sex="UNKNOWN" xml:id="dejaki_act_one_scene_sixteen">
+            <persName>Деякі</persName>
+          </personGrp>
+          <personGrp sex="UNKNOWN" xml:id="dejaki_act_two_scene_ten">
+            <persName>Деякі</persName>
+          </personGrp>
+          <personGrp sex="UNKNOWN" xml:id="dejaki_act_four_scene_four">
+            <persName>Деякі</persName>
+          </personGrp>
+          <person sex="UNKNOWN" xml:id="holos_za_dveryma">
+            <persName>Голос за дверима</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="khor">
+            <persName>Хор</persName>
+          </personGrp>
+          <personGrp sex="FEMALE" xml:id="divchata_druhi_act_one_scene_twelve">
+            <persName>Дівчата другі</persName>
+          </personGrp>
+          <person sex="FEMALE" xml:id="oksana">
+            <persName>Оксана</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="druhi_z_zvizdoju">
+            <persName>Другі з звіздою</persName>
+          </personGrp>
+          <person sex="FEMALE" xml:id="mikhonosha">
+            <persName>Міхоноша</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="holosy_act_one_scene_seven">
+            <persName>Голоси</persName>
+          </personGrp>
+          <personGrp sex="UNKNOWN" xml:id="holosy_act_one_scene_fifteen">
+            <persName>Голоси</persName>
+          </personGrp>
+          <person sex="FEMALE" xml:id="marusja">
+            <persName>Маруся</persName>
+          </person>
+          <personGrp sex="FEMALE" xml:id="dejaki_divchata_act_two_scene_thirteen">
+            <persName>Деякі дівчата</persName>
+          </personGrp>
+          <personGrp sex="MALE" xml:id="dejaki_parubky_act_one_scene_twelve">
+            <persName>Деякі парубки</persName>
+          </personGrp>
+          <personGrp sex="FEMALE" xml:id="divchata_dejaki_act_one_scene_fourteen">
+            <persName>Дівчата деякі</persName>
+          </personGrp>
+          <personGrp sex="UNKNOWN" xml:id="druhi_act_one_scene_eight">
+            <persName>Другі</persName>
+          </personGrp>
+          <personGrp sex="UNKNOWN" xml:id="druhi_act_one_scene_fifteen">
+            <persName>Другі</persName>
+          </personGrp>
+          <person sex="FEMALE" xml:id="tkachykha">
+            <persName>Ткачиха</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2024-01-03">(ds)converted from source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" when="1872">
+        <desc/>
+      </event>
+      <event type="print" when="1874">
+        <desc>Різдвяна ніч (тема з Гоголя). Оперета в 4-х діях. Текст і вірші М. Старицького. Музика М. Лисенка. К., тискарня М. Фрица, 1874.</desc>
+      </event>
+    </listEvent>
+  </standOff>
+  <text>
+    <body>
+      <div type="act">
+        <head>Дія перша</head>
+        <stage>Хата Чуба, доволі пишно вбрана. Всюди висять рушники, вінки і всяке добро: напереді на стіні – дзеркальце; насупроти – добра скриня; просто – двері вхідні, ліворуч – в кімнату. На покуті на стіні стоїть вузвар з кутею. Просто на кону – стіл, зап’ятий скатертиною; на столі – пляшка горілки і ковбаса.</stage>
+        <div type="scene">
+          <head>Вихід І</head>
+          <stage>Чуб і Голова.</stage>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(сидить з Головою за столом).</stage>
+            <p>А ти ще, куме, й не був у дяка в новій хаті! Е, так ходім: там тепер буде добра напійка!</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <stage>(набік).</stage>
+            <p>От тобі й Солоха!</p>
+            <stage>(До Чуба).</stage>
+            <p>Чи не пізно? Вже ніч… Чи й втрапимо?</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(сміється).</stage>
+            <p>Ото, куме, вигадав що! Та тепер місячно, як удень!..</p>
+            <stage>(Встає, підходить до вікна, придивляється довго й одхиляється).</stage>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <stage>(набік).</stage>
+            <p>Як би од його одчепитися!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Що за біс? Глянь-бо! Дивись, Панасе!</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>Що там?</p>
+            <stage>(Дивиться).</stage>
+            <p>Нічого нема.</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Та то-бо й то, що нема!</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>А тобі кого треба?</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Місяця!</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>А де ж він?</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Пропав; оце зараз пропав, мов чорти вхопили!</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <stage>(зрадівши).</stage>
+            <p>Ну, нема то й нема!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Як? Так тобі й діла мало?</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>А мені що? Аби додому!</p>
+            <stage>(Бере шапку й кожуха).</stage>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Ну, що тепер? Треба ж було втрутитися сюди якомусь чортяці, бодай йому, собаці, не довелось зрана і чарки горілки випити!.. Мов на сміх! Глянув уперше – хоч голки збирай, глянув удруге – хоч у воко стрель.</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>Справді, не при хаті згадуючи… Оце їм цеї ночі хвости повтинають, так вони й коверзуют востаннє!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Ну, що його робити?</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>Зоставатися дома, от що. Прощай: мені треба до завірюхи допхатись…</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(уперто).</stage>
+            <p>Ні, куме, ходім! Не можна: треба йти!</p>
+            <stage>(Бере на себе байбарака і шапку).</stage>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <stage>(набік).</stage>
+            <p>Од цього реп’яха й не одчепишся!</p>
+            <stage>(До Чуба).</stage>
+            <p>Про мене, як дідько не вхопить…</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(зупинившись коло дверей).</stage>
+            <p>Оксано! Оксано!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(з-за дверей кімнати).</stage>
+            <p>Чого, тату? Зараз!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(беручи ціпка).</stage>
+            <p>Так оце я, дочко, іду… а ти дивись мені!.. Не гасай по вулицях, а дома краще сиди та стережи хати… Знаєш – святки: вештається всякого люду!</p>
+          </sp>
+          <stage>Голова виходить, а за ним Чуб; далі він повертається і з-за дверей.</stage>
+          <p>Та, гляди мені, не кидай вогню, щоб пожежі не наробити!</p>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Хіба я, тату, маленька! Адже ж не первина, що на мене кидаєте хату?!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Та так, так! То гляди ж! Прощай!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід ІІ</head>
+          <stage>Оксана сама.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(одбіга од дверей).</stage>
+            <p>Ну, хвалити бога, хоч батька вирядила: пішов до дяка на ковбаси.</p>
+            <stage>(Прибира горілку й закуску).</stage>
+            <p>Там уже без варенухи не обійдеться!.. На здоров’ячко!.. А мені й на руку ковінька: без батька просторніше в хаті! От і парубки з дівчатами незабаром надійдуть: колядувати підемо!</p>
+            <stage>(Підскакує).</stage>
+            <p>Весело! А як ті парубки упадають за мною, як залицяються! І чого їм далася я? Хіба у нас на селі мало дівчат красунь! Одарка, Маруся, Пріська, Горпина… чим не дівки? Так ні: Оксани-таки та й Оксани! І сама не знаю, чого їм од мене треба?</p>
+            <stage>(Усміхається).</stage>
+            <p>А надто отой Вакула-коваль… як гляне на мене, то мов несамовитий.</p>
+            <l>Ох, така ж моя доля,</l>
+            <l>Що єдина в батька доня:</l>
+            <l>Маю воли і корови</l>
+            <l>Ще й до того чорні брови!</l>
+            <l>Дарма ходиш, козаче,</l>
+            <l>Дарма плачеш, небораче:</l>
+            <l>Не на те вже я здалася,</l>
+            <l>Щоб з тобою понялася!</l>
+            <l>Та яке ж мені діло,</l>
+            <l>Що тебе я уразила?</l>
+            <l>Мусиш мати більше гарту,</l>
+            <l>Бо моргнула тільки з жарту!</l>
+            <l>Ой лихо! Набік, хлопці, –</l>
+            <l>Я в гаптованій сорочці,</l>
+            <l>І в намисті, і в коралях,</l>
+            <l>Бо таки я справжня краля!</l>
+            <stage>(Махнула рукою).</stage>
+            <p>Е, ні! ще не час мені заміж: не хочу собі світа в’язати! Та й то: ще й не покохала щиро нікого. Так тільки… потрошку… Усі вони, оті парубки, якісь кислі, неначе квашені огірки! От хіба Вакула; то справді козак: огрядний, дужий! От такого до рук прибрати! Тільки батько мій, коли б господи не нашкодив: він такий на того Вакулу лютий, та все підходить до його матері, Солохи, – либонь, хоче з нею женитись?</p>
+          </sp>
+          <p></p>
+          <stage>За кулісами чутно навдалі колядку.</stage>
+          <l>1</l>
+          <l>Добривечір тобі, пане господарю:</l>
+          <l>Радуйся! Ой радуйся, земле, – син божий</l>
+          <l>Народився! (Тихо).</l>
+          <l>2</l>
+          <l>Ой застилай столи, та все тесовії:</l>
+          <l>Радуйся!</l>
+          <l>Ой радуйся, земле, – син божий</l>
+          <l>Народився! (Голосніше).</l>
+          <l>3</l>
+          <l>Та й клади калачі з ярої пшениці:</l>
+          <l>Радуйся!</l>
+          <l>Ой радуйся, земле, – син божий</l>
+          <l>Народився! (Стихає).</l>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(прислухається).</stage>
+            <p>Ох, мені лишенько! На селі вже й колядок почали, а я ще й не прибрана!</p>
+            <stage>(Кидається мерщій до скрині. Після першого куплета прислухається й каже).</stage>
+            <p>Ні, це не до нас: здається, ряднівські.</p>
+            <stage>(Вийма керсетку, серги, дукачі й намиста.).</stage>
+            <p>А що хіба керсетку червону надіти? Чи до лиця ж воно буде! Хто його зна!</p>
+            <stage>(Одягає і підходить до дзеркальця).</stage>
+            <p>І що людям здумалось розславити, ніби я хороша? Брешуть! люде – я зовсім не гарна!</p>
+            <stage>(Надіває перед дзеркалом намиста, серги, скида на плече косу).</stage>
+            <p>Не гарна… не гарна…</p>
+            <stage>(Співа).</stage>
+            <l>Кому ж до вподоби</l>
+            <l>Ці брови, ці очі,</l>
+            <l>Що чорні, як терен,</l>
+            <l>Темніші від ночі?</l>
+            <l>І що за краса в тім,</l>
+            <l>Що ніс, як струнина,</l>
+            <l>Що чоло – той папір,</l>
+            <l>А щічки – калина!</l>
+            <l>А хвилі ці чорні</l>
+            <l>Нащо пак здалися?</l>
+            <l>Немов ті гадюки</l>
+            <l>У косу сплелися;</l>
+            <l>їх можна злякатись,</l>
+            <l>Як спадуть до стана…</l>
+            <l>Коли придивитись,</l>
+            <l>Я – таки погана!</l>
+            <stage>(Одхилившись трохи од дзеркала, з палом).</stage>
+            <l>О ні! я хороша,</l>
+            <l>Пишаю красою,</l>
+            <l>Як квіточка вранці,</l>
+            <l>Умита росою!</l>
+          </sp>
+          <stage>Вакула ввіходить.</stage>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(про себе)</stage>
+            <l>Чи бачив хто зроду</l>
+            <l>Такую дівчину?</l>
+            <l>Сама тут на себе</l>
+            <l>Любує з годину;</l>
+            <l>Своїм голосочком</l>
+            <l>Щебече, воркоче,</l>
+            <l>А серденько в мене</l>
+            <l>Мов вирватись хоче!</l>
+            <l>Дівчино-рибчино,</l>
+            <l>Краса-чарівниця,</l>
+            <l>Над моїм серденьком</l>
+            <l>Ти повна цариця!</l>
+            <l>Чи є хто на світі</l>
+            <l>З душею живою,</l>
+            <l>Кого б не вразила</l>
+            <l>Своєю красою?!.</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(разом)</stage>
+            <l>Далеко до мене</l>
+            <l>Вам, хлопці, я знаю…</l>
+            <l>Дивіться, мов лебідь</l>
+            <l>Яка, виступаю.</l>
+            <l>Гальонки чи стрічки,</l>
+            <l>Дукач чи намисто –</l>
+            <l>Аж грають та сяють,</l>
+            <l>Бо з золота чисто!</l>
+            <l>Кого ж з парубоцтва</l>
+            <l>Собі залучити?</l>
+            <l>Кого тим коханням</l>
+            <l>Палким напоїти?</l>
+            <l>О! Певне, од щастя</l>
+            <l>Й себе не спочує…</l>
+            <l>Вогнем мене спалить,</l>
+            <l>На смерть зацілує!..</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід ІІІ</head>
+          <stage>Оксана і Вакула.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(озирнувшись хутко; суворо).</stage>
+            <p>Ой хто се?! Злякав як!.. Чого се ти, мов злодій, підкрався? Хіба хочеш, щоб лопатою прогнала за двері? Ви всі митці до нас підлеститись: миттю пронюхаете, що батька нема дома! Знаю я вас!.. А що, моя скриня готова?!</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Скінчу, моя ясочко, після свят зараз викінчу. Коли б ти відала, кільки я попоходив коло неї! Зате вже ані в панни, ані в попівни не буде такої скрині! Залізо на окову поклав таке, якого чорт його матиме й сотник на таратайці – дарма що з Полтави вивіз! А як розмалюю!.. Поле буде жовтогаряче, як жар, а по йому розкидаю червоні та сині квітки!.. Не сердься ж на мене! Дозволь мені хоч поговорити, хоч подивитись на тебе!</p>
+            <stage>(Підходить боязко).</stage>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(з ухмилкою).</stage>
+            <p>Хто ж тобі боронить? Говори, дивись!</p>
+            <stage>(Сіда на лаві і зазира в дзеркало).</stage>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Яка ти хороша, Оксано! Дивився б на тебе… здається б, і закам’янів на сьому місці… та все б Дивився!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Справді?</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Оксано! Зірко ти моя! Дай хоч поцілую тебе!</p>
+            <stage>(Потягся до виду).</stage>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(одхиляється).</stage>
+            <p>А зась! Чого забажав! Тобі як мед, так і ложкою!</p>
+            <stage>(Одпиха).</stage>
+            <p>Геть собі, геть! У тебе й руки цупкі, як залізо; та й сам пропахтів димом: певне, й мене всю в сажу убрав!</p>
+            <stage>(Знов до дзеркала).</stage>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(одійшовши набік).</stage>
+            <p>Не любить вона мене: їй все жарти… А я, мов той дурень, і очей не здолаю звести!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(тим часом щось вийма ще з приборів, надіва на себе, любує, а далі через плече до Вакули)</stage>
+            <p>Чи правда пак, що твоя мати відьма?</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(наближаючись до неї).</stage>
+            <p>Що мені до матері? Ти в мене – і мати, і батько, і все, що не є найдорожче на світі!..</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Ач, який ти! Тільки й батько мій пройда! Побачиш, коли він не ожениться з твоєю матір’ю!</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Ну, цього не буде!..</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(дивиться на нього пильно).</stage>
+            <p>Побачимо!</p>
+            <stage>(Зазира в вікно. Трохи згодом).</stage>
+            <p>А що се дівчат нема? Давно вже й колядувати час!..</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Бог з ними, моя зіронько!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Чому пак?! За ними, певно, прийдуть парубки… Підуть у нас ляси та баси… а вигадок, а побрехеньок, а сміху та реготу?!.</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Так тобі з ними весело?</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Авжеж, веселіш ніж з тобою! (Підходит до дзеркала, набік). Наче окропом линула! (Прислухається). Ой! Хтось стукнув… певне, чужий. Утечу лишень я в кімнату та й каганець візьму, щоб не зуздріли а парубком. (Од дверей). Та й ти іди собі геть з хати, а то ще поговір піде…</p>
+            <stage>(Тікає за двері й зачиняється).</stage>
+          </sp>
+          <stage>На кону стає темно.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід IV</head>
+          <stage>Вакула сам.</stage>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(дивлячись услід).</stage>
+            <l>Отак усе б їй жартувати,</l>
+            <l>Неначе кішка, заграє!</l>
+            <l>Чого б не дав я, щоб дізнати,</l>
+            <l>Що там на серці в неї є?</l>
+            <l>Кого коха вона? Чи шкода</l>
+            <l>Їй хоч на кришечку мене?!</l>
+            <l>Е, ні, кепкує вона, горда,</l>
+            <l>Та серце шарпає рвяне!</l>
+            <l>Я їй не варт і за підкову…</l>
+            <l>Чого ж тривати тут мені?!</l>
+          </sp>
+          <stage>Щось стукнуло.</stage>
+          <l>Хтось крадеться?.. О! Стукнув знову!..</l>
+          <l>Чи не коханець це її?!</l>
+          <l>А!! Коли так – не діждеш, брате,</l>
+          <l>Щоб на сміх дався я тобі!</l>
+          <l>Коли б тільки мені спізнати.</l>
+          <l>Хто ходить тут? Хто ворог мій?</l>
+          <stage>Більший стук.</stage>
+          <l>Його б побачить рад я дуже:</l>
+          <l>Ex, дався б я тобі взнаки!</l>
+          <stage>(Стає коло дверей).</stage>
+          <l>Вже коли що, то, милий друже,</l>
+          <l>Скуштуєш ти ції руки!!</l>
+          <stage>(Засукує рукава).</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід V</head>
+          <stage>Вакула і Чуб.</stage>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(ввіходить у двері помацки).</stage>
+            <p>Ну, та й хуртовину збили оце раптом чорти! Сказано, й глянути не дає… Як почало водити!.. Та не те, що до дяка, – кума згубив, трохи й з села не вийшов. Думав, що пропаду!.. Хвалити бога, хоч додому допхав! Оксано, засвіти!..</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(не пізнавши Чуба).</stage>
+            <p>А чого тобі треба? Га?..</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(набік).</stage>
+            <p>Отакої! Це не моя хата: в мою хату не залізе коваль; зроду-віку не зайде! Не так я на його визвіривсь!</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Ну, чому ж не кажеш? Заложило хіба, чи що?</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(набік).</stage>
+            <p>От. халепа! Не люблю я з ним на самоті говорити… Краще піти собі!</p>
+            <stage>(Почина помацки йти).</stage>
+            <p>Піч? Так це ж не ковалева хата! Що за мара? Де ж це я?</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(набік).</stage>
+            <p>Так і є: щось непевне… Недарма моє серце ворога чуло!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(мацає по стінах).</stage>
+            <p>І чия б воно хата? Е! Чи не Левченкова? Так, так! Тільки ж задля чого коваль тут? Еге-ге! Та це він, бачу, до молодиці ходить! Он як! Добре, добре!.. Тепер я вже розумію!</p>
+            <stage>(Шукає дверей).</stage>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Чи довго ти там мимритимеш? Кажи зараз, хто ти і чого сюди вбрався?..</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Чи ба, як присікавсь! От же не признаюсь йому: не гаразд, як пізна!</p>
+            <stage>(Змінивши голос).</stage>
+            <p>Та це я чоловіче добрий, прийшов до вас поколядувати!..</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(набік).</stage>
+            <p>Бреше, іродів син! Певно, до Оксани.</p>
+            <stage>(До його грізно).</stage>
+            <p>Геть собі в зуби до чорта з своїми колядками!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(образившись).</stage>
+            <p>Чого ж ти справді тюкаєш, мов на собаку? Хочу колядувати, та й годі!</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Еге! Та тобі, як бачу, не дошкулиш словом…</p>
+            <stage>(Бере його за шиворот і пха до дверей).</stage>
+            <p>Отуди!..</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(одступивши).</stage>
+            <p>Ти вже, здається, й пхаєшся?!</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Ей, мовчи та диш! Тікай од гріха: а то скую тебе на підкову!</p>
+            <stage>(Одходить далі).</stage>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(тихо до себе).</stage>
+            <p>Цур йому!! Чи він не п’яний? Ще справді скалічить! Коли б хоч двері знайти!</p>
+            <stage>(Мац по стіні).</stage>
+            <p>Чи ба? І дверей нема!.. Оце водить! Може, ц й не коваль, а чортяка! Свят, свят!</p>
+          </sp>
+          <stage>Вакула і Чуб разом:</stage>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(до себе)</stage>
+            <l>Пішов, здається!</l>
+            <stage>(Гірко).</stage>
+            <l>То така ти! Ач, на шкоді</l>
+            <l>Довелось піймати!</l>
+            <l>А все сміхи! Е, ні! Годі</l>
+            <l>Себе мордувати.</l>
+            <l>Допитаюсь оце в кралі,</l>
+            <l>Чи їй до любові?</l>
+            <l>Якщо ні, то гайда далі,</l>
+            <l>Зоставайсь здорова!</l>
+            <l>В чистім полі, на роздоллі</l>
+            <l>Розіб’ю я тугу!..</l>
+            <l>Ні! Вже вам мене не мати</l>
+            <l>Більше на поругу!</l>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(тихо; набік)</stage>
+            <l>Ще й реве, неначе в лісі</l>
+            <l>Так і є, що п’яний…</l>
+            <stage>(Чуха).</stage>
+            <l>А бодай тобі, гульвісі,</l>
+            <l>В печінки поганий!</l>
+            <l>Щоб ковадлами по пиці</l>
+            <l>Тебе молотило!</l>
+            <stage>(Маца руками).</stage>
+            <l>А дверей чортма в світлиці, –</l>
+            <l>Мов чорти вхопили!..</l>
+            <stage>(Шука).</stage>
+            <l>Ох, коли б намацать двері!..</l>
+            <l>Ну, сказився б клятий!..</l>
+            <stage>(Лукаво й радісно).</stage>
+            <l>Втім, його нема тепера</l>
+            <l>У Солохи в хаті…</l>
+            <l>Гм!.. Сама вона в господі…</l>
+            <l>Що ж? Піти б до неї!</l>
+            <l>Хай розважить на пригоді,</l>
+            <l>Або, може, й теє…</l>
+            <l>Де ж ці двері!?</l>
+            <stage>(Зачіпа й звалює кочерги).</stage>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Так ти й досі не пішов? А?</p>
+            <stage>(Пха його кулаками межи плечі).</stage>
+            <p>Отуди к бісу!!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(з-за дверей).</stage>
+            <p>Тривай, чортів сину! Ти думаєш, що я на тебе не знайду управи? Будеш мене знати! Я не подивлюся, що ти коваль та маляр!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід VI</head>
+          <stage>Вакула і Оксана.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(вибіга з каганцем).</stage>
+            <p>Що се тут за грюк, за гармидер?</p>
+            <stage>(Придивляється до Вакули).</stage>
+            <p>А? Це ти товчешся по хаті, з кочергами бавишся?</p>
+            <stage>(Сміється і ставить на стіл каганця).</stage>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Оксано! Що хоч наді мною роби, убий мене краще враз, а не рви мого серця кліщами! Не любиш, то не знущайся, не смійся!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Подумаєш… їй-богу! Наказав два мішки вовни! Чи мені ж рюмати перед тобою, чи що?</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Скажи мені хоч, кого вибрало твоє серце, дай хоч гляну я в вічі своєму ворогові!..</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(жартуючи).</stage>
+            <p>Чи ба, який цікавий?! А може, й тебе: чим не козак?</p>
+            <stage>(Засміявшись).</stage>
+            <p>Та не дивися на мене такими очима, бо спалиш!</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(з запалом).</stage>
+            <l>Як буря у лісі дуби нагинає,</l>
+            <l>Отак те кохання мене знемагає;</l>
+            <l>Аж рве моє серце до смерті-загину;</l>
+            <l>Його ти струїла, недобра дівчино!</l>
+            <l>Куди не піду я, чи вдень, а чи вночі,</l>
+            <l>Печуть мене, ріжуть знадні твої очі;</l>
+            <l>До кого промовлю, на кого не гляну –</l>
+            <l>Одно тільки й бачу – дівчину кохану!</l>
+            <l>Кохаю, кохаю й кохати все буду:</l>
+            <l>Моя ти цариця довіку, до суду!</l>
+            <l>Промов же словечко ласкаве вустами, –</l>
+            <l>Й за тебе хоч зараз поляжу кістками!!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <l>Як послухати, то справді</l>
+            <l>Ніб мене кохаєш?</l>
+            <l>А допевнись – то й на другу</l>
+            <l>Ще мене зміняєш!</l>
+            <l>Всі ви хлопці-парубки</l>
+            <l>Одним ликом шиті:</l>
+            <l>У вас правди тільки й є,</l>
+            <l>Як води в кориті!</l>
+            <l>А щоб лиха не зазнать,</l>
+            <l>Долі не зламати,</l>
+            <l>Далебі, що краще вам</l>
+            <l>Віри не діймати!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Не жартуй-бо, моя зоре,</l>
+            <l>Вислухай вважливе,</l>
+            <l>Та скажи мені востаннє</l>
+            <l>Словонько правдиве:</l>
+            <l>Чи такий вже остогидлий</l>
+            <l>Я на твої очі,</l>
+            <l>Що до мене й прихилитись</l>
+            <l>Серденько не схоче?</l>
+            <l>Чи ще, може, обізветься</l>
+            <l>Доля з-поза тину</l>
+            <l>І мені ти коли-небудь</l>
+            <l>Станеш за дружину?</l>
+          </sp>
+          <stage>Оксана і Вакула разом:</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <l>Поки місяця немає,</l>
+            <l>Сяють ясні зорі, –</l>
+            <l>Поки дівка, поти й вільна,</l>
+            <l>Як рибонька в морі;</l>
+            <l>Куди підеш – парубоцтво</l>
+            <l>За тобою грає;</l>
+            <l>Полюбила, кого схочеш, –</l>
+            <l>Хто тебе спитає?</l>
+            <l>Ні, ще рано козаченьку</l>
+            <l>Волю продавати…</l>
+            <l>Та і чим мене запевниш,</l>
+            <l>Що будеш кохати?</l>
+            <l>Чим докажеш мені,</l>
+            <l>Чи ти зрадиш, чи ні,</l>
+            <l>Чи любову свою</l>
+            <l>Я слізьми не заллю?</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Як я стану тебе, зоре,</l>
+            <l>Чуло пестувати, –</l>
+            <l>Навіть вітру не дозволю</l>
+            <l>На тебе буяти!</l>
+            <l>Чого схочеш, – буде в тебе</l>
+            <l>Повнісінька скриня!</l>
+            <l>Ти в моїй світлиці будеш</l>
+            <l>Краля-господиня!</l>
+            <l>Твоя воля – моя воля</l>
+            <l>Буде аж до суду!</l>
+            <l>Чого схочеш, тільки скажеш –</l>
+            <l>Зараз і здобуду!</l>
+            <l>Хоч у пекло чи в рай</l>
+            <l>Ти мене засилай:</l>
+            <l>Я за кралю рідну</l>
+            <l>Рад і зараз в труну!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Побачимо.</p>
+          </sp>
+          <stage>Чутно гомін і сміх під вікном.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід VII</head>
+          <stage>Оксана, Вакула, Одарка, хлопці та інші дівчата.</stage>
+          <sp who="#holosy_act_one_scene_seven">
+            <speaker>Голоси</speaker>
+            <stage>(під вікном).</stage>
+            <p>Панове господарі! Дозвольте поколядувати, святого вечора вшанувати коло чесної господи вашої!..</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(радісно сплеснувши руками).</stage>
+            <p>От і дівчата наші, от і наша коляда!</p>
+            <stage>(Через вікно).</stage>
+            <p>Спасибі, спасибі вам, – раді слухати!</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Оксано! Скажи ж хоч одно слово, хоч надію подай.</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(з досадою).</stage>
+            <p>От причепився, мов з ножем! Хіба оце тобі так нагло приспічило?..</p>
+            <stage>(З усміхом).</stage>
+            <p>От краще слухай!</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(гірко). Шкода вже!</stage>
+            <stage>(Махнув рукою й одходить набік журливо).</stage>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <stage>(за вікном співають).</stage>
+            <l>Ой дивнеє нарождения</l>
+            <l>Божого сина,</l>
+            <l>Його же днесь спородила</l>
+            <l>Діва Марія.</l>
+            <l>Спородила Cyca Христа</l>
+            <l>Пречиста пані,</l>
+            <l>Ой іще ж ми не знаємо</l>
+            <l>Божої тайни!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(до вікна).</stage>
+            <p>Спасибі! Просимо ж до господи.</p>
+          </sp>
+          <sp who="#holosy_act_one_scene_seven">
+            <speaker>Голоси</speaker>
+            <p>А батько дома?</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Нема. Я сама в хаті.</p>
+          </sp>
+          <sp who="#holosy_act_one_scene_seven">
+            <speaker>Голоси</speaker>
+            <p>Сама?.. Ото добре!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(іде одчинять двері, зазира до Вакули й сміється. За дверима).</stage>
+            <p>Роздягайтеся тут, дівчаточка!</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(одходить набік).</stage>
+            <p>Смійся, смійся! Я й сам з себе сміюся! І де заподів я свій розум? Не любить вона мене… Ну й бог з тобою! Хіба тільки й світа, що в вікні? Є вашого брата багато! Та й що – Оксани Яка з неї господиня буде: тільки до жартів та до приборів. Кинути зараз, та й годі!</p>
+          </sp>
+          <stage>Оксана вертається. Вакула глянув на неї й зупинився.</stage>
+          <stage>(Набік).</stage>
+          <p>Яка ж вона тільки хороша!.. Неволя моя, недоля моя!..</p>
+          <stage>Увіходять дівчата, пересміхаються потроху і штовхають ліктями одна одну.</stage>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <stage>(співають).</stage>
+            <stage>1</stage>
+            <l>Чи дома, дома</l>
+            <l>Бідная вдова?</l>
+            <l>Славен єси!</l>
+            <l>Славен єси,</l>
+            <l>Наш милий боже,</l>
+            <l>На небеси!</l>
+            
+            <stage>2</stage>
+            <l>Немає дома –</l>
+            <l>Пішла до бога.</l>
+            <l>Славен єси!</l>
+            <l>Славен єси,</l>
+            <l>Наш милий боже,</l>
+            <l>На небеси!</l>
+
+            <stage>3</stage>
+            <l>Що ж вона діє?</l>
+            <l>Золото віє.</l>
+            <l>Славен єси!</l>
+            <l>Славен єси,</l>
+            <l>Наш милий боже,</l>
+            <l>На небеси!</l>
+  
+            <stage>4</stage>
+            <l>Що одвієчки –</l>
+            <l>На сиріточки.</l>
+            <l>Славен єси!</l>
+            <l>Славен єси,</l>
+            <l>Наш милий боже,</l>
+            <l>На небеси!</l>
+            <p>Віншуємо вас з святим вечором! Дай боже вам вік довгий, а нам дохід добрий!</p>
+            <stage>(Кланяються).</stage>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(весело).</stage>
+            <p>Спасибі, спасибі! Дай боже!</p>
+            <stage>(Здоровкається).</stage>
+            <p>Здорова, Одарко! Марусе! Катре! А? й тебе, Ївго, мати пустила: не лається?</p>
+          </sp>
+          <sp who="#dejaki_act_one_scene_eight">
+            <speaker>Деякі</speaker>
+            <stage>(сміються).</stage>
+            <p>Де там… може, на дорогу й товченика дала!</p>
+          </sp>
+          <sp who="#druhi_act_one_scene_eight">
+            <speaker>Другі</speaker>
+            <stage>(сміються).</stage>
+            <p>Або паляницю в потилицю!..</p>
+          </sp>
+          <sp who="#yivha">
+            <speaker>Ївга</speaker>
+            <stage>(засоромилась).</stage>
+            <p>Ні, моя мати нічого!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Та годі вам: бачите, як засоромили дівчину! Скажіть краще, чого ви так забарилися? Ми вже вас тут ждемо, ждемо… аж нуд напав!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Та, знаєш, поки позбирались усі… деякі і од гурту одбилися: Пріськи Шпортунівни нема, Мотря Шаповалова до тогобітчан повіялась… там, бачиш, – Микола!</p>
+            <stage>(Підморгує).</stage>
+            <p>А ми пішли ото колядувати до Солохи, а там як загуде щось з комина, як схопиться завірюха, – так ми врозтіч!</p>
+          </sp>
+          <stage>Оксана, показуючи на Вакулу, заливається сміхом.</stage>
+          <sp who="#marusja">
+            <speaker>Маруся</speaker>
+            <stage>(сіпа Одарку за рукав).</stage>
+            <p>Та цить! Хіба не бачиш Вакули: то ж мати його!</p>
+          </sp>
+          <stage>Деякі сміються.</stage>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Оце так!</p>
+            <stage>(До Оксани).</stage>
+            <p>А чого він такий понурий у тебе?</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>А я що?.. От ви його розвеселіть, дівчатка!</p>
+          </sp>
+          <stage>Разом, сміючись, біжать до Вакули, жартливо.</stage>
+          <sp who="#marusja">
+            <speaker>Маруся</speaker>
+            <p>Чого-бо, Вакулочку, сердишся?</p>
+          </sp>
+          <sp who="#katrja">
+            <speaker>Катря</speaker>
+            <p>Глянь-бо на мене!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Чому ти, справді, квач у дощ?</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(суворо).</stage>
+            <p>Не лізьте, кажу!</p>
+          </sp>
+          <sp who="#marusja #katrja">
+            <speaker>Маруся, Катря</speaker>
+            <stage>(одскакуючи).</stage>
+            <p>Ой лишенько: битиме! Хто в бога вірує – ховайся!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Оце по-парубоцьки!</p>
+            <stage>(З сміхом виступа наперед).</stage>
+            <p>А ще хоче, щоб його дівчата любили!</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(до Оксани).</stage>
+            <p>Мало тобі самій глузувати, а ще виставила другим на посміх! Мабуть, кращого не діждеш від тебе!</p>
+            <stage>(Махнув рукою і мерщі за двері).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід VIII</head>
+          <stage>Ті ж, пріч Вакули.</stage>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>От же він справді розсердився. Ти-бо таки ним дуже нехтуєш.</p>
+          </sp>
+          <sp who="#marusja">
+            <speaker>Маруся</speaker>
+            <p>А він за тобою… і – боже мій!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(замішавшись).</stage>
+            <p>Звідкіля це тобі?</p>
+            <stage>(Швидко заговорюючи).</stage>
+            <p>Та чого се ми стоїмо? Сідайте: я винесу зараз яких ласощів…</p>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <p>Е, ні! Нема чого тут зимувати. Бери кожушанку мерщі, та й рушаймо!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Ще наше не втече, ніч – як море!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Далебі, швидче, Оксано: мені й у хаті не сидиться!</p>
+            <stage>(Придивляється до вікна).</stage>
+            <p>Та гляньте-бо, як зразу надворі вияснилось, – хоч у хрещика грай! Аж сміється ніч!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(підскакуючи і обіймаючи дівчат). Весело!</stage>
+            <p>Тривайте, сестрички… я в один мах!</p>
+            <stage>(Біжить до дверей).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід IX</head>
+          <stage>Ті ж, без Оксани.</stage>
+          <sp who="#marusja">
+            <speaker>Маруся</speaker>
+            <p>А шкода, їй-богу, того Вакулу! Він у нас на все село парубок, а Оксана йому закрутила голову та й водить… аж змарнів, бідний!</p>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <p>Шкода, шкода! Моторний парубок!</p>
+          </sp>
+          <sp who="#divchyna_1-a">
+            <speaker>1-а дівчина</speaker>
+            <p>А маляр який з його! Розписав нашу церкву як писаночку!</p>
+          </sp>
+          <sp who="#divchyna_2-a">
+            <speaker>2-а дівчина</speaker>
+            <p>А чорта якого намалював, – хто й не захоче, то сплюне!</p>
+          </sp>
+          <sp who="#druhi_divchata_act_one_scene_nine">
+            <speaker>Другі дівчата</speaker>
+            <stage>(сміються).</stage>
+            <p>Мабуть, і тому, не при хаті згадуючи, не раз чхнеться!</p>
+          </sp>
+          <sp who="#marusja">
+            <speaker>Маруся</speaker>
+            <p>І чого б сій Оксані ще треба? Таке щастя, а вона ще брикається!</p>
+          </sp>
+          <stage>Ївга зітха на всю хату.</stage>
+          <sp who="#marusja #divchyna_1-a #divchyna_2-a #divchata #druhi_divchata_act_one_scene_nine #odarka">
+            <speaker>Усі</speaker>
+            <stage>(до неї).</stage>
+            <p>От кому до серця припало! Признавайся, признавайся, Ївго!</p>
+          </sp>
+          <sp who="#yivha">
+            <speaker>Ївга</speaker>
+            <stage>(засоромившись).</stage>
+            <p>Що се вам? Далебі, ні!</p>
+          </sp>
+          <sp who="#marusja #divchyna_1-a #divchyna_2-a #divchata #druhi_divchata_act_one_scene_nine #odarka">
+            <speaker>Усі</speaker>
+            <stage>(сміються).</stage>
+            <p>Говори.</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Не руште її! А я вам кажу, що Оксана тільки удає з себе таку перебору, а вона на Вакулу давно уже оком стріля. Хіба не запримітили, що як вискочив він, то аж на виду змінилася, – дарма що сміється.</p>
+          </sp>
+          <sp who="#dejaki_act_one_scene_nine">
+            <speaker>Деякі</speaker>
+            <stage>(почувши, що йде Оксана).</stage>
+            <p>Чш! Чш!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід X</head>
+          <stage>Ті ж і Оксана, пов’язана платком; несе в руках миску з маковниками, а другу – з насінням.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Чого се ви понишкли? Годуйтеся, сестрички… ось маковнички смачні, насіннячко! А парубоцтва й досі немає?</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Та чорт їх не вхопить!</p>
+          </sp>
+          <stage>Беруть усі маковники й горіхи; їдять.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(до Одарки згодом).</stage>
+            <p>Так що, що про Солоху?.. Тобі перебили.</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Ага!</p>
+            <stage>(Згадує й сміється).</stage>
+            <p>Ото… як сунули ми од Солохи…</p>
+          </sp>
+          <sp who="#marusja #katrja">
+            <speaker>Маруся і Катря</speaker>
+            <stage>(перебивають).</stage>
+            <p>А з комина як заіскрить!</p>
+          </sp>
+          <sp who="#druhi_divchata_act_one_scene_nine">
+            <speaker>Другі дівчата</speaker>
+            <p>Ми, пробі, – рятуйте!.. – та звідти!</p>
+          </sp>
+          <sp who="#marusja">
+            <speaker>Маруся</speaker>
+            <p>А Катря як зачепилась за тин… та кричить: чортяка вхопив, чортяка!</p>
+          </sp>
+          <stage>Всі сміються.</stage>
+          <sp who="#katrja">
+            <speaker>Катря</speaker>
+            <p>Добре тепер сміятись, а там би стали на моє місце!..</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>О, бодай вас! Що ж ви, вирятували?..</p>
+          </sp>
+          <sp who="#marusja">
+            <speaker>Маруся</speaker>
+            <p>Та – еж!.. Так нічого не вдієш! Одно – біжить та кричить: «Чортяка женеться!»</p>
+          </sp>
+          <sp who="#druhi_divchata_act_one_scene_nine">
+            <speaker>Другі</speaker>
+            <p>А ми – за нею, а ми – за нею!..</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>А парубки ряднівські як побачили, що ми в горидуба граємо, та за нами лавою: «Лови їх, хапай!» – кричать. Маруся захотіла набік та як гепне! – так ногами і вкрилася!..</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Бач, а вона за себе й мовчить!..</p>
+          </sp>
+          <sp who="#marusja">
+            <speaker>Маруся</speaker>
+            <p>Коли на ковзалку скочила – усяк упаде…</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Та знаєш – ще впала та й не встає; а парубок який не добіжить, зачепиться через неї й – шкереберть!.. Та сміху, сміху!..</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Так ото тим ви так і барились! (Прислухається). Здається, парубки ідуть… (Підбіга до вікна). З звіздою, з звіздою! Це вже Вакулина праця! (До дівчат). Слухайте! Як прийдуть сюди, то ми підмовимо декого з нами колядувати і складчину зробимо! (Підморгує).</p>
+          </sp>
+          <sp who="#marusja #odarka #druhi_divchata_act_one_scene_nine #katrja">
+            <speaker>Усі</speaker>
+            <p>Добре, добре… з музиками!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід XI</head>
+          <stage>Ті ж і парубки.</stage>
+          <sp who="#khloptsi">
+            <speaker>Хлопці</speaker>
+            <stage>(ввіходять з звіздою; на двох торби здорові. Співають).</stage>
+            <stage>1</stage>
+            <l>Нова рада стала,</l>
+            <l>Що на небі хвала:</l>
+            <l>Над вертепом звізда ясна</l>
+            <l>Увесь світ осіяла!</l>
+            <stage>2</stage>
+            <l>Пастушки з ягнятком</l>
+            <l>Перед тим дитятком</l>
+            <l>На колінцях упадають,</l>
+            <l>Христа-бога вихваляють:</l>
+            <stage>3</stage>
+            <l>Ой ти, царю наш, царю!</l>
+            <l>Ти, небесний шахварю!</l>
+            <l>Даруй літа щасливії</l>
+            <l>Сього дому господарю!</l>
+            <p>Будьте здорові з святим вечором! Дай боже і на той рік діждати!</p>
+          </sp>
+          <stage>Дівчата і парубки кланяються одні одним.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Дай боже! (Вийма з печі пироги, ковбасу і книші). Спасибі за честь і за шану! (Дає до рук міхоноші пироги, книші й гроші). Не поцурайтесь нашої вдяки.</p>
+          </sp>
+          <sp who="#mikhonosha #dejaki_act_one_scene_eleven">
+            <speaker>Міхоноша і деякі</speaker>
+            <p>Велике спасибі!</p>
+            <stage>(Хочуть іти).</stage>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Та ви б спочили хоч трохи!</p>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <p>Е! Ніколи!..</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Що ж ви нас самих кидаєте? Нехай зостанеться принаймні хто й з нами колядувати!</p>
+          </sp>
+          <sp who="#dejaki_khloptsi_act_one_scene_eleven">
+            <speaker>Деякі хлопці</speaker>
+            <p>Ну, вже зостаємося: шкода вас сиротити!..</p>
+          </sp>
+          <sp who="#druhi_z_zvizdoju">
+            <speaker>Другі з звіздою</speaker>
+            <p>Ач, зрадники!.. Прощавайте ж!</p>
+            <stage>(Виходять з звіздою).</stage>
+          </sp>
+          <sp who="#oksana #odarka #mikhonosha #dejaki_act_one_scene_eleven #dejaki_khloptsi_act_one_scene_eleven #parubky #khloptsi">
+            <speaker>Усі</speaker>
+            <stage>(в хаті).</stage>
+            <p>Щасливо!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід XII</head>
+          <stage>Ті ж, без хлопців з звіздою.</stage>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <p>Ну, чи всі ви здорові, мої чорноброві? Скажіть нам спасибі на цім слові, та за нашу ласку дайте нам ковбаску, а в подарунок – кожному поцілунок!</p>
+          </sp>
+          <sp who="#divchata_odni_act_one_scene_twelve">
+            <speaker>Дівчата одні</speaker>
+            <p>Ого! Захотів печеної криги!</p>
+          </sp>
+          <sp who="#divchata_druhi_act_one_scene_twelve">
+            <speaker>Дівчата другі</speaker>
+            <p>Уже Грицько без прикладу не обійдеться!</p>
+          </sp>
+          <stage>Сміх.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Спасибі вам, пани молодці! Сідайте ж, будь ласка, – гостями будете!</p>
+          </sp>
+          <stage>Здоровкаються дівчата і парубки; деякі сідають.</stage>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <p>А, їй-богу, сьогодні б і поцілуватись не гріх для святого вечора.</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Е, вибачайте: ще не вияснилось!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Та й губи поприщить!</p>
+          </sp>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <p>Сількісь! Я вже цю покуту прийму!</p>
+            <stage>(Утира полою губи; хоче Одарку поцілувати).</stage>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Чи ба? Він і справді!</p>
+            <stage>(Біжить між дівчат).</stage>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <stage>(сміються).</stage>
+            <p>Кортить котові сала, та – зась!</p>
+          </sp>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <p>Отакі дівчата: вір їм! І слова не дотримає. Адже, гляньте-бо, як вияснилось надворі?</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Маєш рацію, Грицьку: нема що, вже треба тебе поцілувати!</p>
+          </sp>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <p>От дівка! От моторна!..</p>
+            <stage>(Хоче її обняти).</stage>
+          </sp>
+          <stage>А та зненацька бере Марусю і намість себе пха до Грицька; той її цілує. Маруся кричить. Усі сміються.</stage>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <stage>(кидаються).</stage>
+            <p>Рятуймо Марусю!</p>
+          </sp>
+          <sp who="#marusja">
+            <speaker>Маруся</speaker>
+            <stage>(пручаючись).</stage>
+            <p>Геть, геть! Одчепися!</p>
+            <stage>(Виривається).</stage>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Годі, годі!</p>
+            <stage>(Розбороня).</stage>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <stage>(до себе).</stage>
+            <p>Не подавайсь, хлопці!</p>
+          </sp>
+          <stage>Починається мішанина: деякі хлопці цілують дівчат; гвалт. Маруся одривається. Дві купи: ліворуч – дівчата; праворуч – парубки; посередині – Оксана й Маруся.</stage>
+          <sp who="#marusja">
+            <speaker>Маруся</speaker>
+            <stage>(до Оксани).</stage>
+            <p>Що се ти, Оксано?!.</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(перебива її й цілує).</stage>
+            <p>Не сердься, голубонько! (На вухо). А буцім і не рада? Це ж твій коханий! (До хлопців). Що се ви, чи не з морозу?.. Сідайте ж, хоч почастую вас.</p>
+          </sp>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <p>А може, і тут одуриш!</p>
+            <stage>(Сміється; до Марусі тихо).</stage>
+            <p>Прости мене, моя рибонько!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Ні, ні, мої лебедики: є в мене запіканочка лепська!</p>
+            <stage>(Виходить).</stage>
+          </sp>
+          <sp who="#dejaki_parubky_act_one_scene_twelve">
+            <speaker>Деякі парубки</speaker>
+            <p>Спасибі, оце так! Бо справді мороз здоровий.</p>
+          </sp>
+          <sp who="#parubok_1-j">
+            <speaker>1-й парубок</speaker>
+            <p>Аж скалками сипле…</p>
+          </sp>
+          <sp who="#parubok_2-j">
+            <speaker>2-й парубок</speaker>
+            <p>З очима!</p>
+          </sp>
+          <stage>Парубки сідають.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід XIII</head>
+          <stage>Ті ж, без Оксани.</stage>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>А ви вже й подубли? Бідні!</p>
+          </sp>
+          <sp who="#druhi_divchata_act_one_scene_thirteen">
+            <speaker>Другі дівчата</speaker>
+            <p>А ще дві торби взяли!.. І що вони виколядують? Та вам би на печі сидіти!</p>
+          </sp>
+          <sp who="#tymish">
+            <speaker>Тиміш</speaker>
+            <p>Говоріть!</p>
+            <stage>(Трясе торбою).</stage>
+            <p>От у нас: і ковбас, і паляниць, і пирогів… а у вас, мабуть, і торбу вкрали, бо щось не видко!</p>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <p>Вкрали?.. Ми ще й колядувати не починали, а от ви!..</p>
+            <stage>(Співають, показуючи з сміхом на хлопців).</stage>
+            <l>Виспівали пирогів, пирогів –</l>
+            <l>Двоє дохлих горобців, горобців;</l>
+            <l>Та ще до присмаку –</l>
+            <l>Недоїдки з таку!</l>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <stage>(схоплюючись).</stage>
+            <l>Гей, дівчатка, не брешіть, не брешіть –</l>
+            <l>Нашу здобич полічіть, полічіть!</l>
+            <l>А себе й забули –</l>
+            <l>Виспівали дулі!</l>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <l>Ще побачим, чия взяла, чия ні?</l>
+            <l>Ми заробим за коляду півсвині,</l>
+            <l>А як буде мало,</l>
+            <l>То ковбас і сала!</l>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <l>Гей, дівчатка, наша думка така:</l>
+            <l>Заробите з-під вікна кулака;</l>
+            <l>Та ще для посмішки –</l>
+            <l>Хвостика від кішки!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід XIV</head>
+          <stage>Ті ж і Оксана.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Отакої… вже й на сварку пішло? Ходіть-но, я вас помирю. Ну, Грицьку!</p>
+            <stage>(Налива чарку).</stage>
+          </sp>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <p>Пригуб же спочатку ти, пишна господине!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(підійма чарку).</stage>
+            <p>Дай же боже, щоб усе було гоже! (П’є і кривиться). Міцна!..</p>
+          </sp>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <stage>(приймаючи до рук чарку).</stage>
+            <p>А тобі, моя крале хороша, дай боже два мішки грошей, та ще в придачу до того козака молодого!</p>
+            <stage>(П’є).</stage>
+          </sp>
+          <sp who="#tymish">
+            <speaker>Тиміш</speaker>
+            <p>Або й двох!..</p>
+          </sp>
+          <sp who="#divchata_dejaki_act_one_scene_fourteen">
+            <speaker>Дівчата деякі</speaker>
+            <p>Отуди к бісу!</p>
+            <stage>(Сміються).</stage>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(сміється).</stage>
+            <p>Оборони господи і од одного!.. Тимоше!</p>
+            <stage>(Налива й дає).</stage>
+          </sp>
+          <sp who="#tymish">
+            <speaker>Тиміш</speaker>
+            <p>Пошануй же сама.</p>
+            <stage>(Одхиля).</stage>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Е, та так я і вп’юся!</p>
+            <stage>(Бере).</stage>
+            <p>Ну, дай же боже нам, дівкам, на здоров’я, а вам – на безголов’я!</p>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <p>Еге! Дай боже, дай боже!</p>
+          </sp>
+          <sp who="#tymish">
+            <speaker>Тиміш</speaker>
+            <p>Кривдиш, моє серце! Пошли господи, щоб наші дівчата не брикалися та за нами, молодцями, побивалися!</p>
+            <stage>(П’є).</stage>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <stage>(сміючися).</stage>
+            <p>Щоб коси потіпали й на собі волосся порвали!</p>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <p>Діждете!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(передаючи Одарці пляшки й чарку).</stage>
+            <p>На лиш, Одарко, частуй за мене, а я вийду подивлюсь, чи не видно батька?</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Добре. Тільки вибачайте, панове, – сама, далебі, не питиму, а то мені зараз заверне голову.</p>
+          </sp>
+          <sp who="#parubok_1-j">
+            <speaker>1-й парубок</speaker>
+            <p>Е, це не порядок: уже коли не хочеш пригубкгь чарки з вінця, то пригуб мене, молодця!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Ач, вигадав! Минеться!</p>
+          </sp>
+          <stage>Усі купчаться навколо Одарки; дівчата шепочуть собі з своїми. Одарка частує. Примовляють щось пришептом; впродовж монолога хихикають.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(іде до дверей, замислена. Зупиняється коло вікна, придивляється і потиху до себе).</stage>
+            <p>Щось не видко Вакули. Може, справді образився! Я таки уже надто його дратувала сьогодні… аж досадно! Таки мене мов бісик крутить!</p>
+            <stage>(Зазира іще раз у вікно і йде в двері).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід XV</head>
+          <stage>Ті ж, без Оксани.</stage>
+          <sp who="#holosy_act_one_scene_fifteen">
+            <speaker>Голоси</speaker>
+            <p>Дай же боже… Спасибі… За твоє здоров’ячко!</p>
+          </sp>
+          <sp who="#parubok_1-j">
+            <speaker>1-й парубок</speaker>
+            <p>Щоб наші вороги не сміялися!</p>
+            <stage>(П’є).</stage>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Здається, всіх обнесла?</p>
+          </sp>
+          <sp who="#hrytsko #druhi_act_one_scene_fifteen">
+            <speaker>Грицько й другі</speaker>
+            <p>Мене забула!.. А мені?</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Овва!.. Захотілось по другій? Ще не заробили: от наколядуємо сперше, та в Солохи вже складчина…</p>
+          </sp>
+          <sp who="#marusja">
+            <speaker>Маруся</speaker>
+            <p>Ось – маковники; закусіть солоденьким. Голоси. Еге, еге! Солоденьким! Давно б час…</p>
+            <stage>(Сміються; беруть і їдять).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід XVI</head>
+          <stage>Ті ж і Оксана.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(ввіходить смутна; до себе).</stage>
+            <p>Ні, не видко Вакули ніде…</p>
+            <stage>(Зітха).</stage>
+            <p>Не покине! Не так у його й очі зорять!</p>
+          </sp>
+          <stage>Грицько їв і зразу приснув та й почав реготатись, узявшись за боки.</stage>
+          <sp who="#oksana #dejaki_act_one_scene_sixteen #parubky #tymish #odarka #marusja">
+            <speaker>Усі</speaker>
+            <p>Чого се ти? Дивіться, чи не здурів?!</p>
+          </sp>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <stage>(береться за живіт).</stage>
+            <p>Ох! Та це я згадав…</p>
+            <stage>(Знову приснув).</stage>
+          </sp>
+          <sp who="#dejaki_act_one_scene_sixteen">
+            <speaker>Деякі</speaker>
+            <stage>(показуючи пальцем, починають самі сміятись).</stage>
+            <p>Та кажи-бо, що згадав?</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(підходячи, й собі сміється).</stage>
+            <p>Ну-бо, що там?</p>
+          </sp>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <stage>(маха руками).</stage>
+            <p>Волосний писар…</p>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <p>Ну, ну?</p>
+          </sp>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <p>Я біжу ото до гурту… дивлюсь – щось рачкує, аж то… «Що се ви, пане писарю, кажу, робите?» – «Місяця, каже, шукаю!»</p>
+          </sp>
+          <sp who="#oksana #dejaki_act_one_scene_sixteen #parubky #tymish #odarka #marusja">
+            <speaker>Усі</speaker>
+            <stage>(сміються).</stage>
+            <p>Місяця?.. Ха-ха!</p>
+          </sp>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <p>Та так, знаєте, маца по снігу руками: «Де ж, кажу, тут місяць? Адже він на небі!» – «Е, каже, був… та оце зараз, перед моїми очима, почав танцювати, поки не впав!»</p>
+          </sp>
+          <sp who="#tymish">
+            <speaker>Тиміш</speaker>
+            <p>Ото смикнув добре!</p>
+          </sp>
+          <stage>Сміються.</stage>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <p>Там такого поназбігалось… регіт такий зняли! А він, знай, гвалтує, що або чорти… або Солоха вкрала місяця!</p>
+          </sp>
+          <stage>Сміються всі.</stage>
+          <sp who="#odarka #marusja">
+            <speaker>Одарка й Маруся</speaker>
+            <p>А знаєте, й нам була у Солохи оказія; оце ми розказували…</p>
+          </sp>
+          <sp who="#tymish">
+            <speaker>Тиміш</speaker>
+            <p>Е, та то відьма!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Невже таки правда, що вона відьма? То, може, люде брешуть?</p>
+          </sp>
+          <sp who="#parubok_1-j">
+            <speaker>1-й парубок</speaker>
+            <p>Де там? Я й сам торік бачив у неї хвоста.</p>
+          </sp>
+          <sp who="#dejaki_act_one_scene_sixteen">
+            <speaker>Деякі</speaker>
+            <p>А чи великий?</p>
+          </sp>
+          <sp who="#parubok_1-j">
+            <speaker>1-й парубок</speaker>
+            <p>З веретено завбільшки!</p>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <p>Ох, моя матінко!</p>
+          </sp>
+          <sp who="#parubok_2-j">
+            <speaker>2-й парубок</speaker>
+            <p>А позавчора, хіба не чули? Перекинулась вона свинею, прибігла до попаді, наділа шапку батюшчину, крикнула півнем та й зникла!</p>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <p>Невже?!</p>
+          </sp>
+          <sp who="#tymish">
+            <speaker>Тиміш</speaker>
+            <p>Та що й говорити! Мені й самому торік літом таке вшкварила…</p>
+            <stage>(Хита головою).</stage>
+          </sp>
+          <sp who="#oksana #dejaki_act_one_scene_sixteen #parubky #tymish #odarka #marusja">
+            <speaker>Усі</speaker>
+            <p>Ану-ну? Розкажи.</p>
+          </sp>
+          <sp who="#tymish">
+            <speaker>Тиміш</speaker>
+            <p>Саме перед петрівками… ліг я в хліві; коли це, дивлюсь, – відьма… простоволоса, в одній сорочці, страшна така!.. Корів почала доїти… Я ж хотів був повернутись, а вона як мазне мене чимсь по губах… (Спльовує). Бр-р-р!.. Аж три дні вернуло!</p>
+          </sp>
+          <sp who="#oksana #dejaki_act_one_scene_sixteen #parubky #odarka #marusja">
+            <speaker>Усі</speaker>
+            <stage>(враз).</stage>
+            <p>Ха-ха-ха! Ото нагодувала! Го-го-го!</p>
+          </sp>
+          <stage>Тиміш спльовує.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Та годі вам казна-що вигадувати про бідну Солоху. Вона така ласкава до нас – чи вечорниці, чи складчина, то не де як у неї: от хоч би й сьогодні…</p>
+          </sp>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <p>Не будемо, не будемо; я ще тільки одно щось розкажу!</p>
+            <stage>(Щось тихо розказує).</stage>
+          </sp>
+          <stage>Дівчата і парубки оточують його купками. Виголоси й регіт.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід XVII</head>
+          <stage>Ті ж і Вакула.</stage>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(тихо одчиня двері й дивиться пильно на Оксану).</stage>
+            <p>З парубками жартує! їй все весело! Невже з голови я не виб’ю цієї Оксани? Не хочу про неї думати, а дума самохіть лізе! Тікаю, не хочу йти до неї, а мене так і тягне, так і тягне!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <stage>(зуздрівиш).</stage>
+            <p>Вакула, Вакула!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(скочивши).</stage>
+            <p>Де ти був, Вакуло? А ми тебе ждемо!</p>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <p>Здоров, здоров, пане брате! Та без тебе У нас і свято не в свято!</p>
+          </sp>
+          <sp who="#marusja #odarka">
+            <speaker>Маруся й Одарка</speaker>
+            <p>От слава богу, що ти прийшов! Тепер і колядувати рушаймо: Вакула за ватажка!</p>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <p>Ні, на цей раз – без мене!</p>
+          </sp>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <p>Що се з тобою зробилося? Чи не наврочив хто? Первий був до колядок, а тепер – на тобі!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Та ну-бо, Вакуло, не сердься, ходім!</p>
+            <stage>(Підходить до його й кладе на плече руку).</stage>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Чи не про тебе, козаче, ця пісня?</p>
+          </sp>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <p>Ану, яка? Піддай палу!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <l>Ой на дубі листя січеться,</l>
+            <l>Козаченько з туги аж гнеться:</l>
+            <l>Та дівчина лиха</l>
+            <l>Доведе до гріха!</l>
+            <l>Ex, згинь ти, моя доле, –</l>
+            <l>Заллю медом своє горе!</l>
+            <l>Хай музика стогне, грає, –</l>
+            <l>Козаченька звеселяє!</l>
+          </sp>
+          <sp who="#parubky #divchata">
+            <speaker>Парубки й дівчата</speaker>
+            <l>Так, справді, – набік горе!</l>
+            <l>Хай вино-мед ллється морем!</l>
+            <l>Хай музика стогне, грає, –</l>
+            <l>Козаченька звеселяє!</l>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <l>«Кину, каже, горду дівчину</l>
+            <l>Та повіюсь геть на чужину:</l>
+            <l>На багатство моє</l>
+            <l>Та чи мало тих є</l>
+            <l>Ласих оченят!»</l>
+          </sp>
+          <sp who="#parubky #divchata">
+            <speaker>Парубки й дівчата.</speaker>
+            <l>Не журися, козак,</l>
+            <l>Буде справді все так!</l>
+          </sp>
+          <stage>Парубки і дівчата (разом)</stage>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <l>Ох, і дівчатка, бог вас уродив!</l>
+            <l>Що б ви робили та без парубків?</l>
+          </sp>
+          <sp who="#parubky #divchata">
+            <speaker>Парубки і дівчата (разом)</speaker>
+            <l>Та нам байдуже, хоча б і сім літ</l>
+            <l>Був на вас, хлопці, сильний недорід!</l>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <l>Ой ходив козак, доходився –</l>
+            <l>У шинкарки з горя пропився</l>
+            <l>І лишив за красу</l>
+            <l>Там худобу усю!</l>
+            <l>Ex, годі! Набік горе!</l>
+            <l>Наливай ще, моя зоре:</l>
+            <l>Хай музика стогне, грає, –</l>
+            <l>Хай козак ще погуляє!</l>
+          </sp>
+          <sp who="#parubky #divchata">
+            <speaker>Парубки и дівчата</speaker>
+            <l>Так, справді, – набік горе!</l>
+            <l>Наливай ще, моя зоре:</l>
+            <l>Хай музика стогне, грає, –</l>
+            <l>Так козак у нас гуляє!</l>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <l>А шинкарка йому на слові:</l>
+            <l>«Купи мені керсет шовковий,</l>
+            <l>Та не будь-бо скупий</l>
+            <l>Й черевики купи,</l>
+            <l>Та ще й золоті!»</l>
+          </sp>
+          <sp who="#parubky #divchata">
+            <speaker>Парубки й дівчата</speaker>
+            <l>Ой чи сяк, ой чи так,</l>
+            <l>А попався козак!</l>
+          </sp>
+          <stage>Дівчата й парубки разом:</stage>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <l>Так вам і треба,</l>
+            <l>Хай шинкарки вчать:</l>
+            <l>Нащо вам шукати</l>
+            <l>За селом дівчат?</l>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <l>Так на чужині</l>
+            <l>Погиба наш брат,</l>
+            <l>Та з-за тих лукавих</l>
+            <l>Чорних оченят!</l>
+          </sp>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <stage>(моргаючи на Одарку).</stage>
+            <l>За таку, наприклад, дівчину</l>
+            <l>Та чого я, братці, не скину?</l>
+            <l>І кису, і жупан –</l>
+            <l>З нею й так буду пан!</l>
+            <l>Ex, усе пропадай –</l>
+            <l>Мене тільки покохай!</l>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <l>Ну, та й Одарка – козир-дівчина!</l>
+            <l>Варт черевичків не таких вона!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <l>А в тебе, Одарко, справді</l>
+            <l>Нові черевики!</l>
+            <l>Які ж гарні! Ще й з золотом, –</l>
+            <l>Хоч і на музики!</l>
+            <l>От щаслива, що є кому</l>
+            <l>Тобі купувати,</l>
+            <l>Мені ж, бідній, безталанній,</l>
+            <l>Нема що й гадати!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Не тужи, моя рибчино!</l>
+            <l>Та такі Оксані</l>
+            <l>Я доскочу черевики,</l>
+            <l>Яких чортма й [в] пані!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <l>Ти? Дістанеш? Я й забула</l>
+            <l>Про тебе, їй-богу!</l>
+            <l>Подивлюсь я, чи й надіну</l>
+            <l>Ще на свою ногу!</l>
+            <l>Хіба б тільки від цариці</l>
+            <l>Черевички взула!</l>
+          </sp>
+          <sp who="#parubky #divchata">
+            <speaker>Парубки й дівчата</speaker>
+            <l>Ну й Оксана, ну й Оксана!</l>
+            <l>Ач, куди махнула!</l>
+            <l>Ха-ха-ха-ха-ха-ха-ха-ха!</l>
+            <l>Ач, куди махнула!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(до Вакула)</stage>
+            <l>Якщо ти мені здобудеш</l>
+            <l>Царські черевики, –</l>
+            <l>Отоді-то вже, Вакуло,</l>
+            <l>Я твоя навіки!</l>
+          </sp>
+          <sp who="#parubky #divchata">
+            <speaker>Парубки й дівчата.</speaker>
+            <l>Ха-ха-ха-ха!.. Чи ви чули?</l>
+            <l>Завдала задачу!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Ти смієшся, ти глузуєш</l>
+            <l>Наді мною, бачу!..</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <l>Присягаюсь перед миром –</l>
+            <l>Слова не зламаю:</l>
+            <l>Дістань тільки черевички,</l>
+            <l>Щиро покохаю!</l>
+            <l>Тоді зараз хоч до шлюбу</l>
+            <l>Веди за рученьку!</l>
+          </sp>
+          <sp who="#parubky #divchata">
+            <speaker>Парубки й дівчата.</speaker>
+            <l>Ану лишень до цариці</l>
+            <l>Вдарся, коваленку!</l>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <l>Ха-ха-ха-ха!.. До цариці!</l>
+            <l>Лихо, моя ненько!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <l>Ти казав, що рад і в пекло</l>
+            <l>Для мене дістати;</l>
+            <l>Докажи ж тепер, Вакуло,</l>
+            <l>Що вмієш кохати!</l>
+            <l>Ну, дістанеш? Як за те я</l>
+            <l>Обійму кохано!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Не дратуй-бо!.. Не жартуй-бо</l>
+            <l>Так з вогнем, Оксано!</l>
+          </sp>
+          <sp who="#parubky #divchata">
+            <speaker>Парубки й дівчата</speaker>
+            <l>Гей, ходім колядувати:</l>
+            <l>Час давно до діла!</l>
+            <l>Гей, рушаймо!.. Ну, та й дівка!</l>
+            <l>Ну, та й насмішила!</l>
+          </sp>
+          <stage>Всі рушають.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(обернувшись).</stage>
+            <l>Пам’ятай же, черевички,</l>
+            <l>Що взува цариця!..</l>
+          </sp>
+          <sp who="#parubky #divchata">
+            <speaker>Парубки й дівчата</speaker>
+            <stage>(у дверях уже).</stage>
+            <l>Ха-ха-ха-ха! Бодай тебе!</l>
+            <l>От так вигадниця!</l>
+            <stage>(Виходять).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід XVIII</head>
+          <stage>Вакула сам.</stage>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Не здолаю, не здолаю –</l>
+            <l>Нема більше сили!</l>
+            <l>Чого ж вона така гарна,</l>
+            <l>Боже ти мій милий?</l>
+            <l>Її очі, її речі</l>
+            <l>Рвуть, шматують, палять</l>
+            <l>Моє серце… Над собою</l>
+            <l>Й волі вже не маю!!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(з-за вікна).</stage>
+            <l>Від цариці черевики –</l>
+            <l>Пам’ятай, козаче!</l>
+          </sp>
+          <sp who="#parubky #divchata">
+            <speaker>Парубки і дівчата</speaker>
+            <stage>(за вікном).</stage>
+            <l>Ха-ха-ха-ха!.. Ну, та й метку</l>
+            <l>Завдала задачу!..</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Е, ні – досить!.. Час скінчити:</l>
+            <l>Нитку увірвали!</l>
+            <l>Душу чорту! В ополонку –</l>
+            <l>Й поминай, як звали!</l>
+            <stage>(Вибігає).</stage>
+          </sp>
+          <stage>Завіса спада</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Дія друга</head>
+        <stage>Хата Солохи – простора, порожнювата. В однім кутку здоровий житін і ковальські причандали. В другім кутку лежить три здорових лантухи; один з вугіллям.</stage>
+        <div type="scene">
+          <head>Вихід І</head>
+          <stage>Солоха сама.</stage>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(прибирає у хаті).</stage>
+            <p>Оце! Мов і не прибирала! І не знать, що святки – такий гармидер у хаті! А все Вакула; поназносить завжди сюди свого струменту, мішків, вугілля та й набруднить усюди. Ну, щоб у своїй кузні держати? Так ні, каже – цигани покрадуть! От і прибирай за ним, як знаєш! Та ще отими барвами поналяпує! Ні вже! Дрібноту яку я й сама вимету, лави помию… А мішки і кадоби – вибачай! Винесеш ти на своїх плечах; бо мої вже й підносилися трохи!</p>
+            <stage>(Почина вимітати і стира з лави; зачіплює глечика й розбива).</stage>
+            <p>Отуди к бісу!</p>
+            <stage>(Знов прибира, а далі сідає на лаві оддихати).</stage>
+            <p>Ху, утомилась! Не та вже стала: важко от і спину зігнути!.. Ох! Літа мої красні минають!.. А за молодощів була з мене й дівчина, була й молодиця! Все в руках у мене горіло – і гульня, і діло! Вогонь була – не дівка: хороша і до хлопців моторна!</p>
+            <stage>(Співа).</stage>
+            <l>Було пройду по селу,</l>
+            <l>Вже й юрба за мною;</l>
+            <l>Той шапочку ізніма,</l>
+            <l>Той маха рукою.</l>
+            <l>А я собі – мов не я,</l>
+            <l>Мов недобачаю;</l>
+            <l>Усміхнуся з рукава</l>
+            <l>До кого вже знаю!</l>
+            <l>Оченьками підморгну,</l>
+            <l>Поведу бровою:</l>
+            <l>Лягай, хлопче, у труну</l>
+            <l>Або йди за мною!</l>
+            <stage>(Співа).</stage>
+            <l></l>
+            <l>Преподобницею,</l>
+            <l>Було сяду за роботу</l>
+            <l>Під віконницею;</l>
+            <l>Ой хто йде, не мине –</l>
+            <l>Задивляється;</l>
+            <l>А чи оком, а чи словом</l>
+            <l>Затримається!</l>
+            <l>«Чи я ж тобі, моя доню,</l>
+            <l>Не наказувала,</l>
+            <l>Щоб до вікон мені хлопців</l>
+            <l>Не принаджувала!</l>
+            <l>Затуляй вікна</l>
+            <l>І віконниці;</l>
+            <l>Роби дома, сиди мені</l>
+            <l>Хоч на долівці!»</l>
+            <l>А я ж тобі, моя мати,</l>
+            <l>Перекір наряжу!</l>
+            <l>Повну хату ще й кімнату</l>
+            <l>Парубків наведу!</l>
+            <l>Перекір, перекір,</l>
+            <l>Перекорище:</l>
+            <l>Повну хату ще й кімнату,</l>
+            <l>Та ще й дворище!</l>
+            <stage>(Підморгує й пританцьовує).</stage>
+            <p>Нажилася-таки я, натішилася! Нехай другі будуть дурні, а я – ні! Ex! Аж згадати весело! Знали Солоху навкруги!</p>
+            <stage>(Зав’язує платком голову).</stage>
+            <p>Та ще й тепер не втекло наше, дарма що постаріла, а на які очі, то й гарна! Поповодимо за вуса ще; на кого з старих голів оком не скину, то й мліє: Свербиніс, Чуб, дяк, Голова… та чи мало чуприн тих! Шкода тільки, що жонаті; та й я не дурна, – не на таку напали!</p>
+            <stage>(Співа).</stage>
+            <l>Ти думаєш, дурню,</l>
+            <l>Що я тебе люблю,</l>
+            <l>А я тебе, дурню,</l>
+            <l>Словами голублю!</l>
+            <l>Ти думаєш, дурню,</l>
+            <l>Що я тебе кличу,</l>
+            <l>А я тобі, дурню,</l>
+            <l>Крізь тин дулі тичу!</l>
+            <l>А!.. Думайте, дурні,</l>
+            <l>Що ви всі хороші,</l>
+            <l>То носіть до мене</l>
+            <l>І добро, і гроші!</l>
+            <stage>(Лукаво).</stage>
+            <p>Де ж бідній вдові й узяти? На моє сирітство і бог вибачить!</p>
+            <stage>(Замислюється).</stage>
+            <p>А все-таки треба б собі на старість що-небудь певне придбати! От, Чуб – удовець; за того вже давно я обома руками! Та ще й дука на все село! Грунтів, худоби всякої – сила; скирти на токах, у засіках аж тріщить, а в скринях од покійної Горпини добра скільки зосталося! А! Тільки очі пасу!.. Прибрала б я до рук оте все, попорядкувала б! Що ж? Чуб до мене… і землі під собою не чує… хоч сьогодні до шлюбу! От коли б тільки Вакула мій тут не нашкодив! Він за тією дзигою Оксаною ударя. Та, здається, я проти його добре піддрочила Чуба: і в хату не пустить!</p>
+          </sp>
+          <p></p>
+          <p></p>
+          <stage>Чутно, хтось стукає в двері.</stage>
+          <p>Ой хтось іде! Чи не Вакула?</p>
+          <stage>(Іде до дверей).</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід ІІ</head>
+          <stage>Солоха й Голова.</stage>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <stage>(увіходить в двері, тупоче ногами й струшує сніг з капелюха й кожуха).</stage>
+            <p>Ух! Трохи не замело! Оце втрапили до дяка?.. Не казав я? Як знялась хуга – то кум чи не в заметі застряв де?! А я… на світло – та до вас, Солохо! Одігрійте мене, моя пані!</p>
+            <stage>(Скидає кожуха).</stage>
+            <p>Та тепер, на розговинах, здається, і попоштувати можна…</p>
+            <stage>(Підморгує).</stage>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(перебива).</stage>
+            <p>Сідайте, сідайте, пане Голово! Я почастую вас зараз калганівкою, а на закуску і ковбаси спряжу!</p>
+            <stage>(Іде до хижі).</stage>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <stage>(дивиться услід).</stage>
+            <p>Ex, добра баба! Чорт не баба! Коли б тільки хто не притьопавсь! Та в таку негоду й собаки не виженеш!</p>
+            <stage>(Крякнув).</stage>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(виносить на тарілці горіхи, шишечки, чарку і в руці пляшку; налива).</stage>
+            <p>Покуштуйте: сама настоювала!</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <stage>(дивиться в вічі).</stage>
+            <p>Мусить бути смашна! А що ж ви самі? Може, це отрута?</p>
+            <stage>(Хихика).</stage>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Вигадали!</p>
+            <stage>(Пригублює).</stage>
+            <p>Ну, будьте здорові з святками; дай боже, щоб наші вибрикували!</p>
+            <stage>(Долива й подає).</stage>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>Дай боже все частуватися та частіше з вами видатися!</p>
+            <stage>(П’є й крекче).</stage>
+            <p>А! Добра калганівка! Мабуть, і бодян є!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Трошки вкинула. Призволяйтесь поки – медяників, горіхів…</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>Е! Не ті вже в мене зуби… не вкусю! Me чого-небудь мнякенького…</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(потупивши очі).</stage>
+            <p>Чого б же вам? Їй-богу, не знаю!</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>От сідайте, будь ласка, отут…</p>
+            <stage>(Обійма потроху за стан).</stage>
+            <p>Так не знаєте?</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(соромлячись).</stage>
+            <p>Далебі, не знаю!..</p>
+          </sp>
+          <stage>Хтось стукає; схоплюються.</stage>
+          <p>Ох, мені лишенько! Хтось іде!</p>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <stage>(встає й шука шапки).</stage>
+            <p>Хто б це?</p>
+            <stage>(Набік).</stage>
+            <p>От чортяка!</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Голос дяка</speaker>
+            <p>Пані Солохо, отверзи!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(набік).</stage>
+            <p>От халепа!</p>
+            <stage>(Вголос).</stage>
+            <p>Це чи не дяк?</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>Сховайте мене куди-небудь зараз: мені не випада тепер з дяком здибатись!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Ох, біда ж моя! Куди я вас, пане Голово, сховаю? Лізьте під запічок!</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>Що ви?! Туди і мій чобіт не влізе!</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Голос дяка</speaker>
+            <p>Солопія Остахвієвна!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Хіба в лантух?</p>
+            <stage>(Висипа вугілля в кадіб).</stage>
+            <p>Лізьте ж швиденько, а я зашморгну вас…</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>А там не тісно буде?</p>
+          </sp>
+          <stage>Знов стук.</stage>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Ой, лізьте-бо швидче, не гайтесь, бо бісовий дяк і двері висаде!</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>А, щоб вас! Чи лізти, то й лізти…</p>
+            <stage>(Влазить).</stage>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(зашморгує над ним лантуха і кричить до дверей).</stage>
+            <p>Зараз, зараз! Тривайте, одягнусь!</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <stage>(з мішка).</stage>
+            <p>Ой-ой! Чуба прикрутили! Чуба! Чуєте?</p>
+          </sp>
+          <stage>Солоха не чує й біжить до дверей.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід ІІІ</head>
+          <stage>Солоха і дяк.</stage>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <stage>(ввіходить, тупоче на місці й потира руки).</stage>
+            <p>Здравія і долголітія, благоденственного і мирного житія!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Спасибі вам!</p>
+            <stage>(Озирається на мішок, де ще крекче Голова).</stage>
+            <p>А що… надворі мете?</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <p>То єсть – світа преставленіє! До мене іміла собратись кумпанія: пан Голова, Чуб, козак Свербиніс, Передерипуп, знаменито берущий баса, і прочії; но стихії, здається, воспреп’ятствували сьому. Мню, що сіє к луччому, що я возмог кинути храмину свою і побрести по заметах до вас, ліпообразная Солохо!</p>
+            <stage>(Потира руки).</stage>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Спасибі за ласку! Сідайте!</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <stage>(сідає на кінчику й очима їсть Солоху; та трохи не при собі).</stage>
+          </sp>
+          <stage>Який час тиша.</stage>
+          <p>Одначе за такий подвиг уповаю некую мзду од вас получити…</p>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Що се ви бозна-що кажете, а ще письменні!</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <stage>(встає).</stage>
+            <p>Не розумієте мене: мзда – сиріч надгорода, ліпообразная Солохо!.. А обладаете ви таковим багатством сладчайших прелестей, що не гріх сущу рабу єдиную од сіх уділити!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(засоромилась).</stage>
+            <p>Я вас сьогодні й не второпаю, про що ви кажете?</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <p>О, ліпото уязвляющая, сосуде іскусительний!.. Хитриш, а розумієш добре, чого алчет душа моя!..</p>
+            <stage>(Співа).</stage>
+            <l>О ізбранная Солохо,</l>
+            <l>О владичице моя!</l>
+            <l>Ощаслив хоч вельми трохи</l>
+            <l>Дні моего битія!</l>
+            <l>Без тебе блуджу я дето;</l>
+            <l>Без тебе – усюди мла:</l>
+            <l>От, неначе «в руці лєто» –</l>
+            <l>Моє серце ти взяла!</l>
+          </sp>
+          <stage>Разом співають:</stage>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <l>О внемли, як тя кохаю:</l>
+            <l>Ти для мене цілий мир!</l>
+            <l>Титло серця, путь до раю</l>
+            <l>І душі моєї клир!</l>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(набік).</stage>
+            <l>Розманіживсь як медяно</l>
+            <l>Оцей капосний бабій!</l>
+            <l>Ач, мізерне та погане,</l>
+            <l>А до патоки й собі!</l>
+            <stage>(До дяка).</stage>
+            <l>О, я знаю вас незгірше –</l>
+            <l>Язиком солодите:</l>
+            <l>Пошукайте яку іншу,</l>
+            <l>Щоб повірила на те!</l>
+            <l>І чого б мене кохати,</l>
+            <l>І здалась би нащо я? –</l>
+            <l>Коли збоку, в власній хаті</l>
+            <l>У вас жінка є своя?!</l>
+          </sp>
+          <stage>Разом співають:</stage>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <l>О, не рци про ню і слова,</l>
+            <l>Бо не чтить сіх серце уз:</l>
+            <l>Ваші щічки, ваші брови</l>
+            <l>Його взяли на мотуз!</l>
+            <l>Але зимність ваша губить!</l>
+            <l>А в писанні гріх за се:</l>
+            <l>Бо хто мнозії возлюбить,</l>
+            <l>Тому проститься усе!</l>
+            <l>О, купино золотая,</l>
+            <l>Всі єсьми твої раби;</l>
+            <l>Дай іспити з чаші рая,</l>
+            <l>Миро сладосне люби!</l>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <l>Я не вірю в ваше слово,</l>
+            <l>Щоб приміли полюбить,</l>
+            <l>Коли ви уже готові</l>
+            <l>Свою жінку обдурить!..</l>
+            <l>І мене яким ви робом</l>
+            <l>Полічили за плоху?</l>
+            <l>Ви ж письменні, вам би сором</l>
+            <l>Підбивати до гріху!</l>
+            <l>Та й яке там злато в мене</l>
+            <l>І яка там купина?</l>
+            <l>Втиште серденько шалене,</l>
+            <l>Бо я вдівонька сумна!</l>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <p>Почто убо, ліпообразная Солохо, і Досі не отверзете серця своего на моленія мої?</p>
+            <stage>(Усміхається).</stage>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Не знаю, чого вам од мене треба? Та й звідкіля ви взяли, що в мене злато є?</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <p>Гм!.. Гм!.. (Усміхається). Звідкіля? Очеса мої видіста! (Підходить близько, кашля й пальцем торка). А що це у вас, ліпообразная Солохо?</p>
+            <stage>(Одскакує, потира руки).</stage>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Як що? Рука, Пантелимон Никихворович!..</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <p>Гм!.. Рука!.. Хе-хе-хе! (Пройшовся). А це що у вас, многоцінная Солохо?</p>
+            <stage>(Доторкується до шиї й одскакує, потираючи руки).</stage>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Хіба не бачите, Пантелимон Никихворович? Шия, а на шиї намисто.</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <p>Гм! На шиї намисто? Хе-хе-хе! (Знов пройшовся). А це що у вас, благовонная Солохо?</p>
+            <stage>(Приторкнувся до дукача).</stage>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Як що? Дукач, Пантелимон Никихворович.</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <p>Гм!.. Дукач, то дукач! Но там мню…</p>
+          </sp>
+          <stage>Хтось стукнув.</stage>
+          <p>Ох, боже мій, стороннє лице!.. Що, як застануть тут особу мого званія? Дійде до… Ох, мені лихо!</p>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Та не бійтесь, може, це ваша жінка?</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <stage>(тремтить).</stage>
+            <p>Ох, последняя горше первого!.. Бога ради… добродітельна Солохо… ваша добрість, як глаголет писаніє… глава тринад… тринад… стука, стука! їй-богу, стука! Ой сховайте мене куди-небудь!..</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Хіба в лантух?</p>
+            <stage>(Висипа мерщі вугілля).</stage>
+            <p>Лізьте ж!</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <stage>(лізе).</stage>
+            <p>Аки Іона во чрево китово!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(зав’язує й біжить до дверей).</stage>
+            <p>Оце!.. Іще хтось! Мов змовились!</p>
+            <stage>(Одчиня і набік).</stage>
+            <p>Ох, моє горенько – Чуб!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід IV</head>
+          <stage>Солоха і Чуб.</stage>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(струшує сніг).</stage>
+            <p>Здрастуй, Солохо! Ти, може, й не сподівалась на мене? А? Правда, не сподівалась? Може, я перешкодив?</p>
+            <stage>(Підморгує, розперізується і хапається за спину).</stage>
+            <p>Ач… клятий!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(соромливо).</stage>
+            <p>Чим же б то ви мені перешкодили? Ви в мене завжди дорогий гість!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(усміхається і бере за щоку Солоху).</stage>
+            <p>Гм-гм!.. Дорогий?.. А може, ви тут бавились з ким, може, ти кого сховала уже, га?</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(з острахом озирається на мішки; набік).</stage>
+            <p>Пропала я! Невже він підслухав?!</p>
+            <stage>(До Чуба).</stage>
+            <p>Що це ви кажете? Гріх вам таке вигадувати! Хіба ж я до кого, крім вас…</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Хі-хі-хі! Знаю, знаю! А ти вже й розсердилась! Поможи ж мені хоч кожуха скинути!</p>
+          </sp>
+          <stage>Солоха скида, а Чуб покрикує.</stage>
+          <p>Ой-ой! Обережніш! Там отой… о… я спину намулив…</p>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Чим же се?</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Та, здається, на печі спік! Хоч би ти погоїла…</p>
+          </sp>
+          <stage>Голова в мішку гикнув.</stage>
+          <p>Хто се? Справді, чи нема кого?</p>
+          <stage>(Озирається).</stage>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(змішавшись).</stage>
+            <p>Їй же богу, нікогісінько!.. То я… ногою рипнула…</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Ногою?! Дивись мені!</p>
+            <stage>(Усміхається і пальцем пригрожує; розперізується).</stage>
+            <p>Ну, а тепер, Солохо, дай хоч чарку горілки: мабуть, у мене й горлянка замерзла од клятого морозу. Послав же бог таку ніч саме на різдво! Як схопилось, чуєш, Солохо, зразу як схопилось… аж пальці подубли!.. Як схопилось, кажу…</p>
+          </sp>
+          <sp who="#holos_za_dveryma">
+            <speaker>Голос за дверима</speaker>
+            <p>Одчини!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Хтось стука?!</p>
+            <stage>(Встає).</stage>
+          </sp>
+          <sp who="#holos">
+            <speaker>Голос</speaker>
+            <p>Одчини!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(набік).</stage>
+            <p>От напасть. Розносило їх сьогодні!</p>
+            <stage>(Метушиться по хаті).</stage>
+            <p>Хто б же це?.. Хіба, може, син?!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Вакула?! Слухай, Солохо! Куди хоч дівай мене, а я не хочу…</p>
+            <stage>(Хапається за спину).</stage>
+            <p>Ні за що на світі не хочу показатись тому клятому виродку!</p>
+            <stage>(Хапається знов).</stage>
+            <p>Щоб йому набігло під обома очима по пухирю з копицю завбільшки!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(біга по хаті).</stage>
+            <p>Ох, мені лишенько! Куди б же вас?!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Куди хочеш, кажу!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Лізьте хіба у лантух?</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(лізе і лається).</stage>
+            <p>А, щоб тебе ковадлом по пиці!</p>
+          </sp>
+          <stage>Солоха зав’язує.</stage>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(з мішка).</stage>
+            <p>Ох, ох! Щоб тебе молотами пошкварило! Собачий син! Ох! ох!..</p>
+          </sp>
+          <sp who="#holos">
+            <speaker>Голос</speaker>
+            <p>Одчини-бо.</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Зараз, зараз! Тривай!</p>
+            <stage>(Вибіга за двері).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід V</head>
+          <stage>Три мішки, що лежать так: спереду на кону, праворуч – 1-й мішок (Голова); ліворуч – 3-й мішок (Чуб); посередині, трохи далі, – 2-й мішок (дяк). Який час на кону тиша і далі межи кожною реплікою чималі паузи.</stage>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Ох, ох! Гемонів син!.. Ху!.. Тісно як!</p>
+            <stage>(Пручається).</stage>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <stage>(гика).</stage>
+            <p>Ги… ги!.. Ач-хи!.. Ач-хи! Чуб. Хтось чха?</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <stage>(продира дірку).</stage>
+            <p>Хоч обозріти б!</p>
+            <stage>(Висовує голову).</stage>
+            <p>Чи не можна вспять?</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>Гик… гик!.. Ач-хи!.. Ач-хи!</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <p>Ой! ой!</p>
+            <stage>(Ховається мерщі).</stage>
+            <p>Спаси мя, господи!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Ох! І не повернешся!</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>Ач-хи!.. Ач-хи!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Який там біс чха?</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід VI</head>
+          <stage>Три мішки і Солоха.</stage>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(тихо ввіходить і зачиня двері; до себе співа).</stage>
+            <l>Що ж тепер, кажіть, почати?</l>
+            <l>Як з мішків їх повиймати?!</l>
+            <l>До других байдуже,</l>
+            <l>А за Чуба дуже</l>
+            <l>Мені страшно!</l>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>А-а! Ги-ги!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Ох-хо!</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <stage>(висунувши голову в дірку).</stage>
+            <l>Порятуй, Солохо, –</l>
+            <l>Дам ті брашно!</l>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Та цить, мовчи, вражий дяче!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Який там біс іще плаче?!</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <l>Ой змилуйся, жено,</l>
+            <l>Не дай пропасть бренно!</l>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <p>А-а! Ги-ги!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Ох, сказився б, клятий!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <l>Їх випустить з хати –</l>
+            <l>Не до чмиги!</l>
+          </sp>
+          <stage>Солоха, Дяк, Чуб, Голова разом:</stage>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <l>Ой пропала</l>
+            <l>Моя справа!</l>
+            <l>Піде в селі</l>
+            <l>Тепер слава!</l>
+            <l>Не дістанусь Чубу, –</l>
+            <l>Не візьме до шлюбу</l>
+            <l>Мене зроду!</l>
+            <l>Тепер мені просто</l>
+            <l>Кинутись хоч з мосту</l>
+            <l>Та й у воду!</l>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <l>А ще жінка</l>
+            <l>Розпізнає,</l>
+            <l>Поб’є мене,</l>
+            <l>Розтерзає!</l>
+            <l>І останню косу</l>
+            <l>Мою скудовлосу</l>
+            <l>Потріпає!</l>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <l>А, сказився б</l>
+            <l>Той проява!</l>
+            <l>Ну, Солохо, –</l>
+            <l>Кепська справа!</l>
+            <l>Тривай, моя люба,</l>
+            <l>Уже більше Чуба</l>
+            <l>Не видати!</l>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <l>Оце! Ги-ги!</l>
+            <l>От робота!</l>
+            <l>Ач-хи! Ги-ги!</l>
+            <l>Ну й тіснота!</l>
+            <l>А, біс оцій бабі;</l>
+            <l>Коли б мені набік</l>
+            <l>Хоч до хати!</l>
+          </sp>
+          <stage>При остатніх віршах починає за вікнами хор і заверша квартета.</stage>
+          <sp who="#khor">
+            <speaker>Хор.</speaker>
+            <l>Ой радуйся,</l>
+            <l>Наша земле!</l>
+            <l>Ой радуйся,</l>
+            <l>Наша земле!</l>
+            <l>Добривечір тобі, пане господарю.</l>
+            <l>Радуйся!</l>
+            <l>Ой радуйся, земле, – син божий</l>
+            <l>Народився!</l>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(вдарившись об поли).</stage>
+            <p>Мало ще! Колядників принесло! Як впруться ще в хату… Біда!.. Я й сама не своя!</p>
+            <stage>(Бере мерщі паляниці, ласощі, гроші і кида похапцем за вікно).</stage>
+            <p>Спасибі, спасибі!.. Ідіть собі, люде добрі!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід VII</head>
+          <stage>Солоха, Маруся і Катря.</stage>
+          <sp who="#katrja #marusja">
+            <speaker>Маруся і Катря</speaker>
+            <stage>(ввіходять швиденько).</stage>
+            <p>Здорові були! З святим вечором, тіточко!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(набік).</stage>
+            <p>На тобі ще!..</p>
+            <stage>(До їх).</stage>
+            <p>Спасибі… спасибі!.. А я оце простяглась з хати… до Явдохи…</p>
+          </sp>
+          <sp who="#marusja">
+            <speaker>Маруся</speaker>
+            <p>То й добре. А ми, тіточко, до вас…</p>
+          </sp>
+          <sp who="#katrja">
+            <speaker>Катря</speaker>
+            <p>Коляду знести, складчину зробити…</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Складчину?!</p>
+            <stage>(Набік).</stage>
+            <p>Якраз до шмиги! Що мені сьогодні за придача?!</p>
+            <stage>(До їх, змішавшись).</stage>
+            <p>Знаєте, мої любі, чи не можна б краще на сьогодні деінде?.. От хоч би у Марини Шпортунихи, чи що?!</p>
+          </sp>
+          <sp who="#marusja">
+            <speaker>Маруся</speaker>
+            <p>Ні-бо, лебідочко; уже, будь ласка, пустіть до своєї господи: ми не нашкодимо! Адже знаєте?</p>
+          </sp>
+          <sp who="#katrja">
+            <speaker>Катря</speaker>
+            <p>Та до другої хати із нашого гурту не захоче ніхто й піти! Ми вже тут так призвичаїлись…</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Та я б, знаєте, радніша!</p>
+            <stage>(Розводить руками; набік).</stage>
+            <p>Ну, що тут мені робити? І остатнього розуму збулась!</p>
+            <stage>(До їх).</stage>
+            <p>Радніша б… так Вакула прийде, – тут його струмент… розсердиться!</p>
+          </sp>
+          <sp who="#katrja #marusja">
+            <speaker>Катря і Маруся</speaker>
+            <p>Про Вакулу байдуже! Він моторний, не розсердиться!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Та все, знаєте, струмент, мішки…</p>
+            <stage>(Набік).</stage>
+            <p>Як би од них хоч на хвилину одчепитись!</p>
+            <stage>(До їх).</stage>
+            <p>Не прибрано… Знаєте що? Ідіть лишень, я вже приберу вам, – мішки повиносю, а ви тоді й прийдете!</p>
+          </sp>
+          <sp who="#katrja #marusja">
+            <speaker>Маруся і Катря</speaker>
+            <stage>(весело).</stage>
+            <p>Не турбуйтесь, не турбуйтесь, тіточко, ми й самі мішки повиносимо! Ану, берись!</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <p>Не руште, не руште!</p>
+            <stage>(Набік).</stage>
+            <p>Ох, пропала ж я!</p>
+          </sp>
+          <sp who="#katrja #marusja">
+            <speaker>Маруся і Катря</speaker>
+            <stage>(беруть мішок з дяком).</stage>
+            <p>Що тут, тіточко? Важке таке!</p>
+          </sp>
+          <stage>Дяк крекче.</stage>
+          <p>Щось живе? Звірюка якась?!</p>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(не при собі).</stage>
+            <p>Не знаю… що ж би воно?.. Може, Вакула… собаку…</p>
+          </sp>
+          <sp who="#katrja #marusja">
+            <speaker>Маруся і Катря</speaker>
+            <stage>(силкуються підняти).</stage>
+          </sp>
+          <stage>Дяк тим часом гарчить і гавкає; вони кидають додолу.</stage>
+          <p>Ох, лишенько! Справді собака, та ще, може, й скажена!</p>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <stage>(з мішка).</stage>
+            <p>Ой-ой! Рамено!.. Гав-гав-гав!!! Гр-р-р!..</p>
+          </sp>
+          <sp who="#katrja #marusja">
+            <speaker>Маруся і Катря</speaker>
+            <stage>(одскакують).</stage>
+            <p>У! у! Чортяка! Собака!</p>
+            <stage>(Біжать за двері і кричать).</stage>
+            <p>Сюди! Сюди!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід VIII</head>
+          <stage>Солоха і мішки.</stage>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(в розпачі, ударившись руками об поли)</stage>
+            <p>Рознесуть тепер! Ославлять на все село Солоху! Почешуть зуби!.. Пропали мої заміри! Не бути вже мені Чубихою… Отака урвись!..</p>
+            <stage>(Люто).</stage>
+            <p>А все через цього глистюка; не зміг змовчати!.. Кавчить!</p>
+            <stage>(Штовха дяка ногою у бік).</stage>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <stage>(з мішка).</stage>
+            <p>Ох, ох!.. Умилосердьтесь, добродітельна Солохо! Пустіте на покаяніє!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(з мішка).</stage>
+            <p>Розв’яжи й мене!</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <stage>(з мішка).</stage>
+            <p>Ги-ги!..</p>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(яро).</stage>
+            <l>Ага?! Уже знаєте всі?</l>
+            <l>За носи більш не буду водити?!</l>
+            <l>Тепер раді б Солоху втопити,</l>
+            <l>Раді б з’їсти мене ви зовсім!</l>
+            <l>А самі? Пресвяті, пречесні?!</l>
+            <l>Так сидіть же, чорти б вас убили!</l>
+            <l>Хай принаймні і ваші чуприни</l>
+            <l>Вкриє сором!</l>
+          </sp>
+          <stage>Мішки стогнуть.</stage>
+          <l>Мовчіть, навісні!</l>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <stage>(витика голову).</stage>
+            <l>Христа ради, Солохо… внемліть!</l>
+            <l>Мого звання особа!.. Ох, чую, –</l>
+            <l>Вже по стогнищах вразі гвалтують!</l>
+          </sp>
+          <sp who="#chub #holova">
+            <speaker>Чуб і Голова</speaker>
+            <l>Та пусти ж бо і нас хоч на світ!</l>
+          </sp>
+          <sp who="#solokha">
+            <speaker>Солоха</speaker>
+            <stage>(люто, помстливо).</stage>
+            <l>А?!. Пусти! Уже проситесь?.. Ні!</l>
+            <l>Порозв’язують тут вас, панове!</l>
+            <l>О! біжать!.. Все село вже готове!..</l>
+            <l>Ну, тепер – світ за очі й мені!</l>
+            <stage>(Вибіга).</stage>
+          </sp>
+          <stage>Мішки всі ворушаться, хотять розв’язатись і крекчуть.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід IX</head>
+          <stage>Оксана сама.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(сама).</stage>
+            <p>Нема… нема Вакули! Уже ми сливе все село оббігали! І що з ним сталося? Що, як він, справді, на страшне що одважився?.. Чого доброго: він такий! З горя ще заподіє собі що-небудь!.. А все я, я, я винна! Усе нехтувала, уїдалася!.. А він мене любив!.. Тепер, може, до другої…</p>
+            <stage>(Співа).</stage>
+            <l>Невже він за жарти</l>
+            <l>Безвинні, дівочі –</l>
+            <l>Зміня мої брови,</l>
+            <l>Зміня мої очі</l>
+            <l>На вуста чужії,</l>
+            <l>На щічки ворожі?</l>
+            <l>Дожить до такого</l>
+            <l>Не дай мені боже!</l>
+            <l>Тоді моє серце</l>
+            <l>В розлуці загине!</l>
+            <l>О ні! Мій Вакула</l>
+            <l>Мене не покине!</l>
+            <l>Я справді сувора,</l>
+            <l>А він пак горює…</l>
+            <l>Нехай вже зненацька</l>
+            <l>Хоч раз поцілує!</l>
+            <l>Я гляну на його,</l>
+            <l>Всміхнуся кохано…</l>
+            <l>Чи вже ж він над цюю</l>
+            <l>Та знайде Оксану?</l>
+            <l>Ні, тоді напевно</l>
+            <l>Собі не спочує!..</l>
+            <l>Нехай мене тільки</l>
+            <l>Хоч раз поцілує!</l>
+            <l>І спалахне зразу</l>
+            <l>Серденько гаряче:</l>
+            <l>Не втечеш від мене,</l>
+            <l>Мій любий козаче!</l>
+            <l>Я гляну на його,</l>
+            <l>Всміхнуся кохано –</l>
+            <l>І буде незмінно</l>
+            <l>Твоєю Оксана!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід X</head>
+          <stage>Одарка, Маруся, Катря і другі дівчата.</stage>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <stage>(вбігаючи).</stage>
+            <p>Де тут чорти? В якому мішку?</p>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <p>Глянь, чи не це?</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Що се ви, чи не збожеволіли?</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Ану, розв’язуйте мерщі!</p>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <p>А як укусить? Хай йому біс!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Перехрестіть та й не бійтесь!</p>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <p>Цур тобі! Цур, сатано!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Та йдіть же, поможіть хто розв’язати… Чого ж ви поторопіли?</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Та що ж там таке? Я – зараз!</p>
+          </sp>
+          <stage>Беруться за мішок; дяк гавка.</stage>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <stage>(одскочивши).</stage>
+            <p>Що за чорт? Та там, здається, собака!</p>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <p>Ох, не руште – ще покуса!</p>
+          </sp>
+          <sp who="#marusja #katrja">
+            <speaker>Маруся і Катря</speaker>
+            <stage>(вбігають).</stage>
+            <p>Не руште, не руште: там скажена собака!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(одскочивши).</stage>
+            <p>Так біжіть-бо, дівчата, покличте хлопців з дрючками: та тут і вбить її в мішку!</p>
+          </sp>
+          <sp who="#dejaki_act_two_scene_ten">
+            <speaker>Деякі</speaker>
+            <p>Добре!</p>
+            <stage>(Біжать з хати).</stage>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>А ти, Оксано, бери мерщі кочергу, а я – молота!</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <stage>(з мішка).</stage>
+            <p>Ой-ой… Не бийте!.. Єй же єй, це не собака, це – я!</p>
+          </sp>
+          <sp who="#odarka #marusja #katrja #dejaki_act_two_scene_ten #oksana #divchata">
+            <speaker>Усі</speaker>
+            <stage>(кинулись за двері).</stage>
+            <p>Чорт, чорт!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід XI</head>
+          <stage>Оксана, Одарка і мішки.</stage>
+          <sp who="#oksana #odarka">
+            <speaker>Оксана і Одарка</speaker>
+            <stage>(теж, жахнувшись, одскочили).</stage>
+            <p>Свят з нами! Що воно справді?!</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <stage>(висовує голову, вбрану й умазану в сажу).</stage>
+            <p>Ох, випустіть, молю! Зжальтеся над злополучним!</p>
+          </sp>
+          <sp who="#oksana #odarka">
+            <speaker>Оксана і Одарка</speaker>
+            <p>Що се за мара?</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <stage>(жалібно).</stage>
+            <p>Аз многогрішний Пантелеймоній!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(взявшись за боки).</stage>
+            <p>Ха-ха-ха! Та це дяк!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Яким це ви робом, добродію, туди залізли?!</p>
+          </sp>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <p>Ох, випустіть швидче!.. Це все враг чоловічеський накоїв… Ох, аще душу маєте, швидче!.. Ох, біжать уже, з дреколієм… аки татя во полунощі… біжать!.. Христа ради, скоріше!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <stage>(розв’язує мішок).</stage>
+            <p>Ну, вилазьте!</p>
+          </sp>
+          <stage>Заливаються обоє сміхом.</stage>
+          <sp who="#djak">
+            <speaker>Дяк</speaker>
+            <stage>(зразу вискочив).</stage>
+            <p>Ух! Возстах убо од мертвих! Спасайте мя, нозі мої!</p>
+            <stage>(Хутко без шапки вибіга).</stage>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(регочеться).</stage>
+            <p>Ач, дяче! Дивись, як чкурнув!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Побігти розказати нашим, яка собака в мішку була! Ото буде реготу!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Побігти, побігти!!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(з мішка).</stage>
+            <p>Куди ви простяглись? Розв’яжіть лишень і мене!</p>
+          </sp>
+          <sp who="#odarka_i_oksana">
+            <speaker>Одарка і Оксана</speaker>
+            <p>Лишенько! Ще хтось в мішку сидить! Оце диво!</p>
+            <stage>(Обережно розв’язують).</stage>
+          </sp>
+          <stage>Чуб поважно вилізає і потягується.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(сплеснувши руками).</stage>
+            <p>Батько!!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Дядько!!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(ніяково).</stage>
+            <p>А ви думали хто?.. Що, славну я вшкварив вам штуку?</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Як же це вас, тату?</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Еге ж! Спитайся!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Тут без нечистої сили уже не обійшлось!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Не обійшлося!</p>
+            <stage>(Набік).</stage>
+            <p>Ну, клята Солохо, тепер ми вас добре спізнали!.. У неї що не мішок, то й чоловік захований, а я думав, що вона тільки мене одного… От тобі й Солоха!</p>
+            <stage>(Плює).</stage>
+          </sp>
+          <stage>Впродовж цього Оксана і Одарка щось шепчуть і хихикають.</stage>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <p>Це, не при хаті згадуючи, такого ще й не чували! Замість ковбас та книшів, людей у мішки кидає!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(почухавшись).</stage>
+            <p>Ану лишень розв’яжіть третього мішка: я знаю, що й там не без чоловіка!</p>
+          </sp>
+          <sp who="#odarka_i_oksana">
+            <speaker>Одарка і Оксана</speaker>
+            <stage>(кидаються, сміючись, до мішків).</stage>
+            <p>Що за оказія?!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>А цікавий би я був знати, хто там сидить? А нуте лиш, вилазьте сюди, вашець; вибачайте, що не знаємо, як вас по найменню величати!</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <stage>(вилазить повагом).</stage>
+            <p>А-а-а-чхи!</p>
+          </sp>
+          <sp who="#odarka_i_oksana">
+            <speaker>Одарка і Оксана</speaker>
+            <stage>(одскочивши).</stage>
+            <p>Ух! Голова!</p>
+            <stage>(Регочуться в кутку).</stage>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Це ти, куме?</p>
+            <stage>(До себе).</stage>
+            <p>І Голова туди ж! Ач як? Еге!..</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова</speaker>
+            <stage>(змішавшись).</stage>
+            <p>Повинно… надворі холодно?</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Морозець єсть… А дозволь спитати… чим ти змазуєш свої чоботи – смальцем чи дьогтем?</p>
+            <stage>(Набік спльовує).</stage>
+            <p>Зовсім не те.</p>
+          </sp>
+          <sp who="#holova">
+            <speaker>Голова!</speaker>
+            <p>Дьогтем краще.</p>
+            <stage>(Згодом).</stage>
+            <p>Ну, прощай, Чубе!</p>
+            <stage>(Насовує шапку і виходить).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід XII</head>
+          <stage>Оксана, Одарка і Чуб.</stage>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(дивиться вслід і чухає потилицю).</stage>
+            <p>І навіщо я спитавсь, чим він чоботи маже?!</p>
+            <stage>(Крутить головою).</stage>
+            <p>Ай да Солоха! І Голову в мішок! Гм! Чортова баба! А я, дурень… Ну, бісова дурисвітко, не доведеться тобі більше мною коверзувати.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід XIII</head>
+          <stage>Ті ж і дві баби.</stage>
+          <sp who="#tkachykha">
+            <speaker>Ткачиха</speaker>
+            <stage>(вбігаючи).</stage>
+            <p>Тітко Солохо, чи чули ви, що Вакула втопився?</p>
+          </sp>
+          <sp who="#shportunykha">
+            <speaker>Шпортуниха</speaker>
+            <stage>(вибіга за нею в козачій свитці; наступні три репліки – разом, перебиваючи одна другу).</stage>
+            <p>Ні, не втопивсь, а повісився; хай мене хрест уб’є!</p>
+          </sp>
+          <sp who="#tkachykha">
+            <speaker>Ткачиха</speaker>
+            <p>Бреше, бреше вона, люде добрі, – втопився!</p>
+          </sp>
+          <sp who="#shportunykha">
+            <speaker>Шпортуниха</speaker>
+            <p>Їй-богу, повісився!</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <p>Тю на вас! Хто повісився?</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(з тривогою).</stage>
+            <p>Хто, тіточко? Хто?</p>
+          </sp>
+          <sp who="#shportunykha">
+            <speaker>Шпортуниха</speaker>
+            <p>Коваль Вакула!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <p>Ой!!</p>
+            <stage>(З несили пада до Одарки на руки).</stage>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(злякавшись).</stage>
+            <p>Оксано! Що се? Господь з тобою!</p>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <stage>(до Оксани).</stage>
+            <p>Серденько! Не вір їм!</p>
+          </sp>
+          <sp who="#dejaki_divchata_act_two_scene_thirteen">
+            <speaker>Деякі дівчата</speaker>
+            <stage>(вбігаючи).</stage>
+            <p>Що там таке? Хто кого зарубав!?</p>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(бабам).</stage>
+            <p>Що ви брешете про Вакулу?</p>
+          </sp>
+          <sp who="#shportunykha">
+            <speaker>Шпортуниха</speaker>
+            <p>То вона бреше!</p>
+            <stage>(Показує на Ткачиху).</stage>
+            <p>Чого ви мені не ймете віри? Хіба я прокралась, чи що? Хіба я послідня…</p>
+          </sp>
+          <sp who="#tkachykha">
+            <speaker>Ткачиха</speaker>
+            <stage>(перебива).</stage>
+            <p>Та тебе всі знають, плетухо! Утопився, кажу!</p>
+          </sp>
+          <sp who="#shportunykha">
+            <speaker>Шпортуниха</speaker>
+            <p>Брешеш – повісився! От щоб мені води не захотілось пити!</p>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(ламаючи руки).</stage>
+            <p>Хто ж бачив хоч, скажіть?</p>
+          </sp>
+          <sp who="#tkachykha">
+            <speaker>Ткачиха</speaker>
+            <p>Переперчиха власними очима бачила, як втопився! От хоч землі з’їсти!</p>
+          </sp>
+          <sp who="#shportunykha">
+            <speaker>Шпортуниха</speaker>
+            <p>Кажи краще, щоб тобі горілки не пити, п’янице стара! Треба бути такій божевільній, як ти, щоб топитись. Він повісився; повісився на драбині. Це я знаю так певно, як те, що ти зараз оце в шинку була!</p>
+          </sp>
+          <stage>Оксана ридає на грудях Одарки. Чуб, збентежений, чуха голову.</stage>
+          <sp who="#tkachykha">
+            <speaker>Ткачиха</speaker>
+            <stage>(з кулаками).</stage>
+            <p>Ач! Чим здумала дорікати! Мовчала б, безстидо! Хіба я не знаю, хто до тебе щовечора ходить?</p>
+          </sp>
+          <sp who="#shportunykha">
+            <speaker>Шпортуниха</speaker>
+            <stage>(наступаючи з кулаками).</stage>
+            <p>Хто ходить?! Хто? Докажи!</p>
+          </sp>
+          <sp who="#tkachykha">
+            <speaker>Ткачиха</speaker>
+            <stage>(одступаючи).</stage>
+            <p>Докажу!</p>
+          </sp>
+          <sp who="#shportunykha">
+            <speaker>Шпортуниха</speaker>
+            <p>Докажи ж, відьмо, – бо й очі видеру п’яні!</p>
+          </sp>
+          <sp who="#tkachykha">
+            <speaker>Ткачиха</speaker>
+            <stage>(дає дулю).</stage>
+            <p>На тобі ось що!</p>
+          </sp>
+          <sp who="#shportunykha">
+            <speaker>Шпортуниха</speaker>
+            <p>Ах ти ж, нетіпо!</p>
+            <stage>(Кидається битись).</stage>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(сердито).</stage>
+            <p>Геть звідсіль, капосні! Завелися вже! Тільки людей тривожите! От я вас!</p>
+            <stage>(Замахується).</stage>
+          </sp>
+          <stage>Баби і дівчата тікають.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід XIV</head>
+          <stage>Чуб, Оксана і Одарка.</stage>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(до Оксани).</stage>
+            <p>Та годі! Брехня все!</p>
+            <stage>(Одходить на передкін і до себе).</stage>
+            <p>А може, й справді втопивсь? То-то, думаю, чого він розлютувався? Аж то йому своє прийшло! Шкода християнської душі! Боже мій, який маляр з його був важний! Які ножі, серпи, плуги умів кувати! Що за сила була! Мало таких людей у нас на селі… А я ще з ним сварився: то все через відьму!.. Ох!</p>
+            <stage>(Хапається за спину).</stage>
+            <p>Бог тобі простить. От тобі й коваль! Був, а тепер і нема!</p>
+            <stage>(Замислено іде до дверей. При початку співання Оксани зупиняється оддалі).</stage>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(вибіга наперед кону і лама руки).</stage>
+            <l>Ой і я нещасна! Що ж я учинила?</l>
+            <l>Що своє кохання та й занапастила!!</l>
+            <l>Я ж тільки хотіла од його втаїти, –</l>
+            <l>А тепер зосталась сиротою в світі!</l>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <l>Ой не надривай-бо, сестро, себе рвяно!</l>
+            <l>То ще люди брешуть: він живий, Оксано!</l>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(до себе).</stage>
+            <l>Бідна моя дочко! й щастя не діждала!</l>
+            <l>Я й не знав, щоб його так вона кохала!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <l>Ні, умер! його нам більше не видати;</l>
+            <l>Очі ніч закрила в свої чорні шати!</l>
+            <l>Ох, поліг мій милий, мов з похмілля п’яний!</l>
+            <l>Більш не усміхнеться до тії Оксани,</l>
+            <l>Що його за щирість сміхом уразила!</l>
+            <l>Доле ж моя, горе! Що я й наробила?!</l>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <stage>(набік).</stage>
+            <l>Бідна, безталанна! За ті жарти, сміхи</l>
+            <l>Виплачеш ти очі од журби й од лиха!</l>
+            <stage>(До Оксани).</stage>
+            <l>Та не рви-бо серця собі, сестро, рвяно;</l>
+            <l>То ще люди брешуть: він живий, Оксано!</l>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(до себе).</stage>
+            <l>Як же мені шкода тебе, дочко люба!</l>
+            <l>Хто ж тут більше винен? Сам ти, старий Чубе!</l>
+            <l>На свою дитину не вважав і трохи,</l>
+            <l>А одно, мов дурень, швендяв до Солохи!</l>
+            <stage>(Маха рукою й хутко йде геть).</stage>
+          </sp>
+          <p></p>
+        </div>
+      </div>
+      <div type="act">
+        <head>Дія тpетя</head>
+        <stage>Стара, якась химерна хата, по-стародавньому вбрана. Кругом широкі лави, килимами вкриті; по стінах оружжя і всяке запорозьке убрання; на полицях дорогі кубки і різне начиння. Одні двері вхідні, а другі, менші, до хижі. На столі цілий жбан меду і два кубки.</stage>
+        <div type="scene">
+          <head>Вихід І</head>
+          <stage>Пацюк сам.</stage>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <stage>(хмурий, як ніч, п’є мед).</stage>
+            <l>Ні, не заллєш ти, старий Пацюче,</l>
+            <l>Медом лиха: не таке пекуче!</l>
+            <stage>(Підпира голову).</stage>
+            <l>Ох, тобі й не снилося ніколи</l>
+            <l>Зложить сиву голову не в полі,</l>
+            <l>А де-небудь у шинку з сивухи!</l>
+            <l>Чи ти, серце, сподівалось скрухи, –</l>
+            <l>Пережити, ой, Січ, нашу неньку?</l>
+            <l>Що ж то буде, як оте серденько</l>
+            <l>Вирвуть, виймуть з нашої Вкраїни?</l>
+            <l>Безталанна вже навік загине!</l>
+            <l>І тепер-от – старшина панує,</l>
+            <l>Та в кріпацтво козаків рабує,</l>
+            <l>Ще й поспільство гне, свойого ж брата…</l>
+            <l>І нема вже духу одсіч дати;</l>
+            <l>Мов померли неживі ці люди!..</l>
+            <l>Ох, шукаю, виглядаю всюди,</l>
+            <l>Чи ще можна товариство мати?</l>
+            <l>Та не знаю, де його й шукати?</l>
+            <l>Все дрібнота… От – хіба Вакула?</l>
+            <l>Йому б можна в Січ за осавула,</l>
+            <l>Коли б тільки удалось піймати!..</l>
+          </sp>
+          <stage>Чутно стук.</stage>
+          <l>Хто б це грюкав до моєї хати?</l>
+          <stage>Входить Вакула.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід II</head>
+          <stage>Пацюк і Вакула.</stage>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <stage>(до себе).</stage>
+            <l>О, до речі!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(боязко).</stage>
+            <l>До твоєї, пане господарю,</l>
+            <l>Милості…</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>Що ж саме?</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Не у гнів оце тобі сказати,</l>
+            <l>Ти, мовляв, з отим запанібрата…</l>
+            <l>Дай пораду до моєї згуби,</l>
+            <l>Бо мені тепер – хоч чорту в зуби!</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>Добре кажеш: чую річ козачу!</l>
+            <l>Яке ж лихо? Розкажи – побачу.</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Мого лиха не розкажеш другим!</l>
+            <l>Переїло воно серце в вугіль,</l>
+            <l>Сушить мозок… тягне до загину!</l>
+            <l>Покохав я зіроньку-дівчину;</l>
+            <l>Так вона ж… тоді моєю буде,</l>
+            <l>Як коли Вакула їй здобуде</l>
+            <l>Од цариці черевички…</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>Брате!</l>
+            <l>І не сором це тобі казати!..</l>
+            <l>Отаке у вас, панове, горе?</l>
+            <l>Бабське лихо!! А на чайки в море</l>
+            <l>Вже забули! Чи, мабуть, шаблюки</l>
+            <l>Боїтеся більш узяти в руки?</l>
+            <l>Вам би тільки аби шкура ціла, –</l>
+            <l>А до Січі так нема і діла?</l>
+            <l>Тут находить час її сконання,</l>
+            <l>А ти пнешся до бабів з коханням?!</l>
+            <l>Геть, нікчемо!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Ти не лайся дуже:</l>
+            <l>За образу я не змовчу, друже!</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <stage>(набік).</stage>
+            <l>Буде лицар – моє серце чуло!</l>
+            <stage>(До Вакули).</stage>
+            <l>Добрі речі! Буть тобі, Вакуло,</l>
+            <l>Запорожцем!.. Ex! Роздолля, брате,</l>
+            <l>З товариством в Січі погуляти;</l>
+            <l>Та по степу, по широкім полю</l>
+            <l>Навтішати свою буйну волю!</l>
+            <l>Або в чайках, – на високі хвилі,</l>
+            <l>З ворогами щоб помірять сили!</l>
+            <l>Тільки раз ти виїдь на просторе,</l>
+            <l>Позабудеш і ту дівку, й горе!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Не таке то горе, як здається:</l>
+            <l>Коло серця гадиною в’ється,</l>
+            <l>Не дає мені на світі жити,</l>
+            <l>Тягне в пекло!</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>Горе, горе, діти!</l>
+            <l>Не таких би козаків нам треба!</l>
+            <l>Не всміхнеться більше сонце з неба,</l>
+            <l>Не зведеться вже країна млява,</l>
+            <l>Не вернеться запорозька слава!</l>
+            <stage>(З палом).</stage>
+            <l>Озовіться, діти, діти!</l>
+            <l>Ще не схаменулись?</l>
+            <l>Чи склепились ваші очі,</l>
+            <l>Чи вуста замкнулись?</l>
+            <l>Чи упали дужі руки</l>
+            <l>Од журби й несили?</l>
+            <l>Чи вже більше кров козача</l>
+            <l>Не ворушить жили?</l>
+            <l>Батьки трупом полягали</l>
+            <l>За Вкраїну милу…</l>
+            <l>Полягали й здобували</l>
+            <l>Славу та могилу!</l>
+            <l>А що діти, то й не дбають</l>
+            <l>Про свою родину!</l>
+            <l>Стару матір покидають</l>
+            <l>У тяжку годину.</l>
+            <l>Була хмара з-за Лимана,</l>
+            <l>Насуває друга:</l>
+            <l>Ох, і швидко вже не буде</l>
+            <l>У нас батька Луга!</l>
+            <l>Зажурилось товариство,</l>
+            <l>Не зна, що чинити?</l>
+            <l>Та послало до цариці</l>
+            <l>Милості просити!</l>
+            <l>Ото горе! Не твойого!..</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Я не чув про цеє!..</l>
+            <l>Де ж вони всі? У цариці?</l>
+            <l>Що ж вона на теє?</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>Невідомо!..</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Отже душно!</l>
+            <stage>(Показує на серце).</stage>
+            <l>Тут ти всипав палу…</l>
+            <l>Серце рветься, серце ниє</l>
+            <l>За родину з жалю!..</l>
+            <l>Полетів би, так несила,</l>
+            <l>Бо прибиті крила;</l>
+            <l>Журба-туга мене, батьку,</l>
+            <l>Поїдом заїла!</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>Викинь з думки ти свою дівчину</l>
+            <l>Помирай, як маєш, за родину!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(з пориванням).</stage>
+            <l>Твоє серце, певно, змала</l>
+            <l>Ще кохання не зазнало!</l>
+            <l>Чи світились опівночі</l>
+            <l>Тобі зіроньки дівочі?</l>
+            <l>Чи серденько ж твоє мліло,</l>
+            <l>Як рука в руці тремтіла?</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>Що там згадувать, мій сину:</l>
+            <l>Не така тепер хвилина!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>За те щастя, моя зоре,</l>
+            <l>Зараз кинувся б я в море!</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>Чи козак ти? Здерж серденько –</l>
+            <l>Пам’ятай про славу й неньку!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Ой не здержу – воно хворе!</l>
+            <l>Покінчи ти моє горе,</l>
+            <l>Порубай шалені груди,</l>
+            <l>Хоч я мучитись не буду!</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <stage>(разом).</stage>
+            <l>Пам’ятай свою родину,</l>
+            <l>Що дорожча над дівчину!</l>
+            <l>Порятуй їй честь і славу,</l>
+            <l>Незабутнюю, криваву!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Ні, без неї, без рибчини,</l>
+            <l>На цім світі я загину</l>
+            <l>І без сили, і без волі,</l>
+            <l>Як билина тая в полі!</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <stage>(разом).</stage>
+            <l>Не вважає він на мене,</l>
+            <l>І не чує – мов шалене!</l>
+            <stage>(До Вакули).</stage>
+            <l>Не до мислі тут дівчина,</l>
+            <l>Як зове тебе Вкраїна!</l>
+            <stage>(З серцем).</stage>
+            <l>Чортма пуття з такого бабія!</l>
+            <l>Іди з очей.</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>А черевики?</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>К бісу!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>А! Так? Ну, пропадай душа тепер моя, –</l>
+            <l>У проруб!.. Ти ж будь проклятий довіку!</l>
+            <stage>(Біжить до дверей).</stage>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <stage>(до себе).</stage>
+            <l>Мо й справді він ще нагодує раки?</l>
+            <stage>(До Вакули).</stage>
+            <l>Гей! Стій! (До себе). Великий гріх християнина</l>
+            <l>До згуби дать! Та з його ще й людина</l>
+            <l>Буде колись, як пройде тільки дур…</l>
+            <l>Як би спинить? (До його). Не кидай так господу:</l>
+            <l>Перш вип’ємо, а там собі – хоч в воду!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(люто).</stage>
+            <l>Сміятись ще?</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>Тю, тю! Ото скажений!</l>
+            <l>Та вислухай! (Набік). Хоч би чим одурить!.</l>
+            <l>А?! Черевики є у мене од туркені…</l>
+            <l>Підкинути… та добре захмелить!..</l>
+            <stage>(До Вакули).</stage>
+            <l>Ну вже – на чорті чи на крилах птиці,</l>
+            <l>А черевички будуть від цариці!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(в нестямі).</stage>
+            <l>О?! Справді?! Не зведеш?!</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>Я ще не зводив зроду!</l>
+            <l>Тра викликать чортяку із-під споду,</l>
+            <l>Для тебе вже! Подай той жбан з полиці!</l>
+          </sp>
+          <stage>Вакула з жахом подає.</stage>
+          <l>Тепер якраз братерство у цариці,</l>
+          <l>Туди й лети! (Набік). Як вип’єш з цього жбана,</l>
+          <l>То полетиш під лаву!</l>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(оглядаючись).</stage>
+            <l>А жупана</l>
+            <l>В мене нема!</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>А справді… Ось убрання!</l>
+            <stage>(Здіймає).</stage>
+            <l>Вдягай мерщі. Я приготую дання</l>
+            <l>Тим часом тут.</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(одягаючись).</stage>
+            <l>А там же що почати?</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <stage>(щось сипле в кухоль, налива з жбана і гріє на каганці; з кухля вибуха полум’я).</stage>
+            <l>До гурту стань, і як почнуть прохати,</l>
+            <l>То ти й собі навколішки впади</l>
+            <l>Та й попроси…</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Щоб не було біди!?</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>Не бійсь!</l>
+            <stage>(Дивиться на його).</stage>
+            <l>Чи ба? Який козак нівроку!</l>
+            <l>Шаблюку – ген! – ще причепи до боку…</l>
+            <l>Тепер як слід… І трунок вже готовий!</l>
+            <stage>(Подає кухоль).</stage>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(не бачачи).</stage>
+            <l>Ото, я думаю, там хати прездорові?</l>
+            <l>А бакану ж то!</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <stage>(підносить кухоль).</stage>
+            <l>Швидче пий мені!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(оджахнувшись).</stage>
+            <l>Що там таке? Питво якесь чортяче?</l>
+            <l>Великий гріх!!</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>Ха-ха-ха-ха! Козаче!</l>
+            <l>Ти ж думав як? І богу, й сатані?</l>
+            <l>Топитись біг, тепер назад одлинув!</l>
+            <l>Отак кохаєш ти свою дівчину?!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(вириває кухоль).</stage>
+            <l>Для неї – все… І в пекло кинусь рвяно!</l>
+            <l>Чи чуєш ти, що я чиню, Оксано?</l>
+            <l>Для тебе я навіки запродавсь:</l>
+            <l>Покинув все – товаришів, родину,</l>
+            <l>Од неї одступивсь в таку тяжку годину…</l>
+            <l>І бога в небі одцуравсь!</l>
+            <stage>(Випиває разом).</stage>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <stage>(набік).</stage>
+            <l>Тепер гаразд: не вийдеш, певно, з хати!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(хапається за голову й за груди).</stage>
+            <l>Отрута! Тут пече!</l>
+          </sp>
+          <sp who="#patsjuk">
+            <speaker>Пацюк</speaker>
+            <l>Нема чого лякатись, –</l>
+            <l>Так треба!</l>
+            <stage>(Набік).</stage>
+            <l>Переспиш ти, брате, тільки дур!</l>
+            <l>Вакула кидається по хаті і хоче вибігти в сіни.</l>
+            <l>Та потривай! (Заступа). Я вийду до кімнати,</l>
+            <l>Щоб там тобі чортяку осідлати!</l>
+            <stage>(Виходить і засува двері).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід III</head>
+          <stage>Вакула сам.</stage>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(сливе пада на стіл).</stage>
+            <l>Гуде!.. В очах огонь… На мозок наче мур</l>
+            <l>Який наліг!.. Нічого не вбачаю…</l>
+            <l>О! Це вже смерть!.. За тебе помираю!</l>
+            <l>А? Чорт?.. По душу вже?.. Тривай:</l>
+            <l>Неси мене… ти перше… в рай,</l>
+            <l>А там… уже… Ух!.. Високо як!</l>
+            <stage>(Спада на стіл як мертвий).</stage>
+          </sp>
+          <p></p>
+          <stage>Картина зника, і з’являється на порозі Пацюк з черевиками; він навспинячки крадеться до Вакули.</stage>
+          <p></p>
+        </div>
+      </div>
+      <div type="act">
+        <head>Дія четверта</head>
+        <div type="scene">
+          <head>Вихід І</head>
+          <stage>Оксана, Одарка і інші дівчата.</stage>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <stage>(оточують Оксану).</stage>
+            <l>Не вмивайсь дрібними,</l>
+            <l>Не тужи, Оксано:</l>
+            <l>Може, ще й коханець</l>
+            <l>Повернеться рано!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(ламає руки).</stage>
+            <l>Дівчатонька, лебідоньки, –</l>
+            <l>Жаль ваги не має:</l>
+            <l>Упустила голубонька,</l>
+            <l>Та вже й не піймаю!</l>
+            <l>Упустила, не впустила, –</l>
+            <l>Геть сама одбила:</l>
+            <l>А тепер лежить він в полі</l>
+            <l>Та й стуливши крила!</l>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <l>Не тужи, сестрице,</l>
+            <l>Не вбивайся з горя:</l>
+            <l>Ще твоє вернеться,</l>
+            <l>Усміхнеться доля!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <l>Не вставати, поки й сонця,</l>
+            <l>Скошеній травиці;</l>
+            <l>Не видати вже дівчині</l>
+            <l>Козаченька в вічі!</l>
+            <l>Не сльозами – дзвінким сміхом</l>
+            <l>Я його струїла;</l>
+            <l>А тепер вже нас з’єднає</l>
+            <l>Заступ та могила!</l>
+            <stage>(Падає на груди до Одарки).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід II</head>
+          <stage>Ті ж і Чуб.</stage>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <l>Не змивай очиць журливо,</l>
+            <l>Ластівко кохана:</l>
+            <l>Їй же богу, набрехали</l>
+            <l>Оті баби сп’яна!</l>
+            <l>Чи не знаєш Шпортунихи,</l>
+            <l>А хоч би й Ткачихи?</l>
+            <l>Наплетуть вони, що разом</l>
+            <l>Не вбереш в три міхи!</l>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(увіходить сливе з початку. Разом з Одаркою).</stage>
+            <l>Не вгаває й на хвилину,</l>
+            <l>Надрива серденько:</l>
+            <l>Бачу, звів мені дитину</l>
+            <l>Бісів коваленко!</l>
+            <stage>(До Оксани).</stage>
+            <l>Годі, дочко, надриватись;</l>
+            <l>Не впада дівчаті</l>
+            <l>Так за хлопцем побиватись,</l>
+            <l>Ще й при батьку в хаті!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(схопившись).</stage>
+            <l>Де Вакула, тату, тату?</l>
+            <l>Чи знайшли хоч трупа?</l>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(ласкаво).</stage>
+            <l>Та не взяли його кати –</l>
+            <l>Ще ногами тупа!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(радісно).</stage>
+            <l>О?!. Живий ще?!</l>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <l>Пане дядьку!</l>
+            <l>Розкажіть, здорові!</l>
+            <l>От, цікаві! Певно, з чарки</l>
+            <l>Десь сопе у рові!</l>
+            <l>Не турбуйтесь! Не загине:</l>
+            <l>Годі сумувати!</l>
+            <stage>(Весело).</stage>
+            <l>От заклич колядників ти</l>
+            <l>До своєї хати;</l>
+            <l>Та вточи горілки, пива,</l>
+            <l>Чи вишнівки й меду:</l>
+            <l>На те бог нам і святки дав,</l>
+            <l>Щоб збирать беседу!</l>
+          </sp>
+          <stage>Оксана дає ключі дівчатам; деякі виходять до хижі.</stage>
+          <l>А щоб вас не турбувати,</l>
+          <l>Піду до Грицька я,</l>
+          <l>Бо вже й ніч свята минає</l>
+          <l>Чорти батька зна як!</l>
+          <l>Прощавайте ж! Ну, Оксано, –</l>
+          <l>Годі, кажу, годі!</l>
+          <stage>(Виходить).</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід III</head>
+          <stage>Ті ж, без Чуба.</stage>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <l>Ні, ніхто не бачив п’яним</l>
+            <l>Ще його в пригоді!</l>
+            <stage>(Журно).</stage>
+            <l>Ой навіщо радісненько</l>
+            <l>Стукнуло серденько?</l>
+            <l>Не прогляне більше сонце</l>
+            <l>До мене любенько!</l>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <l>Ти ще й досі не забула…</l>
+            <l>Усьому є міра:</l>
+            <l>Не продасть душі Вакула, –</l>
+            <l>Що він за невіра!..</l>
+            <l>Та чого ж ми тута сами?</l>
+            <l>Так не в свято й свято!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <l>Не до того…</l>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <l>Дух свят з нами!</l>
+            <l>Регіт коло хати!</l>
+          </sp>
+          <stage>Чутно стук.</stage>
+          <l>Цитьте, в двері наче грюка?</l>
+          <sp who="#druhi_divchata_act_four_scene_three">
+            <speaker>Другі дівчата</speaker>
+            <stage>(вносять кухви з горілкою, медом, пивом і т. ін.).</stage>
+            <l>Наші повернули!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(схопившись за груди).</stage>
+            <l>Ох, як серце моє стука</l>
+            <l>З-за того Вакули!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід IV</head>
+          <stage>Ті ж і парубки, за ними й Вакула.</stage>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <l>Гей, жвавіш, веселіш,</l>
+            <l>Ви, милесенькі!</l>
+            <l>Вже Вакула вернувсь,</l>
+            <l>Та й живесенький!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <l>Ой! Вакула?</l>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <l>Де він?</l>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <l>Не казали ми –</l>
+            <l>Все брехня?</l>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <l>Ну, й гульня</l>
+            <l>Піде святами!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(вбігає).</stage>
+            <l>Ох, Оксано!!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(кидається).</stage>
+            <l>Ти жив?!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Моя вірная!</l>
+            <l>Черевички привіз</l>
+            <l>Від цариці я!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(одхиляє їх).</stage>
+            <l>Ні, не треба, й без них</l>
+            <l>Мені весело!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Доле, щастя!.. Тепер</l>
+            <l>Гуляй все село!</l>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <l>Гляньте, гляньте, які</l>
+            <l>Черевичечки!</l>
+            <l>Золоті, аж горять, –</l>
+            <l>Невеличечкі!</l>
+          </sp>
+          <sp who="#parubky #divchata">
+            <speaker>Парубки і дівчата</speaker>
+            <l>Певне, ніжка взува</l>
+            <l>Їx царицина…</l>
+            <l>Де-бо, справді, здобув,</l>
+            <l>Розкажи ти нам?</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Чудо-диво таке</l>
+            <l>Мені трапилось,</l>
+            <l>Що навряд, чи й у сні</l>
+            <l>Кому марилось!</l>
+          </sp>
+          <stage>Усі, цікаві, оточують Вакулу навколо. Біля його Оксана.</stage>
+          <l>Я простягся був сховати</l>
+          <l>Горе під водою…</l>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <l>Ох, не згадуй, серце в’яне:</l>
+            <l>Я всьому виною!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Ні, голубко! То призводить</l>
+            <l>До всього лукавий;</l>
+            <l>А споміг бог гору взяти,</l>
+            <l>Ще й здобути слави!</l>
+            <l>Так простягся… а це – зразу,</l>
+            <l>Мов мене штовхнуло:</l>
+            <l>А чому до Пацюка ти</l>
+            <l>Не підеш, Вакуло?</l>
+          </sp>
+          <sp who="#oksana #parubky #divchata #dejaki_act_four_scene_four">
+            <speaker>Усі</speaker>
+            <l>А то, справді, характерний</l>
+            <l>Запорожець в ката:</l>
+            <l>Усіма чортами, певне,</l>
+            <l>Вміє заправляти!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>От, приходжу: від остраху</l>
+            <l>Мене аж зварило:</l>
+            <l>Сидить Пацюк, а на стільці</l>
+            <l>Перед ним барило.</l>
+            <l>Сидить Пацюк над барилом,</l>
+            <l>Думоньку гадає</l>
+            <l>Та мед-вино червонеє</l>
+            <l>Поставцем кружляє!</l>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <l>Е, та й добрі запорозькі</l>
+            <l>І життя, й звичаї!</l>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <l>Й вам такого забажалось?</l>
+            <l>Та коли ж – гультяї!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Уклонивсь я Пацюкові:</l>
+            <l>«Помагайбі!» – кажу;</l>
+            <l>А він тобі хоч би слово,</l>
+            <l>Тільки глянув враже.</l>
+            <l>Я до його: «Сякий-такий!</l>
+            <l>Поможи в пригоді;</l>
+            <l>Звези мене до цариці!»</l>
+            <l>А він каже: «Годі!</l>
+            <l>Побабіли, вражі діти!</l>
+            <l>Де ваш дух козачий?»</l>
+          </sp>
+          <sp who="#oksana #parubky #divchata #dejaki_act_four_scene_four">
+            <speaker>Усі</speaker>
+            <l>Ото, мабуть, за «магайбі»</l>
+            <l>Так тобі оддячив!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Як почав же лаять, ганить!</l>
+            <l>Я хотів вже й з хати, –</l>
+            <l>Так тоді він схаменувся</l>
+            <l>Й каже мені: «Брате!</l>
+            <l>Не тікай-но! Дам пораду,</l>
+            <l>Стало тебе шкода;</l>
+            <l>Визву чорта! Зварю трунку…</l>
+            <l>А чи вип’єш?» – «Згода!</l>
+            <l>Я за зірку, за Оксану,</l>
+            <l>В пекло рад дістати!»</l>
+            <l>Хильнув зразу… загуло щось</l>
+            <l>Круг сумної хати…</l>
+            <l>Зирк! А німець вузлуватий</l>
+            <l>Вже й передо мною:</l>
+            <l>«Оддай душу, каже, в пекло,</l>
+            <l>Та й майну з тобою!»</l>
+            <l>«Добре, добре!» Та на слові –</l>
+            <l>Цап за хвіст небога;</l>
+            <l>Смикнувсь куций, та хотів був</l>
+            <l>Вшкварить за порога;</l>
+            <l>Так я кажу: «Тривай лишень,</l>
+            <l>Не тікай одразу:</l>
+            <l>Вези мене до цариці,</l>
+            <l>Слухай мого казу!</l>
+            <l>А не то тебе я миттю</l>
+            <l>Охрещу й нагрію!»</l>
+            <l>Сказав оце та зненацька –</l>
+            <l>Чортові на шию!</l>
+          </sp>
+          <sp who="#oksana #parubky #divchata #dejaki_act_four_scene_four">
+            <speaker>Усі.</speaker>
+            <l>Ну, та й славний наш Вакула!</l>
+            <l>Хто такого й бачив?</l>
+            <l>Не злякався навіть чорта,</l>
+            <l>Взяв та й окульбачив!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Ледве слово я промовив –</l>
+            <l>Пацюка не стало;</l>
+            <l>Озирнувся – під ногами</l>
+            <l>Вже й земля пропала!</l>
+            <l>Летимо ми, тільки зорі</l>
+            <l>Наді мною сяють,</l>
+            <l>Та на днищах часом відьми</l>
+            <l>Поуз нас минають!</l>
+          </sp>
+          <sp who="#oksana #parubky #divchata #dejaki_act_four_scene_four">
+            <speaker>Усі</speaker>
+            <l>От страху-то! Не при хаті</l>
+            <l>Нам його згадати!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Не до ляку: було треба</l>
+            <l>Міцно ся держати.</l>
+            <l>Поки здумав: що я? де я? –</l>
+            <l>Уже під ногами,</l>
+            <l>Наче море розлилося,</l>
+            <l>Всяяне вогнями;</l>
+            <l>Поки ахнув, – провалились</l>
+            <l>Ми уже й крізь стелю!</l>
+            <l>Обернувся, аж стою я</l>
+            <l>У царській оселі…</l>
+            <l>Кругом барви, оксамити,</l>
+            <l>Срібло, злото, свічі;</l>
+            <l>В кінці хати чубатії</l>
+            <l>Запорожці з Січі!</l>
+            <l>Я до гурту: «Пугу-пугу!</l>
+            <l>Привітайте брата!»</l>
+            <l>А вони до мене з дива:</l>
+            <l>«Де ти взявсь у ката?»</l>
+            <l>Я хотів вже розказати</l>
+            <l>Їм про своє лихо…</l>
+            <l>А це – зразу у світлиці</l>
+            <l>Так зробилось тихо,</l>
+            <l>У труні мов; всі схилились</l>
+            <l>В землю головами…</l>
+            <l>Підвів очі – аж цариця</l>
+            <l>Саме перед нами!</l>
+            <l>Пишна, гарна, при клейнодах,</l>
+            <l>В золоті, в коралі…</l>
+          </sp>
+          <sp who="#oksana #parubky #divchata #dejaki_act_four_scene_four">
+            <speaker>Усі</speaker>
+            <l>Тихо, тихо! От цікаво…</l>
+            <l>Що то буде далі?</l>
+            <stage>(Тиснуться).</stage>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Наче бджоли, запорожці</l>
+            <l>Загули всі: «Мамо!</l>
+            <l>Чим ми гнів твій заслужили?</l>
+            <l>Змилуйся над нами!</l>
+            <l>Ми кістками досвідчили,</l>
+            <l>Що незрадні слуги,</l>
+            <l>А тепер по чужій кривді</l>
+            <l>Завдаєш нам туги!»</l>
+            <l>«Што вам нада? – одмовляє. –</l>
+            <l>Я вже не серджуся!»</l>
+            <l>Я тоді їй – пуць! – у ноги:</l>
+            <l>«Ти – наша матуся!</l>
+            <l>За тебе молитись буду</l>
+            <l>Богу я повіки:</l>
+            <l>Подаруй моїй дівчині</l>
+            <l>Свої черевики!»</l>
+            <l>Усміхнулась, каже: «Дати!</l>
+            <l>Ну, козаче: згадуй!»</l>
+            <l>А мене оті чубаті</l>
+            <l>Знай штовхають ззаду…</l>
+            <l>Я мерщі – за черевики</l>
+            <l>Та до чорта тихо:</l>
+            <l>«Гей! Винось мене ти звідси,</l>
+            <l>А то буде лихо!»</l>
+            <l>Чорт порвався, мов скажений,</l>
+            <l>Аж сопе, сірома…</l>
+            <l>Не вспів люльки я смикнути,</l>
+            <l>Як уже і дома.</l>
+            <l>Біжу, лечу, чи не стріну</l>
+            <l>Свою ясну кралю?</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <l>Ох, соболю! Я без тебе</l>
+            <l>Пропадала з жалю!</l>
+            <l>Ну, тепер уже довіку</l>
+            <l>Тебе не покину;</l>
+            <l>Чи простиш за тії жарти</l>
+            <l>Ти свою дівчину?</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Ох, од щастя чи й здолають</l>
+            <l>Серце вдержать груди!</l>
+            <l>Ти моя тепер цариця, –</l>
+            <l>Хай всі знають люди!</l>
+          </sp>
+          <sp who="#oksana #parubky #divchata #dejaki_act_four_scene_four">
+            <speaker>Усі</speaker>
+            <l>Отак наші! Нехай слава</l>
+            <l>Лине аж до неба:</l>
+            <l>Хоч на чорті, а здобудуть</l>
+            <l>Таки чого треба!</l>
+            <l>Ну, та й лицар же Вакула:</l>
+            <l>Звеселив нас, брате!</l>
+            <l>От тепер уже нам можна</l>
+            <l>Добре й погуляти!</l>
+          </sp>
+          <stage>Ввіходить Чуб.</stage>
+          <sp who="#dejaki_act_four_scene_four">
+            <speaker>Деякі</speaker>
+            <l>Чуб! Чуб!.. Хазяїн!</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <l>Ох, батько!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід V</head>
+          <stage>Ті ж і Чуб.</stage>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(удає з себе сердитого).</stage>
+            <l>Добривечір, люде добрі,</l>
+            <l>Помагай вам боже!</l>
+            <stage>(До Вакули).</stage>
+            <l>Чи не рано перед миром</l>
+            <l>Об’явивсь, небоже?</l>
+            <l>Бо й мене ти чи питався –</l>
+            <l>Щось не пам’ятаю!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(змішався).</stage>
+            <l>Ні, я зроду не ламав ще</l>
+            <l>Нашого звичаю!</l>
+            <stage>(Кланяється низько).</stage>
+            <l>Змилуйсь, дядьку, та до мене</l>
+            <l>Серцем прихилися:</l>
+            <l>Сам до рук даюсь, – хоч вибий,</l>
+            <l>Тільки не гнівися;</l>
+            <l>Ви ж жили з покійним батьком</l>
+            <l>Як душа єдина:</l>
+            <l>Преложи ж ти гнів на милість</l>
+            <l>І для його сина!</l>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(подумавши).</stage>
+            <l>Ну, вже батька хіба ради</l>
+            <l>Змилуюсь на тебе…</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Каюсь щиро у всьому я –</l>
+            <l>Сам не рад за себе…</l>
+            <l>Вволи ж, батьку, й мою волю…</l>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <l>Ну, яку? Погляну…</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <l>Оддай, тату, ти за мене</l>
+            <l>Та свою Оксану!</l>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <l>Гм… не знаю…</l>
+          </sp>
+          <sp who="#parubky #divchata">
+            <speaker>Парубки і дівчата</speaker>
+            <l>Чого світу</l>
+            <l>Молодим в’язати?</l>
+            <l>Хай зів’ють вони гніздечко</l>
+            <l>Коло ції хати!</l>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <l>Та чого ви загули всі?</l>
+            <l>Тра й дочки спитати,</l>
+            <l>Чи согласна?.. Ну, Оксано,</l>
+            <l>Де ти заховалась?</l>
+          </sp>
+          <sp who="#oksana">
+            <speaker>Оксана</speaker>
+            <stage>(виступає, дивлячись у землю й колупа піч).</stage>
+            <l>Я?.. Нічого…</l>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <stage>(весело).</stage>
+            <l>Гм! Ледащо!</l>
+            <l>А мене спиталась?</l>
+            <l>Ну, сама ж ти під ковадло</l>
+            <l>Підставляєш руки.</l>
+            <l>А мені що? Аби було</l>
+            <l>Тішити онуки!</l>
+            <stage>Молоді кланяються.</stage>
+            <l>Коли ж так, то щоб Вакули</l>
+            <l>Знов чортам не взяти,</l>
+            <l>Хай на завтра йде з сватами, –</l>
+            <l>Тут його й зв’язати!</l>
+          </sp>
+          <sp who="#oksana #odarka #parubky #divchata">
+            <speaker>Усі</speaker>
+            <stage>(радісно).</stage>
+            <l>От спасибі тобі, дядьку,</l>
+            <l>На цім добрім слові!</l>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <l>Ну, тепер же годі смутку:</l>
+            <l>Гуляйте здорові!</l>
+            <l>Гей! Музиків, меду, пива, –</l>
+            <l>Я тепер трахтую!</l>
+          </sp>
+          <sp who="#vakula">
+            <speaker>Вакула</speaker>
+            <stage>(тихо до парубків).</stage>
+            <l>А за тиждень на весілля,</l>
+            <l>Певне, попрошу я!</l>
+          </sp>
+          <stage>Оксана і Одарка наливають у кухлі меду й пива.</stage>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <l>Наливай же, не скупися,</l>
+            <l>Моя дочко люба,</l>
+            <l>Щоб лилося через вінця, –</l>
+            <l>Хай всі знають Чуба!</l>
+          </sp>
+          <sp who="#oksana #odarka #parubky #divchata">
+            <speaker>Усі</speaker>
+            <stage>(п’ють).</stage>
+            <l>Щасти боже у здоров’ї</l>
+            <l>Пана господаря!</l>
+            <l>Хай красує і пишає</l>
+            <l>Молодая пара!</l>
+          </sp>
+          <sp who="#chub #vakula #oksana">
+            <speaker>Чуб, Вакула й Оксана</speaker>
+            <l>Ой спасибі ж вам, панове,</l>
+            <l>На ласкавім слові;</l>
+            <l>Дай же боже, щоб вік цілий</l>
+            <l>Були й ви здорові.</l>
+          </sp>
+          <sp who="#chub">
+            <speaker>Чуб</speaker>
+            <l>Ex, заграла кров стареча, –</l>
+            <l>Серце молодіє!</l>
+            <l>Та з такими козаками</l>
+            <l>Хто не ошаліє?</l>
+          </sp>
+          <stage>Входить троїста музика.</stage>
+          <sp who="#oksana #odarka #parubky #divchata">
+            <speaker>Усі</speaker>
+            <l>Гей, гуляй, душа козача,</l>
+            <l>Киньмо набік горем!</l>
+            <l>Грай, музико, а горілка</l>
+            <l>Розливайся морем!</l>
+          </sp>
+          <stage>Починається козак.</stage>
+          <sp who="#hrytsko">
+            <speaker>Грицько</speaker>
+            <l>Ой дівчата, не тужіть, не тужіть:</l>
+            <l>А нас, хлопців, пригорніть, пригорніть!</l>
+          </sp>
+          <sp who="#odarka">
+            <speaker>Одарка</speaker>
+            <stage>(виступаючи у танець).</stage>
+            <l>А хто ж із вас молодець, молодець,</l>
+            <l>Щоб зі мною у танець, у танець?</l>
+            <l>А я ж йому на біду, на біду,</l>
+            <l>Брівоньками поведу, поведу!</l>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <l>Ой дівчино, не у гнів, не у гнів, –</l>
+            <l>Нам не страшно твоїх брів, твоїх брів!</l>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <l>Ох, козаче, дарма крутиш свій вус,</l>
+            <l>Бо я тебе не боюсь, не боюсь!</l>
+          </sp>
+          <sp who="#oksana #vakula #chub #odarka #parubky #divchata">
+            <speaker>Усі</speaker>
+            <l>Гей, музико, швидче, шпарче заграй!</l>
+            <l>Гей, душа наша козача, погуляй:</l>
+            <l>Нехай знають, які славні козаки,</l>
+            <l>Що і чорту, а даються узнаки!!</l>
+          </sp>
+          <p></p>
+          <stage>На самім розпалі танцю завіса тихо спада.</stage>
+          <p></p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
