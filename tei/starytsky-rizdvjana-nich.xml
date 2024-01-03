@@ -1,10 +1,16 @@
-<TEI xml:lang="ukr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:lang="ukr" xml:id="u0000043" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title type="main">Різдвяна ніч</title>
         <title type="sub">Музикальна комедія на чотири дії (тема по Гоголю)</title>
-        <author>Михайло Петрович Старицький</author>
+        <author>
+          <persName>
+            <forename>Михайло</forename>
+            <surname>Старицький</surname>
+          </persName>
+          <idno type="wikidata">Q4439957</idno>
+        </author>
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
