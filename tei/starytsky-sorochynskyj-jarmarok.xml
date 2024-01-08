@@ -1,0 +1,4712 @@
+<TEI xml:lang="ukr" xml:id="u0000044" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Сорочинський ярмарок</title>
+        <title type="sub">Комічна оперета із українського побиту в 4-х діях</title>
+        <author>
+          <persName>
+            <forename>Михайло</forename>
+            <surname>Старицький</surname>
+          </persName>
+          <idno type="wikidata">Q4439957</idno>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="URL">https://dracor.org</idno>
+        <availability>
+          <licence>
+            <ab>CC0 1.0</ab>
+            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <idno type="URL">https://www.myslenedrevo.com.ua/uk/Lit/S/Starycky/Dramas/SorochynskyjJarmarok.html</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="sotski">
+            <persName>Соцькі</persName>
+          </person>
+          <person sex="FEMALE" xml:id="khajka">
+            <persName>Хайка</persName>
+          </person>
+          <person sex="MALE" xml:id="khazjayin">
+            <persName>Хазяїн</persName>
+          </person>
+          <person sex="MALE" xml:id="parubok_2-j">
+            <persName>2-й парубок</persName>
+          </person>
+          <person sex="MALE" xml:id="stas">
+            <persName>Стась</persName>
+          </person>
+          <person sex="MALE" xml:id="hist_2-j">
+            <persName>2-й гість</persName>
+          </person>
+          <person sex="MALE" xml:id="starets_2-j">
+            <persName>2-й старець</persName>
+          </person>
+          <person sex="MALE" xml:id="parubok_1-j">
+            <persName>1-й парубок</persName>
+          </person>
+          <person sex="MALE" xml:id="khvenko">
+            <persName>Хвенько</persName>
+          </person>
+          <person sex="MALE" xml:id="starets">
+            <persName>Старець</persName>
+          </person>
+          <person sex="MALE" xml:id="afanasij_ivanovych">
+            <persName>Афанасій Іванович</persName>
+          </person>
+          <person sex="MALE" xml:id="hist_1-j">
+            <persName>1-й гість</persName>
+          </person>
+          <person sex="FEMALE" xml:id="mokryna">
+            <persName>Мокрина</persName>
+          </person>
+          <person sex="FEMALE" xml:id="khivrja">
+            <persName>Хiвря</persName>
+          </person>
+          <person sex="FEMALE" xml:id="baba">
+            <persName>Баба</persName>
+          </person>
+          <person sex="MALE" xml:id="zhyd">
+            <persName>Жид</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="hosti">
+            <persName>Гості</persName>
+          </personGrp>
+          <person sex="FEMALE" xml:id="khotyna">
+            <persName>Хотина</persName>
+          </person>
+          <person sex="MALE" xml:id="tsyhan">
+            <persName>Циган</persName>
+          </person>
+          <person sex="MALE" xml:id="kozak_2-j">
+            <persName>2-й козак</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="zhydy">
+            <persName>Жиди</persName>
+          </personGrp>
+          <person sex="MALE" xml:id="cholovik">
+            <persName>Чоловік</persName>
+          </person>
+          <personGrp sex="FEMALE" xml:id="baby_sydukhy">
+            <persName>Баби сидухи</persName>
+          </personGrp>
+          <person sex="FEMALE" xml:id="slastonytsja">
+            <persName>Сластьониця</persName>
+          </person>
+          <person sex="MALE" xml:id="parubok">
+            <persName>Парубок</persName>
+          </person>
+          <personGrp sex="MALE" xml:id="parubky">
+            <persName>Парубки</persName>
+          </personGrp>
+          <person sex="MALE" xml:id="tsybulja">
+            <persName>Цибуля</persName>
+          </person>
+          <person sex="FEMALE" xml:id="divchyna_1-a">
+            <persName>1-а дівчина</persName>
+          </person>
+          <personGrp sex="FEMALE" xml:id="divchata">
+            <persName>Дівчата</persName>
+          </personGrp>
+          <person sex="FEMALE" xml:id="bublejnytsja">
+            <persName>Бублейниця</persName>
+          </person>
+          <person sex="FEMALE" xml:id="divchyna">
+            <persName>Дівчина</persName>
+          </person>
+          <person sex="FEMALE" xml:id="divchyna_2-a">
+            <persName>2-а дівчина</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="chorty">
+            <persName>Чорти</persName>
+          </personGrp>
+          <personGrp sex="UNKNOWN" xml:id="hurt">
+            <persName>Гурт</persName>
+          </personGrp>
+          <person sex="MALE" xml:id="starets_3-j">
+            <persName>3-й старець</persName>
+          </person>
+          <person sex="MALE" xml:id="cholovik_1-j">
+            <persName>1-й чоловік</persName>
+          </person>
+          <person sex="FEMALE" xml:id="prjanyshnytsja">
+            <persName>Прянишниця</persName>
+          </person>
+          <person sex="MALE" xml:id="did">
+            <persName>Дід</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="holos">
+            <persName>Голос</persName>
+          </person>
+          <person sex="FEMALE" xml:id="zhydivka">
+            <persName>Жидівка</persName>
+          </person>
+          <person sex="MALE" xml:id="khlopcha">
+            <persName>Хлопча</persName>
+          </person>
+          <person sex="MALE" xml:id="kozak_1-j">
+            <persName>1-й козак</persName>
+          </person>
+          <person sex="MALE" xml:id="poronshchyk">
+            <persName>Поронщик</persName>
+          </person>
+          <person sex="MALE" xml:id="khor">
+            <persName>Хор</persName>
+          </person>
+          <person sex="MALE" xml:id="solopij">
+            <persName>Солопій</persName>
+          </person>
+          <person sex="MALE" xml:id="poronshchyk_1-j">
+            <persName>1-й поронщик</persName>
+          </person>
+          <person sex="MALE" xml:id="panko">
+            <persName>Панько</persName>
+          </person>
+          <person sex="FEMALE" xml:id="zhinka">
+            <persName>Жінка</persName>
+          </person>
+          <person sex="MALE" xml:id="lirnyk">
+            <persName>Лірник</persName>
+          </person>
+          <person sex="MALE" xml:id="kupets">
+            <persName>Купець</persName>
+          </person>
+          <person sex="MALE" xml:id="sotskyj">
+            <persName>Соцький</persName>
+          </person>
+          <person sex="UNKNOWN" xml:id="dekhto">
+            <persName>Дехто</persName>
+          </person>
+          <person sex="MALE" xml:id="khlopchyk">
+            <persName>Хлопчик</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="holosy">
+            <persName>Голоси</persName>
+          </personGrp>
+          <person sex="MALE" xml:id="xvenko">
+            <persName>Xвенько</persName>
+          </person>
+          <personGrp sex="MALE" xml:id="chotyry_startsja">
+            <persName>Чотири старця</persName>
+          </personGrp>
+          <person sex="MALE" xml:id="cherevyk">
+            <persName>Черевик</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="druhi">
+            <persName>Другі</persName>
+          </personGrp>
+          <person sex="MALE" xml:id="cholovik_2-j">
+            <persName>2-й чоловік</persName>
+          </person>
+          <person sex="FEMALE" xml:id="hrunja">
+            <persName>Груня</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <castList>
+        <head>Дійові люде:</head>
+        <castItem>Солопій Черевик – підстаркуватий козак.</castItem>
+        <castItem>Xівря – жінка його, друга.</castItem>
+        <castItem>Хотина – дочка Черевика од першої жінки.</castItem>
+        <castItem>Антін Цибуля – міщанин, кум Черевика.</castItem>
+        <castItem>Мокрина – його жінка.</castItem>
+        <castItem>Панько – парубок із м. Сорочинець.</castItem>
+        <castItem>Стась – приятель його.</castItem>
+        <castItem>Хвенько – циган.</castItem>
+        <castItem>Груня – сестра його, молода циганка.</castItem>
+        <castItem>Афанасій Іванович Пречистенський – семінарист.</castItem>
+        <castItem>Хайка – шинкарка і крамарка.</castItem>
+        <castItem>Жид – чоловік її, шинкар і шапошник.</castItem>
+        <castItem>Крамар – з картинами і платками.</castItem>
+        <castItem>Сластьониця, Прянишниця – скупки.</castItem>
+        <castItem>Жиди, вірмени, сидухи, козаки, баби, парубки дівчата, цигане, діти, перевожчики, музиканти, соцькі.</castItem>
+      </castList>
+      <set>
+        <p>Діється в [18]30-х роках. Одіж здебільш стародавня.</p>
+      </set>
+    </front>
+    <body>
+      <div type="act">
+        <head>Дія перша. На переправі</head>
+        <stage>На першім плані від зрителів шинок; наліво – ряд тополь, а найближче – розложиста верба. Далі просто річка; на березі причал і порон. За річкою на узгір’ї видко Сорочинці.</stage>
+        <div type="scene">
+          <head>Вихід І</head>
+          <stage>Коло шинку на ганку: Цибуля, козаки, мішане, Хайка.</stage>
+          <stage>Коло порона: Юрба, цигане, подорожане, парубки, дівчата. Козаки (п’ють і співають).</stage>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <l>Та була в мене Хвеська,</l>
+            <l>Жінка дуже лепська;</l>
+            <l>Що то за моторне:</l>
+            <l>Не проси – пригорне!</l>
+          </sp>
+          <sp who="#khor">
+            <speaker>Хор</speaker>
+            <l>Сидить дід на печі, на печі, –</l>
+            <l>Бабка на припічку, не вечеряючи!</l>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <l>Попросиш цибулі –</l>
+            <l>Вона тиче дулі;</l>
+            <l>Попросиш водиці –</l>
+            <l>Вона лясь по пиці!</l>
+          </sp>
+          <sp who="#khor">
+            <speaker>Хор</speaker>
+            <l>Сидить дід на печі, на печі, –</l>
+            <l>Бабка на припічку, не вечеряючи!</l>
+          </sp>
+          <stage>З шинку між куплетами чутно музику й сміх.</stage>
+          <stage>Коло порона.</stage>
+          <sp who="#kozak_1-j">
+            <speaker>1-й козак</speaker>
+            <p>Пускай воза!</p>
+          </sp>
+          <sp who="#poronshchyk">
+            <speaker>Поронщик</speaker>
+            <p>Назад! Куди прешся!</p>
+          </sp>
+          <sp who="#poronshchyk_1-j">
+            <speaker>1-й поронщик</speaker>
+            <p>А що, я тобі ярмарок цілий тут стоятиму, чи що?</p>
+          </sp>
+          <sp who="#poronshchyk">
+            <speaker>Поронщик</speaker>
+            <p>Пождеш!</p>
+          </sp>
+          <sp who="#kozak_2-j">
+            <speaker>2-й козак</speaker>
+            <p>Та вже аж остобісіло!</p>
+          </sp>
+          <sp who="#poronshchyk">
+            <speaker>Поронщик</speaker>
+            <p>На своїй спині не возитиму!</p>
+          </sp>
+          <sp who="#sotskyj">
+            <speaker>Соцький</speaker>
+            <stage>(до баби).</stage>
+            <p>Куди, бабо, прешся? Порона затопиш!</p>
+          </sp>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <p>Та я худенька!</p>
+          </sp>
+          <sp who="#sotskyj">
+            <speaker>Соцький</speaker>
+            <p>Е, худенька, так гріхів на спині пудів з сотню!</p>
+          </sp>
+          <sp who="#dekhto">
+            <speaker>Дехто</speaker>
+            <stage>(сміючись).</stage>
+            <p>Більше, дядьку! Вона з хвостиком!</p>
+          </sp>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <p>Тьпху на вас!</p>
+          </sp>
+          <stage>Коло шинку. (Співають).</stage>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <l>Та просив в неї кавуна,</l>
+            <l>А вона мені – стусана!</l>
+            <l>Та просив в неї диню,</l>
+            <l>А вона – за чуприну!</l>
+          </sp>
+          <sp who="#khor">
+            <speaker>Хор</speaker>
+            <l>Сидить дід на печі, на печі, –</l>
+            <l>Бабка на припічку, не вечеряючи!</l>
+          </sp>
+          <sp who="#khajka">
+            <speaker>Xайка</speaker>
+            <p>А що, пани козаки! Може, ще горілки, меду?</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>А жінка там?</p>
+          </sp>
+          <sp who="#khajka">
+            <speaker>Xайка</speaker>
+            <p>Там, там, не турбуйтесь: вишнівочкою бавляться…</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Так сип мерщі нам оковитої!</p>
+          </sp>
+          <sp who="#khajka">
+            <speaker>Xайка</speaker>
+            <p>Зараз!</p>
+            <stage>(Біжить і вносить; підходить до других).</stage>
+          </sp>
+          <stage>Коло порона.</stage>
+          <sp who="#divchyna">
+            <speaker>Дівчина</speaker>
+            <stage>(до Стася).</stage>
+            <p>Чи ти не сказився? Мало з кручі не гепнула!</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Ну, то що? Скупалася б, біліщою б стала!</p>
+          </sp>
+          <sp who="#divchyna">
+            <speaker>Дівчина</speaker>
+            <p>Геть, к чорту!</p>
+          </sp>
+          <sp who="#zhinka">
+            <speaker>Жінка</speaker>
+            <stage>(до баби).</stage>
+            <p>А що то, бабусю, несете?</p>
+          </sp>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <p>Прядиво, голубко; воску на свічку треба.</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(до чоловіка).</stage>
+            <p>Гей ти, сива шапко, що в мішках?</p>
+          </sp>
+          <sp who="#cholovik">
+            <speaker>Чоловік</speaker>
+            <p>Хліб святий!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Джа непсуй! Чи святий, чи грішний, – а який?</p>
+          </sp>
+          <sp who="#cholovik">
+            <speaker>Чоловік</speaker>
+            <p>А тобі нащо?</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>А може, куплю?</p>
+          </sp>
+          <sp who="#cholovik">
+            <speaker>Чоловік</speaker>
+            <p>Менжуй усе кіньми, а до хліба циганові – зась!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Не хочеш?! Передеру твого батька надвоє!</p>
+          </sp>
+          <sp who="#poronshchyk">
+            <speaker>Поронщик</speaker>
+            <p>Перекидай вірьовку!! Гетьте од стерна! Не злягай, кажу!</p>
+          </sp>
+          <p></p>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <stage>(до Хвенька).</stage>
+            <p>Цигане, цигане! А оселедця не хочеш?</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>На сости парнеле, на кривокорди кар-куреле!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Забелькотав!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Сальця краще та чарку горілки! Акуратніще діло!</p>
+          </sp>
+          <sp who="#did">
+            <speaker>Дід</speaker>
+            <p>За шматок сала і батька продасть!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Гі, що ви думаєте? Який там у батькові смак!</p>
+          </sp>
+          <sp who="#dekhto">
+            <speaker>Дехто</speaker>
+            <p>Ха-ха-ха! Ну й віра!</p>
+            <stage>(Підносять).</stage>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>А! Добре!</p>
+            <stage>(Умина сало).</stage>
+            <p>А що, свате, на продаж?</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Не твій товар: капуста, огородина, кавуни, кабаки!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Хавка! Та купимо, все закупимо!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>От бреше!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Брехати – не ціпом махати!</p>
+          </sp>
+          <sp who="#tsybulja #did #poronshchyk #cholovik #baba #zhinka #divchyna">
+            <speaker>Усі</speaker>
+            <p>Ловко! Ну, що то вже за кодло!</p>
+          </sp>
+          <sp who="#khazjayin">
+            <speaker>Xазяїн</speaker>
+            <p>Купи у мене свиню!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Герджа! Шиби руку!</p>
+          </sp>
+          <sp who="#khazjayin">
+            <speaker>Хазяїн</speaker>
+            <p>На ярмарку.</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Давай тут, кажу!</p>
+          </sp>
+          <sp who="#khazjayin">
+            <speaker>Хазяїн</speaker>
+            <p>Та свиня поросна…</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Ой мамеле! Шиби принде руку: дам добрі гроші, настоящі, не хвальшиві!</p>
+          </sp>
+          <sp who="#khazjayin">
+            <speaker>Хазяїн</speaker>
+            <p>Тут не продаю, – на ярмарку…</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Мій могорич! Хайко, горілки цуп!</p>
+          </sp>
+          <sp who="#khazjayin">
+            <speaker>Хазяїн</speaker>
+            <p>Та могорич могоричем, а торг на ярмарку.</p>
+          </sp>
+          <stage>Хайка вносить горілку, циган усіх частує, перебива руки; його б’ють по плечах; сміх.</stage>
+          <sp who="#holos">
+            <speaker>Голос</speaker>
+            <stage>(з того берега).</stage>
+            <p>Та подавай порона, гов!</p>
+          </sp>
+          <sp who="#poronshchyk">
+            <speaker>Поронщик</speaker>
+            <p>Не гукай, а тягти помагай.</p>
+          </sp>
+          <sp who="#holos">
+            <speaker>Голос</speaker>
+            <stage>(з того берега).</stage>
+            <p>Хіба я птиця?</p>
+          </sp>
+          <sp who="#dekhto">
+            <speaker>Дехто</speaker>
+            <stage>(з порона).</stage>
+            <p>Скакай у воду, пливи!</p>
+          </sp>
+          <sp who="#druhi">
+            <speaker>Другі</speaker>
+            <p>Або на ту бабу верхи сядь; вона відьма, – перенесе.</p>
+          </sp>
+          <stage>Сміх.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід ІІ</head>
+          <stage>Ті ж і Панько з Стасем.</stage>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(з Стасем обнявшись, зближаються до авансцени).</stage>
+            <p>Нема! Трохи очей не посліпив, шукаючи!</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Кого це? – Марини?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ні, куди їй!</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Так кого ж?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Там однієї дівчини з хутора. От, брате, ловка! Там очі, та щоб її чорти взяли! І така чепурненька… А коса – так нам двом повіситись можна!</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Чи ба! Чиїх же вона?</p>
+          </sp>
+          <stage>Хвенько одходить трошки од шинку, придивляється навколо і ловить кілька слів Панька, та й знову до шинку, бреше нишком щось смішне.</stage>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Та то ж, що не знаю. Я її бачив ось на храму у церкві; та так вона з того часу перед очима й стримить, мов око запорошила. Оце й визираю: певно, на ярмарок ітиме.</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Гай-гай! На чортзна-що тратити час. Та йдім краще до шинку, – чарчину, другу перекинути в горлянку.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ні, після; боюсь її прогавити.</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Та ти справді чи не здурів!? Я б зроду не проміняв чарки горілки на бабу!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ну, а я, бачиш, ні.</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Про-о-пащий же ти навіки!</p>
+            <stage>(Махнув рукою і пішов у шинок).</stage>
+          </sp>
+          <stage>Панько повернув наліво до авансцени і сів під вербою, поглядаючи осторонь.</stage>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <stage>(зареготавшись з усіма).</stage>
+            <p>Та ну тебе к чорту! От бреше!</p>
+          </sp>
+          <sp who="#druhi">
+            <speaker>Другі</speaker>
+            <stage>(під чаркою).</stage>
+            <p>І де вони вчаться так шахрувати?</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Гі! Мене й мамка привела на світ через шахрайство: батька ошукали жиди на шкапі, дак вони з досади смикнули добре окаянної (показує на горло), а через те вийшло… джала карде… от я з вами й балакаю!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Ха! Значить, ти сивухин син?</p>
+          </sp>
+          <sp who="#druhi">
+            <speaker>Другі</speaker>
+            <p>Го-го-го! Здорово!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>А джерда! З того-то я й веселий такий, і хвацький на всі руки! Що не пливе – перейму, що не біжить – дожену, де не треба – уроджусь, на все добре пригоджусь!</p>
+            <stage>(Співа).</stage>
+            <l>Породила мене мати</l>
+            <l>На соломі, а не в хаті;</l>
+            <l>Годувала не сальцем,</l>
+            <l>А добрячим буханцем!</l>
+            <l>Ой лихо, не сальцем, а добрячим буханцем!</l>
+            <l>Гм-да-а-ла, да-лай-ла! Гм-да-а-ла, да-лай-лом!</l>
+            <l>Хоч ходив я без калошей,</l>
+            <l>А удавсь сандул хороший:</l>
+            <l>Кучерявий, огрядний</l>
+            <l>І на все тобі здатний!</l>
+            <l>Ой лихо, огрядний і на все тобі здатний!</l>
+            <l>Гм-да-а-ла, да-лай-ла! Гм-да-а-ла, да-лай-лом!</l>
+            <l>Чи купити, чи продати,</l>
+            <l>Чи що хоч променжувати,</l>
+            <l>Кого треба – одурить,</l>
+            <l>А кому, то й підсобить!</l>
+            <l>Ой лихо ж, той Хвенько, – циган спритний, не хвалько!</l>
+            <l>Гм-да-а-ла, да-лай-ла! Гм-да-а-ла, да-лай-лом!</l>
+          </sp>
+          <sp who="#poronshchyk">
+            <speaker>Поронщик</speaker>
+            <p>Тягни! Навались!</p>
+          </sp>
+          <stage>Голоси: «Насилу рушив!», «Ну й миру!», «Аж боком риє!» Порон одплива. По дорозі знов підходять до пристані люде.</stage>
+          <sp who="#khajka">
+            <speaker>Xайка</speaker>
+            <stage>(до Цибулі).</stage>
+            <p>Там жінка вас кличуть! Плачуть, що ні з ким танцювати!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Уже пустила патьоки! Черкнула, стало буть, вщерть!</p>
+          </sp>
+          <sp who="#khajka">
+            <speaker>Xайка</speaker>
+            <p>Далібуг, ні: вони тільки вишнівочки, та слив’яночки, та тернівочки, та спотикачем запили… Цц! цц!.. така слічна господиня!..</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <stage>(з-за кону).</stage>
+            <p>Де мій старий? Хто ж мене приголубить, хто ж мене поцілує, хто ж зі мною в танець піде?</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Xi! От тепер і возжайсь!</p>
+          </sp>
+          <sp who="#xvenko">
+            <speaker>Xвенько</speaker>
+            <p>Авта карде! Я поможу вашу жінку ублаготворите… то й за городину зійдемось…</p>
+          </sp>
+          <stage>Ідуть.</stage>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <stage>(реве).</stage>
+            <p>Ой сирота я!</p>
+          </sp>
+          <sp who="#druhi">
+            <speaker>Другі</speaker>
+            <p>Цікава сторія! Ходім!!</p>
+            <stage>(Заходять у шинок).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід ІІІ</head>
+          <stage>Панько сам, а потім Xвенько.</stage>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(замислившись, співа).</stage>
+            <l>Повій, вітре, на долину –</l>
+            <l>Там покинув я дівчину;</l>
+            <l>Повій, вітре, з полуночі –</l>
+            <l>Там покинув карі очі;</l>
+            <l>Повій, вітре, тишком-нишком,</l>
+            <l>Понад її білим ліжком,</l>
+            <l>Повій, вітре, озовися –</l>
+            <l>Чи спить мила, подивися!</l>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(послухавши пісню, підбіга).</stage>
+            <p>Шьо, бра, сумної завів, – хіба шкапа здохла?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Яка шкапа? Одчепись!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Яка? А та, що день біжить, а три дні лежить, море перескоче – хвоста не замоче!</p>
+            <stage>(По плечу б’є).</stage>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Та в мене шкапи нема!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Ну, продавай воли сірі! Га? Шиби руку!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>То шкапу, то воли! От уже кодло: вашому брату тільки б шахрувати та доброго чоловіка в шори брати!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Та ну, шьо там! Хрестись та молись та в болото лізь!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Одступись!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>А я поможу, за дівчину…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Не лізь у вічі осою, бо як устану…</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Тю-тю! Порожня в тебе шапка!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(встає).</stage>
+            <p>Геть, сатано!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(одскакує).</stage>
+            <p>Ой, ой! Гляди ж!!</p>
+            <stage>(Набік).</stage>
+            <p>Добрі воли. Як би їх видурити?</p>
+            <stage>(Пішов).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід IV</head>
+          <stage>Ті ж і парубки та дівчата; потім Стась. По одході порона парубки і дівчата все надходять до причалу, паруються, купчаться мальовниче, а з шинку розлягається музика й сміх.</stage>
+          <sp who="#parubok_1-j">
+            <speaker>1-й парубок</speaker>
+            <p>Та чого ми тут зимуватимемо? Ходім краще до шинку, погуляймо!</p>
+          </sp>
+          <sp who="#divchyna_1-a">
+            <speaker>1-а дівчина</speaker>
+            <p>А справді; ти нам музику поставиш.</p>
+          </sp>
+          <sp who="#parubok_1-j">
+            <speaker>1-й парубок</speaker>
+            <p>Панько он поставить: рушаймо!</p>
+            <stage>(Зачина пісню; всі підхоплюють; останні два рядки кожного куплета співають двічі).</stage>
+            <l>Ой знати, знати,</l>
+            <l>В кого єсть дочки:</l>
+            <l>Топтані стежечки</l>
+            <l>Через садочки!</l>
+            <l>Ой знати, знати,</l>
+            <l>Хто не жонатий:</l>
+            <l>Білеє личенько</l>
+            <l>Як у паняти!</l>
+            <l>Ой знати, знати,</l>
+            <l>Хто оженився:</l>
+            <l>Скорчився, зморщився,</l>
+            <l>Ще й зажурився!</l>
+          </sp>
+          <sp who="#divchyna_1-a">
+            <speaker>1-а дівчина</speaker>
+            <stage>(до Панька).</stage>
+            <p>А ми оце до тебе: постав музику.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Не до музики!</p>
+          </sp>
+          <sp who="#divchyna_1-a">
+            <speaker>1-а дівчина</speaker>
+            <p>Як не до музики, так до нас; а ми тебе подякуємо.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Малий клопіт!</p>
+          </sp>
+          <sp who="#divchyna_1-a">
+            <speaker>1-а дівчина</speaker>
+            <p>А то що?</p>
+          </sp>
+          <sp who="#parubok_1-j">
+            <speaker>1-й парубок</speaker>
+            <p>Який тебе гедзь укусив?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Такий, що не сікайсь!</p>
+          </sp>
+          <sp who="#parubok_2-j">
+            <speaker>2-й парубок</speaker>
+            <p>Ого! Чи не люльку загубив?</p>
+          </sp>
+          <sp who="#parubok_1-j">
+            <speaker>1-й парубок</speaker>
+            <p>А мо, горілкою подавився?</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <stage>(з шинку).</stage>
+            <p>Ні, панове, утьопався!</p>
+          </sp>
+          <sp who="#dekhto">
+            <speaker>Дехто</speaker>
+            <p>Овва! В кого? В кого?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Гей, держи мені язика за зубами!</p>
+          </sp>
+          <stage>Дівчата підбігають до Стася розпитувать.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід V</head>
+          <stage>Ті ж і циганка Груня. Груню, що раніш вийшла, здибав Хвенько і щось намовив; вона підходить до юрби з бубном, приспівуючи й пританцьовуючи, а Хвенько коло порона смішно займа ярмаркових людей.</stage>
+          <sp who="#hrunja">
+            <speaker>Груня</speaker>
+            <stage>(співа).</stage>
+            <l>Я циганка-ворожбит,</l>
+            <l>Знаю, що в кого болить;</l>
+            <l>За дешевую ціну</l>
+            <l>Лихо всяке оджену:</l>
+            <l>Од любощних тих клопот</l>
+            <l>Маю зілля – приворот…</l>
+            <l>Гей, дівчата й парубки,</l>
+            <l>Витягайте п’ятаки!</l>
+            <l>Чих-ма, да-лай-ла,</l>
+            <l>Далай-ла, да-лай-ла!</l>
+            <l>Чих-ма, да-лай-ла,</l>
+            <l>Далай-ла, да-лай-ла!</l>
+          </sp>
+          <sp who="#khor">
+            <speaker>Хор</speaker>
+            <stage>(спільний).</stage>
+            <l>Ану, відьмо, ворожи,</l>
+            <l>Тільки правду-но кажи,</l>
+            <l>Бо замісто п’ятака,</l>
+            <l>Одбереш ще кулака!</l>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <l>Ну, на штуку,</l>
+            <l>На ось руку,</l>
+            <l>Подивися – не сказися,</l>
+            <l>Та по правдоньці, чортихо,</l>
+            <l>Розкажи про моє лихо!</l>
+          </sp>
+          <sp who="#khor">
+            <speaker>Хор</speaker>
+            <l>Гей, козаче, не у гнів, –</l>
+            <l>А ти справді ошалів!</l>
+          </sp>
+          <sp who="#hrunja">
+            <speaker>Груня</speaker>
+            <l>Ой щасливий, уродливий,</l>
+            <l>Маєш привереду:</l>
+            <l>Всі дівки до тебе липнуть,</l>
+            <l>Як мухи до меду!</l>
+            <l>А ти оком зазирнув</l>
+            <l>На чужу дівчину!</l>
+          </sp>
+          <sp who="#khor">
+            <speaker>Хор</speaker>
+            <l>От, коли б де здибать їх</l>
+            <l>Нишком коло тину!</l>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <l>Ну, та й відьма ж не мала:</l>
+            <l>Зразу одгадала!</l>
+            <l>А до мене дівка як,</l>
+            <l>От що ти брехала?</l>
+            <stage>(разом – до наступної репліки Груні).</stage>
+            <l>Чи моторна, не лиха</l>
+            <l>І мене чи покоха?</l>
+          </sp>
+          <sp who="#hrunja">
+            <speaker>Груня</speaker>
+            <l>Та й дівчина ж та – краса!</l>
+            <l>Од вогню палкіша…</l>
+            <l>І вшпигне, як та оса,</l>
+            <l>І втече, як миша!</l>
+            <l>Вона б рада і за двір,</l>
+            <l>Так не пустить з дому звір!</l>
+          </sp>
+          <sp who="#khor">
+            <speaker>Хор</speaker>
+            <l>Ну й найшов собі він птаха</l>
+            <l>Із-під звірячого даха!</l>
+          </sp>
+          <sp who="#hrunja">
+            <speaker>Груня</speaker>
+            <l>Сам, козаченьку, не важся,</l>
+            <l>А з Хвеньком мерщі порадься!</l>
+            <l>Я циганка-ворожбит,</l>
+            <l>Кому ще чим засобить?</l>
+            <l>За дешевую ціну</l>
+            <l>Всяке лихо оджену!</l>
+            <l>Маю я зміїний зуб,</l>
+            <l>Що приверне всякий чуб,</l>
+            <l>Маю серце від котят –</l>
+            <l>Зведе з розуму дівчат!</l>
+            <l>Чих-ма, да-лай-ла, да-лай-ла, да-лай-ла! Гурт.</l>
+          </sp>
+          <sp who="#hurt">
+            <speaker>Гурт</speaker>
+            <l>Чих-ма, да-лай-ла, да-лай-ла, да-лай-ла-лом!!</l>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ну і кодло, – аж шкура говорить.</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Ходім он туди на моріжок: хай гада!</p>
+          </sp>
+          <sp who="#dekhto">
+            <speaker>Дехто</speaker>
+            <p>Ходім! Ходім!</p>
+            <stage>(Заходять направо).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід VI</head>
+          <stage>Панько, Солопій і Хотина.</stage>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Тату, не заходьте до шинку, бо мачуха сердитимуться.</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>А я її боюся? Овва!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Не дуже й овва! Як почнуть лаяти… та…</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>А я не вмію лаяти? Ого! ще й як?! То мене часом лінощі обсядуть щелепами кивати та язиком махати, а то я б… ха!.. ще он як, а не чорзна-як!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Та то ви за очі тільки…</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>За очі, дурна! За очі?! І в очі, і на очі, і під очі… Мене тільки трудно розсердити, а то я…</p>
+            <stage>(Перелякано).</stage>
+            <p>А дивись, чи не видно ще воза?</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Та ні, он під горою стоять; вони ж прохали, щоб за брід розпитатись…</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Ага, ага! А де ж розпитатись: у шинок тра зайти.</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>А господи, боже мій! Як ще розсердяться та повернуть віжки додому, а я й ярмарку зроду не бачила, на превелику силу впросилася…</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Що? Без мене поїде? Та я б її… ну, вже не знаю… а не доведи господи!.. Чи то не жінка?</p>
+            <stage>(З страхом зирнувши на Панька).</stage>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Та ні, то парубок якийсь… От, розпитайтесь у його…</p>
+            <stage>(Уздрівши).</stage>
+            <p>Ох, матінко!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(прислухавсь, а далі пізнав).</stage>
+            <p>Вона, щоб я луснув, вона!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Та що мені з хлопцем?.. Там поважніша кумпанія…</p>
+            <stage>(Крадеться до шинку).</stage>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Ой тату…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(сіпа її за рукав).</stage>
+            <p>Та нехай іде!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Ох, чого тобі?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(тихо).</stage>
+            <p>Не бійся, серце, – я тобі лихого не скажу; а поки він черкне, хоч словом перекинемось.</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Одчепися, парубче, я тебе не знаю…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>От штука, взнаєш!</p>
+          </sp>
+          <stage>Солопій заходить на ганок до шинку.</stage>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>І не в думці навіть!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Брешеш! А в церкві не стріляла оком?</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Не мала б на кого!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ex, ти, дівко!</p>
+            <stage>(Хоче обняти).</stage>
+            <p>Та я б усю худобу оддав, щоб тебе поцілувати!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Геть! Чи у вас тут всі такі придуркуваті?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Та за тобою здурієш!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Отак пак!</p>
+          </sp>
+          <stage>Починають говорити тихо і відходять далі од шинку, – аж за вербу.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід VII</head>
+          <stage>Солопій, Хотина, Панько і Хвенько.</stage>
+          <stage>Розмова в цім виході ведеться разом; завважити тільки треба, що Мокрина і хазяїн говорять повагом, а Панько й Хотина хапливо. Тони й міра повинні бути різні.</stage>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <stage>(то ступить у сіни, то назад).</stage>
+            <p>Чи йти, чи не йти? І весело там, і пах такий добрий іде; але ні шеляга в кишені, та й жінка…</p>
+            <stage>(Чухається).</stage>
+            <p>От тобі й розваж! Хоч би знакоме що вийшло! А-а!</p>
+            <stage>(Одходить од ганку далі направо).</stage>
+          </sp>
+          <stage>З шинку виходить Мокрина з хазяїном і стає на ганку.</stage>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Та й думати нічого! Повісьте мене хоч за ноги. На отій гілляці щоб я гойдалася, як ковбаса перед різдвом в хаті, – коли продасте хоч мірку пшениці.</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(підходить до Панька).</stage>
+            <p>Ну що? Як воли?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Геть в зуби до чорта!</p>
+          </sp>
+          <sp who="#khazjayin">
+            <speaker>Хазяїн</speaker>
+            <p>Кого ти, тітко, морочиш? Привозу, крім моєї, катма!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <stage>(тихо).</stage>
+            <p>Говори собі, а в мене десять мішків єсть!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Ой, ой! Який сердитий; а не зна, яким способом з дівчиною побалакати!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ти знаєш?</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>А хочеш: батько її зараз застряне в шинку?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ну?</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>А про воли побалакаєш?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Побалакаю.</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Гляди ж!</p>
+            <stage>(Одходить і наближається до шинку).</stage>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Та тото-бо й є, що вже де замішається чортячина, то жди стільки проку, як од п’яного, вибачай, чоловіка!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>А підеш за мене?</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Хто тебе зна, що ти й за чоловік?</p>
+          </sp>
+          <sp who="#khazjayin">
+            <speaker>Хазяїн</speaker>
+            <p>Яка чортячина?</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>От тобі й на! Свят, свят з нами!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ну, а глянь, як думаєш?</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <stage>(кокетливо).</stage>
+            <p>Та зверху ще й так-сяк, а зсередини, може, на чорта схожий.</p>
+          </sp>
+          <stage>Панько сміється і щось нашіптує.</stage>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Яка?! А чи не чув?</p>
+          </sp>
+          <sp who="#khazjayin">
+            <speaker>Хазяїн</speaker>
+            <p>Ну, ну?</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>То-то, ну! Засідатель, бодай йому не довелося обтерти губ після панської наливки, одвів ярмарку прокляте місце, біля руїни, де чорти завели кубло!</p>
+          </sp>
+          <sp who="#khazjayin">
+            <speaker>Хазяїн</speaker>
+            <p>Що ти?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>А ти мені он як упала! Чи присилати сватів?</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Мачуха не оддасть зроду.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Укоськаємо.</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Вчора волосний писар ішов поночі біля руїни, а звідтіль як висунеться свиняче рило та як захрюка!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Ох, мені лишечко! Вони, вони! Бути лиху, бути! Ще, чого доброго, з’явиться червона свитка!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Тікати мерщі, та й уже.</p>
+            <stage>(Крадеться наліво).</stage>
+          </sp>
+          <sp who="#khazjayin">
+            <speaker>Хазяїн</speaker>
+            <p>Яка червона свитка?</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Ой, ой! І не питайтесь! Пропащий ярмарок!</p>
+            <stage>(До Солопія, переймаючи).</stage>
+            <p>Чоловіче добрий, куди ви? Зайдім до шинку: я все й без ярмарку куплю, дам добрі гроші! Щоб я дітей не бачив!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Та ходім… поки не зайшло сонце… а то я… я нічого не боюсь… Ого! Мене злякаєш?!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід VIII</head>
+          <stage>Ті ж і Цибуля.</stage>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <stage>(виходить).</stage>
+            <p>А-а, куме! Слихом слихати, видом видати; чи по волі, чи по неволі?</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Здоров, куме! Я б по неволі? На такого й напали?!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Яким чудом? Хівря пустила?</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Здорові, кумонько! Хівря там на возі!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>О! Ну й гаразд; до нас же?</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Шьо то за добре, що всі свої з’їхались!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>А Що, куме, признайсь: боїшся здорово жінки?</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Я? Жінки? Та я її… вона в мене ось де!.. Хто б і боявся!? Ого! Ви ще мене не знаєте!</p>
+            <stage>(Озирається з страхом).</stage>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Невже? Молодець!! Так з бабами й треба!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Авта до шинку! Я всіх на радощах частую. Гей, принди, Хайко!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Ходім, цигане, ходім!</p>
+            <stage>(Співа).</stage>
+          </sp>
+          <sp who="#mokryna #khvenko #solopij #tsybulja">
+            <stage>Секстет</stage>
+            <l>Ой ти кум, я кума,</l>
+            <l>Почаркуємось дарма;</l>
+            <l>Ох, горілочка тума,</l>
+            <l>Зведе всякого з ума!</l>
+            <l>Бо од пива болить спина,</l>
+            <l>А од меду голова!</l>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <l>Ходім, ходім у шинок,</l>
+            <l>Нехай чорт бере жінок:</l>
+            <l>Як черкну я там, кума,</l>
+            <l>То й страху в мене катма!</l>
+            <l>Ой лихо, та й уже, –</l>
+            <l>Хай хто Хіврю стереже!</l>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <l>Я тепер розпережусь. –</l>
+            <l>З кумом вишняка нап’юсь!</l>
+            <l>Жінко, пий, хоч через край –</l>
+            <l>Тільки не плач, не ридай!</l>
+          </sp>
+          <sp who="#khajka">
+            <speaker>Хайка</speaker>
+            <l>Прошу чесную беседу:</l>
+            <l>В мене досить пива-меду,</l>
+            <l>І горілки, і вишнівки,</l>
+            <l>І слив’янки, і перцівки, –</l>
+            <l>Вдовольнити можна ріт…</l>
+            <l>Ой вей мір, усе те гіт!</l>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <l>Всіх, мосьпаноньки, трахтую;</l>
+            <l>Все, що маєте, купую:</l>
+            <l>І кобили, і лошата,</l>
+            <l>І цапи, і козенята,</l>
+            <l>І корови, і воли,</l>
+            <l>Бочки риби і смоли!</l>
+          </sp>
+          <stage>Виходять всі до шинку.</stage>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <l>Моя ти зоре, моє ти горе, –</l>
+            <l>Попливем в човнику через те море!</l>
+            <l>Хай щогла має, хай хвиля грає –</l>
+            <l>А наше щастячко буде безкрає!</l>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <l>Мій ти козаче, моє ти горе, –</l>
+            <l>З тобою, серденько, не страшне море;</l>
+            <l>Коли б пустили вкупі з тобою,</l>
+            <l>З хвилями й в бурю стала б до бою!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід IX</head>
+          <stage>Панько, Хотина, Стась, а далі парубки.</stage>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <stage>(виходить справа і бачить, що Панько з Хатиною обнявшись).</stage>
+            <p>А, бач з ким він! Підхопив-таки кралю! Агов, хлопці!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Слухай! Ти приятель мені; але як здіймеш дівку на глум, то я тобі ребра переламаю!</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Ще хто кому?!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Там уже побачимо!..</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Так одчіпного дай: такий уже звичай.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>За віщо?</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>За чужу дівку: постав музику нам і горілки відро.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Та то пусте!</p>
+            <stage>(До Хотини).</stage>
+            <p>Потанцюєш?</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Атож!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Гей, музики! Хайко, горілки сип!!</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>А-го-го!! Парубки і дівчата!</p>
+          </sp>
+          <stage>Виходять музики; підходять хлопці та дівчата. Музика починає грати. Танцюють.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід X</head>
+          <stage>Солопій, за ним Цибуля і Мокрина, виходять з шинку, а далі і другі.</stage>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Та куди ти, куме: ще жінки нема.</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Що мені жінка? Та бодай вона свій язик замість варениць ковтнула – мені байдужісенько! Овва! Велике цабе!!</p>
+          </sp>
+          <stage>Танці спинились.</stage>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>І я танцюватиму, далебі, танцюватиму… з кумом піду!.. Щоб мене хрест убив, коли не піду; ти ще, може, старий собако, мене не пустиш, бо я така сирота!.. Нема кому заступитися! О-о-о!!</p>
+            <stage>(Плаче).</stage>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Та йди танцюй, не реви тільки!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Я піду, з кумом піду!..</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>А так… матері його ковінька! Начхав я на Хіврю…</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Музико, шквар!</p>
+            <stage>(Почина сама без музики приспівувати й танцювати з Солопієм).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід XI</head>
+          <stage>Ті ж і Хівря виїжджа на возі, конякою запряженим.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <stage>(побачивши).</stage>
+            <p>Ах ти, слинявий! Уже налигався! А йди-но сюди, макухо!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Ой!! Жінка!! Ой сховайте мене, кумо, хоч під юпку… пропащий!!.</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Лізь!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>А куди!?</p>
+          </sp>
+          <stage>Хотина ховається за батька.</stage>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Розступіться!</p>
+          </sp>
+          <stage>Юрба розступається цоб і цабе.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Стонадцять діж чортів тобі в пельку, п’янице! А щоб вони рогами тобі всю утробу понівечили; щоб у тебе горіло все, як під казанами у винниці!..</p>
+          </sp>
+          <sp who="#dekhto">
+            <speaker>Дехто</speaker>
+            <p>Ну й лається ловко!</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Здорово!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>І як у неї, відьми, язик не заболить?</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>А щоб ти подавився, заволоко паршивий! Щоб твого батька горшком по голові стукнуло! Щоб він на льоду підсковзнувся, антихрист проклятий! Щоб йому на тому світі чорти бороду осмалили!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Ох, я нещасна, не вмію так славно лаятись, як кумася!</p>
+          </sp>
+          <stage>Солопій крадеться до воза, дочка теж.</stage>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ач, як лається! І не заціпить їй, бабі столітній.</p>
+          </sp>
+          <sp who="#mokryna #stas #tsybulja #solopij #khotyna">
+            <speaker>Всі</speaker>
+            <p>Столітня! Ха-ха-ха!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Столітня?! Ах ти, негідна тварюко! Та піди носа утри, шибеник! Я не бачила твоєї матері, а знаю, що шльондра, і твій батько…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(кинув болотом їй в пику).</stage>
+            <p>На, з’їж!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ай, щоб тобі… І ти тут смієшся, ідоле?!</p>
+            <stage>(За чуприну чоловіка).</stage>
+            <p>А ти теж під шинками моргаєш?!</p>
+            <stage>(Бере за косу Хотину).</stage>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>От ускочив! Та це ж її мачуха!!</p>
+            <p>[Можна завісу спускати і тут, виключивши музичний фінал. (Примітка М. Старицького)]</p>
+          </sp>
+          <p></p>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <stage>(до дочки).</stage>
+            <l>Ну, тепер запру у хату</l>
+            <l>Й носа виткнути не дам;</l>
+            <l>Ти дістанешся чортяці,</l>
+            <l>А не нашим парубкам!</l>
+            <stage>(До Солопія).</stage>
+            <l>А тобі обсмичу гирю</l>
+            <l>Й кочергою натовчу,</l>
+            <l>Пам’ятатимеш ти Хіврю,</l>
+            <l>Що довів тут до плачу!</l>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <l>Та я знаю, що ви раді</l>
+            <l>Мене й в ложці утопить,</l>
+            <l>Щоб добром моєї мами</l>
+            <l>Свою пельку вгонобить!</l>
+            <l>Коверзуйте – та дарма:</l>
+            <l>Швидко збудусь я ярма!</l>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <l>Я… я… та я… нічого…</l>
+            <l>Тут куми мене… їй-богу!.,</l>
+            <l>Й тебе просять на блини…</l>
+            <l>Ой за чуба не тягни!</l>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <l>Це мене нечиста сила</l>
+            <l>Ляпнуть в тещу підвела:</l>
+            <l>Ой пропала моя мила, –</l>
+            <l>Хоч тікай тепер з села!</l>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <l>А казав, що тобі воля.</l>
+            <l>Бачу – луплять, мов кота!</l>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <l>Он яке кумі роздолля!</l>
+            <l>Сирота, я сирота!</l>
+          </sp>
+          <sp who="#khor">
+            <speaker>Хор</speaker>
+            <l>Ха-ха-ха! Гей, відьмо, відьмо!</l>
+            <l>До якої б’єш пори!</l>
+            <l>Помело давай, поїдьмо</l>
+            <l>Аж до Лисої гори!</l>
+          </sp>
+          <p></p>
+        </div>
+      </div>
+      <div type="act">
+        <head>Дія друга. На ярмарку</head>
+        <stage>Ярмарковий плац. Позаду село. Праворуч оддалі руїна якась; коло неї коні, вівці, вози з усякою всячиною, там же, ближче до зрителів, віз Черевика під тином кумової садиби. Наліво ятки – з картинами, красним крамом, дріб’язком, шапками. Просто ближче: рундуки – бублейниці, прянишниці, сластьониці, за ними гори кавунів, динь. Спочатку вечір, а потім ніч.</stage>
+        <div type="scene">
+          <head>Вихід І</head>
+          <stage>Музична інтрада, впродовж якої іде ярмарочний гвар. Народ – хазяї, баби, парубки, дівчата, жиди, цигане – снуються, штовхаються, торгуються, перебивають руки – по ятках, коло возів. Німа сцена під музику. Впродовж цілої дії стоїть тихий гвар, поки головні персони ведуть розмову; а коли вони примовчують – гвар росте і всякий викрикує про свій крам.</stage>
+          <p></p>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <stage>(до воза йдучи).</stage>
+            <p>Бачила свого голубчика, Афанасія Івановича, кланялася: може, от-от надійде.</p>
+            <stage>(До Солопія).</stage>
+            <p>Ну, чого б я тут, як кілок перед очима, стирчала? Чад іще з голови не вийшов, чи що?</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Та я, жінко, що? Я нічого… я й сяду собі – мені що?</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Скажіть на милість – сяду! Це тобі не баштан, щоб горобців полохати! Узяла помічника, щоб гав ловив та витрішки продавав! Побила мене лиха та нещаслива година! Та ти б же пішов по ярмарку та прислухався б, як люде торгують, та прицінявся б…</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>О, я зараз! Ще б не прицінився – ого! Мене й ошукають, якраз! Ти б тільки…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Що? Грошей? Іди, іди… і без грошей, може, де з приятелями застрянеш!?</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Ну, як-таки не гріх, Хіврюшко? Що я, господи, боже ти мій…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Та знаю, знаю!..</p>
+            <stage>(До Хотини).</stage>
+            <p>А ти чого похнюпилась, як свиня в дощ? Іди вже та за своїм батьком дивись, щоб не змок… та гляди мені…</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Або я що?</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Та ну-ну!!</p>
+          </sp>
+          <stage>Хотина з батьком пішли.</stage>
+          <p>Слава богу, здихалась, а то ще помішали б!</p>
+          <sp who="#starets">
+            <speaker>Старець</speaker>
+            <stage>(співа, приграючи на лірі).</stage>
+            <p>По-дай-те, Христа ради, сліпенькому, незрячому; подайте, милостивці, каліці нещасному, за спасеніє душеньки, щоб ваша милостинька, як свічка, перед богом стояла, щоб за гріхи ваші бога благала; подайте за родителів ваших, подайте за діточок померших, подайте, благодітелі, подайте, рачителі!</p>
+          </sp>
+          <stage>Дехто кида гроші.</stage>
+          <stage>Коло крамниці з картинами.</stage>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <stage>(з дитиною).</stage>
+            <p>Що ж воно таке? І не розберу.</p>
+          </sp>
+          <sp who="#kupets">
+            <speaker>Купець</speaker>
+            <p>Не видишь, што ль? Геєна огненная, пекло: вот черти вашего брата за косы тянут…</p>
+          </sp>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <p>Ох, страховина яка! Прости господи согрішенія наші!</p>
+            <stage>(До дитини).</stage>
+            <p>Цить, не плач! Бач, яка кака намальована! Зараз з’їсть!</p>
+          </sp>
+          <sp who="#kupets">
+            <speaker>Купець</speaker>
+            <p>А вот египетская царица Семирамида.</p>
+            <stage>(Показує).</stage>
+          </sp>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <p>І мені Єгипетську треба… тільки не Соромиду, а Магдалину…</p>
+          </sp>
+          <sp who="#kupets">
+            <speaker>Купець</speaker>
+            <p>Так вот, на! Смотри, какая важная!</p>
+          </sp>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <p>Чого ж вона верхи?</p>
+          </sp>
+          <sp who="#kupets">
+            <speaker>Купець</speaker>
+            <p>Дура! Есть пешая, есть и конная!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <stage>(до батька, що ще наліво тиняється).</stage>
+            <p>Тату, ходім он туди, до крамниці… там такого., я зроду не бачила!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Та що ж без грошей… мені он треба… ну й де той кум?..</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Господи, до свиней тягнуть!</p>
+          </sp>
+          <stage>Заходять.</stage>
+          <sp who="#bublejnytsja">
+            <speaker>Бублейниця</speaker>
+            <p>Бублики, бублики гаряченькі!</p>
+          </sp>
+          <sp who="#slastonytsja">
+            <speaker>Сластьониця</speaker>
+            <p>По сластьоне! По сластьоне!</p>
+          </sp>
+          <sp who="#prjanyshnytsja">
+            <speaker>Прянишниця</speaker>
+            <p>Купіть, тіточко, суслик!</p>
+          </sp>
+          <sp who="#khlopchyk">
+            <speaker>Хлопчик</speaker>
+            <stage>(до матері).</stage>
+            <p>Мамо, коника!</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <stage>(до дівчини).</stage>
+            <p>Хочеш козака з золотою головою? Шага не пожалую!</p>
+          </sp>
+          <sp who="#divchyna">
+            <speaker>Дівчина</speaker>
+            <p>Значить, така вам ціна! Дешеві!!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(до Стася).</stage>
+            <p>Не бачив моєї дівчини, Хотини?</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Учадів-таки!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Не бачив, питаю?</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Ти он краще купи їй що, коли наваживсь… а я пошукаю…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ну-ну! Зроби ласку!</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Тільки я одіб’ю!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Овва!</p>
+          </sp>
+          <stage>Коло крамниці з красним крамом.</stage>
+          <sp who="#zhinka">
+            <speaker>Жінка</speaker>
+            <p>Та беріть копу з шагом!</p>
+          </sp>
+          <sp who="#kupets">
+            <speaker>Купець</speaker>
+            <p>Што ты, тетка! За такой платок две копы мало! Право слово! Ты вот погляди-ка, клетки какие! А золото… Эхма!</p>
+          </sp>
+          <sp who="#zhinka">
+            <speaker>Жінка</speaker>
+            <p>Та що там того золота; а он рідкий який, аж світиться.</p>
+          </sp>
+          <sp who="#zhyd">
+            <speaker>Жид</speaker>
+            <p>Решитилівського шапка! Іване! Купи! Глянь яка!</p>
+          </sp>
+          <sp who="#parubok">
+            <speaker>Парубок</speaker>
+            <p>Та мені не треба!</p>
+          </sp>
+          <sp who="#zhyd">
+            <speaker>Жид</speaker>
+            <p>На, примір, примір!</p>
+            <stage>(Надіва йому).</stage>
+          </sp>
+          <sp who="#parubok">
+            <speaker>Парубок</speaker>
+            <p>От, учепився-таки!</p>
+          </sp>
+          <sp who="#zhyd">
+            <speaker>Жид</speaker>
+            <p>Ой, ой, ой! Іване? Де ти? Де ти дівся? Тут пан якийсь! Іване, де-бо ти?</p>
+          </sp>
+          <sp who="#parubok">
+            <speaker>Парубок</speaker>
+            <p>Яка ціна?</p>
+          </sp>
+          <sp who="#starets">
+            <speaker>Старець</speaker>
+            <p>За душі померших родителів сліпенькому та хроменькому!</p>
+          </sp>
+          <stage>Коло третьої ятки.</stage>
+          <sp who="#khajka">
+            <speaker>Xайка</speaker>
+            <p>Ах, як тобі слічно в цих кульчиках… Ой, ой, ой! Краля, правдива краля! Усі хлопці губи кусатимуть… Цц!!. цц!.. цц!!!</p>
+          </sp>
+          <sp who="#divchyna_2-a">
+            <speaker>2-а дівчина</speaker>
+            <p>А що коштують?</p>
+          </sp>
+          <sp who="#khajka">
+            <speaker>Xайка</speaker>
+            <p>Двадцять шагів.</p>
+          </sp>
+          <sp who="#divchyna_2-a">
+            <speaker>2-а дівчина</speaker>
+            <p>Ох, моя матінко, які дорогі!</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <stage>(підійшов до Хіврі).</stage>
+            <p>А що продаєш, бабо, – тванюку, що на греблі набрала?</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>А щоб тобі такою тванюкою чорти заліпили і очі, і ніс, і ріт, і всяке місце…</p>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <p>Ха-ха-ха-ха! Завела!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Гетьте, к нечистій матері!</p>
+          </sp>
+          <stage>В глибині коло возів.</stage>
+          <sp who="#cholovik_1-j">
+            <speaker>1-й чоловік</speaker>
+            <p>По золотому мірка!</p>
+          </sp>
+          <sp who="#zhyd">
+            <speaker>Жид</speaker>
+            <p>Шьо? Мешигине! Чи ти не здурів! Який це овес? Це полова, а не овес!</p>
+          </sp>
+          <sp who="#cholovik_1-j">
+            <speaker>1-й чоловік</speaker>
+            <p>Не розсипай! Геть!</p>
+          </sp>
+          <sp who="#zhyd">
+            <speaker>Жид</speaker>
+            <p>Сміття, а не овес… Півзолотого хочеш? Бери гроші, бери!!</p>
+          </sp>
+          <sp who="#cholovik_1-j">
+            <speaker>1-й чоловік</speaker>
+            <p>Золотий! Одступись!!</p>
+          </sp>
+          <stage>Чути далі голоси: «Давай руку?», «Та дешево!», «Могорич мій!», «Хіба!». Б’ють руки.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід ІІ</head>
+          <stage>Ті ж і Хвенько.</stage>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(крутить коня).</stage>
+            <p>Та ти глянь, що за кінь! Птиця, їй-богу, птиця!! Куди хоч, і під становим видержить, не то що! Та що під становим? І під самим справником не лусне! Ось на, синку, поїдь!</p>
+          </sp>
+          <stage>Циганча сіда і заїздить за кін.</stage>
+          <sp who="#cholovik_1-j">
+            <speaker>1-й чоловік</speaker>
+            <stage>(відходить наперед).</stage>
+            <p>Та що ти брешеш? Обдурити, обшахрувати хочеш!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(за ним).</stage>
+            <p>Та щоб я і чуба не мастив салом, коли брешу! Ну, давай мінятись: у тебе єсть поросна свиня…</p>
+          </sp>
+          <sp who="#cholovik_1-j">
+            <speaker>1-й чоловік</speaker>
+            <p>Та одчепись! Хіба я вашого кодла не знаю: твого батька у коморі піймали.</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Ет, штука – в коморі! Посадив би ти його на коня та в степ пустив – от тоді б нехай піймали, то так!</p>
+          </sp>
+          <stage>Коло крамниць раз у раз то одсунуть, то насунуть. Чути часами: «Дорогої», «Ни полушки!», «Та уступіть!», «Цуєс, для тебе!», «Решетилівського шапка!»</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід ІІІ</head>
+          <stage>Ті ж і Мокрина.</stage>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <stage>(до Хіврі).</stage>
+            <p>А я своїх кумів шукаю, шукаю! Цілий ярмарок витовкла, – аж вони коло мого дворища й стали: оце гаразд!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Здорова, кумасю! Я тоді через того п’яницю та сибірних шибеників і не привіталася з тобою!</p>
+          </sp>
+          <stage>Обнімаються.</stage>
+          <p>А що це таке?</p>
+          <stage>(Показує на пакунок).</stage>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Це мій вовтузяка розперезався! Глянь, який ситець? На юпку набрала…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ох, мамо, гарний-гарний! Жовтогарячий з зеленими джерегелями!.. От коли б і мені такого… аж очі вбира! Так за моїм же макухою увесь ярмарок порозпродують, поки він тини підпиратиме!..</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Та він мого вовтузяку шука…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Як ти свого дразниш?</p>
+            <stage>(Сміється).</stage>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Та, їй-богу, як почне вовтузитись, як почне, то аж обридне…</p>
+          </sp>
+          <sp who="#zhyd">
+            <speaker>Жид</speaker>
+            <p>Шапка з решетилівських смушків! Гей, хлопці-козаки!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ха-ха-ха! А бодай тебе!</p>
+            <stage>(Сміється).</stage>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Тут Афанасій Іванович оце забігав двічі, питав, чи ти не приїхала?</p>
+            <stage>(Штовха).</stage>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Бог зна що! Чого б йому?</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Та то вже ваше діло чого…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Та годі! Невіть що! Я вже за своїм макухою і забула, як веселяться…</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Та пригадати можна… Так ночуйте, кумасю, в нашій хаті, – там нікого не буде: ми з ярмарку не підемо, бо вже, кажуть, червона свитка проявилась!</p>
+            <stage>(Пішла).</stage>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ох, мені лишенько, так я тут не ночуватиму зроду-віку: нехай батько з дочкою… а я до куми…</p>
+          </sp>
+          <stage>Підходять до неї часами баби: дивляться, торгують пряжу.</stage>
+          <sp who="#bublejnytsja">
+            <speaker>Бублейниця</speaker>
+            <p>Бублички гаряченькі, бублички свіжі! Сама пекла!</p>
+          </sp>
+          <sp who="#slastonytsja">
+            <speaker>Сластьониця</speaker>
+            <p>По сластьоне! На олійці, смачні: самі в рот лізуть!</p>
+          </sp>
+          <sp who="#lirnyk">
+            <speaker>Лірник</speaker>
+            <stage>(гра на лірі й співа).</stage>
+            <l>Ой боже, боже, та рятуй наші душі</l>
+            <l>Од того-то пекельного катуші,</l>
+            <l>Як несподівано нас</l>
+            <l>Застукає, ох, і смертельний час!</l>
+          </sp>
+          <stage>Солопій з Хотиною виринають направо з юрби.</stage>
+          <sp who="#cholovik_2-j">
+            <speaker>2-й чоловік</speaker>
+            <stage>(на возі).</stage>
+            <p>Кавуни, кавуни! Червоні як жар, солодкі як мед!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Ну, де той кум?</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Тату, та ходім до яток!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(коло галантереї).</stage>
+            <p>Так оцей дукач і намисто що варт?</p>
+          </sp>
+          <sp who="#khajka">
+            <speaker>Хайка</speaker>
+            <p>Ах, антик! Такого тільки вельможній пані носити… далібуг! Ох, мамеле, тателе, шене, шене!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Та годі белькотати! Яка ціна?</p>
+          </sp>
+          <sp who="#khajka">
+            <speaker>Хайка</speaker>
+            <p>Нехай пан зауважить, що це справжнє добре намисто… цц… ццц… червоне як кров! А дукач з битого таляра, ще й сутозлотий… ix бін аідес?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Та бачу… ну ж, що?</p>
+          </sp>
+          <sp who="#khajka">
+            <speaker>Хайка</speaker>
+            <p>Десять карбованців…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Чи ти не сказилася?</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>А джинда гуга! Гарна дівчина! Не скупися, козаче!</p>
+            <stage>(Б’є по плечу).</stage>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Де дівчина?</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>А глянь, знаком: джа й вона! А без мене побалакати хвойда.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ну, зроби ласку!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>А воли?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Та казав же!</p>
+            <stage>(Починає тихо торгуватись).</stage>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <stage>(наближаючись).</stage>
+            <p>Що, боже ти мій, господи! Чого, чого нема на цім ярмарку: колеса, сало, дьоготь, тютюн, ремінь, воли, вівці, свині, крамарі всякі…</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Е, сила! Хоч би в кишені було карбованців з тридцять, то й тоді б не закупив усього ярмарку!</p>
+          </sp>
+          <sp who="#starets_3-j">
+            <speaker>3-й старець</speaker>
+            <p>Глухенькому, безрукому, подайте милостиньку, Христа ради!</p>
+            <stage>(Набік).</stage>
+            <p>Вдяч матланцю на матланку, тільки щоб хто зіньками не пошкодив.</p>
+          </sp>
+          <sp who="#starets_2-j">
+            <speaker>2-й старець</speaker>
+            <p>Кльовий шустить…</p>
+          </sp>
+          <sp who="#starets_3-j">
+            <speaker>3-й старець</speaker>
+            <p>Милостивці, рачителі…</p>
+            <stage>(Першим тоном).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід IV</head>
+          <stage>Ті ж і Попович.</stage>
+          <stage>Насупротив Хівриного воза показується на тину Попович.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Сюди, Афанасій Іванович! Ось тут перелаз… Піднімайте ногу, та не бійтесь: дурень мій пішов до товару, далеко.</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>А, бачемус перелазус… скакандум ест.</p>
+            <stage>(Пробує, де б перелізти і куди б скакнути).</stage>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(б’є Солопія по плечу).</stage>
+            <p>А, земляк! Чи продав шкапу й пшеницю?</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Ні ще!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(тягне).</stage>
+            <p>Ходім, я куплю! Давай руку!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Та де… той кум?</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(тягне його назад).</stage>
+            <p>І кум там… Он ди вись!..</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(до Хотини).</stage>
+            <p>На ось, серденько, дукач і намисто…</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <stage>(соромлячись).</stage>
+            <p>Навіщо?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Кого шаную, тому й дарую!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Ох, яке ж хороше! І дукач, лелечко! Тільки… я не візьму… лаятимуться…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Так ти ж за мене йдеш?</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>А мачуха?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Та вже якось, аби батька влестити…</p>
+          </sp>
+          <stage>Ідуть вперед, по крамницях дивлячись… Панько щось нашіптує.</stage>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <stage>(скака і упав).</stage>
+            <p>Ой жалива!! Змієподобний злак анахтемський!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ох, лихо! Чи ви не забили чого, борони боже, – ноги або… спини?</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Тс… тс!.. Нічого, нічого, оптиміссіма хвемино, Хавронієндо Нікихворовно! Пріч уязвленія жаливою рук і других частей мого корпуса…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Xi? Ото чухатиметься…</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Чухандемус буденде…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ох, бурса! А я вже думала, що до вас болячка або соняшниця причепилася: нема та й нема!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Тривай, тривай! Чи то не кум!?</p>
+            <stage>(Одходить назад).</stage>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(глянувши на Хіврю).</stage>
+            <p>А-а! Джа воно що!</p>
+            <stage>(Прислухається).</stage>
+            <p>Та це на руку ковінька! Ану, послухаємо!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Наука все, о моя смашнітіссіма! Вченість. Вірите – от тут тепер тільки, – аж капутіс хитається!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Невже хитається?.. Брешете!</p>
+            <stage>(Бурсак крадькома обніма її й шепоче щось).</stage>
+          </sp>
+          <stage>Коло крамниці.</stage>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Ах, яке дзеркальце!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Візьми – я заплачу!</p>
+          </sp>
+          <stage>Хотина церемониться.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ох, ото чи не дурень мій?.. Тікайте, голубчику… та приходьте увечері до кумової хати: там нікого не буде, пріч мене…</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Отлично, добре! Буденду і випієнду.</p>
+            <stage>(Пригнувшись під тином, тіка).</stage>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Тепер тільки б накрити їх, то воли будуть мої!!</p>
+            <stage>(Пішов, здибав Груню, щось шепнув).</stage>
+          </sp>
+          <stage>Тим часом на другім кінці.</stage>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Еге-ге!</p>
+            <stage>(Наблизившись до дочки).</stage>
+            <p>Та ти, бачу, парубче, обніматись зугарний! А я тільки на четвертий день по весіллі спробував покійну Хвеньку обняти та й то, спасибі, – дружко уже напутив!</p>
+          </sp>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <stage>(здалеку).</stage>
+            <p>Купіть, паничі, диньку: там така, аж репнула!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ти, певно, чоловіче добрий, не знаєш мене? А я тебе зараз пізнав!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Може, й пізнав: чому не пізнати? Ого!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Коли хочеш, і ймення, і прізвище, і всяку всячину розкажу: ти Солопій Черевик.</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Еге ж, Солопій, та ще й Черевик!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>А придивись добре, чи не пізнаєш мене!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Ні, не пізнаю. Не во гнів тобі, на віку доводилось стільки морд та пик бачити, що чорт його й пригада всі!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Шкода, що ти не пригадаєш Голопупенкового сина!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>А хіба ти Охрімів син?!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>А хто ж? Лисий дідько, коли не він!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Невже?</p>
+            <stage>(Обніма і цілує тричі).</stage>
+          </sp>
+          <sp who="#divchyna">
+            <speaker>Дівчина</speaker>
+            <stage>(до парубка).</stage>
+            <p>Чого ти лізеш? От так оцим прядивом і опережу.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ну, Солопіє: оце, як бачиш, я і дочка твоя покохались… хоч би й навіки жити укупі…</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Що ж, Хотино? Може б, і справді… щоб уже, як кажуть, вкупі і теє… щоб уже і паслися на одній траві…</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Воля ваша… а он, як мачуха?</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Що мені мачуха? Такий і я? Ого!! Хіба я не батько? Єй-богу, батько, справжній батько… про покійницю, нехай царствує, гріх лихого слова сказати… Що ж, давай руку та могорич став!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>З радістю! Ходім!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <stage>(до Хотини).</stage>
+            <p>А ти біжи до воза та не кажи Хіврі, куди ми… а що я, мовляв, прицінююсь… Хотина, усміхаючись, пішла.</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід V</head>
+          <stage>Ті ж і Груня.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <stage>(до Хотини).</stage>
+            <p>А батько де? Застряв уже?</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Пішли… прицінюватись… там у кума…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Знаю, де вони прицінюватись будуть!.. Посидь тут, а мені куми треба.</p>
+            <stage>(Пішла в юрбу).</stage>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(підвівши сестру до край кону).</stage>
+            <p>Лякай мені усіх чортячиною і червоною свиткою!</p>
+          </sp>
+          <sp who="#hrunja">
+            <speaker>Груня</speaker>
+            <p>Навіщо?</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Джала карде! Мені треба… Та, крім того, в переполосі, може, й нам перепаде що!</p>
+          </sp>
+          <sp who="#hrunja">
+            <speaker>Груня</speaker>
+            <p>А так, каркуреле! Галай!!</p>
+            <stage>(До жінки).</stage>
+            <p>Чи чула, серденько: кажуть, що червона свитка…</p>
+          </sp>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <p>Не доведи господи.</p>
+          </sp>
+          <sp who="#zhinka">
+            <speaker>Жінка</speaker>
+            <p>Та он у кавунниці замість динь кобилячі щелепи та копита.</p>
+          </sp>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <p>Де? Де? Ходім!!</p>
+          </sp>
+          <stage>Всі пішли, а циган назирцем за бабою.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід VI</head>
+          <stage>Ті ж і Мокрина.</stage>
+          <stage>Циган вихопив у баби гуску і хова, тікаючи.</stage>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <stage>(женеться).</stage>
+            <p>Гей гвалт! Держіть злодія!</p>
+          </sp>
+          <sp who="#tsyhan">
+            <speaker>Циган</speaker>
+            <stage>(біжить).</stage>
+            <p>Держіть, держіть! Онде!</p>
+          </sp>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <stage>(надбіга).</stage>
+            <p>Та ти ж украв! Оддай!</p>
+          </sp>
+          <sp who="#tsyhan">
+            <speaker>Циган</speaker>
+            <p>Що украв?</p>
+          </sp>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <p>Гуску! Он де й вона!</p>
+          </sp>
+          <sp who="#tsyhan">
+            <speaker>Циган</speaker>
+            <p>Хіба це гуска? На: я думав гусак!</p>
+          </sp>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <stage>(бере).</stage>
+            <p>Ах ти, каторжний!</p>
+          </sp>
+          <stage>Той щез.</stage>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Ну, й ти ж проява! Мало гусака не прогавила.</p>
+          </sp>
+          <sp who="#prjanyshnytsja">
+            <speaker>Прянишниця</speaker>
+            <stage>(до дітей і циганчат).</stage>
+            <p>Оступіться, ще покрадете!</p>
+          </sp>
+          <sp who="#khlopcha">
+            <speaker>Хлопча</speaker>
+            <p>Тіточко, дай планичка!</p>
+          </sp>
+          <sp who="#bublejnytsja">
+            <speaker>Бублейниця</speaker>
+            <p>Чи ба, як потіпує!</p>
+          </sp>
+          <sp who="#prjanyshnytsja">
+            <speaker>Прянишниця</speaker>
+            <p>Геть, приблудо!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Чудесно, ловко!</p>
+          </sp>
+          <sp who="#slastonytsja">
+            <speaker>Сластьониця</speaker>
+            <p>Не чіпай дитини, ти!</p>
+          </sp>
+          <sp who="#prjanyshnytsja">
+            <speaker>Прянишниця</speaker>
+            <p>Тьпху на тебе тричі!</p>
+          </sp>
+          <sp who="#slastonytsja">
+            <speaker>Сластьониця</speaker>
+            <p>На свого батька, злодія!</p>
+          </sp>
+          <sp who="#bublejnytsja">
+            <speaker>Бублейниця</speaker>
+            <p>Ого, ловко вкусила!</p>
+          </sp>
+          <sp who="#prjanyshnytsja">
+            <speaker>Прянишниця</speaker>
+            <p>То мій батько злодій? Ах ти, мазнице чортова!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <stage>(почина реготаться).</stage>
+            <p>Ой, ой, ой!</p>
+          </sp>
+          <stage>Груня підкрадається.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ха-ха-ха! Важно!</p>
+          </sp>
+          <sp who="#slastonytsja">
+            <speaker>Сластьониця</speaker>
+            <p>То ти така! На, з’їж!</p>
+            <stage>(Кида сластьоном).</stage>
+          </sp>
+          <sp who="#prjanyshnytsja">
+            <speaker>Прянишниця</speaker>
+            <stage>(кида пряниками).</stage>
+            <p>Ось і тобі!</p>
+          </sp>
+          <stage>Діти і циганчата кидаються підбирати.</stage>
+          <sp who="#bublejnytsja">
+            <speaker>Бублейниця</speaker>
+            <p>Та що ви, сказилися? Рундук мені перевернете?!</p>
+          </sp>
+          <sp who="#prjanyshnytsja">
+            <speaker>Прянишниця</speaker>
+            <stage>(кидається).</stage>
+            <p>Я тобі патлі всі обірву!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <stage>(до сластьониці).</stage>
+            <p>А ти її ваганками!</p>
+          </sp>
+          <stage>Груня одрізує гроші у Мокрини.</stage>
+          <sp who="#bublejnytsja">
+            <speaker>Бублейниця</speaker>
+            <p>Калавур!</p>
+            <stage>(Б’є бубликами одну й другу, що зчепились).</stage>
+          </sp>
+          <stage>Починається спільна валка; рундуки перекинулися.</stage>
+          <sp who="#sotski">
+            <speaker>Соцькі</speaker>
+            <stage>(надбігають).</stage>
+            <p>Беріть їх, п’яниць, до волості!</p>
+          </sp>
+          <sp who="#baby_sydukhy">
+            <speaker>Баби сидухи</speaker>
+            <p>Ой гвалт!!</p>
+          </sp>
+          <sp who="#sotskyj">
+            <speaker>Соцький</speaker>
+            <p>Волочіть їх, анахтемських!</p>
+          </sp>
+          <stage>З реготом їх виводять. Починає вечоріти. Крамарі збирають крам. Дехто зачиня рундуки.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід VII</head>
+          <stage>Ті ж і Цибуля.</stage>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <stage>(схопившись за сорочку).</stage>
+            <p>Ой лишечко! Ой горенько! Пропала ж моя голівонька! А бодай на того пиці чорти горох молотили, хто так зобидив мене! Ой, ой, ой!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Що там, кумо, за нещастя?</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Украли гроші! Ох, злодії гемонські! Пропала ж уся моя огородина!!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>От горе!!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <stage>(надходить).</stage>
+            <p>Чого вже ти ревеш?</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Гроші украли!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Цілуйся тепер! Ах ти, прояво!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Розбійники, душогуби! Витягли, з м’ясом витягли!!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Та де ж ти їх ховала?</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>От тут у сорочці коло пазухи, зав’язала мотузкою… а воно взяло та й одрі-за-ло!!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Ex ти дурна та придуркувата! Ти так ховай, як я ховаю! (Поліз за халяву у чобіт). О! От так ховай, як я ховаю!.. (У другий – нема). От так ховай, як я… (Шарить у кишені). От так ховай, як… (У другій). Що це? (Скида чобіт). От так!.. (Скида другий). Ой гвалт! Обікрадено!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Ох, це ж нечиста коверзує!! Не казала я? Іменно – вони! Та де ж ти був?</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <stage>(тихо).</stage>
+            <p>От там, у жида…</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Ходім! Може, загубив де… От тобі і поярмаркували!</p>
+          </sp>
+          <stage>Пішли плачучи.</stage>
+          <stage>Юрба рідчає. Збираються купами; сідають під возами і осторонь вечеряти. В хатах де-не-де світло.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід VIII</head>
+          <stage>Ті ж і Черевик з Паньком.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ох, коли б і нас ще не обікрали! Ти дивись мені (до Хотини): з батьком од возу – ні кроку!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Та я й не спатиму!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <stage>(виходить з шинку).</stage>
+            <p>Ex, хвацький молодець з тебе: півкварти за одним духом витяг!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Та я й кварту подужаю!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>От так зять! Ще б я не знайшов? Ого!</p>
+            <stage>(Співа).</stage>
+            <l>Ой я жінку посаджу</l>
+            <l>На індичі яйця,</l>
+            <l>А сам з зятем побіжу</l>
+            <l>На ріллю по зайця…</l>
+            <l>Сиди, сиди, Хіврюха,</l>
+            <l>Нас порадить сивуха!</l>
+            <l>Та вже ж прийде-но пора,</l>
+            <l>Що сказиться жінка;</l>
+            <l>Тоді я її з двора</l>
+            <l>Прожену до дідька!</l>
+            <l>Не піддамся зроду їй,</l>
+            <l>Не такий, бач, Солопій!</l>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <stage>(побачивши Солопія).</stage>
+            <p>Уже! Хоч викрути!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Ну, жінко, я найшов дочці женишину!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ах, ти дурень, дурень! Чи ж видано, чи ж слихано, щоб на ярмарку молодих шукали? Чи ти вже і закон християнський забув, опияко, чи тебе на цвіту прибито? Ти подумав би краще, як пшеницю та кобилу з рук збути?! А він – свататись! Гарний, певно, і молодий – голодранець або гультіпака!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Ет, як би не так! Ого-го! Подивилась би ти, що за парубок! Там свита така, що – матері його болячка в ребро – дорожча за твою керсетку і червоні чоботи… Що мені? Єй-богу! А горілку як дме! Та, щоб мене чорт узяв разом з тобою, коли я бачив на віку, щоб хто, не поморщившись, за одним духом стільки витяг!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ну так: йому як п’яниця та заволока, то його й масті! От хоч об заклад, що це той самий шибеник, що ув’язавсь на переправі! Шкода, що не попаду його в руки, а то б знав!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Що ж, Хівре, хоч би й той самий? Чим же він шибеник?</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Е, чим шибеник? Ах ти, бовдуре! Чим шибеник? Де ж ти свої очі в шинку був заставив, чи що? Йому хоч би перед самісіньким його носом в табаці вчинили жінці безчестя – і горенька мало!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(що стояв осторонь, далі, перекинувшись шепотом з Хотиною, виступа).</stage>
+            <p>Простіть мене, мамо: то я невзначай!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ах ти ланце, пройдисвіте, волоцюго, п’янице! Невзначай? Ось я тобі невзначай межи очі плюну!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Та ну-бо, стара, прости йому: що ж він там такого вчинив, що раз у твою пику кизяком ляпнув?!</p>
+          </sp>
+          <stage>Панько понуро одійшов.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Еге, та, я бачу, ти мені й слова не даси вимовити? А то що? Коли це було?</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Мамо, та простіть уже, не сердьтесь!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>І ти туди ж, слинява! Геть мені!</p>
+            <stage>(Штовха в плечі).</stage>
+            <p>А то й за коси візьму!</p>
+            <stage>(Пішла).</stage>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Та доки ж вона буде знущатися?</p>
+            <stage>(Плаче).</stage>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Та цить уже! Бачиш – непереливки!</p>
+            <stage>(Почухавшись).</stage>
+            <p>Господи, боже мій! За віщо така напасть на нас, грішних? І так багато всякої погані на світі, а тут ще й жінок єси сотворив?</p>
+            <stage>(Влазить на воза й ляга).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід IX</head>
+          <stage>Ті ж і Хвенько.</stage>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(до Панька).</stage>
+            <p>Не журись, хлопче! Що даси, що дівчина буде твоєю?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Що хоч!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Оддаси воли за двадцять?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>За п’ятнадцять оддам.</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Давай руку!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>На!</p>
+            <stage>(Перебивають).</stage>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>У тебе тут набереться кілька хлопців?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>А що?</p>
+          </sp>
+          <stage>Чотири старця починають пригравати.</stage>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Забери їх та гайда до руїни! Нашмаруйте пики собі та завийте щось страшне.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Навіщо?</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>А! Піди шапку набий собі!! Треба налякати ярмарок… то вони кинуться по хатах і накриють мачуху твоєї дівчини, бо Хівря тепер, певно, з поповичем…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Невже?</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Джала карде!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Оце штука!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(підходить до Груні).</stage>
+            <p>А ти рви червоний платок та підкидай.</p>
+          </sp>
+          <sp who="#hrunja">
+            <speaker>Груня</speaker>
+            <p>А хто заплатить?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Я.</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Гайда!</p>
+          </sp>
+          <stage>Пішли в глибину.</stage>
+          <sp who="#chotyry_startsja">
+            <speaker>Чотири старця</speaker>
+            <stage>(починають співати).</stage>
+            <l>Хто матір, отця поважає,</l>
+            <l>Того нечиста сила не займає.</l>
+            <l>А душа того в раї панує,</l>
+            <l>Хто милостиньки не жалує;</l>
+            <l>Хто дає і сліпому, й німому,</l>
+            <l>І безруці хромому;</l>
+            <l>А хто не дасть і шага,</l>
+            <l>Той у пеклі задрига!</l>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <stage>(під акомпанемент квартета голосить).</stage>
+            <l>Горе мені, горе, що не рідна мати:</l>
+            <l>Ні в кого й поради серденьку шукати.</l>
+            <l>Ні до кого й словом обізватись стиха,</l>
+            <l>Про свою недолю та про тяжке лихо!</l>
+            <l>Що ж мені почати у такій годині?</l>
+            <l>Випадає гинуть бідній сиротині!</l>
+            <stage>(Ридаючи пішла до кумової хати).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід X. Фінал</head>
+          <stage>Зовсім темніє. Ятки всі закриті. Хто де-не-де лягає спати. Юрба ярмаркова зникла. Солопій спить на возі. Музика проводить ніч і якісь страхи. Над возами, над рундуками в темряві вбачаються фігури Хвенька і Груні, які щось підкидають. Панько з деякими парубками прокрадається в руїну.</stage>
+          <sp who="#hurt">
+            <speaker>Гурт</speaker>
+            <stage>(у руїні).</stage>
+            <l>Гей, чорти, напружмо литки –</l>
+            <l>Дошукати брату свитки:</l>
+            <l>Весь майдан перевернім,</l>
+            <l>Буде дяка нам одним!</l>
+          </sp>
+          <stage>Під музику іде далі розмова.</stage>
+          <sp who="#cholovik_1-j">
+            <speaker>1-й чоловік</speaker>
+            <stage>(підвівшись).</stage>
+            <p>Що воно, чи не вовки виють?</p>
+          </sp>
+          <sp who="#cholovik_2-j">
+            <speaker>2-й чоловік</speaker>
+            <p>А може, й ті, не вночі згадуючи!!</p>
+          </sp>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <stage>(з другого кінця).</stage>
+            <p>Ой чорт! Свитка!!</p>
+            <stage>(Біжить).</stage>
+          </sp>
+          <sp who="#cholovik_1-j">
+            <speaker>1-й чоловік</speaker>
+            <p>Чорт! Чорт!</p>
+            <stage>(Побіг, упав; баба на нього).</stage>
+          </sp>
+          <sp who="#zhinka">
+            <speaker>Жінка</speaker>
+            <stage>(з третього кутка).</stage>
+            <p>Рятуйте, хто в бога вірує!</p>
+            <stage>(Біжить і пада на купу).</stage>
+          </sp>
+          <stage>Прокидаються, схоплюються де-не-де. Чути: «Пробі! Чорти, чорти!!»</stage>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <stage>(з ліхтарем).</stage>
+            <p>Куме! Чи чув, хтось пом’янув чорта?</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>А хоч би він всіх родичів пом’янув!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Ходім: он когось давлять!</p>
+          </sp>
+          <stage>Підходять до купи; збирається юрба з ліхтарями. На купі кричать: «Пробі, чорти душать!!»</stage>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Свят, свят з нами! Світи!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Хто лежить?</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Ніби два чоловіка…</p>
+            <stage>(Тремтить).</stage>
+            <p>Один верху, а другий насподі.</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>А хто ж зверху?</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Баба!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Ото ж і єсть чортяка!</p>
+          </sp>
+          <sp who="#solopij #zhinka #cholovik_1-j #baba #cholovik_2-j #hurt">
+            <speaker>Всі</speaker>
+            <stage>(з ліхтарями, обступивши, співають велебно).</stage>
+            <l>Цур, цур! Сатано, щезни, згинь!</l>
+            <l>Цеє місце освячене ти покинь!</l>
+            <l>В пеклі тобі дано волю, а не тут –</l>
+            <l>Ось вода свята: окропим – і капут!</l>
+            <l>Ох, прогнівавсь милосердний бог на нас, –</l>
+            <l>Бути лиху: наступає кари час!!</l>
+          </sp>
+          <p></p>
+        </div>
+      </div>
+      <div type="act">
+        <head>Дія третя. У кума</head>
+        <stage>Середина хати Антона Цибулі. Звичайні обставини, трошки заможненькі. На стіні дзеркальце заквітчане і картини; на полу багато подушок. Стіл, застелений довгим обрусом.</stage>
+        <div type="scene">
+          <head>Вихід І</head>
+          <stage>Хотина сама.</stage>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <stage>(сидить засмучена, спершись руками на стіл).</stage>
+            <p>Господи, боже мій, коли вже оце поневіряння мені скінчиться? І треба ж було батькові вдруге женитись!? Доскочив таку відьму, що й сам, мов цуцик на мотузку, біга і мені зав’язав світа! Ох, мамо, мамо! Покинула ти мене сиротою! Замість твоєї ласки тепер мене ненавидять так, що, здається, в ложці води утопили б! Вона, ота мачуха, і зіпхнула б мене за першого пройдисвіта, так шкода материних скринь оддавати, а дома я їй, як кістка в горлі: на мене, бач, хлопці звертають більш уваги, ніж на неї… А батько мовчать! Ох, доле моя, гірка та нещаслива!</p>
+            <stage>(Співа).</stage>
+            <l>,</l>
+            <l>Як билинонька в полі,</l>
+            <l>Та не дав мені бог</l>
+            <l>Ані щастя, ні долі!</l>
+            <l>Тільки дав мені бог</l>
+            <l>Красу – карі очі,</l>
+            <l>Та й ті виплакала</l>
+            <l>В самотині дівочій!</l>
+            <l>Ані братика я,</l>
+            <l>Ні сестрички не знала:</l>
+            <l>Між чужими зросла,</l>
+            <l>Та вже й в’янути стала!</l>
+            <l>Де ж дружина моя?</l>
+            <l>Де ви, добрії люде?!</l>
+            <l>Їх нема! Я сама!</l>
+            <l>А дружини не буде!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід ІІ</head>
+          <stage>Хотина і Панько.</stage>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(хутко вбігаючи).</stage>
+            <p>Хотино, ти тут?!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Ох мені лишечко! Хто там?!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Це я – Панько!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Тікай мерщі, бо як застукають…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(обнявши).</stage>
+            <p>Не бійся: мачуха твоя в шинк зайшла, а я прожогом сюди!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <stage>(одпихаючи).</stage>
+            <p>Іди собі, будь ласка… дай хоч каганець засвітю. Ще славу пустиш!.. Геть!!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Що ти, борони боже! Та я тільки прибіг сказати, щоб не журилася: все піде на лад! Знайшлася у твоєї мачухи принада, а ми пастку поставимо – тоді зуміємо і в шори взяти…</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>О!!? Тільки на неї треба добрих віжок!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Знайшовся такий лимар, – позичить!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Ох, не йметься мені віри…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ну побачиш! Уже щоб я порохом сів, а ти будеш моєю! І батько, і мачуха…</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>А може, я затнусь…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ти?! І на тебе єсть спосіб…</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Який?!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Ось який!</p>
+            <stage>(Обійма й співає).</stage>
+            <l>Коли б ти, рибонько,</l>
+            <l>Та теє знала,</l>
+            <l>Як ти до серденька</l>
+            <l>Мені припала, –</l>
+            <l>Ти б не одмовила</l>
+            <l>Ані словечка:</l>
+            <l>До мене б скочила</l>
+            <l>Як та овечка!</l>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <l>Не важся на теє,</l>
+            <l>Любий козаче:</l>
+            <l>Хай цеє серденько</l>
+            <l>По тобі плаче, –</l>
+            <l>А перше, ніж станем</l>
+            <l>Вкупі до шлюбу, –</l>
+            <l>Не будеш горнути</l>
+            <l>Ти свою любу!</l>
+          </sp>
+          <stage>Разом</stage>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <l>На бога надія, –</l>
+            <l>Цей час настане,</l>
+            <l>Тоді вже коханням</l>
+            <l>Нап’юсь я п’яне:</l>
+            <l>До серця серденько,</l>
+            <l>До уст устоньки –</l>
+            <l>I хай тоді зітнуть</l>
+            <l>Хоч головоньки!</l>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <l>Як мене, козаче,</l>
+            <l>Кохаєш рвяне,</l>
+            <l>То час цей щасливий</l>
+            <l>Для нас настане:</l>
+            <l>Тобі дружиною</l>
+            <l>Вірною буду</l>
+            <l>Не зраджу, серденько,</l>
+            <l>Довіку-суду!!</l>
+          </sp>
+          <stage>Після пісні Панько обніма Хотину; вона пручається.</stage>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Ну, геть-бо к чорту! Не перехрестившись, води не пий! Іди ж, іди, бо небезпешно…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Та я зараз… тільки дозволь ще… Хотино, голубко?..</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Не звикай!</p>
+            <stage>(Жартливо випиха).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід ІІІ</head>
+          <stage>Хотина сама.</stage>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Ну що, як не справдиться те, що казав він? Ну що, як мене не віддадуть. Ні, ні, цього не буде! Мачуха робить, що їй на думку спаде, а чи я теж не можу робити, що мені забажається? Не маленька вже, а упертості стане й у мене! Який же він гарний! Як чудово горять його чорні очі! Як промовляє він любо: «Хотино, голубко!» Як пристала йому біла свитка; тільки б пояса гарячішого кольору… Та я вже йому витчу, як перейдемо в нову хату!</p>
+            <stage>(Вийма з-за пазухи маненьке дзеркальце і дивиться).</stage>
+            <p>От буду рада тоді з нею здибатись! Та хоч вона лусни, а я їй не вклонюсь ні за що.</p>
+            <p>Ні, мачухо, годі вже товкти свою пасербицю! Швидч пісок на камені зійде або дуб похилиться в воду, ніж нагнусь перед тобою! Ет, я й забула: а дай приміря хоч мачушин очіпок, чи він до лиця мені буде?</p>
+            <stage>(Достала з пакунку, наділа і тихо, тихо пішла по хаті, придивляючись в дзеркальце).</stage>
+            <p>Що я, справді, мов дитина: боюся ступити ногою!</p>
+            <stage>(Притупує ногами й співа).</stage>
+            <l>Зелененький барвіночку,</l>
+            <l>Стелися низенько,</l>
+            <l>А ти милий, чорнобривий,</l>
+            <l>Присунься близенько!</l>
+            <l>Зелененький барвіночку,</l>
+            <l>Стелися ще нижче,</l>
+            <l>А ти милий, чорнобривий,</l>
+            <l>Присунься ще ближче!</l>
+          </sp>
+          <stage>Музика переходить в танцюристу. Хотина танцює.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід IV</head>
+          <stage>Хотина і Солопій.</stage>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Цур мені й пек, щоб я там ночував! Нечиста сила такий гармидер зняла, що трохи-трохи соняшниці не вхопили! Спасибі кумові: чарчину-другу з баклажки перекинули, то мов полегшало, веселіш на душі стало… Чи ба! Що це їй за примха прийшла самій танцювати? А гарна в мене дочка, єй-богу, гарна! Хто скаже, що вона не моя? Моя, справедлива… от щоб мені табаки не довелось понюхати, коли ні!?</p>
+            <stage>(Любує).</stage>
+            <p>Так, так, дрібушками, а я виступцем…</p>
+            <stage>(Починає притоптувати й співати).</stage>
+            <l>Ой чук, не журись,</l>
+            <l>Сюди й туди повернись!</l>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Тато?!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <l>Узувай мерщі жовтинці,</l>
+            <l>Бо музика тне на ринці!</l>
+            <l>Ой гоп, гопака,</l>
+            <l>Бо я зроду така!</l>
+            <stage>(Садить).</stage>
+            <l>Піддай, доню!!</l>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <l>Ой жовтинці мої,</l>
+            <l>Тільки порються;</l>
+            <l>Козаки за мене</l>
+            <l>Одно – спорються!</l>
+            <l>А я собі ненароком</l>
+            <l>Та й опечу кого оком.</l>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <l>А козаченько до мене</l>
+            <l>Уже й горнеться шалене!</l>
+          </sp>
+          <sp who="#khotyna #solopij">
+            <speaker>Хотина і Солопій</speaker>
+            <l>Ой гоп, гопака,</l>
+            <l>Бо я зроду така!</l>
+            <l>Ой чук, чумандра,</l>
+            <l>Бо ще я не стара!!</l>
+          </sp>
+          <stage>Дочка аж літа, а батько навприсядки.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід V</head>
+          <stage>Ті ж і Хівря.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <stage>(аж руками об поли).</stage>
+            <p>А то що?! Чи ти не сказився, псявіро? Кинув усе чисто на ярмарку та з дочкою гопака садить! Що це ти, залив очі, чи що? І та, подла, туди ж? Завела транди з батьком, а там все покрадуть? От я вас, каторжні!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <stage>(одступа).</stage>
+            <p>Та я тільки за кожухом, бо холодно…</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>А я за свиткою…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Так, так! Зима, бач, надворі!..</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Та з страху… нагнали такого холоду твої родичі…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Які?</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Та… не при хаті згадуючи… чорти…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ах ти, макухо чортова!</p>
+            <stage>(Штовха).</stage>
+            <p>Ах ти, телепне!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Та ну-бо, Хівре… аж обридло… та я… ого!!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Геть мені з хати! Щоб і не рушав з воза! І ти дивись!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Та вже надивилася! Остобісіло!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Поговори, поговори!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Язик не одпаде!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ой, так за патлі й виволочу!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Не чіпайте краще!</p>
+          </sp>
+          <sp who="#solopij">
+            <speaker>Солопій</speaker>
+            <p>Та цить! Ходім!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Не буду мовчати: мені й за вас сором! Буде колись годі!</p>
+            <stage>(Пішла).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід VI</head>
+          <stage>Хівря сама.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ач, як язика розпустила! Потривай, потривай! Сидітимеш ти дома в одній джерзі! Я тебе виманіжу роботою: побачимо, чи погуляєш?.. І хлопців з голови виб’ю! Старий отой пес… та ну їх к чорту! Ось мій голубчичок прийде; я аж злякалася, що на їх міг би наскочити та й утік би. Тепереньки безпешно: оковитої купила, а запіканочки й наливочки з дому взяла. Ось і пиріжки, і курятинка, і млинці: вони хоч і холодні, та, поздоров боже, у Опанаса Івановича зубки добрі.</p>
+            <stage>(Розставля все на столі і зазира у віконце).</stage>
+            <p>Не видно щось; а може, воно злякалось через майдан іти та посунуло огородами? Ану, приміряю отой очіпок, чи не краще до лиця?</p>
+            <stage>(Бере те дзеркальце і той очіпок, що Хотина кинула).</stage>
+            <p>Єй-богу, гаразд; там що не кажи, а я ще багатьох за пояса заткну, як поведу плечем та моргну бровою… О, от так! Трошки керсетку розстібнути та окрутнутися!</p>
+            <stage>(Приспівує і притупує).</stage>
+            <l>Через яр на базар</l>
+            <l>Поночі ходила;</l>
+            <l>Панича-павича</l>
+            <l>Там приворожила!</l>
+            <l>На біду в лободу</l>
+            <l>Попала ногою;</l>
+            <l>Гей, панич! Іди пріч,</l>
+            <l>Не стій наді мною!</l>
+            <l>Ой намисто ж моє</l>
+            <l>Розсипається…</l>
+            <l>А панич, як той сич,</l>
+            <l>Вищиряється!..</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід VII</head>
+          <stage>Хівря і Пречистенський.</stage>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <stage>(стука в вікно).</stage>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <stage>(підскакує).</stage>
+            <p>Хто там?</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Я! Его!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ідіть безпешне: нікого нема!</p>
+            <stage>(Чепуриться).</stage>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Сальве, або помагайбі, гарніссіма, пухтіссіма, гарячіссіма хвемине!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Так уже по-вченому почали говорити, що й не второпаю.</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Вчений єстем здоровендо: номинативус аква, генитивус акви, дативус…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Бозна-що закидаєте, та ще зразу…</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Ха-ха-ха! Це падежі!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Які? Борони боже, скотинячі?</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Ні, граматичеські. О, sancta simplicitas.</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ой, ой, ой! Аж страшно!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Навуки юношів питають, ерго годують.</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ой не видко… по вас; не то – не одгодували, а певно, остатні жили витягли?!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <stage>(поглядаючи на страву).</stage>
+            <p>Справедливендум ест: через них утроба моя до ковбасорум та до куркорум – вопіє.</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Так сідайте ж, сідайте ж, мій голубчику; шкода, що нема тепленького чим живота вам пополоскати…</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Гарячительних напитків не потреблендо.</p>
+            <stage>(Сіда).</stage>
+            <p>А кетьте меліорум чарку горілкорум.</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Зараз, зараз!</p>
+            <stage>(Налива).</stage>
+            <p>Покуштуйте: стрючковатим перцем заправила.</p>
+          </sp>
+          <stage>В вікно зазира Панько і ховається.</stage>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <stage>(п’є).</stage>
+            <p>Оптиміссіма! Прошу репетиції!..</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>На здоров’ячко!</p>
+            <stage>(Налива).</stage>
+            <p>Дуже тільки не репетуйте, щоб не почули!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <stage>(одламує стегно, а в другу руку пиріг, запихається).</stage>
+            <p>Ми тихенько будемус репетиції творити.</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Та по другій же не закусюють!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Справедливо, верітас.</p>
+          </sp>
+          <stage>Хівря налива.</stage>
+          <p>Почекайте, проковтну…</p>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Кушайте, кушайте!.. Ну, як же ви поживаєте? Я чула, що вашому батюшці перепало оце немало всякої всячини!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <stage>(давлячись).</stage>
+            <p>Пустяковина! За ввесь піст мішків п’ятнадцять… (п’є) ярого, проса мішків вісім та курок (знов одбатовує що), та курок штук п’ятдесят… а яйця йому, повірите, знайбільше тухлі носили… Але воістину, найсолодчіссімум приношеніум радендус од вас, ласа хвемине, получити!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ось вам і приношеній, Панасе Івановичу: пампушечки, товченички, вишнівочка, спотикач…</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Велеліпно! (Присува те й друге). Гм-гм! Щоб і язика не проковтнути ще! Самий смак! Оптімо! (Давиться). Бене! (Знов). Обжирательно! (Налива). Прополоскать горлянку треба. (П’є). Ого-го-го! Б’юсь об заклад, що все це зроблено хитрійшими руками із евиного роду!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Призволяйтесь же: ось спотикач!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Можна! (П’є). Важно! Одначе серце моє алчет од вас…</p>
+          </sp>
+          <stage>В друге вікно зазира Хвенько і ховається.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Якої б же вам хотілося ще страви?</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Жажду любові вашої, оптиміссіма хвемине, Хавронієндо Никихворовно, і сопричастних з нею утіх!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Бозна-що… ну, як-таки…</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Жажду і вопію.</p>
+            <stage>(Співа).</stage>
+            <l>Хоч я вчений хвилозоп,</l>
+            <l>А при тобі стультус,</l>
+            <l>Бо як глянеш: – аж окроп</l>
+            <l>Попо жилах мультус;</l>
+            <l>Од тих розкошів і чар</l>
+            <l>Сам сказився б Вальтасар:</l>
+            <l>А у мене ж в капут чад,</l>
+            <l>Що й на стінку лізти рад.</l>
+            <l>О, Пентехрія-жено!</l>
+            <l>Возлюбих тя сатіс,</l>
+            <l>Жду con amore давно</l>
+            <l>Любощів і гратіс!</l>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Вам уже й гратись! Слухайте!</p>
+            <stage>(Співа).</stage>
+            <l>Причепився та прудиус до мене,</l>
+            <l>А хто ж того прудиуса оджене?</l>
+            <l>Цур тобі, прудиусе,</l>
+            <l>Які в тебе руді вуси!</l>
+            <l>Сама собі дивуюся:</l>
+            <l>З прудиусом цілуюся…</l>
+            <l>Ох, мій любий прудиусе,</l>
+            <l>Цур тобі й пек!!</l>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Важно! Голубочко, туртуре моя!</p>
+            <stage>(Обніма).</stage>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ви, либонь, заходитесь іще й цілуватись!?</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Ого-го-го! Можу! Нащот цього так я такий…</p>
+          </sp>
+          <stage>Гвалт. Стук у ворота.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ох, лишенько! Пропали ж ми з вами, Панасе Івановичу! Народу грюкає сила, і мені почувся кумів голос!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Ой мені живіт підвело!</p>
+          </sp>
+          <sp who="#holosy">
+            <speaker>Голоси</speaker>
+            <p>Гей, кумо! Жінко! Одчиняй мерщі!!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Ой куди ж мені? Ой!!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Лізьте під стіл!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>От тобі й дательний падеж! А як ускочу в винительний… ох… ох!! То буде творительний!!</p>
+            <stage>(Лізе під стіл).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід VIII</head>
+          <stage>Цибуля, Мокрина, Черевик і два сусіди.</stage>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Що, кумо? Тебе й досі трясця трясе?</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Еге, щось не теє…</p>
+            <stage>(З острахом на стіл).</stage>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>А там на ярмарку таке завелось… нечиста сила верхи на людях почала їздити, – от щоб мого чоловіка правцем поставило!..</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ох, матінко моя!!</p>
+          </sp>
+          <sp who="#hist_1-j">
+            <speaker>1-й гість</speaker>
+            <p>Одному хазяїну замість шапки макітру насунуло по самісенькі вуха!</p>
+          </sp>
+          <sp who="#hist_2-j">
+            <speaker>2-й гість</speaker>
+            <p>А одній бабі одітнуло от поти манатки; як схопиться… аж нічогісенько, тільки червоний хвіст ззаду теліпається… дак вона давай кричати та драла по базару…</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Ого, ловко! Ото, думаю…</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Налякала хрещений люд! Може, кому й очі поприщить!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Тобі першому!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>І не бачив!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Та годі при хаті про його й згадувати; от обдивітесь краще, добрі люде, чи нема й тут де червоної свитки?</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Давай каганця! Світіть мені!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <stage>(злякано).</stage>
+            <p>Та не шукай його! Цур йому!!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ох, лебедики! Не шукайте краще! Не доведи чого, боже!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Та ми тільки під лавами та під столом подивимось!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ой, ой, ой! Не треба: я зараз лусну!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Держись, сестро!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Несила!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <stage>(до Цибулі).</stage>
+            <p>Та кинь ти!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Ох, кумо, які ж ви слабі на втори!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Воно тошно… а на ярмарку, а хоч би хто тобі хоч спитався про мою пшеницю й кобилу! Мов зав’язано!</p>
+          </sp>
+          <sp who="#hist_2-j #hist_1-j">
+            <speaker>1-й і 2-й гість</speaker>
+            <p>Попорчено.</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>І мене обікрадено… Е, та що там! Доставай, жінко, баклажку, – ми з добрими людьми черкнемо по чарчині, а то проклятущі баби налякали, аж сором! Та я свою шапку ставлю, коли їм, шелихвісткам, не здумалось поглузувати над нами!</p>
+          </sp>
+          <stage>Мокрина подає. Цибуля розлива всім у кухлики.</stage>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>А хоч би й справді сатана! Що мені сатана! Такий і я, щоб злякався! Ого-го! Та хай він зараз переді мною стане, будь я собачий син, коли не піднесу йому під самий ніс дулю!!</p>
+          </sp>
+          <stage>Під столом щось рипнуло. Черевик затрусивсь. Всі заніміли. Пауза</stage>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>А чого ж ти оце пополотнів?</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>А!! Я? Господь з вами! Приснилось!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Ну, будьмо!!</p>
+          </sp>
+          <sp who="#cherevyk #mokryna #hist_2-j #hist_1-j #khivrja">
+            <speaker>Всі</speaker>
+            <p>Будьмо!</p>
+            <stage>(П’ють).</stage>
+          </sp>
+          <sp who="#hist_2-j">
+            <speaker>2-й гість</speaker>
+            <p>Та де йому полотніти? Він червоний як рак або як ота свитка!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <stage>(вихиливши кухоль).</stage>
+            <p>Та скажи мені, куме, будь ласка, що то за чудасія, свитка ота червона?</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Е, куме! Диковина! Воно, хоч би й не годилось проти ночі… та вже слухайте! Раз за якусь-то вину, єй-богу, вже й не знаю, а тільки вигнали одного чорта з пекла…</p>
+            <stage>(Запалює люльку).</stage>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Чортиху!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Чорта!</p>
+          </sp>
+          <sp who="#hist_1-j">
+            <speaker>1-й гість</speaker>
+            <p>Чи ба!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Як же таки, щоб чорта та вигнали з пекла?</p>
+            <stage>(Нюха табаку).</stage>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>А що ж удієш? Вигнали, та й уже, як собаку з хати! Може, він ненароком яке добре діло вчинив чи в бабу закохався…</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Буває…</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Ну й дали, значить, запотилишника. Блукає чорт, блукає: занудився за пеклом, та так, хоч вішайся! Що його робити? Давай він пити. Окублився у тій повітці, де ярмарок, та й ну щодня од ранку до смерку в шинку сидіти…</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Од смерку до ранку…</p>
+          </sp>
+          <stage>Цибуля глянув і похитав головою.</stage>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Як же таки можна, щоб чорта пустив хто в шинок? Адже в його, хвалити бога, і ріжки, і кігті…</p>
+          </sp>
+          <sp who="#hist_2-j">
+            <speaker>2-й гість</speaker>
+            <p>А так…</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Ото-бо й ба, що на йому була шапка і рукавиці – ну й розпізнай! Гуляв ото він, гуляв і пропив усе дочиста; прийшлося чорту заставити жидові за так-гроші свою червону свитку.</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Жовтогарячу…</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Жінко!</p>
+          </sp>
+          <stage>Мокрина затуля собі рот.</stage>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>От чорт і каже йому: «Дивись, жиде, я прийду за свиткою якраз через рік, щоб свитка була ціла!» Та й злиз! Роздивився жид: сукно таке, що і в Миргороді чорт його має, а червоне, аж горить, аж очі вбира, – думає: що я буду ждати? Узяв почесав пейси та й здер з якогось пана мало не п’ять червінців!</p>
+          </sp>
+          <sp who="#hist_1-j">
+            <speaker>1-й гість</speaker>
+            <p>Важно розказує!</p>
+          </sp>
+          <sp who="#hist_2-j">
+            <speaker>2-й гість</speaker>
+            <p>Добре.</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <stage>(сплюнувши).</stage>
+            <p>Тільки раз надвечір…</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Уже пізно, як і собаки поснули…</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <stage>(глянув і помовчав).</stage>
+            <p>Тільки раз надвечір приходить хтось до жида: «Давай, каже, жиде, свитку!»</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Спершу оддав гроші…</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Слухай, жінко! Як я здійму при всіх з тебе спідницю, то не гаразд буде. Глянув жид, пізнав: сюди-туди: «Яку свитку? В мене нема жодної свитки; я знать не знаю твоєї свитки!» Той глянув і щез; а вночі, коли жид, полічивши гроші, нап’явся рядном і почав джерготіти, чує – хрюкіт… зирк! – аж у всіх вікнах свинячі рила…</p>
+          </sp>
+          <stage>Під столом щось мов хруснуло чи чхнуло.</stage>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Що?</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Нічого…</p>
+            <stage>(Трясеться).</stage>
+          </sp>
+          <sp who="#hist_1-j">
+            <speaker>1-й гість</speaker>
+            <p>Га?</p>
+          </sp>
+          <sp who="#hist_2-j">
+            <speaker>2-й гість</speaker>
+            <p>Ти сказав?</p>
+          </sp>
+          <sp who="#hist_1-j">
+            <speaker>1-й гість</speaker>
+            <p>Ні!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Хто ж це хрюкнув?!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Може, це ти, Хіврюшко, хрюкнула?</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Одчепись!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Бог його зна… роздивитись би…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <stage>(не пускаючи).</stage>
+            <p>Ex ви, баби, баби! Та чи вам же козакувати? Вам би веретено в руки та за гребінь! Один хто-небудь… може, прости господи, під ким стільчик рипнув… а вони вже й шелеснулись…</p>
+          </sp>
+          <sp who="#dekhto">
+            <speaker>Дехто</speaker>
+            <p>Та, може, й правда.</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <stage>(випивши знов кухоль).</stage>
+            <p>Жид зомлів; а проте свині на довжелезних ногах повлазили в вікна й одживили його тройчатими канчуками, заставивши плигати аж під сволока. Жид у ноги… признавсь у всім чисто… Але свитки не можна вже було вернути: пана обікрав на дорозі якийсь циган і продав свитку перекупці.</p>
+            <stage>Мокрина почина мичати. Цибуля б’є по столі кухлем. Мокрина затуляє рот.</stage>
+            <p>Та привезла її на Сорочинський ярмарок; але з того часу їй як одрізало: ніхто нічого не купує. Перекупка дивувалась, дивувалась, а далі збагнула, що виною всьому свитка червона, та й шусть її у вогонь!.. Що ж би ви думали? Не горить чортяча одежа!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>З нами хресна сила!</p>
+          </sp>
+          <stage>Чути здалеку тихо хор: «Всі чорти напружмо литки!» Музика проводить страховину.</stage>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Щось виє!</p>
+          </sp>
+          <sp who="#hosti">
+            <speaker>Гості</speaker>
+            <p>Мов у комині!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>На горі Арараті стала П’ятінка прати; ох, П’ятінко, не пери, а мене од нечистої сили бери!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Та що ви? То вітер.</p>
+            <stage>(Знов вихилив кухоль).</stage>
+            <p>«Е, та це подарунок чортячий!» – сказала перекупка і підсунула в віз одному мужику на ярмарку: дурень зрадів, але масла в нього ніхто не купив ані грудочки. «Ex, недобрі руки підкинули мені оцю свитку!» Схопив сокиру і порубав свитку в шматки… Зирк! Лізе один шматок до другого – і знов ціла свитка! Перехрестився він, порубав її вдруге і шматки порозкидав по всьому майдану та й рушив додому. Тільки ж з того часу щороку, якраз у ярмарок, чорт з свинячою пикою ходить по всьому майдану, хрюка і підбира шматки своєї свитки; кажуть, тепер одного лівого рукава йому й бра…</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід IX</head>
+          <stage>Ті ж і Хвенько та Панько з хлопцями, одягнутими чортами з свинячими пиками.</stage>
+          <stage>Вікно брязнуло одно й друге разом, і свинячі рила виставились в шибки.</stage>
+          <sp who="#tsybulja #mokryna #hosti #cherevyk #khivrja hist_1-j #hist_2-j">
+            <speaker>Всі</speaker>
+            <p>Ой! Ой! Рятуйте! Чорти!!</p>
+            <stage>(Скам’яніли на місці).</stage>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Пробі!</p>
+            <stage>(Підвівся і підняв на собі цілий стіл; баклаги і чарки покотилися; стіл потім звалився).</stage>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Ой! Сатана!! Хто в бога вірує!!</p>
+            <stage>(Упала на лаву).</stage>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Рятуй!!</p>
+            <stage>(Стромля голову їй під керсетку).</stage>
+          </sp>
+          <stage>Сусіди кинулись один під піл, другий на піл, а Черевик ускочив у саму піч і дрига ногами.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ои, пропала я!</p>
+          </sp>
+          <sp who="#chorty">
+            <speaker>Чорти</speaker>
+            <stage>(вбігають і хапають Афанасія Івановича і Хіврю, що стоять слупами серед хати, та й в’яжуть їм руки, приспівуючи, пританцьовуючи, похлопуючи їх канчуками).</stage>
+            <l>Гей, хапаймо їх мерщій,</l>
+            <l>Бо в них з свитки рукав мій;</l>
+            <l>Поки не доточуть свитки,</l>
+            <l>Канчуками шквар їм литки!</l>
+          </sp>
+          <stage>На лемент і гвалт завіса спада.</stage>
+        </div>
+      </div>
+      <div type="act">
+        <head>Дія четверта. На дворищі</head>
+        <stage>Дворище Цибулі. На першім плані справа і зліва по хліву, дверцями до зрителів; на третім плані справа – хата, зліва – комора; між ними вздовж кону тини з воротами; далі за воротами ярмарочний плац і село. Світає.</stage>
+        <div type="scene">
+          <head>Вихід І</head>
+          <stage>Хівря і Афанасій Іванович прив’язані до слупів у хліві.</stage>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <stage>(стогне).</stage>
+            <p>Ой! Ой! Підступило! Живіт… живіт мій вічний! Ох, і курятина, і пироги, і ковбаси – все пропаде марно…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ой, світає вже! Як здибають тут з вами, пропала я: чоловік, кум, увесь ярмарок! Ви ж учені, то хоч би молитви які читали, то, може, воно одпустить! Ой лелечко, ой матінко!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Мно… вло… дло… тло… зло… Бийся в вікно скло! Рци… слово… он… товчи макогон! Бийся сокира з обухом – нечистій силі со духом! Щоб вона в пеклі сиділа, бо до нас нема діла, щоб щезли їхні події, як гаснуть зорі блідії… Згинь, сатано, к Вельзевулу, бо Середа піднесе тобі дулю!.. Згинь! Цур тобі й пек!</p>
+            <stage>(Борикається, щоб розв’язатись).</stage>
+            <p>Не бере!</p>
+          </sp>
+          <stage>Чути з ярмарку: «Решетилівського шапка!», «По сластьоне, по сластьоне!», «Покажи курку?», «Що хоцешь!?», «Дурна!», «Тпру!», «Куди ідеш?»</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ох, уже прокинувся ярмарок! Читайте далі голосніш: мені вже нечиста сила одну ногу пустила.</p>
+            <stage>(Борсається).</stage>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <stage>(почина виспівувати).</stage>
+            <l>Ох, коли б возможно на аер літати;</l>
+            <l>Вільно, з високостей землю обзирати!</l>
+            <l>Но не можно, невозможно, о-пас-но!</l>
+            <l>По тобі, Хавросю, серцем ізниваю</l>
+            <l>І тебе обняти зв’язаний бажаю…</l>
+            <l>Но не можно, невозможно, на-прас-но!</l>
+            <l>Ох, коли б як можна позбутися муки,</l>
+            <l>З грубої вірьовки слобонити руки…</l>
+            <l>Но не можно, невозможно, у-жас-но!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід ІІ</head>
+          <stage>Хівря, Афанасій Іванович, Хотина, а потім парубки і дівчата.</stage>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <stage>(ввіходить у ворота, ламаючи руки).</stage>
+            <p>Господи! Що ж мені в світі божому робити? Тікай тепер хоч світ за очі од тієї відьми, бо кажуть люде, що чорти й батька вхопили!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>От гаразд, як так сталося!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Било би найоптиміссіме… а тепер «квоускве тандем Катіліна абутере пацієнція ностра»?</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>По гріхах усе…</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Та єгда би хоч тако, а то… о, ме мізере!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <stage>(схилившись на тин, голосить).</stage>
+            <l>Та коли б мені воля,</l>
+            <l>Та коли б мені доля, –</l>
+            <l>То я б не журилась,</l>
+            <l>А все б веселилась!</l>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Сладосно співа віргіна.</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>А ви вже й на неї закинули оком?</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>І на думку не йде при такой позиції…</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <l>Ой сама ж я в неволі,</l>
+            <l>Як билинка у полі, –</l>
+            <l>Вітер коливає,</l>
+            <l>Поки не зламає!</l>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Xiвря</speaker>
+            <p>От, голосить почала! Ще люде збіжаться!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Ой лихо! Віргіне, таце!</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <l>Ой піду ж я до гаю –</l>
+            <l>Свою тугу розмаю:</l>
+            <l>Чи в глибокій річці,</l>
+            <l>Чи на тонкій гілці…</l>
+          </sp>
+          <stage>Надходять за воротами дівчата, а за ними і парубки.</stage>
+          <sp who="#divchyna_1-a">
+            <speaker>1-а дівчина</speaker>
+            <p>Гля, то Черевикова дочка голосить.</p>
+          </sp>
+          <sp who="#divchyna_2-a">
+            <speaker>2-а дівчина</speaker>
+            <p>Вона, вона! Ходімте розважимо її!</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>То вона за Паньком так.</p>
+          </sp>
+          <sp who="#parubok_1-j">
+            <speaker>1-й парубок</speaker>
+            <p>Ой, ой! Заміж ото хочеться: ану, утнім їй весільної!</p>
+          </sp>
+          <stage>Парубки і дівчата обступають Хотину.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Зібрала-таки юрбу! Пропащі!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Притрусіть мене соломкою… бога ради… потому, аще начнуть канчуками, то сія вещ в большом количестві нестерпимая…</p>
+          </sp>
+          <sp who="#parubky #divchata">
+            <speaker>Парубки і дівчата</speaker>
+            <stage>(співають).</stage>
+            <l>Гей, летів орел над ліщиною,</l>
+            <l>Над ліщиною, над калиною;</l>
+            <l>На червоній же на тій калиноньці</l>
+            <l>Сидить горлинка та на гілоньці.</l>
+            <l>Як уздрів орел тую горлинку,</l>
+            <l>Із-за хмари впав він додолинку;</l>
+            <l>Аж почувся тут голос жалібний</l>
+            <l>Під червоною під калиною:</l>
+            <l>«Ти не бий мене, орле заздрісний, –</l>
+            <l>Тобі бутиму я дружиною».</l>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <stage>(ще більше заголосила).</stage>
+            <l>Ой матінко ріднісінька,</l>
+            <l>Одна я тут, однісінька!</l>
+            <l>Нема й батька – десь загинув,</l>
+            <l>Сиротою мене кинув</l>
+            <l>Лихій мачусі на муки…</l>
+            <l>Ой здійму на себе руки:</l>
+            <l>А ти, ненько, коли мога, –</l>
+            <l>Замоли мій гріх у бога!</l>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <p>Вона й справді! Та годі, серденько!</p>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <p>Не знать що! Ходім її батька знайдемо і мачусі не дамо на поталу!</p>
+            <stage>(Пішли).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід ІІІ</head>
+          <stage>Хівря, Афанасій Іванович, Панько і Хвенько.</stage>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(ввіходить з Паньком).</stage>
+            <p>Що воно, мов стогне хтось у хліві?</p>
+            <stage>(Підморгує).</stage>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(крізь сміх).</stage>
+            <p>А подивимось!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ой рятуйте!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Капут: тепер накладуть!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Гелеге! Це ви, паніматко?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Що це з вами за пригода?</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <stage>(плаче)</stage>
+            <p>Нечиста сила…</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Ой джа! Ото й вона?</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ох, не питайся!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Так я її!</p>
+            <stage>(Б’є батогом).</stage>
+          </sp>
+          <stage>Афанасій Іванович пручається і вищить.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Не руште!.. З’їсть!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Та не чіпай!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ох, не чіпай! Рогами заколе!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Го-го-го! Ховається в солому, як свиня! Роздивитись би…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Лишенько! Не дивись!.. Що хочете!..</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Не противсь парубкові…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Я вас розв’яжу, паніматко.</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Розв’яжи, голубчику! Пусти душу на покаяніє!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>А ви вже простіть мене: то невзначай… єй-богу… з дуру…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Та… хай уже… тільки рятуй… і чорта…</p>
+          </sp>
+          <stage>Афанасій Іванович більше пручається і верещить.</stage>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Не мішайсь до Хотини, то й сатану пустимо…</p>
+            <stage>(Сміється).</stage>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Соглашайся, хвемино! Ай, ай! Канчуки знатні!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Та будь вона!.. Тільки розв’язуй мерщі…</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Я зараз…</p>
+            <stage>(До Панька).</stage>
+            <p>Не руш уже чорта, бо йому і в пеклі за бабу достанеться.</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <stage>(перервав вірьовку і навтікача).</stage>
+            <p>О темпора! О морес!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(за полу його).</stage>
+            <p>А куди? Ловіть його! Го-го! Тільки хламида зосталася!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(розв’язавши).</stage>
+            <p>Так благословіть же, паніматко!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Після… а тепер гетьте! Бо ще з мене нечиста сила не вийшла.</p>
+            <stage>(Пішла в хату).</stage>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Що ж це вона? Знов своєї?!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Не бійся: оця хламида виручить. Іди шукай свою дівчину, – та й уже!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Дивись же!</p>
+            <stage>(Пішов).</stage>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(услід).</stage>
+            <p>Справу виграємо!</p>
+            <stage>(Приспівує).</stage>
+            <l>Ой лихо, той Хвенько,</l>
+            <l>Циган справжній, – не хвалько!</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід IV</head>
+          <stage>Черевик, Хвенько, соцький і люде.</stage>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <stage>(веде в ворота кобилу).</stage>
+            <p>Косю! Косю! Слава богу, хоч світа діждалися, а то нечиста сила попоморочила! Ньо, сіра! Ньо, ньо!</p>
+          </sp>
+          <stage>Тим часом Хвенько моргнув, і два цигани, що крались за Черевиком, одрізали повід, одвели кобилу, а до повода учепили щось червоне і закинули на кілок.</stage>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(б’є Черевика по плечу).</stage>
+            <p>Гі, приятелю! Що продаєш?</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Сам бачиш, що продаю…</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Ге, джуздере! Ремінці?</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Та й ремінці ж, коли кобила на ремінці схожа.</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Але ж, земляче, бий тебе той, що з ріжками: ти її, певно, соломою годував?</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Тю! Соломою?! Ньо, сіра! Ньо, косю, ньо! Чого вперлась?</p>
+            <stage>(Глянувши).</stage>
+            <p>Ой! Сатанинське навожденіє!</p>
+            <stage>(Побіг).</stage>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Ловіть його! Ловіть злодія! Кобилу вкрав! Го-го-го!</p>
+          </sp>
+          <sp who="#holosy">
+            <speaker>Голоси</speaker>
+            <p>Лови! Хапай! Держи!</p>
+            <stage>(Піймали).</stage>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(до соцького).</stage>
+            <p>Це той самий, що вкрав кобилу у Черевика.</p>
+          </sp>
+          <sp who="#sotskyj">
+            <speaker>Соцький</speaker>
+            <p>В’яжіть його!</p>
+          </sp>
+          <stage>Черевика в’яжуть.</stage>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Господь з вами! Я ж той самий… За що ви мене в’яжете?</p>
+          </sp>
+          <sp who="#sotskyj">
+            <speaker>Соцький</speaker>
+            <p>Ще й питає! А нащо ти вкрав у доброго чоловіка, у Черевика, кобилу?</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Та чи ви з глузду не зсунулись? Ну, де ж видано, щоб чоловік сам у себе що вкрав?</p>
+          </sp>
+          <sp who="#sotskyj">
+            <speaker>Соцький</speaker>
+            <p>Стара байка! А чого ти щодуху тікав, мов сатана за тобою гнався?</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Поневолі побіжиш, коли сатанинська одіж…</p>
+          </sp>
+          <sp who="#sotskyj">
+            <speaker>Соцький</speaker>
+            <p>Е, голубчику! Мороч других! Киньте його у той хлів! Буде ще тобі од засідателя, щоб ти чортячиною не полохав добрих людей.</p>
+          </sp>
+          <stage>Черевика пхнули у хлів.</stage>
+          <sp who="#holosy">
+            <speaker>Голоси</speaker>
+            <p>Лови його! Лови, хапай! Он утікач! Он злодій!</p>
+          </sp>
+          <stage>Коло воріт схопили Цибулю й ведуть.</stage>
+        </div>
+        <div type="scene">
+          <head>Вихід V</head>
+          <stage>Цибуля, Стась та парубки.</stage>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Ой за віщо? Присяйбі, я нічого! Випив у шинку тільки чарочку… бо нечиста сила холоду нагнала…</p>
+          </sp>
+          <sp who="#sotskyj">
+            <speaker>Соцький</speaker>
+            <p>Та ти ледве на ногах стоїш!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>З переполоху… одну чарочку, – не більше… бо коли б глянув, які у чортяк пики… як твоя, приміром…</p>
+          </sp>
+          <sp who="#sotskyj">
+            <speaker>Соцький</speaker>
+            <p>Так ти ще й базікати? В’яжіть його!</p>
+          </sp>
+          <sp who="#stas">
+            <speaker>Стась</speaker>
+            <p>Чудасія, мосьпане! Послухали б, що провадить цей зух, що тільки глянути у вічі, то кожен скаже, що злодій! Питаємось: «Чого тікав, мов скажений?» – «Поліз, каже, в кишеню за люлькою, та замість неї витяг шматок червоної свитки, аж полум’я спалахнуло…»</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>І спалахнуло! Далебі! Хіба я п’яний, чи що? Випив з переполоху чарочку… а тут сатана… і побіжиш: коли од баби часом побіжиш, то як же од сатани?</p>
+          </sp>
+          <sp who="#sotskyj">
+            <speaker>Соцький</speaker>
+            <p>Еге-ге! Та це з одного гнізда птахи! Саджайте ж їх в одну клітку!</p>
+          </sp>
+          <stage>В’яжуть і кладуть до Черевика.</stage>
+          <sp who="#holosy">
+            <speaker>Голоси</speaker>
+            <p>Держіть, держіть злодія!</p>
+          </sp>
+          <sp who="#sotskyj">
+            <speaker>Соцький</speaker>
+            <p>Рушай! Пильнуй! Переймай!</p>
+          </sp>
+          <sp who="#baba">
+            <speaker>Баба</speaker>
+            <p>Ой гвалт! Горшки побили!</p>
+          </sp>
+          <sp who="#sotskyj">
+            <speaker>Соцький</speaker>
+            <p>Мовчи, баба! Казенное діло!..</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід VI</head>
+          <stage>Черевик і Цибуля.</stage>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Це ти, куме?</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Я.</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>І тебе зв’язано?</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Попущеніє.</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Може, й справді ти підголив?</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>І ти туди ж? Та щоб мені руки і ноги покорчило, коли я що у кого крав, окрім вареників дитиною у матері, – царство їй небесне!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Добра була покійниця.</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Жалувала, а тепер от напасть… хіба я п’яний, чи що, щоб красти?.. Випив чарочку з страху… тошно…</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>І не згадуй!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>А то б крав!</p>
+            <stage>(Хлипа).</stage>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>За віщо ж це, куме, напасть! Тобі ще нічого: тебе винують, що ти у другого вкрав, а за що ж на мене, нещасного, поклеп такий: ніби я сам у себе свою ж власну, рідну кобилу й украв?! Видко, нам, куме, на роду так написано!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Горе нам, сиротам бідним! Нема в мене ні батька, ні матері, щоб заступилися.</p>
+            <stage>(Плаче більше).</stage>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Не плач! За все благодареніе господу милосердному!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Хоч би ж я п’яний… а то вкрав! Мене обікрадено… капуста, огірки, картопля… все прахом пішло!!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>А ти знаєш… глянь оком на храм господень і скажи: «Поможи тому боже, хто мене зобидив!»</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Поможи тому боже… дай хоч табаки понюхати…</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Руки ж зв’язані!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Горе нам!</p>
+            <stage>(Співа сльозно).</stage>
+            <l>Ой горе нам, горе,</l>
+            <l>Як чайці-небозі,</l>
+            <l>Що попалась в сильце</l>
+            <l>При битій дорозі!</l>
+          </sp>
+          <sp who="#cherevyk #tsybulja">
+            <speaker>Черевик і Цибуля</speaker>
+            <l>Ох, ми сироти бідненькі –</l>
+            <l>Нема ж у нас отця й неньки!</l>
+            <l>Хто ж поверне нам той збиток,</l>
+            <l>Хто ж заступиться за діток?</l>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <l>Хто голівку змиє</l>
+            <l>Зв’язаному сину,</l>
+            <l>Хто нас приголубить,</l>
+            <l>Піднесе чарчину?</l>
+          </sp>
+          <sp who="#cherevyk #tsybulja">
+            <speaker>Черевик і Цибуля</speaker>
+            <l>Ох, ми сироти бідненькі і т. д.</l>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід VII</head>
+          <stage>Ті ж і Панько з Хвеньком.</stage>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <stage>(підходить до хліва).</stage>
+            <p>Що це з вами, тату? Хто це зв’язав вас?</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>А! Голопупенко, Голопупенко!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Та я вас зараз, тату!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Оце, куме, той самий, що я казав: за одним духом кухоль мало не з твою голову випив.</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Митець, митець! А я тільки чарочку…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Зараз і вас розв’яжу… тільки оддайте ж дівчину…</p>
+            <stage>(Розв’язує).</stage>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Та я б радніший… а що ти зробиш з жінкою, коли в неї сім кіп чортів сидить…</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Та що ти потураєш бабі? Ти ж чоловік?</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Та я… що й казать… я… я…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Та звісно – ви батько, не хто…</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>От і вшквар таке весілля, щоб і чарочку… щоб цілий рік боліли ноги після гопака!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Що справді? Я – ого! Та мені тепер так весело, немов мою стару вкрали цигане!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Вкрадемо, аби могорич!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>О! Ану!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Дивіться ж, тату, щоб уже назад не йшли; а ось вам гроші за кобилу й пшеницю.</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Ще й добрі гроші.</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Так кобила знайшлась?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Знайшлась, і купців Хотина знайшла.</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>От тобі яке щастя: і пшениця, і зять, і кобила… а мені…</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Начхай, куме! Весілля справимо!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>І зараз!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Спасибі вам, батьку, дядьку!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Ого! Я покажу, що я! У мене зразу кінець усьому – значить, шапка… Що мені жінка?</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід VIII</head>
+          <stage>Ті ж і Хівря.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <stage>(вийшла з хати).</stage>
+            <p>І де це мій вовтузяка? Пропав, як собака на ярмарку!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Ой жінка! Біда!</p>
+            <stage>(Присів).</stage>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>А ти, куме, по-запорозьки!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Ні, я вже за вас, куме… бо куди!.. Звісно – гірш сатани!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(сміється).</stage>
+            <p>Та ти їй дай грошей, то вона й злизне…</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <stage>(злякано).</stage>
+            <p>Хіврюшко!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>А! Ти тут?</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>На ось тобі грошеняток, купуй собі що… усе спродав…</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>О?! Оце гаразд! За це спасибі, мій лебедику!</p>
+            <stage>(Пішла хутко).</stage>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід IX</head>
+          <stage>Ті ж і Мокрина, а далі Хотина і гурт.</stage>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <stage>(до Цибулі).</stage>
+            <p>Ось він, мій голубчик сивесенький, мій горобчичок!</p>
+            <stage>(Обніма).</stage>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Що ти, – чи не п’яна?</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <stage>(плаче).</stage>
+            <p>Як же мені не обнімати мого одуда, коли думала, що вже тебе чорти вхопили! По всьому ярмарку шукала мого перепела чубатого!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>О? А я не п’яний… тільки одну чарочку… з страху… тошно…</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>А ми оце, кумо, весілля… щоб зараз… бо я – ого! В мене зразу і цоб, і цабе!</p>
+          </sp>
+          <stage>Панько побіг назустріч Хотині й шепоче їй шось, щасливий. В ворота помалу ввіходять парубки і дівчата.</stage>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>О? Кого ж з ким?</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Дочку мою Хотину, настоящу, справжню…</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Зі мною, тіточко.</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Молодець, єй-богу, молодець! Коли ж?</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Зараз… тобто… Еге! Щоб жінка не теє… бо я… звісно… що я? Черевик? Так, кумонько? Черевик я, а не постіл? От що!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Авжеж! Знаю дівку, – Хотина? Еге ж, Хотина: рука дебела, нога дебела: саме на порі.</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>А мачуха не дає заміж.</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Не дає?! А дівка, певно, аж кричить?</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Пищить!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Так ви, кумо, поблагословіть!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Що ж? На таке діло з радістю.</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>От спасибі вам!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>А ти як, дочко?</p>
+          </sp>
+          <sp who="#khotyna">
+            <speaker>Хотина</speaker>
+            <p>Та я… проти батьківської волі не піду…</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Бач!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>А самій мов і не теє.</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Кланяйся ж посаженій матері!</p>
+          </sp>
+          <stage>Хотина кланяється обом.</stage>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <stage>(Паньку).</stage>
+            <p>Ну що, воли тепер мої?</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Твої, твої!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <stage>(до підходячого гурту).</stage>
+            <p>А у нас тут весілля: Панько Хотину бере!</p>
+          </sp>
+          <sp who="#parubky">
+            <speaker>Парубки</speaker>
+            <p>Славно! Оце так!</p>
+          </sp>
+          <sp who="#divchata">
+            <speaker>Дівчата</speaker>
+            <p>От весело!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Погуляємо на цілу кобилу!</p>
+          </sp>
+        </div>
+        <div type="scene">
+          <head>Вихід X</head>
+          <stage>Ті ж і Хівря, а потім жид, жидівка і Афанасій Іванович.</stage>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <stage>(приходить з покупками і дочувшись).</stage>
+            <p>Що? Як? Без мене? Не попущу, не попущу!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Ой лихо! Знов жінка! Рятуйте, люде добрі!</p>
+          </sp>
+          <sp who="#tsybulja #mokryna #khvenko #panko #zhyd #zhydivka #parubky #cherevyk #divchata">
+            <speaker>Всі</speaker>
+            <p>Женіть відьму!</p>
+            <stage>(Не пускають її).</stage>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Мене гнати? Ось я вам! Подайте мені Черевика!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Що це? Знов! Не пускайте!</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>А хламида ця? При всіх виявлю!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Xівря</speaker>
+            <p>Ой не видержу! Пустіть, хоч натовчу чоловіка!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Ой не пускайте! У неї кулак з відро!!</p>
+          </sp>
+          <sp who="#holosy">
+            <speaker>Голоси</speaker>
+            <p>Держіть, держіть злодія!</p>
+          </sp>
+          <sp who="#zhyd">
+            <speaker>Жид</speaker>
+            <stage>(гониться за Афанасіем Івановичем).</stage>
+            <p>Гей, держіть злодія! Хапайте бурсака. Шапку! Решетилівську шапку вкрав!</p>
+          </sp>
+          <sp who="#zhydivka">
+            <speaker>Жидівка</speaker>
+            <stage>(гониться).</stage>
+            <p>Ой мамеле! Ой тателе! Тараню вкрав! Папушу вкрав!</p>
+          </sp>
+          <sp who="#holosy">
+            <speaker>Голоси</speaker>
+            <p>Переймай! Переймай!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Ох лишенько! Чи це воно не з голоду?</p>
+            <stage>(До Панька і Цигана).</stage>
+            <p>Рятуйте: на все згодна!</p>
+          </sp>
+          <stage>Афанасій Іванович біжить повз ворота; за ним женуться, переймають і хапають.</stage>
+          <sp who="#zhydivka">
+            <speaker>Жидівка</speaker>
+            <p>Ах ти, мешигене, шарлатан! Папушу оддай! Тараню, тараню!</p>
+          </sp>
+          <sp who="#zhyd">
+            <speaker>Жид</speaker>
+            <stage>(засапався).</stage>
+            <p>Решетилівську… шапку!.. Шапку!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Клевета клевет і всяческая клевета!</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Вирятуй, а то воно, бідне!..</p>
+          </sp>
+          <sp who="#khvenko">
+            <speaker>Хвенько</speaker>
+            <p>Ага!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Не бійтесь, мамо!</p>
+          </sp>
+          <sp who="#zhyd">
+            <speaker>Жид</speaker>
+            <p>Ой люде добрі! Ix бін аід… щоб я луснув… решетилівська шапка… смушок антик… щоб я своєї Сурке не бачив… щоб я гугелю не їв… первий сорт… з червоним верхом… Ой вей мір!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Це твій ускочив?</p>
+          </sp>
+          <sp who="#khivrja">
+            <speaker>Хівря</speaker>
+            <p>Вирятуй!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Брехня од коліна Іудина!..</p>
+          </sp>
+          <sp who="#zhydivka">
+            <speaker>Жидівка</speaker>
+            <p>Як брехня! Гершти! Щоб я шабашу не діждалась! Така слічна тараня, як золото… і папушка… Ой мамеле! Ой тателе!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Що ви їм вірите? Клянусь Горацієм і Ювеналом, – брехня!</p>
+          </sp>
+          <sp who="#zhydivka">
+            <speaker>Жидівка</speaker>
+            <p>Брехня? А це що?</p>
+            <stage>(Витяга папушу).</stage>
+            <p>Брехня?</p>
+            <stage>(Витяга тарань).</stage>
+            <p>А це що? Ах ти шарлатан! Бурсак!</p>
+          </sp>
+          <sp who="#zhyd">
+            <speaker>Жид</speaker>
+            <p>А то шьо? Шапка! Решетилівська шапка! Моя!</p>
+            <stage>(Витяга з-за пазухи).</stage>
+          </sp>
+          <sp who="#tsybulja #mokryna #khvenko #panko #zhyd #zhydivka #parubky #cherevyk #divchata">
+            <speaker>Всі</speaker>
+            <p>Ха-ха-ха! Ото цапонув!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Підкинули! Єй-єй, підкинули!</p>
+          </sp>
+          <sp who="#zhydy">
+            <speaker>Жиди</speaker>
+            <p>Ах ти, мошельнику!</p>
+          </sp>
+          <sp who="#panko">
+            <speaker>Панько</speaker>
+            <p>Цитьте, жндова! То я послав його купити: ось і гроші!</p>
+          </sp>
+          <sp who="#afanasij_ivanovych">
+            <speaker>Афанасій Іванович</speaker>
+            <p>Я ж говорив…</p>
+          </sp>
+          <sp who="#zhydy">
+            <speaker>Жиди</speaker>
+            <p>Гроші? А гіт гешефт!</p>
+          </sp>
+          <sp who="#mokryna">
+            <speaker>Мокрина</speaker>
+            <p>Подавіться та й далі… а ми веселитись!</p>
+          </sp>
+          <stage>Жиди пішли весело.</stage>
+          <sp who="#khivrja">
+            <speaker>Xівря</speaker>
+            <p>Добрий парубок!</p>
+          </sp>
+          <sp who="#cherevyk">
+            <speaker>Черевик</speaker>
+            <p>Годі гвалту! Цупте сюди горілки, меду, музик!.. Ого! Я покажу, що я Черевик!</p>
+          </sp>
+          <sp who="#tsybulja">
+            <speaker>Цибуля</speaker>
+            <p>Гуляй, катай! Ануте, хлопці й дівчата, вшкварте!</p>
+          </sp>
+          <stage>Надходить музика.</stage>
+          <sp who="#hurt">
+            <speaker>Гурт</speaker>
+            <l>Узуй, відьмо, чобітки</l>
+            <l>Та набий собі п’ятки;</l>
+            <l>Тут тобі тепер не в пору,</l>
+            <l>Полети на Лису гору!</l>
+          </sp>
+          <stage>Починаються танці.</stage>
+          <l>Гей, парочко,</l>
+          <l>Будь весела і щасна!</l>
+          <l>Сип же меду і вина</l>
+          <l>Нам, шинкарочко!</l>
+          <sp who="#tsyhan #hrunja">
+            <speaker>Циган і Груня</speaker>
+            <stage>(приспівуючи, пускаються у танець і далі, при спільнім танці, на першім плані танцюють).</stage>
+            <l>На поповій, гей, на дачі,</l>
+            <l>Там їхав мужик на клячі…</l>
+            <l>Гей, гей, ти, Хотино,</l>
+            <l>Ой мамеле, джа дівчино!</l>
+            <l>А чом не ночуєш дома,</l>
+            <l>Моя гуга чорноброва!</l>
+            <l>Гм-да-лала, гм-да-ла!</l>
+            <l>Гм-да-лала, да-лай-лом!</l>
+          </sp>
+          <sp who="#tsybulja #mokryna">
+            <speaker>Цибуля і Мокрина</speaker>
+            <l>Ох ти ж моя</l>
+            <l>Попереднице!</l>
+            <l>Уже ж твоє дівування</l>
+            <l>Та не вернеться!</l>
+          </sp>
+          <sp who="#hurt">
+            <speaker>Гурт</speaker>
+            <l>Гей, парочко,</l>
+            <l>Будь весела і щасна!</l>
+            <l>Сип же меду і вина</l>
+            <l>Нам, шинкарочко!</l>
+          </sp>
+          <stage>Спільні танці і бучна музика.</stage>
+          <p></p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
