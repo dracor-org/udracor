@@ -88,6 +88,13 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
+    <standOff>
+    <listEvent>
+      <event type="written" when="1913">
+        <desc>Ця драматична поема написана в 1913 році. https://www.l-ukrainka.name/uk/Studies/DoubleBottom/OrphChudo.html</desc>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <body>
       <div type="act">
