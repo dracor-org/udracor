@@ -1,4 +1,5 @@
-<TEI xml:lang="ukr" xml:id="u0000027" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000027">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -1447,7 +1448,7 @@
         </div>
         <div type="scene">
           <head>Ява сьома</head>
-          <l></l>
+          <l/>
           <stage>Гримають до дверей, він відскакує від вікна.</stage>
           <l>Га, що се? Чи направду вни за мною?</l>
           <l>А може ні?.. Ха-ха-ха! Ще надія!..</l>

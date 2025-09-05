@@ -1,4 +1,5 @@
-<TEI xml:lang="ukr" xml:id="u0000039" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000039">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -297,7 +298,7 @@
             <speaker>Маруся</speaker>
             <p>Та де ж Івана знайти?</p>
           </sp>
-          <p></p>
+          <p/>
           <sp who="#natalka">
             <speaker>Наталка</speaker>
             <p>Чи ба, яка голочка! Як подивлюсь на тебе, то аж сміх бере! Он, чуєш, на майдані співають… однією ногою тут, а другою там… ну, тюпки!</p>
@@ -1415,7 +1416,7 @@
             <l>Об одній годині.</l>
             <stage>(В кінці пісні потягається).</stage>
           </sp>
-          <p></p>
+          <p/>
         </div>
         <div type="scene">
           <head>Вихід VI</head>

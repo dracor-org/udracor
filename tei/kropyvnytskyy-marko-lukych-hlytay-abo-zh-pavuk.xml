@@ -1,4 +1,5 @@
-<TEI xml:lang="ukr" xml:id="u0000033" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000033">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -1733,7 +1734,7 @@
           <div type="subscene">
             <head>ЯВА З</head>
             <stage>Дівчата, ідучи з поля, співають; у всіх граблі за плечима, у іншої торбина у руці, у другої рядно на плечі, деякі позаквітчувані польовими цвітками.</stage> 
-            <sp who='#divchata'>
+            <sp who="#divchata">
               <lg>
                 <l>Над моїми воротами</l>
                 <l>Чорна хмара стала,</l>

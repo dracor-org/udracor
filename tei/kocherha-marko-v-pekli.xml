@@ -1,4 +1,5 @@
-<TEI xml:lang="ukr" xml:id="u0000041" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000041">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -829,7 +830,7 @@
         <sp who="#spryntsovka">
           <speaker>Спринцовка.</speaker>
           <stage>(подає документ)</stage>
-          <p></p>
+          <p/>
         </sp>
         <stage>Марко роздивляється.</stage>
         <sp who="#spryntsovka">
@@ -4342,7 +4343,7 @@
         <sp who="#khlamushka">
           <speaker>Хламушка.</speaker>
           <stage>(хапається за щоки)</stage>
-          <p></p>
+          <p/>
         </sp>
         <sp who="#marko">
           <speaker>Марко.</speaker>
@@ -4351,7 +4352,7 @@
         <sp who="#marusja">
           <speaker>Маруся.</speaker>
           <stage>(весело)</stage>
-          <p></p>
+          <p/>
         </sp>
         <sp who="#marko">
           <speaker>Марко.</speaker>

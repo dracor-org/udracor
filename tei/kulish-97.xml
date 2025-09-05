@@ -1,4 +1,5 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u0000026" xml:lang="ukr">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000026" xml:lang="ukr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -193,7 +194,7 @@
         <castItem>Черниці з монастиря</castItem>
         <castItem>Ларивон — глухонімий, Гирин наймит і сторож при церкві</castItem>
         <castItem>Орина — старчиха</castItem>
-        <castItem></castItem>
+        <castItem/>
       </castList>
       <div type="act">
         <head>ДІЯ ПЕРША</head>

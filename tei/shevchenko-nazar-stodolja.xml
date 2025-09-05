@@ -1,4 +1,5 @@
-<TEI xml:lang="ukr" xml:id="u0000021" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000021">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -1613,7 +1614,7 @@
           <speaker>В толпе</speaker>
           <p>Перещебетала-таки цокотуха.</p>
         </sp>
-        <sp who='#drugoj'>
+        <sp who="#drugoj">
           <speaker>Другой голос</speaker>
           <p>Ач яка!</p>
         </sp>
@@ -1640,7 +1641,7 @@
         <sp who="#golos">
           <speaker>Голос</speaker>
           <p>Чуєш ти? Коли не будеш мовчать, так геть собі.</p></sp>
-        <sp who='#drugoj'>
+        <sp who="#drugoj">
           <speaker>Другой</speaker> 
           <p>А то виженем.</p>
         </sp>

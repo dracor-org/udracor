@@ -1,4 +1,5 @@
-<TEI xml:lang="ukr" xml:id="u0000032" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000032">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -2440,7 +2441,7 @@
             <l>Не забувай однако ж ніколи,</l>
             <l>Що тут в тих горах пара рук живе,</l>
             <l>Готових всегда помагать тобі!</l>
-            <l></l>
+            <l/>
             <stage>(Відходить.)</stage>
           </sp>
           <sp who="#slavoj">
@@ -2449,7 +2450,7 @@
           </sp>
           <sp who="#innyyi_voyiny">
             <speaker>Інниї воїни</speaker>
-            <l></l>
+            <l/>
             <stage>(розходячись в розличні сторони)</stage>
             <l>Бувай здоров! Бувай здоров, Славою!</l>
           </sp>
@@ -2600,7 +2601,7 @@
           </sp>
           <sp who="#jaromyr">
             <speaker>Яромир</speaker>
-            <l></l>
+            <l/>
             <stage>(до Рада)</stage>
             <l>Ох, а ти лишень</l>
             <l>Один, о друже мій, не кинув нас!</l>
