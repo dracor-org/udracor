@@ -120,6 +120,9 @@
         <desc>Вперше надруковано у кн.: Іван Франко. Статті і матеріали. Збірник 2. Львів, Вид-во Львівського університету, 1949, с. 153 – 206. Публікацію підготував М. Возник за автографом (№ 437).</desc>
       </event>
     </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/u000047" passive="http://www.wikidata.org/entity/Q136191197"/>
+    </listRelation>
   </standOff>
   <text>
     <front>

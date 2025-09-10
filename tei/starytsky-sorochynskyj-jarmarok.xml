@@ -233,6 +233,9 @@
         <desc>Оперета вперше надрукована у виданні: М. П. Старицький, Малоросійський театр, М., изд. С. Рассохина, 1890. </desc>
       </event>
     </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/u000044" passive="http://www.wikidata.org/entity/Q136205409"/>
+    </listRelation>
   </standOff>
   <text>
     <front>

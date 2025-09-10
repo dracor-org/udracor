@@ -200,6 +200,9 @@
         <desc>Різдвяна ніч (тема з Гоголя). Оперета в 4-х діях. Текст і вірші М. Старицького. Музика М. Лисенка. К., тискарня М. Фрица, 1874.</desc>
       </event>
     </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/u000043" passive="http://www.wikidata.org/entity/Q136205406"/>
+    </listRelation>
   </standOff>
   <text>
     <body>

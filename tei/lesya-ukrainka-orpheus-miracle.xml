@@ -94,6 +94,9 @@
         <desc>Ця драматична поема написана в 1913 році. https://www.l-ukrainka.name/uk/Studies/DoubleBottom/OrphChudo.html</desc>
       </event>
     </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/u000009" passive="http://www.wikidata.org/entity/Q136205369"/>
+    </listRelation>
   </standOff>
   <text>
     <body>

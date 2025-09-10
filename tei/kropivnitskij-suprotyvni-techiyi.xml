@@ -121,6 +121,9 @@
         <desc/>
       </event>
     </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/u000036" passive="http://www.wikidata.org/entity/Q136205314"/>
+    </listRelation>
   </standOff>
     <text>
     <front>
