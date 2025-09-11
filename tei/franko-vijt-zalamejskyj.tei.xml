@@ -86,8 +86,8 @@
           <person sex="MALE" xml:id="vojak">
             <persName>Вояк</persName>
           </person>
-          <personGrp sex="UNKNONW" xml:id="golosy">
-            <persName>Голоси</persName>
+          <personGrp sex="UNKNOWN" xml:id="golosy">
+            <name>Голоси</name>
           </personGrp>
           <person sex="MALE" xml:id="pidporuchnik">
             <persName>Підпоручник</persName>

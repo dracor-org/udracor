@@ -55,7 +55,6 @@
       <relation name="wikidata" active="https://dracor.org/entity/u000014" passive="http://www.wikidata.org/entity/Q136205393"/>
     </listRelation>
   </standOff>
-  </standOff>
   <text>
     <front>
       <p>В дому роботи, в країні неволі</p>

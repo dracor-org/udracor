@@ -380,7 +380,7 @@
             <speaker>Одарка.</speaker>
             <p>Оттам заперла, нехай висидиться.</p>
           </sp>
-          <sp>
+          <sp who="#prokip">
             <speaker>Прокiп</speaker>
             <stage>(за воротами поет).</stage>
             <lg>
@@ -2895,7 +2895,7 @@
             <stage>(вяло)</stage>
             <p>Та еж!</p>
           </sp>
-          <sp>
+          <sp who="#odarka">
             <speaker>Одарка.</speaker>
             <p>Де ж ти грошi узяв? Мабуть, у тебе є вони? Так ке сюди, на сватання треба.</p>
           </sp>
@@ -2999,7 +2999,7 @@
             <speaker>Одарка.</speaker>
             <p>Поб'ю тобi морду всю,</p>
           </sp>
-          <sp who="#(vmeste)">
+          <sp who="#odarka #prokip">
             <speaker>(Вместе).</speaker>
             <lg>
               <l>Хоч я тобi й жiнка,</l>
@@ -4074,7 +4074,7 @@
               <l>Так-таки, так.</l>
             </lg>
           </sp>
-          <sp>
+          <sp who="#oleksij #ulâna">
             <speaker>Олексiй і Уляна.</speaker>
             <lg>
               <l>Як станемо усi любитись,</l>
@@ -4124,7 +4124,7 @@
               <l>В тебе адной любов i дружба!</l>
             </lg>
           </sp>
-          <sp who="#vsì">
+          <sp who="#timiš #stecko #skorik #odarka #prokip #ulâna #oleksij">
             <speaker>Всі.</speaker>
             <lg>
               <l>Ах, матушка воєнна служба!</l>

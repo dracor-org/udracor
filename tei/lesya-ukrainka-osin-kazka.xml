@@ -73,7 +73,7 @@
           <person xml:id="majster_3-j" sex="MALE">
             <persName>3-й майстер</persName>
           </person>
-          <person xml:id="zhinka" sex="FFEMALE">
+          <person xml:id="zhinka" sex="FEMALE">
             <persName>Жінка</persName>
           </person>
           <person xml:id="golos" sex="UNKNOWN">
