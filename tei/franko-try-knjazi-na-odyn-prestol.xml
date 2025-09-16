@@ -4,7 +4,8 @@
     <fileDesc>
       <titleStmt>
         <title type="main">Три князі на один престол</title>
-        <title>Драма</title>
+        <title type="main" xml:lang="eng">Three Princes for One Throne</title>
+        <title type="sub">Драма</title>
         <author>
           <persName>
             <forename>Iван</forename>
