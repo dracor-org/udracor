@@ -33,7 +33,7 @@
         <bibl type="digitalSource">
           <idno type="URL">https://www.myslenedrevo.com.ua/uk/Lit/S/Starycky/Dramas/UtoplenaAboRusalchynaNich.html</idno>
           <bibl type="originalSource">
-            <title>Старицький М. Твори у 8 тт. – К.: Державне видавництво художньої літератури, 1964 р., т. 2, с. 237 – 297</title>
+            <title>Старицький М. Твори у 8 тт. – К.: Державне видавництво художньої літератури, 1964 р., т. 2, с. 237–297.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -155,6 +155,9 @@
   </teiHeader>
   <standOff>
     <listEvent>
+      <event type="print" when="1885">
+        <desc/>
+      </event>
       <event type="written" when="1881">
         <desc/>
       </event>
@@ -165,6 +168,13 @@
   </standOff>
     <text>
     <front>
+      <titlePage>
+        <docAuthor>Михайло Старицький</docAuthor>
+        <docTitle>
+          <titlePart type="main"></titlePart>
+          <titlePart type="sub"></titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>Дійові люде:</head>
         <castItem>Голова</castItem>

@@ -5,6 +5,7 @@
       <titleStmt>
         <title type="main">Три хвилини</title>
         <title type="main" xml:lang="eng">Three Minutes</title>
+        <title type="sub">Діалог</title>
         <author>
           <persName>
             <forename>Леся</forename>
@@ -31,6 +32,9 @@
         <bibl type="digitalSource">
           <name>Леся Українка. Енциклопедія життя і творчості</name>
           <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/3Xvylyny.html</idno>
+          <bibl type="originalSource">
+            <title>Леся Українка. Зібрання творів у 12 тт. – К. : Наукова думка, 1975 р., т. 3, с. 217–239.</title>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -58,7 +62,7 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="written" when="1905">
+      <event type="written" notBefore="1905" notAfter="1906">
         <desc/>
       </event>
     </listEvent>
@@ -68,8 +72,13 @@
   </standOff>
   <text>
     <front>
-      <head>Три хвилини</head>
-      <head>Діалог</head>
+      <titlePage>
+        <docAuthor>Леся Українка</docAuthor>
+        <docTitle>
+          <titlePart type="main">Три хвилини</titlePart>
+          <titlePart type="sub">Діалог</titlePart>
+        </docTitle>
+      </titlePage>
     </front>
     <body>
       <div type="scene">

@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Чари</title>
+        <title type="main">Чары, или несколько сцен из народных былей и рассказов украинских</title>
         <title type="main" xml:lang="eng">Charms</title>
         <author>
           <persName>
@@ -35,7 +35,7 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <title>Українська драматургія першої половини XIX ст.: Маловідомі п’єси. — К., 1958. — С. 175-265.</title>
+            <title>Українська драматургія першої половини XIX ст.: Маловідомі п’єси. — К., 1958. — С. 175–265.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -187,6 +187,9 @@
   </teiHeader>
   <standOff>
     <listEvent>
+      <event type="written" when="1834">
+        <desc/>
+      </event>
       <event type="written" when="1837">
         <desc/>
       </event>
@@ -197,6 +200,12 @@
   </standOff>
     <text>
     <front>
+      <titlePage>
+        <docAuthor>Кирило Тополя</docAuthor>
+        <docTitle>
+          <titlePart type="main">Чары, или несколько сцен из народных былей и рассказов украинских</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>ДЕЙСТВУЮЩИЕ ЛИЦА:</head>
         <castItem>Лопата Иван, из багатших крестьян в селе жена его Оксана.</castItem>

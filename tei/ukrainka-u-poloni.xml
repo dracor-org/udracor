@@ -31,9 +31,10 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Леся Українка. Енциклопедія життя і творчості</name>
-          <idno type="URL">
-            https://www.l-ukrainka.name/uk/Dramas/UPoloni.html
-          </idno>
+          <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/UPoloni.html</idno>
+          <bibl type="originalSource">
+            <title>Леся Українка. Зібрання творів у 12 тт. – К. : Наукова думка, 1975 р., т. 3, с. 148–166.</title>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -211,7 +212,10 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="written" when="1903">
+      <event type="print" when="1908">
+        <desc/>
+      </event>
+      <event type="written" notBefore="1902" notAfter="1903">
         <desc/>
       </event>
     </listEvent>
@@ -220,6 +224,15 @@
     </listRelation>
   </standOff>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Леся Українка</docAuthor>
+        <docTitle>
+          <titlePart type="main">У полоні</titlePart>
+          <titlePart type="sub">Драматична поема</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
       <div type="act">
         <stage>Розлога рівнина. Червоний захід зміняє в кров широкі води Тігру та Євфрату, що зливаються докупи. По всій рівнині розкидані намети бранців. Голі діти шукають скойок в ріні та сухого баговиння на паливо. Обшарпані, змучені, здебільшого старі жінки лагодять вечерю – кожна при своїм багатті – для чоловіків, що по тяжкій роботі прийшли з міста і посідали мовчки під вербами, над водою. Трохи осторонь, теж під вербами, стоять два гурти: левіти й пророки. Над пророками, на вербах, висять арфи, і гойдаються, і часом бринять від поривів вечірнього вітру. Здалека видко вавілонські мури і вежі, часом доноситься міський гамір.</stage>

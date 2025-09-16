@@ -37,7 +37,7 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 23, с. 7 – 48.</title>
+            <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 23, с. 7–48.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -240,6 +240,12 @@
   </teiHeader>
   <standOff>
     <listEvent>
+      <event type="print" when="1956">
+        <desc/>
+      </event>
+      <event type="premiere" when="1876">
+        <desc/>
+      </event>
       <event type="written" when="1874">
         <desc/>
       </event>
@@ -250,6 +256,13 @@
   </standOff>
     <text>
     <front>
+      <titlePage>
+        <docAuthor>Iван Франко</docAuthor>
+        <docTitle>
+          <titlePart type="main">Три князі на один престол</titlePart>
+          <titlePart type="sub">Драма</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>Особи драми</head>
         <castItem>Всеволод, князь.</castItem>

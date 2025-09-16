@@ -37,7 +37,7 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 24, с. 187 – 212.</title>
+            <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 24, с. 187–212.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -90,6 +90,9 @@
   </teiHeader>
   <standOff>
     <listEvent>
+      <event type="print" when="1902">
+        <desc/>
+      </event>
       <event type="written" when="1894">
         <desc/>
       </event>
@@ -100,6 +103,13 @@
   </standOff>
     <text>
     <front>
+      <titlePage>
+        <docAuthor>Iван Франко</docAuthor>
+        <docTitle>
+          <titlePart type="main">Майстер Чирняк</titlePart>
+          <titlePart type="sub">Комедія в одній відслоні</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>Особи</head>
         <castItem>Никифор Чирняк, майстер, швець, 65 літ.</castItem>

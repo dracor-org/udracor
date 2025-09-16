@@ -37,7 +37,7 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 24, с. 123 – 186.</title>
+            <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 24, с. 123–186.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -117,11 +117,11 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="written" when="1894">
+      <event type="print" when="1949">
         <desc/>
       </event>
-      <event type="print" when="1949">
-        <desc>Вперше надруковано у кн.: Іван Франко. Статті і матеріали. Збірник 2. Львів, Вид-во Львівського університету, 1949, с. 153 – 206. Публікацію підготував М. Возник за автографом (№ 437).</desc>
+      <event type="written" notBefore="1893" notAfter="1894">
+        <desc/>
       </event>
     </listEvent>
     <listRelation>
@@ -130,6 +130,13 @@
   </standOff>
   <text>
     <front>
+      <titlePage>
+        <docAuthor>Iван Франко</docAuthor>
+        <docTitle>
+          <titlePart type="main">Війт Заламейський</titlePart>
+          <titlePart type="sub">Драма</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>Особи</head>
         <castItem>Філіпп II, король іспанський</castItem>

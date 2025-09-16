@@ -4,6 +4,7 @@
       <titleStmt>
         <title type="main">Осіння казка</title>
         <title type="main" xml:lang="eng">An Autumn Tale</title>
+        <title type="sub">Фантастична драма</title>
         <author>
           <persName>
             <forename>Леся</forename>
@@ -30,6 +31,9 @@
         <bibl type="digitalSource">
           <name>Леся Українка. Енциклопедія життя і творчості</name>
           <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/OsinKazka.html</idno>
+          <bibl type="originalSource">
+            <title>Леся Українка. Зібрання творів у 12 тт. – К. : Наукова думка, 1975 р., т. 3, с. 183–216.</title>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -108,7 +112,10 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="written" when="1905">
+      <event type="print" when="1929">
+        <desc/>
+      </event>
+      <event type="written" when="1905-01-25">
         <desc/>
       </event>
     </listEvent>
@@ -117,6 +124,15 @@
     </listRelation>
   </standOff>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Леся Українка</docAuthor>
+        <docTitle>
+          <titlePart type="main">Осіння казка</titlePart>
+          <titlePart type="sub">Фантастична драма</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
       <div type="act">
         <head>1</head>

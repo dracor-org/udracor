@@ -30,9 +30,9 @@
         <bibl type="digitalSource">
           <name>Леся Українка. Енциклопедія життя і творчості</name>
           <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/NaRujinax.html</idno>
-        </bibl>
-        <bibl type="originalSource">
-          <title>Леся Українка. Зібрання творів у 12 тт. – К. : Наукова думка, 1975 р., т. 3, с. 167 – 182.</title>
+          <bibl type="originalSource">
+            <title>Леся Українка. Зібрання творів у 12 тт. – К. : Наукова думка, 1975 р., т. 3, с. 167–182.</title>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -81,11 +81,11 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="written" when="1904">
-        <desc>11.09.1904, Зелений Гай</desc>
-      </event>
       <event type="print" when="1908">
-        <desc>Вперше надруковано в літературному збірнику «З неволі», Вологда, вид-во «Запомога», 1908, стор. 18 – 30.</desc>
+        <desc/>
+      </event>
+      <event type="written" when="1904-09-11">
+        <desc/>
       </event>
     </listEvent>
     <listRelation>
@@ -94,6 +94,13 @@
   </standOff>
   <text>
     <front>
+      <titlePage>
+        <docAuthor>Леся Українка</docAuthor>
+        <docTitle>
+          <titlePart type="main">На руїнах</titlePart>
+          <titlePart type="sub">Драматична поема</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>Дійові особи</head>
         <castItem>Тірца, пророчиця</castItem>

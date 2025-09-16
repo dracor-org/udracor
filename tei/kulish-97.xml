@@ -35,9 +35,9 @@
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
-        </bibl>
-        <bibl type="originalSource">
-          <title>Куліш М. ”97”: [п’єса] / Микола Куліш. – [Вид. 5-те]. – Харків; Київ: Лім, 1934. – 112 с.</title>
+          <bibl type="originalSource">
+            <title>Куліш М. ”97”: [п’єса] / Микола Куліш. – [Вид. 5-те]. – Харків; Київ: Лім, 1934. – 112 с.</title>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -177,8 +177,15 @@
       <relation name="wikidata" active="https://dracor.org/entity/u000026" passive="http://www.wikidata.org/entity/Q136205333"/>
     </listRelation>
   </standOff>
-    <text>
-    <body>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor>Микола Куліш</docAuthor>
+        <docTitle>
+          <titlePart type="main"></titlePart>
+          <titlePart type="sub"></titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>ДІЙОВІ ЛЮДИ</head>
         <castItem>Смик Сергій — голова сільради</castItem>
@@ -204,6 +211,8 @@
         <castItem>Орина — старчиха</castItem>
         <castItem/>
       </castList>
+    </front>
+    <body>
       <div type="act">
         <head>ДІЯ ПЕРША</head>
         <div type="scene">

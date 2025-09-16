@@ -35,9 +35,9 @@
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
-        </bibl>
-        <bibl type="originalSource">
-          <title>Українська драматургія першої половини XIX ст.: Маловідомі п’єси. — К., 1958. — С. 395-417.</title>
+          <bibl type="originalSource">
+            <title>Українська драматургія першої половини XIX ст.: Маловідомі п’єси. — К., 1958. — С. 395–417.</title>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -62,7 +62,10 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="written" when="1884">
+      <event type="print" when="1884">
+        <desc/>
+      </event>
+      <event type="premiere" when="1850-03-03">
         <desc/>
       </event>
     </listEvent>
@@ -71,17 +74,28 @@
     </listRelation>
   </standOff>
     <text>
-    <body>
-      <castList>
-        <head>ДІЮЧІ ПАРСУНИ:</head>
-        <castItem>Хома Скраколь, простий українець.</castItem>
-        <castItem>Феська, жінка його.</castItem>
-        <castItem>Василь Крутько, мірошник.</castItem>
-        <castItem>Панько Медовий, сват Скраклів.</castItem>
-      </castList>
-      <stage>Діється у Харківській губернії, на селі, у хаті Скраклевій.</stage>
-      <stage>Театр представляє нутро української хати. На правій руці стіл, закритий скатертиною, на столі догори дном глечик, на глечику каганець, тут же паляниця і дерев’яна тарілка з жареною рибою; у глибині, біля запони (занавіса), піл, на лівій руці коло першої куліси вікно, далі проста вариста піч з комином і закапелком. Вечір.</stage>
-      <div type="act">
+      <front>
+        <titlePage>
+          <docAuthor>Дмитро Дмитренко</docAuthor>
+          <docTitle>
+            <titlePart type="main">Кум-мірошник, або сатана у бочці</titlePart>
+            <titlePart type="sub">Українська шутка-водевіль в одній дії</titlePart>
+          </docTitle>
+        </titlePage>
+        <castList>
+          <head>ДІЮЧІ ПАРСУНИ:</head>
+          <castItem><role>Хома Скраколь,</role> <roleDesc>простий українець.</roleDesc></castItem>
+          <castItem><role>Феська,</role> <roleDesc>жінка його.</roleDesc></castItem>
+          <castItem><role>Василь Крутько,</role> <roleDesc>мірошник.</roleDesc></castItem>
+          <castItem><role>Панько Медовий,</role> <roleDesc>сват Скраклів.</roleDesc></castItem>
+        </castList>
+        <set>
+          <p>Діється у Харківській губернії, на селі, у хаті Скраклевій.</p>
+          <p>Театр представляє нутро української хати. На правій руці стіл, закритий скатертиною, на столі догори дном глечик, на глечику каганець, тут же паляниця і дерев’яна тарілка з жареною рибою; у глибині, біля запони (занавіса), піл, на лівій руці коло першої куліси вікно, далі проста вариста піч з комином і закапелком. Вечір.</p>
+        </set>
+      </front>
+        <body>
+          <div type="act">
         <head>Вихід 1</head>
         <stage>Феська, а опісля Василь.</stage>
         <sp who="#feska">

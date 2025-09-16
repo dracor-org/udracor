@@ -118,6 +118,13 @@
   </standOff>
   <text>
     <front>
+      <titlePage>
+        <docAuthor>Іван Карпенко-Карий</docAuthor>
+        <docTitle>
+          <titlePart type="main">Безталанна</titlePart>
+          <titlePart type="sub">Драма в 5 діях</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>ДІЄВІ ЛЮДЕ</head>
         <castItem>Іван — старий чоловік, москаль.</castItem>

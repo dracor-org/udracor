@@ -4,6 +4,7 @@
       <titleStmt>
         <title type="main">Бояриня</title>
         <title type="main" xml:lang="eng">The Noblewoman</title>
+        <title type="sub">Драматична поема</title>
         <author>
           <persName>
             <forename>Леся</forename>
@@ -29,9 +30,10 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Леся Українка. Енциклопедія життя і творчості</name>
-          <idno type="URL">
-            https://www.l-ukrainka.name/uk/Dramas/Bojarynja.html
-          </idno>
+          <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/Bojarynja.html</idno>
+          <bibl type="originalSource">
+            <title>Леся Українка. Бояриня : драматична поема. – К. : Молодь, 1991 р. – 96 с.</title>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -89,6 +91,9 @@
   </teiHeader>
   <standOff>
     <listEvent>
+      <event type="print" when="1914">
+        <desc/>
+      </event>
       <event type="written" when="1910">
         <desc/>
       </event>
@@ -98,6 +103,15 @@
     </listRelation>
   </standOff>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Леся Українка</docAuthor>
+        <docTitle>
+          <titlePart type="main">Бояриня</titlePart>
+          <titlePart type="sub">Драматична поема</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
       <div type="act">
         <head>1</head>

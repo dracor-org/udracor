@@ -93,6 +93,13 @@
   </standOff>
     <text>
     <front>
+      <titlePage>
+        <docAuthor>Григорій Квітка-Основ'яненко</docAuthor>
+        <docTitle>
+          <titlePart type="main">Сватання на Гончарівці</titlePart>
+          <titlePart type="sub">Малороссийская опера в трех действиях</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>ДЕЙСТВУЮЩИЕ ЛИЦА:</head>
         <castItem>Прокип Шкурат — обыватель из-за Лопани.</castItem>

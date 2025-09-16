@@ -37,7 +37,7 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 24, с. 358 – 377.</title>
+            <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 24, с. 358–377.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -72,7 +72,13 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="written" when="1893">
+      <event type="written" when="1902">
+        <desc/>
+      </event>
+      <event type="premiere" when="1902">
+        <desc/>
+      </event>
+      <event type="written" notBefore="1893" notAfter="1896">
         <desc/>
       </event>
     </listEvent>
@@ -82,6 +88,13 @@
   </standOff>
     <text>
     <front>
+      <titlePage>
+        <docAuthor>Iван Франко</docAuthor>
+        <docTitle>
+          <titlePart type="main">Будка ч. 27</titlePart>
+          <titlePart type="sub">Драма в одній дії</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>Особи</head>
         <castItem>Панько Середущий, будник, літ 50, високий, з повною стриженою бородою, в синій блузі, в шапці з ознакою залізничого функціонера.</castItem>

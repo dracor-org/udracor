@@ -102,7 +102,16 @@
       <relation name="wikidata" active="https://dracor.org/entity/u000034" passive="http://www.wikidata.org/entity/Q117211618"/>
     </listRelation>
   </standOff>
-    <text>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor>Григорій Квітка-Основ'яненко</docAuthor>
+        <docTitle>
+          <titlePart type="main">Шельменко-денщик</titlePart>
+          <titlePart type="sub">Комедия в пяти действиях</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
       <castList>
         <head>ДЕЙСТВУЮЩИЕ</head>

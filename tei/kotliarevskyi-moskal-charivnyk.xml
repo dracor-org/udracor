@@ -67,15 +67,25 @@
     </listRelation>
   </standOff>
     <text>
-    <body>
-      <castList>
-        <head>ДІЙОВІ ОСОБИ:</head>
-        <castItem>Лихой — солдат.</castItem>
-        <castItem>Михайло Чупрун — селянин.</castItem>
-        <castItem>Тетяна — його жінка.</castItem>
-        <castItem>Финтик Каленик Кононович — писар з города, приїхав на село.</castItem>
-      </castList>
-      <stage>Діється в хаті у Чупруна.</stage>
+      <front>
+        <titlePage>
+          <docAuthor>Іван Котляревський</docAuthor>
+          <docTitle>
+            <titlePart type="main">Москаль-чарівник</titlePart>
+          </docTitle>
+        </titlePage>
+        <castList>
+          <head>ДІЙОВІ ОСОБИ:</head>
+          <castItem>Лихой — солдат.</castItem>
+          <castItem>Михайло Чупрун — селянин.</castItem>
+          <castItem>Тетяна — його жінка.</castItem>
+          <castItem>Финтик Каленик Кононович — писар з города, приїхав на село.</castItem>
+        </castList>
+        <set>
+          <p>Діється в хаті у Чупруна.</p>
+        </set>
+      </front>
+      <body>
       <div type="scene">
         <head>ЯВА І</head>
         <stage>Тетяна і Финтик сидять за столом в українській хаті. Перед ними пляшка з медом і склянка.</stage>

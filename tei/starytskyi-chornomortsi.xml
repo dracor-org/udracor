@@ -32,7 +32,7 @@
         <bibl type="digitalSource">
           <idno type="URL">https://www.myslenedrevo.com.ua/uk/Lit/S/Starycky/Dramas/Chornomorci.html</idno>
           <bibl type="originalSource">
-            <title>Старицький М. Твори у 8 тт. – К.: Державне видавництво художньої літератури, 1964 р., т. 2, с. 5 – 52</title>
+            <title>Старицький М. Твори у 8 тт. – К.: Державне видавництво художньої літератури, 1964 р., т. 2, с. 5–52.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -91,6 +91,12 @@
   </teiHeader>
   <standOff>
     <listEvent>
+      <event type="print" when="1877">
+        <desc/>
+      </event>
+      <event type="premiere" when="1872">
+        <desc/>
+      </event>
       <event type="written" when="1872">
         <desc/>
       </event>
@@ -101,6 +107,13 @@
   </standOff>
     <text>
     <front>
+      <titlePage>
+        <docAuthor>Михайло Старицький</docAuthor>
+        <docTitle>
+          <titlePart type="main">Чорноморці</titlePart>
+          <titlePart type="sub">Оперета в 3-х картинах</titlePart>
+        </docTitle>
+      </titlePage>
       <head>Дійові люде:</head>
       <castList>      
         <castItem>Драбиниха Явдоха – вдова.</castItem>

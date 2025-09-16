@@ -35,7 +35,7 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <title>В. А. Гоголь. Простак, или хитрость женщины, перехитренная солдатом // Основа. — 1862. — № 2. — С. 19-43.</title>
+            <title>В. А. Гоголь. Простак, или хитрость женщины, перехитренная солдатом // Основа. — 1862. — № 2. — С. 19–43.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -74,13 +74,20 @@
   </standOff>
     <text>
     <front>
+      <titlePage>
+        <docAuthor>Василь Гоголь-Яновський</docAuthor>
+        <docTitle>
+          <titlePart type="main"></titlePart>
+          <titlePart type="sub"></titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>ДЕЙСТВУЮЩИЕ ЛИЦА:</head>
-        <castItem>Роман, малороссийский козак, простой и ленивый.</castItem>
-        <castItem>Параска, жена его, женщина молодая и хитрая.</castItem>
-        <castItem>Соцкий, кум Параски,</castItem>
-        <castItem>Дьячек, любовник Параски.</castItem>
-        <castItem>Солдат переходящей команды.</castItem>
+        <castItem><role>Роман,</role> <roleDesc>малороссийский козак, простой и ленивый.</roleDesc></castItem>
+        <castItem><role>Параска,</role> <roleDesc>жена его, женщина молодая и хитрая.</roleDesc></castItem>
+        <castItem><role>Соцкий,</role> <roleDesc>кум Параски.</roleDesc></castItem>
+        <castItem><role>Дьячек,</role> <roleDesc>любовник Параски.</roleDesc></castItem>
+        <castItem><role>Солдат переходящей команды.</role></castItem>
       </castList>
     </front>
     <body>

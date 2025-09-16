@@ -31,9 +31,10 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Леся Українка. Енциклопедія життя і творчості</name>
-          <idno type="URL">
-            https://www.l-ukrainka.name/uk/Verses/DumyIMrii/KrymskiVidguky/IphigeniaVTavrydi.html
-          </idno>
+          <idno type="URL">https://www.l-ukrainka.name/uk/Verses/DumyIMrii/KrymskiVidguky/IphigeniaVTavrydi.html</idno>
+          <bibl type="originalSource">
+            <title>Леся Українка. Зібрання творів у 12 тт. – К. : Наукова думка, 1975 р., т. 1, с. 165–170.</title>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -41,24 +42,16 @@
       <particDesc>
         <listPerson>
           <person xml:id="strofa" sex="FEMALE">
-            <persName>
-              Строфа
-            </persName>
+            <name>Строфа</name>
           </person>
-          <person xml:id="ifigenija" sex="FEMALE">
-            <persName>
-              Іфігенія
-            </persName>
+          <person xml:id="ifigenija" sex="FEMALE" ana="http://www.wikidata.org/entity/Q192673">
+            <persName>Іфігенія</persName>
           </person>
           <personGrp xml:id="hor_divchat" sex="FEMALE">
-            <persName>
-              Хор дівчат
-            </persName>
+            <name>Хор дівчат</name>
           </personGrp>
           <person xml:id="antistrofa" sex="FEMALE">
-            <persName>
-              Антистрофа
-            </persName>
+            <name>Антистрофа</name>
           </person>
         </listPerson>
       </particDesc>
@@ -75,6 +68,15 @@
     </listRelation>
   </standOff>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Леся Українка</docAuthor>
+        <docTitle>
+          <titlePart type="main">Іфігенія в Тавріді</titlePart>
+          <titlePart type="sub">(драматична сцена)</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
       <div type="act">
         <stage>Діється в Тавріді, в місті Партеніті, перед храмом Артеміди Таврідської.</stage>

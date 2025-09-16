@@ -121,8 +121,15 @@
       <relation name="wikidata" active="https://dracor.org/entity/u000037" passive="http://www.wikidata.org/entity/Q136205306"/>
     </listRelation>
   </standOff>
-    <text>
+  <text>
     <front>
+      <titlePage>
+        <docAuthor>Марко Кропивницький</docAuthor>
+        <docTitle>
+          <titlePart type="main">Дві сім'ї (Де зерно, там і полова)</titlePart>
+          <titlePart type="sub">Драма в 4-х діях</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>ДІЄВІ ЛЮДИ:</head>
         <castItem>Самрось Жлудь, міщанин.</castItem>

@@ -37,7 +37,7 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 23, с. 49 – 77.</title>
+            <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 23, с. 49–77.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -75,6 +75,9 @@
   </teiHeader>
   <standOff>
     <listEvent>
+      <event type="print" when="1932">
+        <desc/>
+      </event>
       <event type="written" when="1879">
         <desc/>
       </event>
@@ -85,6 +88,13 @@
   </standOff>
     <text>
     <front>
+      <titlePage>
+        <docAuthor>Iван Франко</docAuthor>
+        <docTitle>
+          <titlePart type="main">Послідній крейцар</titlePart>
+          <titlePart type="sub">Драматичний образок в одній дії</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>Особи</head>
         <castItem>Євгеній, Жан, Симон – молоді, елегантсько убрані мужчини</castItem>

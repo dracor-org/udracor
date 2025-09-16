@@ -132,6 +132,13 @@
   </standOff>
     <text>
     <front>
+      <titlePage>
+        <docAuthor>Марко Кропивницький</docAuthor>
+        <docTitle>
+          <titlePart type="main">Супротивні течії</titlePart>
+          <titlePart type="sub">Комедія в 3 діях і 4 одмінах</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>ЛИЦЕДІЇ</head>
         <castItem>Андрій Хилько, селянин.</castItem>

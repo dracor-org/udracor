@@ -32,6 +32,9 @@
         <bibl type="digitalSource">
           <name>Леся Українка. Енциклопедія життя і творчості</name>
           <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/Oderzhyma.html</idno>
+          <bibl type="originalSource">
+            <title>Леся Українка. Зібрання творів у 12 тт. – К. : Наукова думка, 1975 р., т. 3, с. 126–147.</title>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -60,7 +63,7 @@
             <persName>Месія</persName>
           </person>
           <personGrp xml:id="golosi_v_jurbi" sex="UNKNOWN">
-            <!-- it is unclear if we should merge this with the Golosi_z_jurbi-->
+            <!-- it is unclear if we should merge this with the Golosi_z_jurbi -->
             <persName>Голоси в юрбі</persName>
           </personGrp>
         </listPerson>
@@ -69,7 +72,10 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="written" when="1901">
+      <event type="print" when="1902">
+        <desc/>
+      </event>
+      <event type="written" when="1901-01-18">
         <desc/>
       </event>
     </listEvent>
@@ -78,6 +84,15 @@
     </listRelation>
   </standOff>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Леся Українка</docAuthor>
+        <docTitle>
+          <titlePart type="main">Одержима</titlePart>
+          <titlePart type="sub">Драматична поема</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
       <div type="act">
         <head>1</head>

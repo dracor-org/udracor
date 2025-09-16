@@ -37,7 +37,7 @@
             <p>In the public domain.</p>
           </availability>
           <bibl type="originalSource">
-            <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 23, с. 254 – 360.</title>
+            <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 23, с. 254–360.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -171,6 +171,9 @@
   </teiHeader>
   <standOff>
     <listEvent>
+      <event type="print" when="1956">
+        <desc/>
+      </event>
       <event type="written" when="1875">
         <desc/>
       </event>
@@ -181,6 +184,13 @@
   </standOff>
     <text>
     <front>
+      <titlePage>
+        <docAuthor>Iван Франко</docAuthor>
+        <docTitle>
+          <titlePart type="main">Славой і Хрудош</titlePart>
+          <titlePart type="sub">Драма в п’яти діях</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>Особи драми</head>
         <castItem>Славой</castItem>

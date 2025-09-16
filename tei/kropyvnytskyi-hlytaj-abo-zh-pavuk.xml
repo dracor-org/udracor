@@ -109,26 +109,37 @@
     </listRelation>
   </standOff>
     <text>
-    <body>
-      <castList>
-        <head>ЛИЦЕДІЇ:</head>
-        <castItem>Йосип Степанович Бичок, багатий чоловік, літ 65.</castItem>
-        <castItem>Мартин Хандоля, багатий селянин, літ 48</castItem>
-        <castItem>Стеха, стара баба.</castItem>
-        <castItem>Олена, її дочка.</castItem>
-        <castItem>Андрій Кугут, чоловік Олени.</castItem>
-        <castItem>Христя, дівчина, подруга Олени.</castItem>
-        <castItem>Іван Павлович, заїжджий міщанин.</castItem>
-        <castItem>Юдко, шинкар.</castItem>
-        <castItem>Зборщик.</castItem>
-        <castItem>Кіндрат, хлопець, наймит Бичків.</castItem>
-        <castItem>1-й, 2-й, 3-й чоловіки.</castItem>
-        <castItem>1-а, 2-а молодиці.</castItem>
-        <castItem>Дівчина, літ восьми.</castItem>
-        <castItem>Двоє малих дітей.</castItem>
-        <castItem>Парубки, дівчата й селяни.</castItem>
-      </castList>
-      <stage>Діється у Херсонщині.</stage>
+      <front>
+        <titlePage>
+          <docAuthor>Марко Кропивницький</docAuthor>
+          <docTitle>
+            <titlePart type="main">Глитай, або ж павук</titlePart>
+            <titlePart type="sub">Драма у 4-х діях і 5-ти одмінах</titlePart>
+          </docTitle>
+        </titlePage>
+        <castList>
+          <head>ЛИЦЕДІЇ:</head>
+          <castItem>Йосип Степанович Бичок, багатий чоловік, літ 65.</castItem>
+          <castItem>Мартин Хандоля, багатий селянин, літ 48</castItem>
+          <castItem>Стеха, стара баба.</castItem>
+          <castItem>Олена, її дочка.</castItem>
+          <castItem>Андрій Кугут, чоловік Олени.</castItem>
+          <castItem>Христя, дівчина, подруга Олени.</castItem>
+          <castItem>Іван Павлович, заїжджий міщанин.</castItem>
+          <castItem>Юдко, шинкар.</castItem>
+          <castItem>Зборщик.</castItem>
+          <castItem>Кіндрат, хлопець, наймит Бичків.</castItem>
+          <castItem>1-й, 2-й, 3-й чоловіки.</castItem>
+          <castItem>1-а, 2-а молодиці.</castItem>
+          <castItem>Дівчина, літ восьми.</castItem>
+          <castItem>Двоє малих дітей.</castItem>
+          <castItem>Парубки, дівчата й селяни.</castItem>
+        </castList>
+        <set>
+          <p>Діється у Херсонщині.</p>
+        </set>
+      </front>
+      <body>
       <div type="act">
         <head>ДІЯ ПЕРША</head>
         <stage>Вулиця на селі. Управоруч домок з дерев'яним дахом і гайком, поліворуч шинок з табличкою: "Роспивочно і на винос". Далі хати, токи, клуні, огороди, садки, криниці з журавлями, ледве мріють вітряки.</stage>

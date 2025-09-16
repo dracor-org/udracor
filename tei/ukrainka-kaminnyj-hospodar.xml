@@ -29,9 +29,10 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Леся Українка. Енциклопедія життя і творчості</name>
-          <idno type="URL">
-            https://www.l-ukrainka.name/uk/Dramas/KaminnyjGospodar.html
-          </idno>
+          <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/KaminnyjGospodar.html</idno>
+          <bibl type="originalSource">
+            <title>Леся Українка. Зібрання творів у 12 тт. – К. : Наукова думка, 1977 р., т. 6, с. 71–162.</title>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -224,6 +225,12 @@
   </teiHeader>
   <standOff>
     <listEvent>
+      <event type="print" when="1912">
+        <desc/>
+      </event>
+      <event type="premiere" when="1914">
+        <desc/>
+      </event>
       <event type="written" when="1912">
         <desc/>
       </event>
@@ -233,6 +240,14 @@
     </listRelation>
   </standOff>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Леся Українка</docAuthor>
+        <docTitle>
+          <titlePart type="main">Камінний господар</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
       <div type="act">
         <head>1</head>

@@ -30,24 +30,21 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Леся Українка. Енциклопедія життя і творчості</name>
-          <idno type="URL">
-            https://www.l-ukrainka.name/uk/Dramas/AjshaMochammed.html
-          </idno>
+          <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/AjshaMochammed.html</idno>
+          <bibl type="originalSource">
+            <title>Леся Українка. Зібрання творів у 12 тт. – К. : Наукова думка, 1975 р., т. 4, с. 100–106.</title>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="mohammed" sex="MALE">
-            <persName>
-              Мохаммед
-            </persName>
+          <person xml:id="mohammed" sex="MALE" ana="http://www.wikidata.org/entity/Q9458">
+            <persName>Мохаммед</persName>
           </person>
-          <person xml:id="ajsha" sex="FEMALE">
-            <persName>
-              Айша
-            </persName>
+          <person xml:id="ajsha" sex="FEMALE" ana="http://www.wikidata.org/entity/Q4730963">
+            <persName>Айша</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -55,6 +52,9 @@
   </teiHeader>
   <standOff>
     <listEvent>
+      <event type="print" when="1913">
+        <desc/>
+      </event>
       <event type="written" when="1907">
         <desc/>
       </event>
@@ -64,6 +64,15 @@
     </listRelation>
   </standOff>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Леся Українка</docAuthor>
+        <docTitle>
+          <titlePart type="main">Айша та Мохаммед</titlePart>
+          <titlePart type="sub">Діалог</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
       <div type="act">
         <stage>Садок в Мохаммедовім гаремі. Айша в малій виноградній альтанці сидить і їсть солодощі, ліниво одкинувшись на низенькому ослоні, вкритому великим килимом. Мохаммед приходить і мовчки сідає біля її ніг на край килима.</stage>

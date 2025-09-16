@@ -32,7 +32,7 @@
         <bibl type="digitalSource">
           <idno type="URL">https://www.myslenedrevo.com.ua/uk/Lit/S/Starycky/Dramas/SorochynskyjJarmarok.html</idno>
           <bibl type="originalSource">
-            <title>Старицький М. Твори у 8 тт. – К.: Державне видавництво художньої літератури, 1964 р., т. 2, с. 299 – 359.</title>
+            <title>Старицький М. Твори у 8 тт. – К.: Державне видавництво художньої літератури, 1964 р., т. 2, с. 299–359.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -231,11 +231,11 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="written" when="1883">
+      <event type="print" when="1890">
         <desc/>
       </event>
-      <event type="print" when="1890">
-        <desc>Оперета вперше надрукована у виданні: М. П. Старицький, Малоросійський театр, М., изд. С. Рассохина, 1890. </desc>
+      <event type="written" when="1883">
+        <desc/>
       </event>
     </listEvent>
     <listRelation>
@@ -244,6 +244,13 @@
   </standOff>
   <text>
     <front>
+      <titlePage>
+        <docAuthor>Михайло Старицький</docAuthor>
+        <docTitle>
+          <titlePart type="main">Сорочинський ярмарок</titlePart>
+          <titlePart type="sub">Комічна оперета із українського побиту в 4-х діях</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>Дійові люде:</head>
         <castItem>Солопій Черевик – підстаркуватий козак.</castItem>

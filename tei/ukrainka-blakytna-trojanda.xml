@@ -5,6 +5,7 @@
       <titleStmt>
         <title type="main">Блакитна троянда</title>
         <title type="main" xml:lang="eng">The Blue Rose</title>
+        <title type="sub">Драма в 5 діях</title>
         <author>
           <persName>
             <forename>Леся</forename>
@@ -31,6 +32,9 @@
         <bibl type="digitalSource">
           <name>Леся Українка. Енциклопедія життя і творчості</name>
           <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/LtBlueRose.html</idno>
+          <bibl type="originalSource">
+            <title>Леся Українка. Зібрання творів у 12 тт. – К. : Наукова думка, 1975 р., т. 3, с. 9–111.</title>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -94,12 +98,24 @@
       <event type="written" when="1896">
         <desc/>
       </event>
+      <event type="premiere" when="1899">
+        <desc/>
+      </event>
     </listEvent>
     <listRelation>
       <relation name="wikidata" active="https://dracor.org/entity/u000013" passive="http://www.wikidata.org/entity/Q12082864"/>
     </listRelation>
   </standOff>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Леся Українка</docAuthor>
+        <docTitle>
+          <titlePart type="main">Блакитна троянда</titlePart>
+          <titlePart type="sub">Драма в 5 діях</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
       <div type="act">
         <head>Дія перша</head>

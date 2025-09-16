@@ -4,6 +4,7 @@
       <titleStmt>
         <title type="main">Йоганна, жінка Хусова</title>
         <title type="main" xml:lang="eng">Joanna, Wife of Chuza</title>
+        <title type="sub">Драматичний етюд</title>
         <author>
           <persName>
             <forename>Леся</forename>
@@ -30,6 +31,9 @@
         <bibl type="digitalSource">
           <name>Леся Українка. Енциклопедія життя і творчості</name>
           <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/Johanna.html</idno>
+          <bibl type="originalSource">
+            <title>Леся Українка. Зібрання творів у 12 тт. – К. : Наукова думка, 1976 р., т. 5, с. 158–200.</title>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -75,7 +79,7 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="written" when="1909">
+      <event type="print" when="1909">
         <desc/>
       </event>
     </listEvent>
@@ -84,6 +88,15 @@
     </listRelation>
   </standOff>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Леся Українка</docAuthor>
+        <docTitle>
+          <titlePart type="main">Йоганна, жінка Хусова</titlePart>
+          <titlePart type="sub">Драматичний етюд</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
       <div type="act">
         <head>1</head>

@@ -32,7 +32,7 @@
         <bibl type="digitalSource">
           <idno type="URL">https://www.myslenedrevo.com.ua/uk/Lit/S/Starycky/Dramas/RizdvjanaNich.html</idno>
           <bibl type="originalSource">
-            <title>Старицький М. Твори у 8 тт. – К.: Державне видавництво художньої літератури, 1964 р., т. 2, с. 53 – 120.</title>
+            <title>Старицький М. Твори у 8 тт. – К.: Державне видавництво художньої літератури, 1964 р., т. 2, с. 53–120.</title>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -198,11 +198,14 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="written" when="1872">
+      <event type="print" when="1874">
         <desc/>
       </event>
-      <event type="print" when="1874">
-        <desc>Різдвяна ніч (тема з Гоголя). Оперета в 4-х діях. Текст і вірші М. Старицького. Музика М. Лисенка. К., тискарня М. Фрица, 1874.</desc>
+      <event type="premiere" when="1874">
+        <desc/>
+      </event>
+      <event type="written" when="1872">
+        <desc/>
       </event>
     </listEvent>
     <listRelation>
@@ -210,6 +213,15 @@
     </listRelation>
   </standOff>
   <text>
+    <front>
+      <titlePage>
+        <docAuthor>Михайло Старицький</docAuthor>
+        <docTitle>
+          <titlePart type="main">Різдвяна ніч</titlePart>
+          <titlePart type="sub">Музикальна комедія на чотири дії (тема по Гоголю)</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
     <body>
       <div type="act">
         <head>Дія перша</head>

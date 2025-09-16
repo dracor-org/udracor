@@ -283,6 +283,12 @@
   </standOff>
   <text>
     <front>
+      <titlePage>
+        <docAuthor>Іван Кочерга</docAuthor>
+        <docTitle>
+          <titlePart type="main">Марко в пеклі</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>ДІЙОВІ ОСОБИ</head>
         <castItem>Марко.</castItem>

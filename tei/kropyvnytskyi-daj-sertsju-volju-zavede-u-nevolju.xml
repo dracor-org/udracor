@@ -5,7 +5,7 @@
       <titleStmt>
         <title type="main">Дай серцю волю, заведе у неволю</title>
         <title type="main" xml:lang="eng">Give the Heart Freedom and It Will Lead You into Slavery</title>
-        <title type="sub">Драма в 5-ти діях і 6-ти одмінах.</title>
+        <title type="sub">Драма в 5-ти діях і 6-ти одмінах</title>
         <author>
           <persName>
             <forename>Марко</forename>
@@ -142,8 +142,15 @@
       <relation name="wikidata" active="https://dracor.org/entity/u000016" passive="http://www.wikidata.org/entity/Q136205276"/>
     </listRelation>
   </standOff>
-    <text>
-    <body>
+  <text>
+    <front>
+      <titlePage>
+        <docAuthor>Марко Кропивницький</docAuthor>
+        <docTitle>
+          <titlePart type="main">Дай серцю волю, заведе у неволю</titlePart>
+          <titlePart type="sub">Драма в 5-ти діях і 6-ти одмінах</titlePart>
+        </docTitle>
+      </titlePage>
       <castList>
         <head>Лицедії:</head>
         <castItem>Семен Мельниченко, парубок.</castItem>
@@ -159,7 +166,11 @@
         <castItem>1-й, 2-й, 3-й, 4-й, 5-й, 6-й, 7-й парубки.</castItem>
         <castItem>Селяни…</castItem>
       </castList>
-      <stage>Діється в Херсонщині.</stage>
+      <set>
+        <p>Діється в Херсонщині.</p>
+      </set>
+    </front>
+    <body>
       <div type="act">
         <head>ДІЯ ПЕРША</head>
         <stage>Село. Управоруч хата, навкруги город, заплетений лозою; в городі біля хати, з причілка,
