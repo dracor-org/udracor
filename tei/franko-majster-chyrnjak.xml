@@ -30,10 +30,14 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
+          <name>Енциклопедія життя і творчості Івана Франка</name>
           <idno type="URL">https://www.i-franko.name/uk/Dramas/MajsterChyrnjak.html</idno>
-        </bibl>
-        <bibl type="originalSource">
-          <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 24, с. 187 – 212.</title>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
+          <bibl type="originalSource">
+            <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 24, с. 187 – 212.</title>
+          </bibl>
         </bibl>
       </sourceDesc>
     </fileDesc>
