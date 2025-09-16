@@ -10,6 +10,10 @@
             <forename>Кирило</forename>
             <surname>Тополя</surname>
           </persName>
+          <persName xml:lang="eng">
+            <forename>Kyrylo</forename>
+            <surname>Topolya</surname>
+          </persName>
           <idno type="wikidata">Q12161996</idno>
         </author>
       </titleStmt>

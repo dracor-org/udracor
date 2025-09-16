@@ -11,7 +11,11 @@
                 <forename>Іван</forename>
                 <surname>Карпенко-Карий</surname>
             </persName>
-            <idno type="wikidata">Q2362037</idno>
+          <persName xml:lang="eng">
+            <forename>Ivan</forename>
+            <surname>Karpenko-Karyi</surname>
+          </persName>
+          <idno type="wikidata">Q2362037</idno>
         </author>
       </titleStmt>
       <publicationStmt>

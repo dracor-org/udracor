@@ -10,6 +10,10 @@
             <forename>Василь</forename>
             <surname>Гоголь-Яновський</surname>
           </persName>
+          <persName xml:lang="eng">
+            <forename>Vasyl</forename>
+            <surname>Gogol-Yanovsky</surname>
+          </persName>
           <idno type="wikidata">Q6538314</idno>
         </author>
       </titleStmt>

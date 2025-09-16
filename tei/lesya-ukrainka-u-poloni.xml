@@ -11,6 +11,10 @@
             <forename>Леся</forename>
             <surname>Українка</surname>
           </persName>
+          <persName xml:lang="eng">
+            <forename>Lesya</forename>
+            <surname>Ukrainka</surname>
+          </persName>
           <idno type="wikidata">Q298033</idno>
         </author>
       </titleStmt>

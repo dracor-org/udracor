@@ -11,6 +11,10 @@
             <forename>Дмитро</forename>
             <surname>Дмитренко</surname>
           </persName>
+          <persName xml:lang="eng">
+            <forename>Dmytro</forename>
+            <surname>Dmytrenko</surname>
+          </persName>
           <idno type="wikidata">Q25422093</idno>
         </author>
       </titleStmt>

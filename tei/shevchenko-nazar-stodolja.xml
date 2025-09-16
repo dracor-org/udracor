@@ -10,6 +10,10 @@
             <forename>Тарас</forename>
             <surname>Шевченко</surname>
           </persName>
+          <persName xml:lang="eng">
+            <forename>Taras</forename>
+            <surname>Shevchenko</surname>
+          </persName>
           <idno type="wikidata">Q134958</idno>
         </author>
       </titleStmt>

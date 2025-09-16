@@ -11,6 +11,10 @@
             <forename>Марко</forename>
             <surname>Кропивницький</surname>
           </persName>
+          <persName xml:lang="eng">
+            <forename>Marko</forename>
+            <surname>Kropyvnytskyi</surname>
+          </persName>
           <idno type="wikidata">Q2366031</idno>
         </author>
       </titleStmt>

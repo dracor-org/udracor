@@ -11,6 +11,10 @@
             <forename>Микола</forename>
             <surname>Куліш</surname>
           </persName>
+          <persName xml:lang="eng">
+            <forename>Mykola</forename>
+            <surname>Kulish</surname>
+          </persName>
           <idno type="wikidata">Q933749</idno>
          </author>
       </titleStmt>

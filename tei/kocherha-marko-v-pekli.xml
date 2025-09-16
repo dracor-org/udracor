@@ -10,6 +10,10 @@
             <forename>Іван</forename>
             <surname>Кочерга</surname>
           </persName>
+          <persName xml:lang="eng">
+            <forename>Ivan</forename>
+            <surname>Kocherha</surname>
+          </persName>
           <idno type="wikidata">Q4236694</idno>
         </author>
       </titleStmt>

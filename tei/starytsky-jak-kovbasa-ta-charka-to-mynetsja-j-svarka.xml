@@ -11,6 +11,10 @@
             <forename>Михайло</forename>
             <surname>Старицький</surname>
           </persName>
+          <persName xml:lang="eng">
+            <forename>Mykhailo</forename>
+            <surname>Starytskyi</surname>
+          </persName>
           <idno type="wikidata">Q4439957</idno>
         </author>
       </titleStmt>
