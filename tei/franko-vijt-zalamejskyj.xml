@@ -45,67 +45,67 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="pіdofіcer">
+          <person xml:id="pіdofіcer" sex="MALE">
             <persName>Підофіцер</persName>
           </person>
-          <person sex="MALE" xml:id="rebolledo">
+          <person xml:id="rebolledo" sex="MALE">
             <persName>Реболледо</persName>
           </person>
-          <person sex="MALE" xml:id="chispa">
+          <person xml:id="chispa" sex="MALE">
             <persName>Чіспа</persName>
           </person>
-          <person sex="MALE" xml:id="vojak_1">
+          <person xml:id="vojak_1" sex="MALE">
             <persName>1 вояк</persName>
           </person>
-          <person sex="MALE" xml:id="vojak_2">
+          <person xml:id="vojak_2" sex="MALE">
             <persName>2 вояк</persName>
           </person>
-          <personGrp sex="MALE" xml:id="vojaki">
-            <persName>Вояки</persName>
+          <personGrp xml:id="vojaki" sex="MALE">
+            <name>Вояки</name>
           </personGrp>
-          <person sex="MALE" xml:id="kapіtan">
+          <person xml:id="kapіtan" sex="MALE">
             <persName>Капітан</persName>
           </person>
-          <person sex="MALE" xml:id="don_mendo">
+          <person xml:id="don_mendo" sex="MALE">
             <persName>Дон Мендо</persName>
           </person>
-          <person sex="MALE" xml:id="nunjo">
+          <person xml:id="nunjo" sex="MALE">
             <persName>Нуньйо</persName>
           </person>
-          <person sex="FEMALE" xml:id="ines">
+          <person xml:id="ines" sex="FEMALE">
             <persName>Інес</persName>
           </person>
-          <person sex="FEMALE" xml:id="izabella">
+          <person xml:id="izabella" sex="FEMALE">
             <persName>Ізабелла</persName>
           </person>
-          <person sex="MALE" xml:id="krespo">
+          <person xml:id="krespo" sex="MALE">
             <persName>Креспо</persName>
           </person>
-          <person sex="MALE" xml:id="ivas">
+          <person xml:id="ivas" sex="MALE">
             <persName>Івась</persName>
           </person>
-          <person sex="MALE" xml:id="don_lope">
+          <person xml:id="don_lope" sex="MALE">
             <persName>Дон Лопе</persName>
           </person>
-          <person sex="MALE" xml:id="vojak">
+          <person xml:id="vojak" sex="MALE">
             <persName>Вояк</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="golosy">
+          <personGrp xml:id="golosy" sex="UNKNOWN">
             <name>Голоси</name>
           </personGrp>
-          <person sex="MALE" xml:id="pidporuchnik">
+          <person xml:id="pidporuchnik" sex="MALE">
             <persName>Підпоручник</persName>
           </person>
-          <person sex="UNKNOWN" xml:id="golos_za_scenoyu">
+          <person xml:id="golos_za_scenoyu" sex="UNKNOWN">
             <persName>Голос за сценою</persName>
           </person>
-          <person sex="MALE" xml:id="pisar">
+          <person xml:id="pisar" sex="MALE">
             <persName>Писар</persName>
           </person>
-          <person sex="MALE" xml:id="seljanin">
+          <person xml:id="seljanin" sex="MALE">
             <persName>Селянин</persName>
           </person>
-          <person sex="MALE" xml:id="korol_filipp">
+          <person xml:id="korol_filipp" sex="MALE">
             <persName>Король</persName>
           </person>
         </listPerson>

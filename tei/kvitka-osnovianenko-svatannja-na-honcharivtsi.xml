@@ -41,41 +41,41 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="prokip">
+          <person xml:id="prokip" sex="MALE">
             <persName>Прокiп</persName>
           </person>
-          <person xml:id="skorik">
-            <persName>Скорик</persName>
-          </person>
-          <person xml:id="odarka">
+          <person xml:id="odarka" sex="FEMALE">
             <persName>Одарка</persName>
           </person>
-          <person xml:id="timiš">
-            <persName>Тимiш</persName>
-          </person>
-          <person xml:id="ulâna">
-            <persName>Уляна</persName>
-          </person>
-          <person xml:id="oleksij">
-            <persName>Олексiй</persName>
-          </person>
-          <person xml:id="kandzûba">
+          <person xml:id="kandzûba" sex="MALE">
             <persName>Кандзюба</persName>
           </person>
-          <person xml:id="devka_3-â">
-            <persName>3-я девка</persName>
+          <person xml:id="ulâna" sex="FEMALE">
+            <persName>Уляна</persName>
           </person>
-          <personGrp xml:id="hor_devok">
-            <persName>Хор девок</persName>
+          <person xml:id="stecko" sex="MALE">
+            <persName>Стецько</persName>
+          </person>
+          <person xml:id="oleksij" sex="MALE">
+            <persName>Олексiй</persName>
+          </person>
+          <person xml:id="skorik" sex="MALE">
+            <persName>Скорик</persName>
+          </person>
+          <person xml:id="timiš" sex="MALE">
+            <persName>Тимiш</persName>
+          </person>
+          <personGrp xml:id="hor_devok" sex="FEMALE">
+            <name>Хор девок</name>
           </personGrp>
-          <person xml:id="devka_1-â">
+          <person xml:id="devka_1-â" sex="FEMALE">
             <persName>1-я девка</persName>
           </person>
-          <person xml:id="devka_2-â">
+          <person xml:id="devka_2-â" sex="FEMALE">
             <persName>2-я девка</persName>
           </person>
-          <person xml:id="stecko">
-            <persName>Стецько</persName>
+          <person xml:id="devka_3-â" sex="FEMALE">
+            <persName>3-я девка</persName>
           </person>
         </listPerson>
       </particDesc>

@@ -44,17 +44,38 @@
       <particDesc>
         <listPerson>
           <personGrp xml:id="mužčiny_act_1"> 
-            <persName>Мужчины (сцена 1)</persName>
+            <name>Мужчины (сцена 1)</name>
           </personGrp>
-          <personGrp xml:id="rebyata_act_1"> 
-            <persName>Ребята (сцена 1)</persName>
+          <person xml:id="vojt">
+            <persName>Войт</persName>
+          </person>
+          <person xml:id="lejba">
+            <persName>Лейба</persName>
+          </person>
+          <personGrp xml:id="mež_gulâûŝimi">
+            <name>Меж гуляющими</name>
           </personGrp>
-          <personGrp xml:id="molodej_scene_4"> 
-            <persName>Молодежь (сцена 4)</persName>
-          </personGrp>
+          <person xml:id="hajlo">
+            <persName>Хайло</persName>
+          </person>
           <person xml:id="gric">
             <persName>Гриць</persName>
           </person>
+          <person xml:id="vasil">
+            <persName>Василь</persName>
+          </person>
+          <person xml:id="galâ">
+            <persName>Галя</persName>
+          </person>
+          <personGrp xml:id="rebyata_act_1"> 
+            <name>Ребята (сцена 1)</name>
+          </personGrp>
+          <person xml:id="lopata">
+            <persName>Лопата</persName>
+          </person>
+          <personGrp xml:id="molodej_scene_4"> 
+            <name>Молодежь (сцена 4)</name>
+          </personGrp>
           <person xml:id="katrâ">
             <persName>Катря</persName>
           </person>
@@ -71,7 +92,7 @@
             <persName>Настя</persName>
           </person>
           <personGrp xml:id="neskolko_golosov_act_2">
-            <persName>Несколько голосов (сцена 2)</persName>
+            <name>Несколько голосов (сцена 2)</name>
           </personGrp>
           <person xml:id="semen">
             <persName>Семен</persName>
@@ -79,17 +100,11 @@
           <person xml:id="malâr">
             <persName>Маляр</persName>
           </person>
-          <person xml:id="lejba">
-            <persName>Лейба</persName>
-          </person>
           <person xml:id="koval">
             <persName>Коваль</persName>
           </person>
           <person xml:id="pinčuk">
             <persName>Пинчук</persName>
-          </person>
-          <person xml:id="lopata">
-            <persName>Лопата</persName>
           </person>
           <person xml:id="ivan">
             <persName>Иван</persName>
@@ -115,38 +130,29 @@
           <person xml:id="borŝ">
             <persName>Борщ</persName>
           </person>
-          <person xml:id="hajlo">
-            <persName>Хайло</persName>
-          </person>
           <person xml:id="gončar">
             <persName>Гончар</persName>
           </person>
-          <personGrp xml:id="mež_gulâûŝimi">
-            <persName>Меж гуляющими</persName>
-          </personGrp>
           <personGrp xml:id="nekotorye_act_3_scene_5">
-            <persName>Некоторые</persName>
+            <name>Некоторые</name>
           </personGrp>
           <personGrp xml:id="nekotorye_act_4">
-            <persName>Некоторые</persName>
+            <name>Некоторые</name>
           </personGrp>
           <personGrp xml:id="nekotorye_act_5">
-            <persName>Некоторые</persName>
+            <name>Некоторые</name>
           </personGrp>
           <personGrp xml:id="nekotorye_scene_2">
-            <persName>Некоторые</persName>
+            <name>Некоторые</name>
           </personGrp>
           <personGrp xml:id="jeny">
-            <persName>Жены (сцена 2)</persName>
+            <name>Жены (сцена 2)</name>
           </personGrp>         
           <person xml:id="ivga">
             <persName>Ивга</persName>
           </person>
           <person xml:id="pavlo">
             <persName>Павло</persName>
-          </person>
-          <person xml:id="galâ">
-            <persName>Галя</persName>
           </person>
           <person xml:id="ulâna">
             <persName>Уляна</persName>
@@ -168,12 +174,6 @@
           </person>
           <person xml:id="mnogie">
             <persName>Многие</persName>
-          </person>
-          <person xml:id="vasil">
-            <persName>Василь</persName>
-          </person>
-          <person xml:id="vojt">
-            <persName>Войт</persName>
           </person>
           <person xml:id="motuziha">
             <persName>Мотузиха</persName>

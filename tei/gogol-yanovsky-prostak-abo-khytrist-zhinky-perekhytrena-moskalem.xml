@@ -43,20 +43,20 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="sockij">
-            <persName>Соцкий</persName>
+          <person xml:id="roman" sex="MALE">
+            <persName>Роман</persName>
           </person>
-          <person xml:id="dâk">
-            <persName>Дьяк</persName>
-          </person>
-          <person xml:id="paraska">
+          <person xml:id="paraska" sex="FEMALE">
             <persName>Параска</persName>
           </person>
-          <person xml:id="soldat">
-            <persName>Солдат</persName>
+          <person xml:id="dâk" sex="MALE">
+            <persName>Дьяк</persName>
           </person>
-          <person xml:id="roman">
-            <persName>Роман</persName>
+          <person xml:id="sockij" sex="MALE">
+            <persName>Соцкий</persName>
+          </person>
+          <person xml:id="soldat" sex="MALE">
+            <persName>Солдат</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -344,7 +344,9 @@
       <div type="scene">
         <head>ЯВЛЕНИЕ VI.</head>
         <stage>ДЬЯК и ПАРАСКА.</stage>
-        <sp who="#dâk"><speaker>Дьяк</speaker> <stage>(входит, делает знак удивления, слушая песню, а при конце оной):</stage>
+        <sp who="#dâk">
+          <speaker>Дьяк</speaker>
+          <stage>(входит, делает знак удивления, слушая песню, а при конце оной):</stage>
           <p>Єй-єй, ангельскій глас!</p>
         </sp>
         <sp who="#paraska">

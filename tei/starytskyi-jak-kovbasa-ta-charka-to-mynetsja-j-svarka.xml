@@ -40,29 +40,29 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="FEMALE" xml:id="horpyna">
+          <person xml:id="horpyna" sex="FEMALE">
             <persName>Горпина</persName>
           </person>
-          <person sex="MALE" xml:id="shylo">
-            <persName>Шило</persName>
-          </person>
-          <person sex="MALE" xml:id="andrij">
-            <persName>Андрій</persName>
-          </person>
-          <person sex="FEMALE" xml:id="priska">
-            <persName>Пріська</persName>
-          </person>
-          <person sex="MALE" xml:id="shponka">
-            <persName>Шпонька</persName>
-          </person>
-          <person sex="MALE" xml:id="stepan">
+          <person xml:id="stepan" sex="MALE">
             <persName>Степан</persName>
           </person>
-          <person sex="MALE" xml:id="havrylo">
+          <person xml:id="potap" sex="MALE">
+            <persName>Потап</persName>
+          </person>
+          <person xml:id="priska" sex="FEMALE">
+            <persName>Пріська</persName>
+          </person>
+          <person xml:id="shponka" sex="MALE">
+            <persName>Шпонька</persName>
+          </person>
+          <person xml:id="havrylo" sex="MALE">
             <persName>Гаврило</persName>
           </person>
-          <person sex="MALE" xml:id="potap">
-            <persName>Потап</persName>
+          <person xml:id="shylo" sex="MALE">
+            <persName>Шило</persName>
+          </person>
+          <person xml:id="andrij" sex="MALE">
+            <persName>Андрій</persName>
           </person>
         </listPerson>
       </particDesc>

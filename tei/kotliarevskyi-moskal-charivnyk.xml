@@ -40,17 +40,17 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="fintik">
+          <person xml:id="tetâna" sex="FEMALE">
+            <persName>Тетяна</persName>
+          </person>
+          <person xml:id="fintik" sex="MALE">
             <persName>Финтик</persName>
           </person>
-          <person xml:id="soldat">
+          <person xml:id="soldat" sex="MALE">
             <persName>Солдат</persName>
           </person>
-          <person xml:id="mihajlo">
+          <person xml:id="mihajlo" sex="MALE">
             <persName>Михайло</persName>
-          </person>
-          <person xml:id="tetâna">
-            <persName>Тетяна</persName>
           </person>
         </listPerson>
       </particDesc>

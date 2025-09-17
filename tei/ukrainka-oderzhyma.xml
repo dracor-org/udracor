@@ -54,7 +54,7 @@
             <persName>Преторіанець</persName>
           </person>
           <personGrp xml:id="golosi_z_jurbi" sex="UNKNOWN">
-            <persName>Голоси з юрби</persName>
+            <name>Голоси з юрби</name>
           </personGrp>
           <person xml:id="joganna" sex="FEMALE">
             <persName>Йоганна</persName>
@@ -64,7 +64,7 @@
           </person>
           <personGrp xml:id="golosi_v_jurbi" sex="UNKNOWN">
             <!-- it is unclear if we should merge this with the Golosi_z_jurbi -->
-            <persName>Голоси в юрбі</persName>
+            <name>Голоси в юрбі</name>
           </personGrp>
         </listPerson>
       </particDesc>

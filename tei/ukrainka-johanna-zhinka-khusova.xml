@@ -40,7 +40,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="husa" sex="MALE">
+          <person xml:id="husa" sex="MALE" ana="http://www.wikidata.org/entity/Q106079959">
             <persName>Хуса</persName>
           </person>
           <person xml:id="melhola" sex="FEMALE">
@@ -61,7 +61,7 @@
           <person xml:id="kravchij" sex="MALE">
             <persName>Кравчий</persName>
           </person>
-          <person xml:id="joganna" sex="FEMALE">
+          <person xml:id="joganna" sex="FEMALE" ana="http://www.wikidata.org/entity/Q269889">
             <persName>Йоганна</persName>
           </person>
           <person xml:id="publij" sex="MALE">

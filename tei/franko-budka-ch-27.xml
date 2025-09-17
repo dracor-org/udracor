@@ -45,26 +45,26 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="hnat">
+          <person xml:id="panko" sex="MALE">
+            <persName>Панько</persName>
+          </person>
+          <person xml:id="hnat" sex="MALE">
             <persName>Гнат</persName>
           </person>
-          <person sex="MALE" xml:id="prokip">
-            <persName>Прокіп</persName>
-          </person>
-          <person sex="FEMALE" xml:id="olena">
+          <person xml:id="olena" sex="FEMALE">
             <persName>Олена</persName>
           </person>
-          <person sex="FEMALE" xml:id="ksenja">
-            <persName>Ксеня</persName>
-          </person>
-          <person sex="FEMALE" xml:id="zosja">
-            <persName>Зося</persName>
-          </person>
-          <person sex="MALE" xml:id="zavada">
+          <person xml:id="zavada" sex="MALE">
             <persName>Завада</persName>
           </person>
-          <person sex="MALE" xml:id="panko">
-            <persName>Панько</persName>
+          <person xml:id="zosja" sex="FEMALE">
+            <persName>Зося</persName>
+          </person>
+          <person xml:id="prokip" sex="MALE">
+            <persName>Прокіп</persName>
+          </person>
+          <person xml:id="ksenja" sex="FEMALE">
+            <persName>Ксеня</persName>
           </person>
         </listPerson>
       </particDesc>

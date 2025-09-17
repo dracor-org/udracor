@@ -40,184 +40,112 @@
       <particDesc>
         <listPerson>
           <personGrp xml:id="litsari" sex="MALE">
-            <persName>
-              Лицарі
-            </persName>
+            <name>Лицарі</name>
           </personGrp>
           <person xml:id="dolores" sex="FEMALE">
-            <persName>
-              Долорес
-            </persName>
+            <persName>Долорес</persName>
           </person>
           <person xml:id="duenja" sex="FEMALE">
-            <persName>
-              Дуенья
-            </persName>
+            <persName>Дуенья</persName>
           </person>
           <person xml:id="starij_gist" sex="MALE">
-            <persName>
-              Старий гість
-            </persName>
+            <persName>Старий гість</persName>
           </person>
           <person xml:id="sluga" sex="MALE">
-            <persName>
-              Слуга
-            </persName>
+            <persName>Слуга</persName>
           </person>
           <person xml:id="molodshij_grand" sex="MALE">
-            <persName>
-              Молодший гранд
-            </persName>
+            <persName>Молодший гранд</persName>
           </person>
           <person xml:id="divchinka" sex="FEMALE">
-            <persName>
-              Дівчинка
-            </persName>
+            <persName>Дівчинка</persName>
           </person>
           <person xml:id="tretij_litsar" sex="MALE">
-            <persName>
-              Третій лицар
-            </persName>
+            <persName>Третій лицар</persName>
           </person>
           <person xml:id="sganarel" sex="MALE">
-            <persName>
-              Сганарель
-            </persName>
+            <persName>Сганарель</persName>
           </person>
           <person xml:id="pidstarkuvata_gostja" sex="FEMALE">
-            <persName>
-              Підстаркувата гостя
-            </persName>
+            <persName>Підстаркувата гостя</persName>
           </person>
           <person xml:id="donna_klara" sex="FEMALE">
-            <persName>
-              Донна Клара
-            </persName>
+            <persName>Донна Клара</persName>
           </person>
           <personGrp xml:id="golosi_v_jurbi_gostej" sex="UNKNOWN">
-            <persName>
-              Голоси в юрбі гостей
-            </persName>
+            <name>Голоси в юрбі гостей</name>
           </personGrp>
           <person xml:id="marikvita" sex="FEMALE">
-            <persName>
-              Маріквіта
-            </persName>
+            <persName>Маріквіта</persName>
           </person>
           <person xml:id="panich" sex="MALE">
-            <persName>
-              Панич
-            </persName>
+            <persName>Панич</persName>
           </person>
           <person xml:id="gostja_druga" sex="FEMALE">
-            <persName>
-              Гостя друга
-            </persName>
+            <persName>Гостя друга</persName>
           </person>
           <person xml:id="don_pablo" sex="MALE">
-            <persName>
-              Дон Пабло
-            </persName>
+            <persName>Дон Пабло</persName>
           </person>
           <person xml:id="golosi_z_gurtu" sex="UNKNOWN">
-            <persName>
-              Голоси з гурту
-            </persName>
+            <persName>Голоси з гурту</persName>
           </person>
           <person xml:id="starij_grand" sex="MALE">
-            <persName>
-              Старий гранд
-            </persName>
+            <persName>Старий гранд</persName>
           </person>
           <person xml:id="stara_grandesa" sex="FEMALE">
-            <persName>
-              Стара грандеса
-            </persName>
+            <persName>Стара грандеса</persName>
           </person>
           <person xml:id="anna" sex="FEMALE">
-            <persName>
-              Анна
-            </persName>
+            <persName>Анна</persName>
           </person>
           <person xml:id="gostja-pannochka" sex="FEMALE">
-            <persName>
-              Гостя-панночка
-            </persName>
+            <persName>Гостя-панночка</persName>
           </person>
           <person xml:id="komandor" sex="MALE">
-            <persName>
-              Командор
-            </persName>
+            <persName>Командор</persName>
           </person>
           <person xml:id="moloda_pani" sex="FEMALE">
-            <persName>
-              Молода пані
-            </persName>
+            <persName>Молода пані</persName>
           </person>
           <person xml:id="donna_konsepsjon" sex="FEMALE">
-            <persName>
-              Донна Консепсьйон
-            </persName>
+            <persName>Донна Консепсьйон</persName>
           </person>
           <person xml:id="donna_sol" sex="FEMALE">
-            <persName>
-              Донна Соль
-            </persName>
+            <persName>Донна Соль</persName>
           </person>
           <person xml:id="pannochka" sex="FEMALE">
-            <persName>
-              Панночка
-            </persName>
+            <persName>Панночка</persName>
           </person>
           <person xml:id="maska-sonjashnik" sex="MALE">
-            <persName>
-              Маска-соняшник
-            </persName>
+            <persName>Маска-соняшник</persName>
           </person>
           <person xml:id="odin_z_gurtu" sex="UNKNOWN">
-            <persName>
-              Один з гурту
-            </persName>
+            <persName>Один з гурту</persName>
           </person>
           <person xml:id="drugij_litsar" sex="MALE">
-            <persName>
-              Другий лицар
-            </persName>
+            <persName>Другий лицар</persName>
           </person>
           <person xml:id="odin_gist" sex="MALE">
-            <persName>
-              Один гість
-            </persName>
+            <persName>Один гість</persName>
           </person>
           <person xml:id="najstarishij_gist" sex="MALE">
-            <persName>
-              Найстаріший гість
-            </persName>
+            <persName>Найстаріший гість</persName>
           </person>
           <person xml:id="donna_mersedes" sex="FEMALE">
-            <persName>
-              Донна Мерседес
-            </persName>
+            <persName>Донна Мерседес</persName>
           </person>
           <person xml:id="chorne_domino" sex="UNKNOWN">
-            <persName>
-              «Чорне доміно»
-            </persName>
+            <persName>«Чорне доміно»</persName>
           </person>
           <person xml:id="don_zhuan" sex="MALE">
-            <persName>
-              Дон Жуан
-            </persName>
+            <persName>Дон Жуан</persName>
           </person>
           <person xml:id="druga_moloda_pani" sex="FEMALE">
-            <persName>
-              Друга молода пані
-            </persName>
+            <persName>Друга молода пані</persName>
           </person>
           <person xml:id="odin_litsar" sex="MALE">
-            <persName>
-              Один лицар
-            </persName>
+            <persName>Один лицар</persName>
           </person>
         </listPerson>
       </particDesc>

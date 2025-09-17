@@ -45,44 +45,44 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="hutak">
-            <persName>Гутак</persName>
-          </person>
-          <person sex="MALE" xml:id="pershyj_posluhach">
-            <persName>Перший послугач</persName>
-          </person>
-          <person sex="MALE" xml:id="zavadskyj">
-            <persName>Завадський</persName>
-          </person>
-          <person sex="MALE" xml:id="anhlichanyn">
-            <persName>Англічанин</persName>
-          </person>
-          <person sex="MALE" xml:id="chyrnjak">
-            <persName>Чирняк</persName>
-          </person>
-          <person sex="FEMALE" xml:id="ahafija">
-            <persName>Агафія</persName>
-          </person>
-          <person sex="MALE" xml:id="shpitskopf">
-            <persName>Шпіцкопф</persName>
-          </person>
-          <person sex="MALE" xml:id="martyn">
+          <person xml:id="martyn" sex="MALE">
             <persName>Мартин</persName>
           </person>
-          <person sex="MALE" xml:id="ivan">
-            <persName>Іван</persName>
-          </person>
-          <person sex="MALE" xml:id="kryshtof">
+          <person xml:id="kryshtof" sex="MALE">
             <persName>Криштоф</persName>
           </person>
-          <person sex="MALE" xml:id="druhyj_posluhach">
-            <persName>Другий послугач</persName>
+          <person xml:id="khlopets" sex="MALE">
+            <persName>Хлопець</persName>
           </person>
-          <person sex="MALE" xml:id="tsymbalskyj">
+          <person xml:id="ahafija" sex="FEMALE">
+            <persName>Агафія</persName>
+          </person>
+          <person xml:id="chyrnjak" sex="MALE">
+            <persName>Чирняк</persName>
+          </person>
+          <person xml:id="zavadskyj" sex="MALE">
+            <persName>Завадський</persName>
+          </person>
+          <person xml:id="hutak" sex="MALE">
+            <persName>Гутак</persName>
+          </person>
+          <person xml:id="shpitskopf" sex="MALE">
+            <persName>Шпіцкопф</persName>
+          </person>
+          <person xml:id="tsymbalskyj" sex="MALE">
             <persName>Цимбальський</persName>
           </person>
-          <person sex="MALE" xml:id="khlopets">
-            <persName>Хлопець</persName>
+          <person xml:id="pershyj_posluhach" sex="MALE">
+            <persName>Перший послугач</persName>
+          </person>
+          <person xml:id="druhyj_posluhach" sex="MALE">
+            <persName>Другий послугач</persName>
+          </person>
+          <person xml:id="anhlichanyn" sex="MALE">
+            <persName>Англічанин</persName>
+          </person>
+          <person xml:id="ivan" sex="MALE">
+            <persName>Іван</persName>
           </person>
         </listPerson>
       </particDesc>

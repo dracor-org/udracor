@@ -44,16 +44,16 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="khoma">
+          <person xml:id="khoma" sex="MALE">
             <persName>Хома</persName>
           </person>
-          <person sex="MALE" xml:id="vasyl">
+          <person xml:id="vasyl" sex="MALE">
             <persName>Василь</persName>
           </person>
-          <person sex="FEMALE" xml:id="feska">
+          <person xml:id="feska" sex="FEMALE">
             <persName>Феська</persName>
           </person>
-          <person sex="MALE" xml:id="medovyj">
+          <person xml:id="medovyj" sex="MALE">
             <persName>Медовий</persName>
           </person>
         </listPerson>

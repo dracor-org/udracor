@@ -40,46 +40,49 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="galâ">
-            <persName>Галя</persName>
-          </person>
-          <person xml:id="nazar">
-            <persName>Назар</persName>
-          </person>
-          <person xml:id="homa">
-            <persName>Хома</persName>
-          </person>
-          <person xml:id="steha">
+          <person xml:id="steha" sex="FEMALE">
             <persName>Стеха</persName>
           </person>
-          <person xml:id="kobzar">
-            <persName>Кобзарь</persName>
+          <person xml:id="galâ" sex="FEMALE">
+            <persName>Галя</persName>
           </person>
-          <person xml:id="svat">
+          <person xml:id="homa" sex="MALE">
+            <persName>Хома</persName>
+          </person>
+          <personGrp xml:id="svati" sex="UNKNOWN">
+            <name>Свати</name>
+          </personGrp>
+          <person xml:id="svat" sex="MALE">
             <persName>Сват</persName>
           </person>
-          <personGrp xml:id="svati">
-            <persName>Свати</persName>
-          </personGrp>
-          <person xml:id="hozâjka">
-            <persName>Хозяйка</persName>
+          <person xml:id="nazar" sex="MALE">
+            <persName>Назар</persName>
           </person>
-          <person xml:id="gnat">
+          <person xml:id="gnat" sex="MALE">
             <persName>Гнат</persName>
           </person>
-          <personGrp xml:id="v_tolpe">
-            <persName>В толпе</persName>
-          </personGrp>
-          <personGrp xml:id="golosa">
-            <persName>Голоса</persName>
-          </personGrp>
-          <person xml:id="golos">
-            <persName>Голос</persName>
+          <person xml:id="hozâjka" sex="FEMALE">
+            <persName>Хозяйка</persName>
           </person>
-          <person xml:id="drugoj">
+          <personGrp xml:id="golosa" sex="UNKNOWN">
+            <name>Голоса</name>
+          </personGrp>
+          <person xml:id="kobzar" sex="MALE">
+            <persName>Кобзарь</persName>
+          </person>
+          <personGrp xml:id="drugie" sex="UNKNOWN">
+            <name>Другие</name>
+          </personGrp>
+          <personGrp xml:id="v_tolpe" sex="UNKNOWN">
+            <name>В толпе</name>
+          </personGrp>
+          <person xml:id="drugoj" sex="MALE">
             <persName>Другой</persName>
           </person>
-          <person xml:id="tretij">
+          <person xml:id="golos" sex="MALE">
+            <persName>Голос</persName>
+          </person>
+          <person xml:id="tretij" sex="MALE">
             <persName>Третий</persName>
           </person>
         </listPerson>

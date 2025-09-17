@@ -46,64 +46,64 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="MALE" xml:id="rjabyna">
+          <person xml:id="rjabyna" sex="MALE">
             <persName>Рябина</persName>
           </person>
-          <person sex="MALE" xml:id="perun">
+          <person xml:id="perun" sex="MALE">
             <persName>Перун</persName>
           </person>
-          <person sex="MALE" xml:id="kazydoroha">
+          <person xml:id="kazydoroha" sex="MALE">
             <persName>Казидорога</persName>
           </person>
-          <person sex="FEMALE" xml:id="feska">
+          <person xml:id="feska" sex="FEMALE">
             <persName>Феська</persName>
           </person>
-          <person sex="MALE" xml:id="bovt">
+          <person xml:id="bovt" sex="MALE">
             <persName>Бовт</persName>
           </person>
-          <person sex="MALE" xml:id="komisar">
+          <person xml:id="komisar" sex="MALE">
             <persName>Комісар</persName>
           </person>
-          <person sex="FEMALE" xml:id="matrona">
+          <person xml:id="matrona" sex="FEMALE">
             <persName>Матрона</persName>
           </person>
-          <personGrp sex="FEMALE" xml:id="baby">
+          <personGrp xml:id="baby" sex="FEMALE">
             <name>Баби</name>
           </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="mnohi_choloviky">
+          <personGrp xml:id="mnohi_choloviky" sex="UNKNOWN">
             <name>Многі чоловіки</name>
           </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="khor_ditej">
+          <personGrp xml:id="khor_ditej" sex="UNKNOWN">
             <name>Хор дітей</name>
           </personGrp>
-          <person sex="MALE" xml:id="tretij">
+          <person xml:id="tretij" sex="MALE">
             <persName>Третій</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="hurt_ditej">
+          <personGrp xml:id="hurt_ditej" sex="UNKNOWN">
             <name>Гурт дітей</name>
           </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="ljudy">
+          <personGrp xml:id="ljudy" sex="UNKNOWN">
             <name>Люди</name>
           </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="choloviky">
+          <personGrp xml:id="choloviky" sex="UNKNOWN">
             <name>Чоловіки</name>
           </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="hromada">
+          <personGrp xml:id="hromada" sex="UNKNOWN">
             <name>Громада</name>
           </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="khor">
+          <personGrp xml:id="khor" sex="UNKNOWN">
             <name>Хор</name>
           </personGrp>
-          <person sex="MALE" xml:id="druhyj_cholovik">
+          <person xml:id="druhyj_cholovik" sex="MALE">
             <persName>Другий чоловік</persName>
           </person>
-          <person sex="MALE" xml:id="tretij_cholovik">
+          <person xml:id="tretij_cholovik" sex="MALE">
             <persName>Третій чоловік</persName>
           </person>
-          <person sex="MALE" xml:id="chetvertyj">
+          <person xml:id="chetvertyj" sex="MALE">
             <persName>Четвертий</persName>
           </person>
-          <person sex="MALE" xml:id="odyn_cholovik">
+          <person xml:id="odyn_cholovik" sex="MALE">
             <persName>Один чоловік</persName>
           </person>
         </listPerson>

@@ -41,93 +41,96 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="moroziha">
-            <persName>Морозиха</persName>
-          </person>
-          <person xml:id="parubok_7-j">
-            <persName>7-й парубок</persName>
-          </person>
-          <person xml:id="dejaki_parubki_act1_scene5">
-            <persName>Деякі парубки</persName>
-          </person>
-          <person xml:id="parubok_1-j">
-            <persName>1-й парубок</persName>
-          </person>
-          <person xml:id="parubok_5-j">
-            <persName>5-й парубок</persName>
-          </person>
-          <person xml:id="divchata">
-            <persName>Дівчата</persName>
-          </person>
-          <person xml:id="dejaki_act2_scene5">
-            <persName>Деякі</persName>
-          </person>
-          <person xml:id="parubok_6-j">
-            <persName>6-й парубок</persName>
-          </person>
-          <person xml:id="hristja">
-            <persName>Христя</persName>
-          </person>
-          <person xml:id="zachepiha">
-            <persName>Зачепиха</persName>
-          </person>
-          <person xml:id="seljani">
-            <persName>Селяни</persName>
-          </person>
-          <person xml:id="semen">
+          <person xml:id="semen" sex="MALE">
             <persName>Семен</persName>
           </person>
-          <person xml:id="muzika_2-j">
-            <persName>2-й музика</persName>
-          </person>
-          <person xml:id="parubok_3-j">
-            <persName>3-й парубок</persName>
-          </person>
-          <person xml:id="odin_iz_seljan">
-            <persName>Один із селян</persName>
-          </person>
-          <person xml:id="odarka">
+          <person xml:id="odarka" sex="FEMALE">
             <persName>Одарка</persName>
           </person>
-          <person xml:id="providnik">
-            <persName>Провідник</persName>
-          </person>
-          <person xml:id="kugut">
-            <persName>Кугут</persName>
-          </person>
-          <person xml:id="mikita">
+          <person xml:id="mikita" sex="MALE">
             <persName>Микита</persName>
           </person>
-          <person xml:id="ivan">
+          <person xml:id="ivan" sex="MALE">
             <persName>Іван</persName>
           </person>
-          <person xml:id="zhinochij_golos">
-            <persName>Жіночий голос</persName>
-          </person>
-          <person xml:id="parubok_2-j">
-            <persName>2-й парубок</persName>
-          </person>
-          <person xml:id="golosi">
-            <persName>Голоси</persName>
-          </person>
-          <person xml:id="golos_za_viknom_">
-            <persName>Голос за вікном</persName>
-          </person>
-          <person xml:id="muzika_1-j">
-            <persName>1-й музика</persName>
-          </person>
-          <person xml:id="skubko">
-            <persName>Скубко</persName>
-          </person>
-          <person xml:id="parubok_4-j">
-            <persName>4-й парубок</persName>
-          </person>
-          <person xml:id="marusja">
-            <persName>Маруся</persName>
-          </person>
-          <person xml:id="omelko">
+          <person xml:id="omelko" sex="MALE">
             <persName>Омелько</persName>
           </person>
+          <person xml:id="parubok_1-j" sex="MALE">
+            <persName>1-й парубок</persName>
+          </person>
+          <person xml:id="parubok_2-j" sex="MALE">
+            <persName>2-й парубок</persName>
+          </person>
+          <person xml:id="parubok_3-j" sex="MALE">
+            <persName>3-й парубок</persName>
+          </person>
+          <person xml:id="parubok_4-j" sex="MALE">
+            <persName>4-й парубок</persName>
+          </person>
+          <person xml:id="parubok_5-j" sex="MALE">
+            <persName>5-й парубок</persName>
+          </person>
+          <person xml:id="parubok_6-j" sex="MALE">
+            <persName>6-й парубок</persName>
+          </person>
+          <person xml:id="parubok_7-j" sex="MALE">
+            <persName>7-й парубок</persName>
+          </person>
+          <personGrp xml:id="golosi" sex="UNKNOWN">
+            <name>Голоси</name>
+          </personGrp>
+          <personGrp xml:id="dejaki_parubki_act1_scene5" sex="MALE">
+            <name>Деякі парубки</name>
+          </personGrp>
+          <person xml:id="marusja" sex="FEMALE">
+            <persName>Маруся</persName>
+          </person>
+          <person xml:id="moroziha" sex="FEMALE">
+            <persName>Морозиха</persName>
+          </person>
+          <person xml:id="zhinochij_golos" sex="FEMALE">
+            <persName>Жіночий голос</persName>
+          </person>
+          <person xml:id="hristja" sex="FEMALE">
+            <persName>Христя</persName>
+          </person>
+          <person xml:id="gorpina" sex="FEMALE">
+            <persName>Горпина</persName>
+          </person>
+          <personGrp xml:id="divchata" sex="FEMALE">
+            <name>Дівчата</name>
+          </personGrp>
+          <person xml:id="dejaki_act2_scene5" sex="MALE">
+            <persName>Деякі</persName>
+          </person>
+          <person xml:id="kugut" sex="MALE">
+            <persName>Кугут</persName>
+          </person>
+          <person xml:id="skubko" sex="MALE">
+            <persName>Скубко</persName>
+          </person>
+          <person xml:id="muzika_1-j" sex="MALE">
+            <persName>1-й музика</persName>
+          </person>
+          <person xml:id="muzika_2-j" sex="MALE">
+            <persName>2-й музика</persName>
+          </person>
+          <person xml:id="zachepiha" sex="FEMALE">
+            <persName>Зачепиха</persName>
+          </person>
+          <person xml:id="golos_za_viknom_" sex="MALE">
+            <persName>Голос за вікном</persName>
+          </person>
+          <person xml:id="providnik" sex="MALE">
+            <persName>Провідник</persName>
+          </person>
+          <person xml:id="odin_iz_seljan" sex="MALE">
+            <persName>Один із селян</persName>
+          </person>
+          <personGrp xml:id="seljani" sex="MALE">
+            <name>Селяни</name>
+          </personGrp>
         </listPerson>
       </particDesc>
     </profileDesc>
@@ -2528,7 +2531,7 @@
             <p>Ідіть же, дяденька, прямо в хату, а мені ще декуди треба збігать. Так що ж, дяденька,
               договор так, як я говорив?</p>
           </sp>
-          <sp who="#1-j_muzika">
+          <sp who="#muzika_1-j">
             <speaker>Музика.</speaker>
             <p>Ні, так буде не ловко. Четвертака до карбованця набавиш?</p>
           </sp>
@@ -2536,7 +2539,7 @@
             <speaker>Іван.</speaker>
             <p>А какой-бо ви!… Та беріть двадцять копійок срібла — просю вас!</p>
           </sp>
-          <sp who="#1-j_muzika">
+          <sp who="#muzika_1-j">
             <speaker>Музика.</speaker>
             <p>Як то можна? Штрумент же що-небудь стоїть, ну й струн, може, на цілого
               гривеника зопсуєш, так воно чогось коштує? Тепер сама тонша струна, так вона, брат, аглицька
@@ -2546,7 +2549,7 @@
             <speaker>Іван.</speaker>
             <p>Ну, нехай буде по-вашому! З вами не зговориш!</p>
           </sp>
-          <sp who="#1-j_muzika">
+          <sp who="#muzika_1-j">
             <speaker>Музика.</speaker>
             <p>Вєрно!… Потому штоб і гаварить, так обученіє требується… Чудной ти! Тепера
               хоч і на скрипці навука тож чого-небудь стоїть… Я, може, не одного карбованця заплатив, доки
@@ -2555,11 +2558,11 @@
               доки навчили! Прив'яже — і грай… да!… А вот как єтот мальчонка був предоставлен до меня у
               ндравоученіє, так што я з ним восприїмчив був. Ось розкажи, как я тебя муштровав!</p>
           </sp>
-          <sp who="#2-j_muzika">
+          <sp who="#muzika_2-j">
             <speaker>2-й музика.</speaker>
             <p>Мене дяденька били, у-у, здорово били!…</p>
           </sp>
-          <sp who="#1-j_muzika">
+          <sp who="#muzika_1-j">
             <speaker>1-й музика.</speaker>
             <p>Мальчонка вон нічаво, ну только пйоть, біда, як пйоть!… Раз однажди
               договорились ми свадьбу грать за 75 копеєк. Положим, продешевили. Так вон побачив на вікні
@@ -2567,7 +2570,7 @@
               не дав. Так я його як схватив за холку, да как тріпонув, так так увесь каніфоль з него і
               вискочив!…</p>
           </sp>
-          <sp who="#2-j_muzika">
+          <sp who="#muzika_2-j">
             <speaker>2-й музика.</speaker>
             <p> Мені у сирівці вимочували руки, а далі шевською смолою натирали пучки,
               щоб отак-о гуділо…</p>
@@ -2577,7 +2580,7 @@
             <speaker>Іван.</speaker>
             <p>Та добре-добре, йди вже; бо тебе й за день не переслухаєш!</p>
           </sp>
-          <sp who="#1-j_muzika">
+          <sp who="#muzika_1-j">
             <speaker>1-й музика.</speaker>
             <p>То-то ж бо й є! До всякого діла треба знать, як і що!…</p>
             <stage>(Пішов у хату, настроюючи скрипку)</stage>

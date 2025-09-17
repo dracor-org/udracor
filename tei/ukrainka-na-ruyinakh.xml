@@ -39,40 +39,40 @@
         <profileDesc>
       <particDesc>
         <listPerson>
-          <person sex="FEMALE" xml:id="tirca">
+          <person xml:id="tirca" sex="FEMALE">
             <persName>Тірца</persName>
           </person>
-          <person sex="FEMALE" xml:id="zhinka">
+          <person xml:id="zhinka" sex="FEMALE">
             <persName>Жінка</persName>
           </person>
-          <person sex="FEMALE" xml:id="divchyna">
+          <person xml:id="divchyna" sex="FEMALE">
             <persName>Дівчина</persName>
           </person>
-          <person sex="FEMALE" xml:id="divcha_pidlitok">
+          <person xml:id="divcha_pidlitok" sex="FEMALE">
             <persName>Дівча-підліток</persName>
           </person>
-          <person sex="MALE" xml:id="cholovik">
+          <person xml:id="cholovik" sex="MALE">
             <persName>Чоловік</persName>
           </person>
-          <person sex="MALE" xml:id="staryj">
+          <person xml:id="staryj" sex="MALE">
             <persName>Старий</persName>
           </person>
-          <person sex="MALE" xml:id="spivets">
+          <person xml:id="spivets" sex="MALE">
             <persName>Співець</persName>
           </person>
-          <person sex="MALE" xml:id="rybalka">
+          <person xml:id="rybalka" sex="MALE">
             <persName>Рибалка</persName>
           </person>
-          <person sex="MALE" xml:id="prorok_samariyskyi">
+          <person xml:id="prorok_samariyskyi" sex="MALE">
             <persName>Пророк самарійський</persName>
           </person>
-          <person sex="MALE" xml:id="levit">
+          <person xml:id="levit" sex="MALE">
             <persName>Левіт</persName>
           </person>
-          <personGrp sex="MALE" xml:id="samaryany">
+          <personGrp xml:id="samaryany" sex="MALE">
             <name>Самаряни</name>
           </personGrp>
-          <personGrp sex="MALE" xml:id="iudeyi">
+          <personGrp xml:id="iudeyi" sex="MALE">
             <name>Іудеї</name>
           </personGrp>
         </listPerson>

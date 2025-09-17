@@ -41,49 +41,31 @@
       <particDesc>
         <listPerson>
           <person xml:id="oksana" sex="FEMALE">
-            <persName>
-              Оксана
-            </persName>
+            <persName>Оксана</persName>
           </person>
           <person xml:id="mati" sex="FEMALE">
-            <persName>
-              Мати
-            </persName>
+            <persName>Мати</persName>
           </person>
           <person xml:id="dzhura" sex="MALE">
-            <persName>
-              Джура
-            </persName>
+            <persName>Джура</persName>
           </person>
           <person xml:id="ganna" sex="FEMALE">
-            <persName>
-              Ганна
-            </persName>
+            <persName>Ганна</persName>
           </person>
           <person xml:id="perebijnij" sex="MALE">
-            <persName>
-              Перебійний
-            </persName>
+            <persName>Перебійний</persName>
           </person>
           <person xml:id="stepan" sex="MALE">
-            <persName>
-              Степан
-            </persName>
+            <persName>Степан</persName>
           </person>
           <person xml:id="ivan" sex="MALE">
-            <persName>
-              Іван
-            </persName>
+            <persName>Іван</persName>
           </person>
           <person xml:id="perebijniha" sex="FEMALE">
-            <persName>
-              Перебійниха
-            </persName>
+            <persName>Перебійниха</persName>
           </person>
           <person xml:id="gist" sex="MALE">
-            <persName>
-              Гість
-            </persName>
+            <persName>Гість</persName>
           </person>
         </listPerson>
       </particDesc>

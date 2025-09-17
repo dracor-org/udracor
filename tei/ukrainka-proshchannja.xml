@@ -41,14 +41,10 @@
       <particDesc>
         <listPerson>
           <person xml:id="hlopets" sex="MALE">
-            <persName>
-              Хлопець
-            </persName>
+            <persName>Хлопець</persName>
           </person>
           <person xml:id="divchina" sex="FEMALE">
-            <persName>
-              Дівчина
-            </persName>
+            <persName>Дівчина</persName>
           </person>
         </listPerson>
       </particDesc>

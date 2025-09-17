@@ -41,54 +41,34 @@
       <particDesc>
         <listPerson>
           <person xml:id="tretij">
-            <persName>
-              Третій
-            </persName>
+            <persName>Третій</persName>
           </person>
           <person xml:id="amfion">
-            <persName>
-              Амфіон
-            </persName>
+            <persName>Амфіон</persName>
           </person>
           <person xml:id="pershij_cholovik">
-            <persName>
-              Перший чоловік
-            </persName>
+            <persName>Перший чоловік</persName>
           </person>
           <person xml:id="orfej">
-            <persName>
-              Орфей
-            </persName>
+            <persName>Орфей</persName>
           </person>
           <person xml:id="zet">
-            <persName>
-              Зет
-            </persName>
+            <persName>Зет</persName>
           </person>
           <person xml:id="drugij">
-            <persName>
-              Другий
-            </persName>
+            <persName>Другий</persName>
           </person>
           <person xml:id="pjatij">
-            <persName>
-              П’ятий
-            </persName>
+            <persName>П’ятий</persName>
           </person>
           <person xml:id="pershij">
-            <persName>
-              Перший
-            </persName>
+            <persName>Перший</persName>
           </person>
           <person xml:id="shostij">
-            <persName>
-              Шостий
-            </persName>
+            <persName>Шостий</persName>
           </person>
           <person xml:id="chetvertij">
-            <persName>
-              Четвертий
-            </persName>
+            <persName>Четвертий</persName>
           </person>
         </listPerson>
       </particDesc>

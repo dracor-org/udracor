@@ -56,7 +56,7 @@
             <persName>Герміона</persName>
           </person>
           <personGrp xml:id="hor_panegiristiv" sex="UNKNOWN">
-            <persName>Хор панегіристів</persName>
+            <name>Хор панегіристів</name>
           </personGrp>
           <person xml:id="prefekt" sex="MALE">
             <persName>Префект</persName>

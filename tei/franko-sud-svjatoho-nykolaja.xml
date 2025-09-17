@@ -55,11 +55,14 @@
           <person xml:id="chort" sex="MALE">
             <persName>Чорт</persName>
           </person>
-          <person xml:id="vakula" sex="MALE">
-            <persName>Вакула</persName>
-          </person>
           <person xml:id="marysia" sex="FEMALE">
             <persName>Марися</persName>
+          </person>
+          <person xml:id="mihas" sex="MALE">
+            <persName>Михась</persName>
+          </person>
+          <person xml:id="vakula" sex="MALE">
+            <persName>Вакула</persName>
           </person>
           <person xml:id="orysia" sex="FEMALE">
             <persName>Орися</persName>
@@ -69,9 +72,6 @@
           </person>
           <person xml:id="maksim" sex="MALE">
             <persName>Максим</persName>
-          </person>
-          <person xml:id="mihas" sex="MALE">
-            <persName>Михась</persName>
           </person>
           <person xml:id="oliunia" sex="FEMALE">
             <persName>Олюня</persName>
@@ -478,7 +478,7 @@
           <l>Чи ще хто на суд наш забагає стати?</l>
         </sp>
         <stage>Орися і Павлусь входять.</stage>
-        <sp who="orysia">
+        <sp who="#orysia">
           <speaker>Орися</speaker>
           <l>Наш татко вислав нас ось тут</l>
           <l>На суд святого Николая.</l>
@@ -498,7 +498,7 @@
           <speaker>Ангел</speaker>
           <l>А де ж вона?</l>
         </sp>
-        <sp who="orysia">
+        <sp who="#orysia">
           <speaker>Орися</speaker>
           <l>Ані крихітки</l>
           <l>Не хтіла йти сюди, та татко</l>
@@ -509,7 +509,7 @@
           <l>Кажіте ж гладко,</l>
           <l>Що там таке вона зробила?</l>
         </sp>
-        <sp who="orysia">
+        <sp who="#orysia">
           <speaker>Орися</speaker>
           <l>Ще як наша бідна мама проживала,</l>
           <l>Золота Олюня часто в нас бувала,</l>
@@ -545,13 +545,13 @@
           <l>Ви вже не турбуйтесь – я їх забираю</l>
           <l>І сама над ними всю опіку маю».</l>
         </sp>
-        <sp who="maksim">
+        <sp who="#maksim">
           <speaker>Максим</speaker>
           <stage>(робітник, веде за руку Олюню)</stage>
           <l>Ось є наш рятунок – ся дівчина мила,</l>
           <l>Без неї б нас нині вже могила вкрила!</l>
         </sp>
-        <sp who="oliunia">
+        <sp who="#oliunia">
           <speaker>Олюня</speaker>
           <l>Ти мовчи, Максиме! Дякуй татка мого.</l>
           <l>Чи ж без нього вам я помогла би много?</l>
@@ -562,7 +562,7 @@
           <speaker>Ангел</speaker>
           <l>Але душу маєш ти любові повну.</l>
         </sp>
-        <sp who="oliunia">
+        <sp who="#oliunia">
           <speaker>Олюня</speaker>
           <l>Що ж, мені се чинить радість невимовну,</l>
           <l>Як лиш можу другим добре щось зробити,</l>
@@ -596,7 +596,7 @@
           <l>З любові, що пройма нутро,</l>
           <l>Так робить другому добро.</l>
         </sp>
-        <sp who="oliunia">
+        <sp who="#oliunia">
           <speaker>Олюня</speaker>
           <l>Отче Николаю! Вниз мене гне туга:</l>
           <l>Більша твоя ласка, ніж моя заслуга.</l>

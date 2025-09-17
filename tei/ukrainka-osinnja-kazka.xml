@@ -92,13 +92,13 @@
             <persName>4-й робітник</persName>
           </person>
           <personGrp xml:id="vsja_jurba" sex="UNKNOWN">
-            <persName>Вся юрба</persName>
+            <name>Вся юрба</name>
           </personGrp>
           <person xml:id="majster_2-j" sex="MALE">
             <persName>2-й майстер</persName>
           </person>
           <personGrp xml:id="skilka_golosiv" sex="UNKNOWN">
-            <persName>Скілька голосів</persName>
+            <name>Скілька голосів</name>
           </personGrp>
           <person xml:id="prjaha" sex="FEMALE">
             <persName>Пряха</persName>
