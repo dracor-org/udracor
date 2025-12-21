@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000047">
   <teiHeader>
     <fileDesc>
@@ -3675,7 +3675,7 @@
         </div>
         <div type="scene">
           <head>Ява восьма</head>
-          <stage></stage>
+          <stage/>
           <sp who="#krespo">
             <speaker>Креспо</speaker>
             <stage>( сам ).</stage>

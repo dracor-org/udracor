@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000007" xml:lang="ukr">
   <teiHeader>
     <fileDesc>
@@ -340,7 +341,7 @@
           <person xml:id="pomichnik" sex="MALE">
             <persName>Помічник</persName>
           </person>
-          <person xml:id="spilnij_krik"  sex="UNKNOWN">
+          <person xml:id="spilnij_krik" sex="UNKNOWN">
             <persName>Спільний крик</persName>
           </person>
           <personGrp xml:id="gromada" sex="UNKNOWN">
