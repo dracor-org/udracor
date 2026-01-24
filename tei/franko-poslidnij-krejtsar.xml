@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000027">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000027">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Послідній крейцар</title>
-        <title type="main" xml:lang="eng">The Last Kreutzer</title>
+        <title>Послідній крейцар</title>
+        <title xml:lang="en">The Last Kreutzer</title>
         <title type="sub">Драматичний образок в одній дії</title>
         <author>
           <persName>
@@ -12,7 +12,7 @@
             <forename type="patronym">Якович</forename>
             <surname>Франко</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Ivan</forename>
             <surname>Franko</surname>
           </persName>
@@ -23,10 +23,7 @@
         <publisher xml:id="dracor">DraCor</publisher>
         <idno type="URL">https://dracor.org</idno>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>

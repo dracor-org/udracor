@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000030">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000030">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Рябина (ред. 1886 р.)</title>
-        <title type="main" xml:lang="eng">Rjabyna (1886 edition)</title>
+        <title>Рябина (ред. 1886 р.)</title>
+        <title xml:lang="en">Rjabyna (1886 edition)</title>
         <title type="sub">Комедія з життя підгірського народу в 3 діях</title>
         <author>
           <persName>
@@ -12,7 +12,7 @@
             <forename type="patronym">Якович</forename>
             <surname>Франко</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Ivan</forename>
             <surname>Franko</surname>
           </persName>
@@ -23,10 +23,7 @@
         <publisher xml:id="dracor">DraCor</publisher>
         <idno type="URL">https://dracor.org</idno>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>

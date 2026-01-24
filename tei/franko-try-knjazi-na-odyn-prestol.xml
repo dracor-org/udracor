@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000031">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000031">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Три князі на один престол</title>
-        <title type="main" xml:lang="eng">Three Princes for One Throne</title>
+        <title>Три князі на один престол</title>
+        <title xml:lang="en">Three Princes for One Throne</title>
         <title type="sub">Драма</title>
         <author>
           <persName>
@@ -12,7 +12,7 @@
             <forename type="patronym">Якович</forename>
             <surname>Франко</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Ivan</forename>
             <surname>Franko</surname>
           </persName>
@@ -23,10 +23,7 @@
         <publisher xml:id="dracor">DraCor</publisher>
         <idno type="URL">https://dracor.org</idno>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>

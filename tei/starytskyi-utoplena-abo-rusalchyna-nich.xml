@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000040">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000040">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Утоплена, або Русалчина ніч</title>
-        <title type="main" xml:lang="eng">The Drowned Woman, or, the Rusalka Night</title>
+        <title>Утоплена, або Русалчина ніч</title>
+        <title xml:lang="en">The Drowned Woman, or, the Rusalka Night</title>
         <title type="sub">Оперета в 3-х діях, 4-х картинах</title>
         <title type="sub">Лібретто по Гоголю. Музика М. В. Лисенка</title>
         <author>
@@ -12,7 +12,7 @@
             <forename>Михайло</forename>
             <surname>Старицький</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Mykhailo</forename>
             <surname>Starytskyi</surname>
           </persName>
@@ -23,10 +23,7 @@
         <publisher xml:id="dracor">DraCor</publisher>
         <idno type="URL">https://dracor.org</idno>
         <availability>
-          <licence>
-            <ab>CC0 1.0</ab>
-            <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
