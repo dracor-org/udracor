@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000021">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000021">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Назар Стодоля</title>
-        <title xml:lang="eng">Nazar Stodolya</title>
+        <title xml:lang="en">Nazar Stodolya</title>
         <author>
           <persName>
             <forename>Тарас</forename>
             <surname>Шевченко</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Taras</forename>
             <surname>Shevchenko</surname>
           </persName>

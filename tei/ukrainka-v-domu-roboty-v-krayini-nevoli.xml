@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000014" xml:lang="ukr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000014" xml:lang="uk">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>В дому роботи, в країні неволі</title>
-        <title xml:lang="eng">In the House of Labor, in the House of Slavery</title>
+        <title xml:lang="en">In the House of Labor, in the House of Slavery</title>
         <title type="sub">Діалог</title>
         <author>
           <persName>
             <forename>Леся</forename>
             <surname>Українка</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Lesya</forename>
             <surname>Ukrainka</surname>
           </persName>

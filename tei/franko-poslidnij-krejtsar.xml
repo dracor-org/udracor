@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000027">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000027">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Послідній крейцар</title>
-        <title xml:lang="eng">The Last Kreutzer</title>
+        <title xml:lang="en">The Last Kreutzer</title>
         <title type="sub">Драматичний образок в одній дії</title>
         <author>
           <persName>
@@ -12,7 +12,7 @@
             <forename type="patronym">Якович</forename>
             <surname>Франко</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Ivan</forename>
             <surname>Franko</surname>
           </persName>

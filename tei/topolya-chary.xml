@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000024">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000024">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Чары, или несколько сцен из народных былей и рассказов украинских</title>
-        <title xml:lang="eng">Charms</title>
+        <title xml:lang="en">Charms</title>
         <author>
           <persName>
             <forename>Кирило</forename>
             <surname>Тополя</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Kyrylo</forename>
             <surname>Topolya</surname>
           </persName>

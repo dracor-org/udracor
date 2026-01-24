@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000041">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000041">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Марко в пеклі</title>
-        <title xml:lang="eng">Marko in Hell</title>
+        <title xml:lang="en">Marko in Hell</title>
         <author>
           <persName>
             <forename>Іван</forename>
             <surname>Кочерга</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Ivan</forename>
             <surname>Kocherha</surname>
           </persName>

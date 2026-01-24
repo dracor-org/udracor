@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000042" xml:lang="ukr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000042" xml:lang="uk">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Зерно і полова</title>
-        <title xml:lang="eng">Grain and Chaff</title>
+        <title xml:lang="en">Grain and Chaff</title>
         <title type="sub">Малюнки сільського каламуту у 4 діяї</title>
         <author>
           <persName>
             <forename>Марко</forename>
             <surname>Кропивницький</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Marko</forename>
             <surname>Kropyvnytskyi</surname>
           </persName>

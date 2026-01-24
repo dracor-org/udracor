@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000043">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000043">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Різдвяна ніч</title>
-        <title xml:lang="eng">Christmas Night</title>
+        <title xml:lang="en">Christmas Night</title>
         <title type="sub">Музикальна комедія на чотири дії (тема по Гоголю)</title>
         <author>
           <persName>
             <forename>Михайло</forename>
             <surname>Старицький</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Mykhailo</forename>
             <surname>Starytskyi</surname>
           </persName>

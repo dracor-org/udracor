@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000023">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000023">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Простак або хитрiсть жiнки перехитрена москалем</title>
-        <title xml:lang="eng">The Simpleton, or, the Wits of a Woman Outwitted by a Soldier</title>
+        <title xml:lang="en">The Simpleton, or, the Wits of a Woman Outwitted by a Soldier</title>
         <title type="sub">Комедія в одній дії</title>
         <author>
           <persName>
             <forename>Василь</forename>
             <surname>Гоголь-Яновський</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Vasyl</forename>
             <surname>Gogol-Yanovsky</surname>
           </persName>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000025">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000025">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Суд святого Николая</title>
-        <title xml:lang="eng">Saint Nicholas's Judgment</title>
+        <title xml:lang="en">Saint Nicholas's Judgment</title>
         <title type="sub">Драматичний образок</title>
         <author>
           <persName>
@@ -14,7 +14,7 @@
             <forename type="patronym">Якович</forename>
             <surname>Франко</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Ivan</forename>
             <surname>Franko</surname>
           </persName>

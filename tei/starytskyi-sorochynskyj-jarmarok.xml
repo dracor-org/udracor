@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000044">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000044">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Сорочинський ярмарок</title>
-        <title xml:lang="eng">Fair at Sorochyntsi</title>
+        <title xml:lang="en">Fair at Sorochyntsi</title>
         <title type="sub">Комічна оперета із українського побиту в 4-х діях</title>
         <author>
           <persName>
             <forename>Михайло</forename>
             <surname>Старицький</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Mykhailo</forename>
             <surname>Starytskyi</surname>
           </persName>

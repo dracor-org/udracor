@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000045" xml:lang="ukr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000045" xml:lang="uk">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>На руїнах</title>
-        <title xml:lang="eng">On the Ruins</title>
+        <title xml:lang="en">On the Ruins</title>
         <title type="sub">Драматична поема</title>
         <author>
           <persName>
             <forename>Леся</forename>
             <surname>Українка</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Lesya</forename>
             <surname>Ukrainka</surname>
           </persName>

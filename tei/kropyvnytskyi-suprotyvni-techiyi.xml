@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000036" xml:lang="ukr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000036" xml:lang="uk">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Супротивні течії</title>
-        <title xml:lang="eng">Opposing Currents</title>
+        <title xml:lang="en">Opposing Currents</title>
         <title type="sub">Комедія в 3 діях і 4 одмінах</title>
         <author>
           <persName>
             <forename>Марко</forename>
             <surname>Кропивницький</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Marko</forename>
             <surname>Kropyvnytskyi</surname>
           </persName>

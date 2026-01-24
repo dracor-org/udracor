@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000019" xml:lang="ukr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000019" xml:lang="uk">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Осіння казка</title>
-        <title xml:lang="eng">An Autumn Tale</title>
+        <title xml:lang="en">An Autumn Tale</title>
         <title type="sub">Фантастична драма</title>
         <author>
           <persName>
             <forename>Леся</forename>
             <surname>Українка</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Lesya</forename>
             <surname>Ukrainka</surname>
           </persName>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000039">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000039">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Чорноморці</title>
-        <title xml:lang="eng">The Black Sea Cossacks</title>
+        <title xml:lang="en">The Black Sea Cossacks</title>
         <title type="sub">Оперета в 3-х картинах</title>
         <author>
           <persName>
             <forename>Михайло</forename>
             <surname>Старицький</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Mykhailo</forename>
             <surname>Starytskyi</surname>
           </persName>

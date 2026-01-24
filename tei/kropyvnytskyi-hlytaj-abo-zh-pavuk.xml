@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="ukr" xml:id="u000033">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000033">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Глитай, або ж павук</title>
-        <title xml:lang="eng">The Bloodsucker, or the Spider</title>
+        <title xml:lang="en">The Bloodsucker, or the Spider</title>
         <title type="sub">Драма у 4-х діях і 5-ти одмінах</title>
         <author>
           <persName>
             <forename>Марко</forename>
             <surname>Кропивницький</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Marko</forename>
             <surname>Kropyvnytskyi</surname>
           </persName>

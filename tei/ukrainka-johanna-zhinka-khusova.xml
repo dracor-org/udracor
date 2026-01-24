@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000002" xml:lang="ukr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000002" xml:lang="uk">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Йоганна, жінка Хусова</title>
-        <title xml:lang="eng">Joanna, Wife of Chuza</title>
+        <title xml:lang="en">Joanna, Wife of Chuza</title>
         <title type="sub">Драматичний етюд</title>
         <author>
           <persName>
             <forename>Леся</forename>
             <surname>Українка</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Lesya</forename>
             <surname>Ukrainka</surname>
           </persName>

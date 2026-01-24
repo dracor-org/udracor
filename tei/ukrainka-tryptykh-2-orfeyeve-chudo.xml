@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000009" xml:lang="ukr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000009" xml:lang="uk">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Триптих. 2. Орфеєве чудо</title>
-        <title xml:lang="eng">Triptych. 2. Orpheus's Miracle</title>
+        <title xml:lang="en">Triptych. 2. Orpheus's Miracle</title>
         <title type="sub">(Легенда)</title>
         <author>
           <persName>
             <forename>Леся</forename>
             <surname>Українка</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Lesya</forename>
             <surname>Ukrainka</surname>
           </persName>

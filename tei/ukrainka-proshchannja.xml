@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000017" xml:lang="ukr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000017" xml:lang="uk">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Прощання</title>
-        <title xml:lang="eng">Farewell</title>
+        <title xml:lang="en">Farewell</title>
         <author>
           <persName>
             <forename>Леся</forename>
             <surname>Українка</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Lesya</forename>
             <surname>Ukrainka</surname>
           </persName>
