@@ -3,8 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Адвокат Мартіан</title>
-        <title type="main" xml:lang="eng">Attorney Martian</title>
+        <title>Адвокат Мартіан</title>
+        <title xml:lang="eng">Attorney Martian</title>
         <title type="sub">Драматична поема</title>
         <author>
           <persName>

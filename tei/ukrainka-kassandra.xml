@@ -3,8 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Кассандра</title>
-        <title type="main" xml:lang="eng">Cassandra</title>
+        <title>Кассандра</title>
+        <title xml:lang="eng">Cassandra</title>
         <title type="sub">Драматична поема</title>
         <author>
           <persName>

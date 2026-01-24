@@ -3,8 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Айша та Мохаммед</title>
-        <title type="main" xml:lang="eng">Aisha and Mohammed</title>
+        <title>Айша та Мохаммед</title>
+        <title xml:lang="eng">Aisha and Mohammed</title>
         <title type="sub">Діалог</title>
         <author>
           <persName>

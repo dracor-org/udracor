@@ -3,8 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Три хвилини</title>
-        <title type="main" xml:lang="eng">Three Minutes</title>
+        <title>Три хвилини</title>
+        <title xml:lang="eng">Three Minutes</title>
         <title type="sub">Діалог</title>
         <author>
           <persName>

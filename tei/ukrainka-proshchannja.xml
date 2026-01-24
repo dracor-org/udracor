@@ -3,8 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Прощання</title>
-        <title type="main" xml:lang="eng">Farewell</title>
+        <title>Прощання</title>
+        <title xml:lang="eng">Farewell</title>
         <author>
           <persName>
             <forename>Леся</forename>

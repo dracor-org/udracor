@@ -3,8 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">В дому роботи, в країні неволі</title>
-        <title type="main" xml:lang="eng">In the House of Labor, in the House of Slavery</title>
+        <title>В дому роботи, в країні неволі</title>
+        <title xml:lang="eng">In the House of Labor, in the House of Slavery</title>
         <title type="sub">Діалог</title>
         <author>
           <persName>

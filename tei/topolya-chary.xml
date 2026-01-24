@@ -3,8 +3,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Чары, или несколько сцен из народных былей и рассказов украинских</title>
-        <title type="main" xml:lang="eng">Charms</title>
+        <title>Чары, или несколько сцен из народных былей и рассказов украинских</title>
+        <title xml:lang="eng">Charms</title>
         <author>
           <persName>
             <forename>Кирило</forename>
