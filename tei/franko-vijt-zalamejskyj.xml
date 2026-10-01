@@ -117,6 +117,9 @@
       <event type="print" when="1949">
         <desc/>
       </event>
+      <event type="premiere" when="1894">
+        <desc/>
+      </event>
       <event type="written" notBefore="1893" notAfter="1894">
         <desc/>
       </event>

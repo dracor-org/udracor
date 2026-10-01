@@ -146,7 +146,7 @@
       <event type="print" when="1908">
         <desc/>
       </event>
-      <event type="written" notBefore="1902" notAfter="1903">
+      <event type="written" when="1903">
         <desc/>
       </event>
     </listEvent>

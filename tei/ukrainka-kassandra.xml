@@ -185,6 +185,9 @@
   </teiHeader>
   <standOff>
     <listEvent>
+      <event type="print" when="1908">
+        <desc/>
+      </event>
       <event type="written" notBefore="1903" notAfter="1907">
         <desc/>
       </event>

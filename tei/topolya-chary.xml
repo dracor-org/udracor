@@ -184,10 +184,10 @@
   </teiHeader>
   <standOff>
     <listEvent>
-      <event type="written" when="1834">
+      <event type="print" when="1837">
         <desc/>
       </event>
-      <event type="written" when="1837">
+      <event type="written" when="1834">
         <desc/>
       </event>
     </listEvent>

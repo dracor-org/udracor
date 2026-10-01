@@ -110,6 +110,12 @@
   </teiHeader>
   <standOff>
     <listEvent>
+      <event type="print" when="1895">
+        <desc/>
+      </event>
+      <event type="premiere" when="1890">
+        <desc/>
+      </event>
       <event type="written" when="1889">
         <desc/>
       </event>
