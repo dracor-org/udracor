@@ -90,7 +90,7 @@
             <persName>Мокрина</persName>
           </person>
           <person xml:id="khivrja" sex="FEMALE">
-            <persName>Хiвря</persName>
+            <persName>Хівря</persName>
           </person>
           <person xml:id="baba" sex="FEMALE">
             <persName>Баба</persName>
@@ -3800,7 +3800,7 @@
             <l>Поки не зламає!</l>
           </sp>
           <sp who="#khivrja">
-            <speaker>Хiвря</speaker>
+            <speaker>Хівря</speaker>
             <p>От, голосить почала! Ще люде збіжаться!</p>
           </sp>
           <sp who="#afanasij_ivanovych">

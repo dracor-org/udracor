@@ -54,7 +54,7 @@
       <particDesc>
         <listPerson>
           <person xml:id="ilko" sex="MALE">
-            <persName>Iлько</persName>
+            <persName>Ілько</persName>
           </person>
           <person xml:id="tsvirkunka" sex="FEMALE">
             <persName>Цвіркунка</persName>
@@ -860,7 +860,7 @@
           </sp>
           <stage>Маруся усміхається.</stage>
           <sp who="#ilko">
-            <speaker>Iлько</speaker>
+            <speaker>Ілько</speaker>
             <l>Коли б мені отака</l>
             <l>Була молодиця,</l>
             <l>От би вдарив гопака,</l>

@@ -14,7 +14,7 @@ This work is supported by Mark Schwindt and Frank Fischer, who contributed to co
 
 ## Filename Conventions
 
-* All filenames in this corpus follow DraCor's standard lowercase naming convention.
-* Author names: We use the last name as listed in the author's English-language Wikipedia entry.
-* Titles of plays: We transliterate them using the Python package [transliterate](https://pypi.org/project/transliterate/) with the Ukrainian language code (uk).
-* Example: "shevchenko-nazar-stodolja.xml"
+* All filenames in this corpus follow DraCor's standard lowercase naming convention: `{author-surname}-{title}.xml`.
+* Author surnames and play titles are transliterated according to the Ukrainian National Transliteration ([KMU 2010](https://zakon.rada.gov.ua/laws/show/55-2010-%D0%BF)), without diacritics.
+* Only the surname and the main title are used; subtitles and bracketed alternative titles are omitted.
+* Example: "shevchenko-nazar-stodolia.xml"
