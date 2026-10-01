@@ -30,6 +30,9 @@
         <bibl type="digitalSource">
           <name>Леся Українка. Енциклопедія життя і творчості</name>
           <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/UPusci.html</idno>
+          <availability status="free">
+            <p>In the public domain.</p>
+          </availability>
           <bibl type="originalSource">
             <title>Леся Українка. Зібрання творів у 12 тт. – К. : Наукова думка, 1976 р., т. 5, с. 9–134.</title>
           </bibl>
