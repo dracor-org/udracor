@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000027">
   <teiHeader>
@@ -29,14 +29,13 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>Енциклопедія життя і творчості Івана Франка</name>
-          <idno type="URL">https://www.i-franko.name/uk/Dramas/PoslidnijKrejcar.html</idno>
+          <ref target="https://www.i-franko.name/uk/Dramas/PoslidnijKrejcar.html">Енциклопедія життя і творчості Івана Франка</ref>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
-          <bibl type="originalSource">
-            <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 23, с. 49–77.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 23, с. 49–77.</title>
         </bibl>
       </sourceDesc>
     </fileDesc>

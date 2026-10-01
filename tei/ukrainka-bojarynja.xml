@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000004" xml:lang="uk">
   <teiHeader>
@@ -28,14 +28,13 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>Леся Українка. Енциклопедія життя і творчості</name>
-          <idno type="URL">https://www.l-ukrainka.name/uk/Dramas/Bojarynja.html</idno>
+          <ref target="https://www.l-ukrainka.name/uk/Dramas/Bojarynja.html">Леся Українка. Енциклопедія життя і творчості</ref>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
-          <bibl type="originalSource">
-            <title>Леся Українка. Бояриня : драматична поема. – К. : Молодь, 1991 р. – 96 с.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <title>Леся Українка. Бояриня : драматична поема. – К. : Молодь, 1991 р. – 96 с.</title>
         </bibl>
       </sourceDesc>
     </fileDesc>

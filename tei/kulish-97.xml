@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="u000026" xml:lang="uk">
   <teiHeader>
@@ -28,15 +28,13 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>Бібліотека української літератури УкрЛіб</name>
-          <idno type="URL">https://www.ukrlib.com.ua/books/printitzip.php?tid=1086</idno>
+          <ref target="https://www.ukrlib.com.ua/books/printitzip.php?tid=1086">Бібліотека української літератури УкрЛіб</ref>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
-          <bibl type="originalSource">
-            <title>Куліш М. ”97”: [п’єса] / Микола Куліш. – [Вид. 5-те]. – Харків; Київ: Лім, 1934.
-              – 112 с.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <title>Куліш М. ”97”: [п’єса] / Микола Куліш. – [Вид. 5-те]. – Харків; Київ: Лім, 1934. – 112 с.</title>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -179,8 +177,7 @@
       </event>
     </listEvent>
     <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/u000026"
-        passive="http://www.wikidata.org/entity/Q136205333"/>
+      <relation name="wikidata" active="https://dracor.org/entity/u000026" passive="http://www.wikidata.org/entity/Q136205333"/>
     </listRelation>
   </standOff>
   <text>

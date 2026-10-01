@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="uk" xml:id="u000023">
   <teiHeader>
@@ -28,14 +28,13 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
-          <name>«Ізборник» — Історія України IX-XVIII ст. Першоджерела та інтерпретації</name>
-          <idno type="URL">http://litopys.org.ua/rizne/prostak2.htm</idno>
+          <ref target="http://litopys.org.ua/rizne/prostak2.htm">«Ізборник» — Історія України IX-XVIII ст. Першоджерела та інтерпретації</ref>
           <availability status="free">
             <p>In the public domain.</p>
           </availability>
-          <bibl type="originalSource">
-            <title>В. А. Гоголь. Простак, или хитрость женщины, перехитренная солдатом // Основа. — 1862. — № 2. — С. 19–43.</title>
-          </bibl>
+        </bibl>
+        <bibl type="originalSource">
+          <title>В. А. Гоголь. Простак, или хитрость женщины, перехитренная солдатом // Основа. — 1862. — № 2. — С. 19–43.</title>
         </bibl>
       </sourceDesc>
     </fileDesc>
