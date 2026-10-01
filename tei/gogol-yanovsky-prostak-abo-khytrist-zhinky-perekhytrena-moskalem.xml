@@ -36,6 +36,15 @@
         <bibl type="originalSource">
           <title>В. А. Гоголь. Простак, или хитрость женщины, перехитренная солдатом // Основа. — 1862. — № 2. — С. 19–43.</title>
         </bibl>
+      <bibl type="wikidata"><idno>Q136191522</idno></bibl>
+        <listEvent>
+      <event type="print" when="1862">
+        <desc/>
+      </event>
+      <event type="written" notBefore="1822" notAfter="1825">
+        <desc/>
+      </event>
+    </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -60,19 +69,6 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1862">
-        <desc/>
-      </event>
-      <event type="written" notBefore="1822" notAfter="1825">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/u000023" passive="http://www.wikidata.org/entity/Q136191522"/>
-    </listRelation>
-  </standOff>
     <text>
     <front>
       <titlePage>

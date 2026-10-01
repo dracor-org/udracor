@@ -36,6 +36,15 @@
         <bibl type="originalSource">
           <title>Старицький М. Твори у 8 тт. – К.: Державне видавництво художньої літератури, 1964 р., т. 2, с. 299–359.</title>
         </bibl>
+      <bibl type="wikidata"><idno>Q136205409</idno></bibl>
+        <listEvent>
+      <event type="print" when="1890">
+        <desc/>
+      </event>
+      <event type="written" when="1883">
+        <desc/>
+      </event>
+    </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -230,19 +239,6 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1890">
-        <desc/>
-      </event>
-      <event type="written" when="1883">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/u000044" passive="http://www.wikidata.org/entity/Q136205409"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <titlePage>

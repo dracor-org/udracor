@@ -36,6 +36,15 @@
         <bibl type="originalSource">
           <title>Леся Українка. Зібрання творів у 12 тт. – К. : Наукова думка, 1976 р., т. 5, с. 9–134.</title>
         </bibl>
+      <bibl type="wikidata"><idno>Q136205383</idno></bibl>
+        <listEvent>
+      <event type="print" when="1910">
+        <desc/>
+      </event>
+      <event type="written" notBefore="1897" notAfter="1909">
+        <desc/>
+      </event>
+    </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -123,19 +132,6 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1910">
-        <desc/>
-      </event>
-      <event type="written" notBefore="1897" notAfter="1909">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/u000012" passive="http://www.wikidata.org/entity/Q136205383"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <titlePage>

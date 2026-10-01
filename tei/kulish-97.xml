@@ -36,6 +36,12 @@
         <bibl type="originalSource">
           <title>Куліш М. ”97”: [п’єса] / Микола Куліш. – [Вид. 5-те]. – Харків; Київ: Лім, 1934. – 112 с.</title>
         </bibl>
+      <bibl type="wikidata"><idno>Q136205333</idno></bibl>
+        <listEvent>
+      <event type="written" when="1924">
+        <desc/>
+      </event>
+    </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -170,16 +176,6 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="written" when="1924">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/u000026" passive="http://www.wikidata.org/entity/Q136205333"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <titlePage>

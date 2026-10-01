@@ -36,6 +36,12 @@
         <bibl type="originalSource">
           <title>Леся Українка. Зібрання творів у 12 тт. – К. : Наукова думка, 1975 р., т. 2, с. 109–121.</title>
         </bibl>
+      <bibl type="wikidata"><idno>Q136205369</idno></bibl>
+        <listEvent>
+      <event type="written" when="1913">
+        <desc/>
+      </event>
+    </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -75,16 +81,6 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-    <standOff>
-    <listEvent>
-      <event type="written" when="1913">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/u000009" passive="http://www.wikidata.org/entity/Q136205369"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <titlePage>

@@ -36,6 +36,15 @@
         <bibl type="originalSource">
           <title>Леся Українка. Бояриня : драматична поема. – К. : Молодь, 1991 р. – 96 с.</title>
         </bibl>
+      <bibl type="wikidata"><idno>Q12084478</idno></bibl>
+        <listEvent>
+      <event type="print" when="1914">
+        <desc/>
+      </event>
+      <event type="written" when="1910">
+        <desc/>
+      </event>
+    </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -72,19 +81,6 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1914">
-        <desc/>
-      </event>
-      <event type="written" when="1910">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/u000004" passive="http://www.wikidata.org/entity/Q12084478"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <titlePage>

@@ -37,6 +37,18 @@
         <bibl type="originalSource">
           <title>Франко І.Я. Зібрання творів у 50-и томах. – К.: Наукова думка, 1979 р., т. 23, с. 7–48.</title>
         </bibl>
+      <bibl type="wikidata"><idno>Q136190748</idno></bibl>
+        <listEvent>
+      <event type="print" when="1956">
+        <desc/>
+      </event>
+      <event type="premiere" when="1876">
+        <desc/>
+      </event>
+      <event type="written" when="1874">
+        <desc/>
+      </event>
+    </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -235,22 +247,6 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1956">
-        <desc/>
-      </event>
-      <event type="premiere" when="1876">
-        <desc/>
-      </event>
-      <event type="written" when="1874">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/u000031" passive="http://www.wikidata.org/entity/Q136190748"/>
-    </listRelation>
-  </standOff>
     <text>
     <front>
       <titlePage>

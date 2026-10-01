@@ -33,6 +33,18 @@
             <p>In the public domain.</p>
           </availability>
         </bibl>
+      <bibl type="wikidata"><idno>Q136205306</idno></bibl>
+        <listEvent>
+      <event type="print" when="1895">
+        <desc/>
+      </event>
+      <event type="premiere" when="1890">
+        <desc/>
+      </event>
+      <event type="written" when="1889">
+        <desc/>
+      </event>
+    </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -108,22 +120,6 @@
       </particDesc>
     </profileDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1895">
-        <desc/>
-      </event>
-      <event type="premiere" when="1890">
-        <desc/>
-      </event>
-      <event type="written" when="1889">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/u000037" passive="http://www.wikidata.org/entity/Q136205306"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <titlePage>
