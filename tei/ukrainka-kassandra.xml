@@ -1648,7 +1648,7 @@
           <speaker>Кассандра</speaker>
           <l>Лишіть мене! Його, його рятуйте!</l>
         </sp>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <l>Кого?</l>
         </sp>
@@ -1656,7 +1656,7 @@
           <speaker>Кассандра</speaker>
           <l>Долона! Там його мордують.</l>
         </sp>
-        <sp who="#2-j_vartovij">
+        <sp who="#vartovij_2-j">
           <speaker>2-й вартовий</speaker>
           <l>Де?</l>
         </sp>
@@ -1665,7 +1665,7 @@
           <l>Там, у полі. Ой рятуйте, люди!</l>
           <l>Скоріш біжіть!</l>
         </sp>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <l>Царівно, ми не можем, –</l>
           <l>нас тільки двоє! У ворожий табор</l>
@@ -3502,19 +3502,19 @@
         <head>8</head>
         <stage>Той самий майдан. Вечоріє. Ніч насувається швидко, темна, безмісячна, тільки зорі сяють різко, як в холодні вітряні ночі. На майдані поставлена сторожа: один вартовий коло царської брами, другий коло Скейської, третій коло храму, четвертий ходить навколо, вартує троянські оселі. Всі узброєні, як на війну.</stage>
         <stage>Сторожа який час вартує мовчки. З царського двору чутно відгуки музики і веселого бенкетного гомону.</stage>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <stage>(від Скейської брами)</stage>
           <l>Ну, свято, братця!</l>
         </sp>
-        <sp who="#2-j_vartovij">
+        <sp who="#vartovij_2-j">
           <speaker>2-й вартовий</speaker>
           <stage>(від Скейської брами)</stage>
           <l>Та вже так, що свято!</l>
           <l>Хто п’є-гуляє, а сторожа стій</l>
           <l>і стережи, хтозна-чого й від кого.</l>
         </sp>
-        <sp who="#3-j_vartovij">
+        <sp who="#vartovij_3-j">
           <speaker>3-й вартовий</speaker>
           <stage>(від храму)</stage>
           <l>Не стало Гектора, не стало й глузду.</l>
@@ -3523,23 +3523,23 @@
           <l>сам був герой, та й іншим ціну знав,</l>
           <l>а сі…</l>
         </sp>
-        <sp who="#4-j_vartovij">
+        <sp who="#vartovij_4-j">
           <speaker>4-й вартовий</speaker>
           <stage>(що ходить навколо, наближається до 3-го і каже нишком)</stage>
           <l>Ти б трохи обережніш, брате,</l>
           <l>бо там Кассандра, їх сестра.</l>
         </sp>
-        <sp who="#3-j_vartovij">
+        <sp who="#vartovij_3-j">
           <speaker>3-й вартовий</speaker>
           <l>Дарма!</l>
           <l>Вона з братами – як вогонь з водою,</l>
           <l>така в їх згода.</l>
         </sp>
-        <sp who="#4-j_vartovij">
+        <sp who="#vartovij_4-j">
           <speaker>4-й вартовий</speaker>
           <l>Все ж одна родина!</l>
         </sp>
-        <sp who="#3-j_vartovij">
+        <sp who="#vartovij_3-j">
           <speaker>3-й вартовий</speaker>
           <l>Нехай би Гадес їх усіх забрав!</l>
           <l>Увірились вони усі троянцям,</l>
@@ -3547,7 +3547,7 @@
           <stage>(киває на храм)</stage>
           <l>все лихо з неї!</l>
         </sp>
-        <sp who="#4-j_vartovij">
+        <sp who="#vartovij_4-j">
           <speaker>4-й вартовий</speaker>
           <l>Цить! Паріс іде!</l>
         </sp>
@@ -3559,7 +3559,7 @@
           <l>мене прислав наглянути. Що ж – пильно,</l>
           <l>гаразд вартуєте?</l>
         </sp>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <stage>(понуро)</stage>
           <l>Та вже ж вартуєм.</l>
@@ -3568,7 +3568,7 @@
           <speaker>Паріс</speaker>
           <l>Чого ж такі сумні?</l>
         </sp>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <l>Потіхи мало</l>
           <l>наголодно й насухо тут стояти</l>
@@ -3589,7 +3589,7 @@
           <stage>(здригнувся)</stage>
           <l>Що то таке?</l>
         </sp>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <l>Сестра твоя, Кассандра,</l>
           <l>вона пильнує там Палладіона.</l>
@@ -3600,7 +3600,7 @@
           <stage>(Здригається знов і неспокійно оглядається.)</stage>
           <l>Ох, яка холодна ніч!</l>
         </sp>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <l>З гір вітер, без вогню сутужно буде.</l>
         </sp>
@@ -3831,7 +3831,7 @@
           <l>перед троном Персефони</l>
           <l>не бринять пісні.</l>
         </sp>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <stage>(співає грубим голосом і невлад)</stage>
           <l>Понад берегом Кокіта</l>
@@ -3846,18 +3846,18 @@
           <speaker>Кітарист</speaker>
           <l>Одчепись, не хочу!</l>
         </sp>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <stage>(співає далі сам)</stage>
           <l>Бо немає сала-м’яса,</l>
           <l>ані ситого стегенця,</l>
           <l>тільки дим та кров.</l>
         </sp>
-        <sp who="#5-j_vartovij">
+        <sp who="#vartovij_5-j">
           <speaker>5-й вартовий</speaker>
           <l>Щось не під лад.</l>
         </sp>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <l>Дарма, аби до речі!</l>
         </sp>
@@ -3867,7 +3867,7 @@
           <l>Хвала богам, ще ж ми на сьому світі,</l>
           <l>ще є вина, пісень, квіток доволі.</l>
         </sp>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <l>Та ще й м’ясця!</l>
           <stage>(Заходжується коло печива.)</stage>
@@ -3879,41 +3879,41 @@
           <stage>(Йому наливають, він п’є. До 2-го вартового.)</stage>
           <l>А ти чому не п’єш? Хіба не смачно?</l>
         </sp>
-        <sp who="#2-j_vartovij">
+        <sp who="#vartovij_2-j">
           <speaker>2-й вартовий</speaker>
           <stage>(нерішучо)</stage>
           <l>Нема води…</l>
         </sp>
-        <sp who="#3-j_vartovij">
+        <sp who="#vartovij_3-j">
           <speaker>3-й вартовий</speaker>
           <l>Та нащо там вода?</l>
           <l>Сьогодні й чисте можна пить! Гуляймо!</l>
         </sp>
-        <sp who="#2-j_vartovij">
+        <sp who="#vartovij_2-j">
           <speaker>2-й вартовий</speaker>
           <l>Та чисте дуже в голову вступає…</l>
         </sp>
-        <sp who="#3-j_vartovij">
+        <sp who="#vartovij_3-j">
           <speaker>3-й вартовий</speaker>
           <l>Іще чого! Ну, то не пий зовсім!</l>
           <l>Іди, вартуй, як сказано, на брамі.</l>
         </sp>
-        <sp who="#2-j_vartovij">
+        <sp who="#vartovij_2-j">
           <speaker>2-й вартовий</speaker>
           <l>Який розумний!</l>
         </sp>
-        <sp who="#3-j_vartovij">
+        <sp who="#vartovij_3-j">
           <speaker>3-й вартовий</speaker>
           <l>То мовчи та й пий,</l>
           <l>коли дають.</l>
         </sp>
         <stage>2-й вартовий п’є, фіал знов наповняють, і він переходить з рук у руки.</stage>
-        <sp who="#3-j_vartovij">
+        <sp who="#vartovij_3-j">
           <speaker>3-й вартовий</speaker>
           <l>Ну, що ж один фіал?</l>
           <l>Марудно се, черги тієї ждати.</l>
         </sp>
-        <sp who="#4-j_vartovij">
+        <sp who="#vartovij_4-j">
           <speaker>4-й вартовий</speaker>
           <stage>(сміється)</stage>
           <l>Хіба піди в Кассандри попроси</l>
@@ -3924,27 +3924,27 @@
           <stage>(з храму)</stage>
           <l>Вартуй, стороже!</l>
         </sp>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <l>Бач, сама озвалась!</l>
           <l>Пожди, царівно, хай спечем печеню,</l>
           <l>тоді й тобі дамо.</l>
         </sp>
         <stage>Сміються всі.</stage>
-        <sp who="#3-j_vartovij">
+        <sp who="#vartovij_3-j">
           <speaker>3-й вартовий</speaker>
           <l>Ба, догадався!</l>
           <stage>(Здіймає з голови шолом, наливає вина й п’є.)</stage>
           <l>Чим не фіал?</l>
         </sp>
         <stage>За його прикладом інші роблять так само.</stage>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <l>Розумний, що й казати!</l>
           <l>Ось і печеня, їжте, милі браття.</l>
           <stage>(Здіймає один шмат із списа і ділить мечем, кожному по шматочку.)</stage>
         </sp>
-        <sp who="#2-j_vartovij">
+        <sp who="#vartovij_2-j">
           <speaker>2-й вартовий</speaker>
           <stage>(їсть)</stage>
           <l>Сиренька, та дарма, аби гаряча.</l>
@@ -3953,30 +3953,30 @@
           <speaker>Сінон</speaker>
           <l>Ось на перчину, трохи посмачи.</l>
         </sp>
-        <sp who="#2-j_vartovij">
+        <sp who="#vartovij_2-j">
           <speaker>2-й вартовий</speaker>
           <l>Пектиме дуже.</l>
         </sp>
-        <sp who="#3-j_vartovij">
+        <sp who="#vartovij_3-j">
           <speaker>3-й вартовий</speaker>
           <l>То вином пригасиш, –</l>
           <l>амфора не мала!</l>
         </sp>
-        <sp who="#4-j_vartovij">
+        <sp who="#vartovij_4-j">
           <speaker>4-й вартовий</speaker>
           <l>А як не стане,</l>
           <l>добудем другу.</l>
         </sp>
         <stage>Їдять м’ясо, батуючи мечами, їдять садовину і п’ють шоломами вино, дедалі помітно вино починає їх розбирати. Музики тим часом грають.</stage>
-        <sp who="#2-j_vartovij">
+        <sp who="#vartovij_2-j">
           <speaker>2-й вартовий</speaker>
           <l>Ви б іще співали.</l>
         </sp>
-        <sp who="#3-j_vartovij">
+        <sp who="#vartovij_3-j">
           <speaker>3-й вартовий</speaker>
           <l>А ти?</l>
         </sp>
-        <sp who="#2-j_vartovij">
+        <sp who="#vartovij_2-j">
           <speaker>2-й вартовий</speaker>
           <l>Та я за вами, сам не вмію.</l>
         </sp>
@@ -3985,7 +3985,7 @@
         <l>ой саде-винограде!</l>
         <l>Як буде йти до річки Левкотея,</l>
         <l>обвий її, мій друже кучерявий…</l>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <l>Ет, се нудна!</l>
         </sp>
@@ -3993,7 +3993,7 @@
           <speaker>Кітарист</speaker>
           <l>А ти ж якої хочеш?</l>
         </sp>
-        <sp who="#1-j_vartovij">
+        <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <stage>(співає без музики, недоладним речитативом)</stage>
           <l>Жінки гляди не гляди,</l>
@@ -4004,11 +4004,11 @@
           <l>Мов кривоногий Гефест… кривоногий Гефест…</l>
           <stage>(Далі мовкне й засипляє.)</stage>
         </sp>
-        <sp who="#2-j_vartovij">
+        <sp who="#vartovij_2-j">
           <speaker>2-й вартовий</speaker>
           <l>От так весела пісня!</l>
         </sp>
-        <sp who="#3-j_vartovij">
+        <sp who="#vartovij_3-j">
           <speaker>3-й вартовий</speaker>
           <l>На добраніч!</l>
         </sp>

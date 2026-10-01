@@ -59,6 +59,9 @@
           <person xml:id="staryj" sex="MALE">
             <persName>Старий</persName>
           </person>
+          <person xml:id="holos" sex="UNKNOWN">
+            <persName>Голос</persName>
+          </person>
           <person xml:id="spivets" sex="MALE">
             <persName>Співець</persName>
           </person>
@@ -71,12 +74,21 @@
           <person xml:id="levit" sex="MALE">
             <persName>Левіт</persName>
           </person>
+          <person xml:id="samarianyn" sex="MALE">
+            <persName>Самарянин</persName>
+          </person>
+          <person xml:id="samarianyn_molodyi" sex="MALE">
+            <persName>Другий самарянин</persName>
+          </person>          
           <personGrp xml:id="samaryany" sex="MALE">
             <name>Самаряни</name>
           </personGrp>
           <personGrp xml:id="iudeyi" sex="MALE">
             <name>Іудеї</name>
           </personGrp>
+          <person xml:id="staryi_iudeianyn" sex="MALE">
+            <persName>Старий іудеянин</persName>
+          </person>
         </listPerson>
       </particDesc>
     </profileDesc>
@@ -147,7 +159,7 @@
           <l>Не напувай слізьми малого сина,</l>
           <l>не нагодовуй молоком недолі.</l>
         </sp>
-        <sp who="#divchina">
+        <sp who="#divchyna">
           <speaker>Дівчина</speaker>
           <l>Покинутим де іншої взять страви?</l>
         </sp>
@@ -155,11 +167,11 @@
           <speaker>Тірца</speaker>
           <l>Чому ти звеш покинутими вас?</l>
         </sp>
-        <sp who="#divchina">
+        <sp who="#divchyna">
           <speaker>Дівчина</speaker>
           <l>Мій брат в Ассірії, у Ніневії.</l>
         </sp>
-        <sp who="#divcha-pidlitok">
+        <sp who="#divcha_pidlitok">
           <speaker>Дівча-підліток</speaker>
           <l>Мій батько в Вавілоні другий рік.</l>
         </sp>
@@ -174,7 +186,7 @@
           <l>Паліть багаття, поки встане день,</l>
           <l>щоб вам було видніше при роботі.</l>
         </sp>
-        <sp who="#divchina">
+        <sp who="#divchyna">
           <speaker>Дівчина</speaker>
           <stage>(кладе кужілку долі)</stage>
           <l>Робота наша марна. Хто ж то буде</l>
@@ -196,7 +208,7 @@
           <stage>(до дівчини-підлітка, що, зажурившись, склала над роботою руки)</stage>
           <l>Чого сидиш, хіба скінчила працю?</l>
         </sp>
-        <sp who="#divcha-pidlitok">
+        <sp who="#divcha_pidlitok">
           <speaker>Дівча-підліток</speaker>
           <l>Та що кінчати? Подруги плетуть</l>
           <l>сі кошики, щоби носити землю</l>
@@ -219,7 +231,7 @@
         <stage>Дівча-підліток шпарко береться до роботи.</stage>
         <sp who="#tirca">
           <speaker>Тірца</speaker>
-          <stage/>
+          <stage>(до жінки)</stage>
           <l>Чому твоє багаття не горить?</l>
         </sp>
         <sp who="#zhinka">
@@ -249,7 +261,7 @@
           <stage>(повертаючись іти від них)</stage>
           <l>Спокій вам, сестри!</l>
         </sp>
-        <sp who="#vsitri">
+        <sp who="#zhinka #divchyna #divcha_pidlitok">
           <speaker>Всі три</speaker>
           <l>І тобі спокій!</l>
           <l>Благословенна ти, надії дочко!</l>
@@ -340,7 +352,7 @@
           <l>Устань, Ізраїлю, роби намети!..</l>
         </sp>
         <stage>Серед гурту сонних дехто починає ворушитись, дехто підводиться. Один старий озивається сонним голосом.</stage>
-        <sp who="#staryi">
+        <sp who="#staryj">
           <speaker>Старий</speaker>
           <l>Хто тут співає?</l>
         </sp>
@@ -350,7 +362,7 @@
           <l>Готуйте путь великій силі божій,</l>
           <l>шляхи рівняйте духові його!</l>
         </sp>
-        <sp who="#staryi">
+        <sp who="#staryj">
           <speaker>Старий</speaker>
           <l>Проклятий той, хто будить подоланих,</l>
           <l>проклятий той, хто краде сон в рабів,</l>
@@ -362,7 +374,7 @@
           <l>Хто раб? Хто подоланий? Тільки той,</l>
           <l>хто самохіть несе ярмо неволі.</l>
         </sp>
-        <sp who="#staryi">
+        <sp who="#staryj">
           <speaker>Старий</speaker>
           <l>Я не ношу ярма, я сплю, та й годі.</l>
         </sp>
@@ -378,7 +390,7 @@
           <l>Невже не встанеш ти з сії неслави?</l>
           <l>Від сорому не підведеш чола?</l>
         </sp>
-        <sp who="#staryi">
+        <sp who="#staryj">
           <speaker>Старий</speaker>
           <l>Для чого? Нащо маю я вставати?</l>
         </sp>
@@ -389,7 +401,7 @@
           <l>щоб час визволу не застав тебе</l>
           <l>у сні ганебнім, соромнім безділлі.</l>
         </sp>
-        <sp who="#staryi">
+        <sp who="#staryj">
           <speaker>Старий</speaker>
           <stage>(роздражнений)</stage>
           <l>А ти що робиш? Ти?</l>
@@ -398,7 +410,7 @@
           <speaker>Тірца</speaker>
           <l>Людей буджу.</l>
         </sp>
-        <sp who="#staryi">
+        <sp who="#staryj">
           <speaker>Старий</speaker>
           <stage>(укладається вигідніше. З презирливим сміхом)</stage>
           <l>Збуди ж мене, як прийде час визволу!</l>
@@ -517,13 +529,13 @@
           <stage>(кидається до Тірци, за ним юрба розбуджених людей)</stage>
           <l>Так я ж тебе, злочиннице, втоплю!</l>
         </sp>
-        <sp who="#iudei">
+        <sp who="#iudeyi">
           <speaker>Юрба</speaker>
           <l>Топіть її! топіть! вона посміла</l>
           <l>втопити наші святощі сіонські!</l>
           <stage>(Тягнуть Тірцу до річки, шарпають на ній одежу, плюють, хлоп’ята рибальські кидають в неї грудками мулу, інші в’яжуть їй руки баговинням.)</stage>
         </sp>
-        <sp who="#prorok_samariysky">
+        <sp who="#prorok_samariyskyi">
           <speaker>Молодий пророк самарійський</speaker>
           <stage>(надбігає з-під дерева, де він молився)</stage>
           <l>Рятуй, Ізраїлю! Тут іудеї</l>
@@ -534,11 +546,11 @@
           <speaker>Самаряни</speaker>
           <l>Втопити? За що? За якії вчинки?</l>
         </sp>
-        <sp who="#iudei">
+        <sp who="#iudeyi">
           <speaker>Іудеї</speaker>
           <l>За святощі!</l>
         </sp>
-        <sp who="#prorok_samariysky">
+        <sp who="#prorok_samariyskyi">
           <speaker>Пророк самарійський</speaker>
           <l>За брязкало старе!</l>
         </sp>
@@ -555,7 +567,7 @@
           <l>Аби закон, пророків не потрібно.</l>
         </sp>
         <stage>Самаряни нарешті беруть гору і, відбивши іудеїв, ведуть Тірцу під те дерево, де недавно молився їх молодий пророк.</stage>
-        <sp who="#prorok_samariysky">
+        <sp who="#prorok_samariyskyi">
           <speaker>Пророк самарійський</speaker>
           <stage>(до Тірци)</stage>
           <l>Стань тут, пророчице, олива сяя</l>
@@ -568,11 +580,11 @@
           <l>безчельних іудеїв. Вам відомо,</l>
           <l>які то святощі вона втопила?</l>
         </sp>
-        <sp who="#samaryanyn">
+        <sp who="#samarianyn">
           <speaker>Самарянин</speaker>
           <l>Ти ж сам казав, що брязкало старе…</l>
         </sp>
-        <sp who="#prorok_samariysky">
+        <sp who="#prorok_samariyskyi">
           <speaker>Пророк самарійський</speaker>
           <l>Те брязкало старе колись бриніло</l>
           <l>В руках Давидових.</l>
@@ -581,7 +593,7 @@
           <speaker>Самаряни</speaker>
           <l>Адонаї!</l>
         </sp>
-        <sp who="#prorok_samariysky">
+        <sp who="#prorok_samariyskyi">
           <speaker>Пророк самарійський</speaker>
           <l>Оті лукаві струни гомоніли</l>
           <l>в палатах нашого царя Саула,</l>
@@ -605,7 +617,7 @@
           <l>Честь Самарії! Смерть Єрусалиму!</l>
         </sp>
         <stage>Дівчина-самарянка подає тимпана Тірці. Тірца мовчки одводить його рукою і стоїть, похиливши чоло.</stage>
-        <sp who="#prorok_samariysky">
+        <sp who="#prorok_samariyskyi">
           <speaker>Пророк самарійський</speaker>
           <l>Вона не хоче грати на руїні.</l>
           <l>Дівоче серце жалісливе, браття.</l>
@@ -642,7 +654,7 @@
           <l>Давидове, одна оселя божа –</l>
           <l>храм Соломонів.</l>
         </sp>
-        <sp who="#samaryanyn">
+        <sp who="#samarianyn">
           <speaker>Самарянин</speaker>
           <l>Де ж той храм?</l>
         </sp>
@@ -659,7 +671,7 @@
           <l>І кожний камінь храму є безсмертний,</l>
           <l>бо він стоїть записаний в законі.</l>
         </sp>
-        <sp who="#prorok_samariysky">
+        <sp who="#prorok_samariyskyi">
           <speaker>Пророк самарійський</speaker>
           <l>І що ж вам з того?</l>
         </sp>
@@ -670,7 +682,7 @@
           <l>як бог для бога. Ми його раби</l>
           <l>і мусимо йому служити сліпо.</l>
         </sp>
-        <sp who="#prorok_samariysky">
+        <sp who="#prorok_samariyskyi">
           <speaker>Пророк самарійський</speaker>
           <l>Та чим служити?</l>
         </sp>
@@ -680,7 +692,7 @@
           <l>Щоб жертов не давалось поза храмом,</l>
           <l>щоб не зміняв ніхто в законі й слова.</l>
         </sp>
-        <sp who="#samaryanyn_molodyi">
+        <sp who="#samarianyn_molodyi">
           <speaker>Другий самарянин</speaker>
           <stage>(молодий)</stage>
           <l>А ми тим часом розберем руїни</l>
@@ -688,7 +700,7 @@
           <l>Жертовник ваш на Гарізім поставим</l>
           <l>і жертву принесем в святому гаю!</l>
         </sp>
-        <sp who="#gurt_iudeiv">
+        <sp who="#iudeyi">
           <speaker>Гурт іудеїв</speaker>
           <stage>(що надійшов потроху слухати сперечки)</stage>
           <l>Собаки самарійські! Ось чого ви</l>
@@ -702,7 +714,7 @@
           <l>з намету вийде і рабам накаже</l>
           <l>вас бичувати. Не будіть його!</l>
         </sp>
-        <sp who="#holosy">
+        <sp who="#samaryany #iudeyi">
           <speaker>Голоси з обох гуртів</speaker>
           <l>Се правда! тихше! годі, схаменіться!</l>
         </sp>
@@ -739,7 +751,7 @@
           <l>самі себе пожрете, мов ті змії,</l>
           <l>що бог колись наслав на кару нам.</l>
         </sp>
-        <sp who="#prorok_samariysky">
+        <sp who="#prorok_samariyskyi">
           <speaker>Пророк самарійський</speaker>
           <l>Хто тут тебе поставив за пророка?</l>
           <l>Прилюдно жінці личило б мовчати!</l>
@@ -786,7 +798,7 @@
           <l>і знає серце, як її назвати:</l>
           <l>в новім Єрусалимі храм новий!</l>
         </sp>
-        <sp who="#samaryanyn">
+        <sp who="#samarianyn">
           <speaker>Самарянин</speaker>
           <l>Єрусалим?! Будь прокляте се слово!</l>
         </sp>
@@ -805,12 +817,12 @@
           <l>Та геть її! в пустиню! на вигнання!</l>
           <l>Хай не морочить нас! не баламутить!</l>
         </sp>
-        <sp who="#iudei">
+        <sp who="#iudeyi">
           <speaker>Один з іудеїв</speaker>
           <l>Кому ж се маємо тут будувати?</l>
           <l>Щоб ворог знов прийшов і знов посів?</l>
         </sp>
-        <sp who="#staryi_iudeyanyn">
+        <sp who="#staryi_iudeianyn">
           <speaker>Старий іудеянин</speaker>
           <l>Хто нам дозволив ту нову будову?</l>
           <l>Цар чи дозорець?</l>

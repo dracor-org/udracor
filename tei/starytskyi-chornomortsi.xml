@@ -60,6 +60,9 @@
           <person xml:id="tupytsja" sex="MALE">
             <persName>Тупиця</persName>
           </person>
+          <personGrp xml:id="kozaky" sex="MALE">
+            <name>Козаки</name>
+          </personGrp>
           <person xml:id="kabytsja" sex="MALE">
             <persName>Кабиця</persName>
           </person>
@@ -709,7 +712,7 @@
             <l>З хати вийшла – честь обична</l>
             <l>Йому на провід!</l>
           </sp>
-          <sp who="#kozaki">            
+          <sp who="#kozaky">            
             <stage>За лаштунками чутно, як тупотять коні; козаки співають:</stage>
             <l>Засвистали козаченьки,</l>
             <l>В поход з полуночі;</l>
