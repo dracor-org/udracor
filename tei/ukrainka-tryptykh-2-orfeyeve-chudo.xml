@@ -47,35 +47,35 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="tretij">
-            <persName>Третій</persName>
-          </person>
           <person xml:id="amfion">
             <persName>Амфіон</persName>
-          </person>
-          <person xml:id="pershij_cholovik">
-            <persName>Перший чоловік</persName>
+            <idno type="wikidata">Q242835</idno>
           </person>
           <person xml:id="orfej">
             <persName>Орфей</persName>
+            <idno type="wikidata">Q174353</idno>
           </person>
           <person xml:id="zet">
             <persName>Зет</persName>
+            <idno type="wikidata">Q196865</idno>
+          </person>
+          <person xml:id="pershij">
+            <persName>Перший чоловік</persName>
           </person>
           <person xml:id="drugij">
             <persName>Другий</persName>
           </person>
-          <person xml:id="pjatij">
-            <persName>П’ятий</persName>
-          </person>
-          <person xml:id="pershij">
-            <persName>Перший</persName>
-          </person>
-          <person xml:id="shostij">
-            <persName>Шостий</persName>
+          <person xml:id="tretij">
+            <persName>Третій</persName>
           </person>
           <person xml:id="chetvertij">
             <persName>Четвертий</persName>
+          </person>
+          <person xml:id="pjatij">
+            <persName>П’ятий</persName>
+          </person>
+          <person xml:id="shostij">
+            <persName>Шостий</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -457,7 +457,7 @@
           <l>Шкода! Здається, духу вже не стане.</l>
         </sp>
         <stage>Орфей притуляє цівницю до уст і видає такий тремтячий, жалібливий тон, що дужий Зет не видержує і заливається слізьми, як дитина. Амфіон стоїть замислений, опустивши руки, і з суворою тугою дивиться в землю. Тихий, але проймаючий спів свирілі стелиться полониною і лине в далекі нетрі й хащі. З нетрів починають виходити люди, сторожко наближаються до міста, тулячись попід мурами. Герої в смутку своєму нічого того не бачать і не чують приглушених розмов юрби.</stage>
-        <sp who="#pershij_cholovik">
+        <sp who="#pershij">
           <speaker>Перший чоловік</speaker>
           <l>Вони вже не будують?</l>
         </sp>
@@ -672,9 +672,9 @@
           <stage>(обернувшись і глянувши на мури)</stage>
           <l>Гей, браття! Диво сталося, дивіться!</l>
         </sp>
-        <p>
-          [2.02.1913, Єгипет]
-        </p>
+        <closer>
+          <dateline>[<date when="1913-02-02">2.02.1913</date>, <placeName>Єгипет</placeName>]</dateline>
+        </closer>
       </div>
     </body>
   </text>

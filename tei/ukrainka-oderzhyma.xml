@@ -50,30 +50,29 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="sluga" sex="MALE">
-            <persName>Слуга</persName>
+          <person xml:id="miriam" sex="FEMALE">
+            <persName>Міріам</persName>
+          </person>
+          <person xml:id="mesija" sex="MALE">
+            <persName>Месія</persName>
+            <idno type="wikidata">Q302</idno>
+          </person>
+          <person xml:id="joganna" sex="FEMALE">
+            <persName>Йоганна</persName>
+            <idno type="wikidata">Q269889</idno>
           </person>
           <person xml:id="starij" sex="MALE">
             <persName>Старий</persName>
           </person>
-          <person xml:id="miriam" sex="FEMALE">
-            <persName>Міріам</persName>
+          <person xml:id="sluga" sex="MALE">
+            <persName>Слуга</persName>
           </person>
           <person xml:id="pretorianets" sex="MALE">
             <persName>Преторіанець</persName>
           </person>
           <personGrp xml:id="golosi_z_jurbi" sex="UNKNOWN">
             <name>Голоси з юрби</name>
-          </personGrp>
-          <person xml:id="joganna" sex="FEMALE">
-            <persName>Йоганна</persName>
-          </person>
-          <person xml:id="mesija" sex="MALE">
-            <persName>Месія</persName>
-          </person>
-          <personGrp xml:id="golosi_v_jurbi" sex="UNKNOWN">
-            <!-- it is unclear if we should merge this with the Golosi_z_jurbi -->
-            <name>Голоси в юрбі</name>
+            <name type="variant">Голоси в юрбі</name>
           </personGrp>
         </listPerson>
       </particDesc>
@@ -755,7 +754,6 @@
           <l>Ох, Міріам, ти проклята від бога!</l>
           <stage>(Так само незамітно для Месії, але швидко вибігає з саду.)</stage>
         </sp>
-        <p/>
       </div>
       <div type="act">
         <head>3</head>
@@ -971,10 +969,10 @@
         <sp who="#miriam">
           <speaker>Міріам</speaker>
           <l>Я вірю в нього !</l>
+          <stage>Старий спиняється.</stage>
+          <l>Вірю більш, як ти,</l>
+          <l>більш, як усі ви.</l>
         </sp>
-        <stage>Старий спиняється.</stage>
-        <l>Вірю більш, як ти,</l>
-        <l>більш, як усі ви.</l>
         <sp who="#starij">
           <speaker>Старий</speaker>
           <l>То приходь сьогодні</l>
@@ -1161,7 +1159,7 @@
           <speaker>Слуга</speaker>
           <l>Що суджено кленучому?</l>
         </sp>
-        <sp who="#golosi_v_jurbi">
+        <sp who="#golosi_z_jurbi">
           <speaker>Голоси в юрбі</speaker>
           <l>Каміння.</l>
         </sp>
@@ -1175,7 +1173,9 @@
           <l>не за небесне царство… ні… з любові!</l>
           <stage>(Падає під градом каміння.)</stage>
         </sp>
-        <p>[18.01.1901]</p>
+        <closer>
+          <dateline>[<date when="1901-01-18">18.01.1901</date>]</dateline>
+        </closer>
       </div>
     </body>
   </text>

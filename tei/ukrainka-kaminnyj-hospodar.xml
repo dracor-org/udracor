@@ -153,6 +153,7 @@
           </person>
           <person xml:id="don_zhuan" sex="MALE">
             <persName>Дон Жуан</persName>
+            <idno type="wikidata">Q210372</idno>
           </person>
           <person xml:id="druga_moloda_pani" sex="FEMALE">
             <persName>Друга молода пані</persName>

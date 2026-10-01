@@ -92,10 +92,10 @@
           <person xml:id="chub" sex="MALE">
             <persName>Чуб</persName>
           </person>
-          <person xml:id="holova" sex="FEMALE">
+          <person xml:id="holova" sex="MALE">
             <persName>Голова</persName>
           </person>
-          <person xml:id="divchata_odni_act_one_scene_twelve" sex="MALE">
+          <person xml:id="divchata_odni_act_one_scene_twelve" sex="FEMALE">
             <persName>Дівчата одні</persName>
           </person>
           <person xml:id="hrytsko" sex="MALE">

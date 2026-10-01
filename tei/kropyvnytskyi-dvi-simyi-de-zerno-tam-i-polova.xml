@@ -102,7 +102,7 @@
             <name>Деякі</name>
           </personGrp>
           <person xml:id="holos_z-za_vikna" sex="UNKNOWN">
-            <persName>Голос з-за вікна:</persName>
+            <persName>Голос з-за вікна</persName>
           </person>
           <person xml:id="samros" sex="MALE">
             <persName>Самрось</persName>

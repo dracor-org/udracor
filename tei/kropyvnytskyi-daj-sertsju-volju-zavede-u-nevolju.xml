@@ -128,7 +128,7 @@
           <person xml:id="zachepiha" sex="FEMALE">
             <persName>Зачепиха</persName>
           </person>
-          <person xml:id="golos_za_viknom_" sex="MALE">
+          <person xml:id="golos_za_viknom" sex="MALE">
             <persName>Голос за вікном</persName>
           </person>
           <person xml:id="providnik" sex="MALE">
@@ -3110,7 +3110,7 @@
             <p>Ех, лихо, лихо! Коли ти нас перестанеш няньчити? Хоч би ти на времня покумалося з
               багачами!…</p>
           </sp>
-          <sp who="#golos_za_viknom_">
+          <sp who="#golos_za_viknom">
             <speaker>Голос за вікном:</speaker>
             <p>"Семене, а йди до волості!" О, бач, вже й знову прислали! А що, тьохнуло серденько? Ну,
               вип'ємо ще та й ходім.</p>

@@ -50,146 +50,156 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="sinon" sex="MALE">
-            <persName>Сінон</persName>
+          <person xml:id="gelena" sex="FEMALE">
+            <persName>Гелена</persName>
+            <idno type="wikidata">Q164061</idno>
           </person>
-          <personGrp xml:id="golosi_z_ljudu" sex="UNKNOWN">
-            <name>Голоси з люду</name>
-          </personGrp>
-          <person xml:id="klimena" sex="FEMALE">
-            <persName>Клімена</persName>
+          <person xml:id="kassandra" sex="FEMALE">
+            <persName>Кассандра</persName>
+            <idno type="wikidata">Q170779</idno>
           </person>
-          <person xml:id="odissej" sex="MALE">
-            <persName>Одіссей</persName>
+          <person xml:id="poliksena" sex="FEMALE">
+            <persName>Поліксена</persName>
+            <idno type="wikidata">Q750236</idno>
           </person>
-          <person xml:id="ajtra" sex="FEMALE">
-            <persName>Айтра</persName>
-          </person>
-          <person xml:id="vartovij_1-j" sex="MALE">
-            <persName>1-й вартовий</persName>
-          </person>
-          <person xml:id="deifob" sex="MALE">
-            <persName>Деїфоб</persName>
-          </person>
-          <person xml:id="dolon" sex="MALE">
-            <persName>Долон</persName>
-          </person>
-          <personGrp xml:id="inshi_zhinki_z_tsarskoi_rodini" sex="FEMALE">
-            <name>Інші жінки з царської родини</name>
-          </personGrp>
           <person xml:id="andromaha" sex="FEMALE">
             <persName>Андромаха</persName>
+            <idno type="wikidata">Q19376</idno>
+          </person>
+          <person xml:id="klimena" sex="FEMALE">
+            <persName>Клімена</persName>
           </person>
           <person xml:id="kreuza" sex="FEMALE">
             <persName>Креуза</persName>
           </person>
-          <personGrp xml:id="vojaki-spartantsi" sex="UNKNOWN">
-            <name>Вояки-спартанці</name>
-          </personGrp>
-          <person xml:id="klitemnestra" sex="FEMALE">
-            <persName>Клітемнестра</persName>
+          <person xml:id="ajtra" sex="FEMALE">
+            <persName>Айтра</persName>
           </person>
-          <person xml:id="paris" sex="MALE">
-            <persName>Паріс</persName>
+          <person xml:id="levke" sex="FEMALE">
+            <persName>Левке</persName>
           </person>
-          <person xml:id="golos_z_jurbi" sex="UNKNOWN">
-            <persName>Голос з юрби</persName>
+          <person xml:id="hrize" sex="FEMALE">
+            <persName>Хрізе</persName>
           </person>
-          <person xml:id="agamemnon" sex="MALE">
-            <persName>Агамемнон</persName>
+          <person xml:id="dolon" sex="MALE">
+            <persName>Долон</persName>
+            <idno type="wikidata">Q854056</idno>
           </person>
-          <personGrp xml:id="golosi_v_narodi" sex="UNKNOWN">
-            <name>Голоси в народі</name>
-          </personGrp>
-          <person xml:id="pershij_golos" sex="UNKNOWN">
-            <persName>Перший голос</persName>
-          </person>
-          <personGrp xml:id="hor" sex="UNKNOWN">
-            <name>Хор</name>
-          </personGrp>
-          <person xml:id="ajaks" sex="MALE">
-            <persName>Аякс</persName>
-          </person>
-          <person xml:id="egist" sex="MALE">
-            <persName>Егіст</persName>
-          </person>
-          <person xml:id="visnik" sex="MALE">
-            <persName>Вісник</persName>
+          <person xml:id="vartovij_1-j" sex="MALE">
+            <persName>1-й вартовий</persName>
           </person>
           <person xml:id="vartovij_2-j" sex="MALE">
             <persName>2-й вартовий</persName>
           </person>
-          <person xml:id="vartovij_5-j" sex="MALE">
-            <persName>5-й вартовий</persName>
-          </person>
-          <person xml:id="tretij_golos" sex="MALE">
-            <persName>Третій голос</persName>
-          </person>
-          <person xml:id="vartovij_3-j" sex="MALE">
-            <persName>3-й вартовий</persName>
+          <person xml:id="deifob" sex="MALE">
+            <persName>Деїфоб</persName>
+            <idno type="wikidata">Q736813</idno>
           </person>
           <person xml:id="gelen" sex="MALE">
             <persName>Гелен</persName>
+            <idno type="wikidata">Q729332</idno>
           </person>
-          <person xml:id="hrize" sex="MALE">
-            <persName>Хрізе</persName>
-          </person>
-          <person xml:id="golosi_z_gurtu" sex="UNKNOWN">
-            <persName>Голоси з гурту</persName>
-          </person>
-          <person xml:id="odin_golos" sex="UNKNOWN">
-            <persName>Один голос</persName>
-          </person>
-          <person xml:id="poliksena" sex="MALE">
-            <persName>Поліксена</persName>
-          </person>
-          <person xml:id="diomed" sex="MALE">
-            <persName>Діомед</persName>
-          </person>
-          <person xml:id="kitarist" sex="MALE">
-            <persName>Кітарист</persName>
-          </person>
-          <person xml:id="menelaj" sex="MALE">
-            <persName>Менелай</persName>
-          </person>
-          <person xml:id="kassandra" sex="FEMALE">
-            <persName>Кассандра</persName>
+          <person xml:id="rabinja" sex="FEMALE">
+            <persName>Рабиня</persName>
           </person>
           <person xml:id="stara_rabinja" sex="FEMALE">
             <persName>Стара рабиня</persName>
           </person>
-          <person xml:id="drugij_golos" sex="UNKNOWN">
-            <persName>Другий голос</persName>
+          <person xml:id="onomaj" sex="MALE">
+            <persName>Ономай</persName>
           </person>
+          <personGrp xml:id="golosi_v_narodi" sex="UNKNOWN">
+            <name>Голоси в народі</name>
+          </personGrp>
           <personGrp xml:id="ljudi" sex="UNKNOWN">
             <name>Люди</name>
           </personGrp>
-          <person xml:id="flejtist" sex="FEMALE">
-            <persName>Флейтист</persName>
+          <person xml:id="golos_z_jurbi" sex="UNKNOWN">
+            <persName>Голос з юрби</persName>
           </person>
-          <personGrp xml:id="hor_vartovih" sex="UNKNOWN">
-            <name>Хор вартових</name>
+          <person xml:id="drugij_golos" sex="UNKNOWN">
+            <persName>Другий голос</persName>
+          </person>
+          <person xml:id="pershij_golos" sex="UNKNOWN">
+            <persName>Перший голос</persName>
+          </person>
+          <person xml:id="tretij_golos" sex="MALE">
+            <persName>Третій голос</persName>
+          </person>
+          <personGrp xml:id="golosi_z_ljudu" sex="UNKNOWN">
+            <name>Голоси з люду</name>
           </personGrp>
-          <person xml:id="gelena" sex="FEMALE">
-            <persName>Гелена</persName>
-          </person>
-          <person xml:id="levke" sex="MALE">
-            <persName>Левке</persName>
-          </person>
-          <person xml:id="odna_z_trojanok" sex="FEMALE">
-            <persName>Одна з троянок</persName>
-          </person>
-          <person xml:id="onomaj" sex="MALE">
-            <persName>Ономай</persName>
+          <personGrp xml:id="golosi_z_gurtu" sex="UNKNOWN">
+            <name>Голоси з гурту</name>
+          </personGrp>
+          <person xml:id="odin_golos" sex="UNKNOWN">
+            <persName>Один голос</persName>
           </person>
           <person xml:id="chetvertij_golos" sex="UNKNOWN">
             <persName>Четвертий голос</persName>
           </person>
+          <person xml:id="sinon" sex="MALE">
+            <persName>Сінон</persName>
+            <idno type="wikidata">Q663792</idno>
+          </person>
+          <person xml:id="vartovij_3-j" sex="MALE">
+            <persName>3-й вартовий</persName>
+          </person>
           <person xml:id="vartovij_4-j" sex="MALE">
             <persName>4-й вартовий</persName>
           </person>
-          <person xml:id="rabinja" sex="FEMALE">
-            <persName>Рабиня</persName>
+          <person xml:id="paris" sex="MALE">
+            <persName>Паріс</persName>
+            <idno type="wikidata">Q167646</idno>
+          </person>
+          <person xml:id="kitarist" sex="MALE">
+            <persName>Кітарист</persName>
+          </person>
+          <person xml:id="vartovij_5-j" sex="MALE">
+            <persName>5-й вартовий</persName>
+          </person>
+          <person xml:id="flejtist" sex="MALE">
+            <persName>Флейтист</persName>
+          </person>
+          <person xml:id="ajaks" sex="MALE">
+            <persName>Аякс</persName>
+            <idno type="wikidata">Q242319</idno>
+          </person>
+          <person xml:id="odissej" sex="MALE">
+            <persName>Одіссей</persName>
+            <idno type="wikidata">Q47231</idno>
+          </person>
+          <person xml:id="agamemnon" sex="MALE">
+            <persName>Агамемнон</persName>
+            <idno type="wikidata">Q128176</idno>
+          </person>
+          <person xml:id="diomed" sex="MALE">
+            <persName>Діомед</persName>
+            <idno type="wikidata">Q208256</idno>
+          </person>
+          <personGrp xml:id="inshi_zhinki_z_tsarskoi_rodini" sex="FEMALE">
+            <name>Інші жінки з царської родини</name>
+          </personGrp>
+          <person xml:id="menelaj" sex="MALE">
+            <persName>Менелай</persName>
+            <idno type="wikidata">Q171839</idno>
+          </person>
+          <personGrp xml:id="vojaki-spartantsi" sex="UNKNOWN">
+            <name>Вояки-спартанці</name>
+          </personGrp>
+          <person xml:id="odna_z_trojanok" sex="FEMALE">
+            <persName>Одна з троянок</persName>
+          </person>
+          <person xml:id="klitemnestra" sex="FEMALE">
+            <persName>Клітемнестра</persName>
+            <idno type="wikidata">Q131157</idno>
+          </person>
+          <person xml:id="egist" sex="MALE">
+            <persName>Егіст</persName>
+            <idno type="wikidata">Q212091</idno>
+          </person>
+          <person xml:id="visnik" sex="MALE">
+            <persName>Вісник</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -204,6 +214,34 @@
           <titlePart type="sub">Драматична поема</titlePart>
         </docTitle>
       </titlePage>
+      <castList>
+        <head>Діячі</head>
+        <castItem>Кассандра – дочка троянського царя Пріама, пророчиця, жриця Аполлона.</castItem>
+        <castItem>Поліксена – її сестра, молода дівчина.</castItem>
+        <castItem>Деїфоб – її найстарший брат, ватаг військовий.</castItem>
+        <castItem>Гелен – другий її брат, віщун і жрець.</castItem>
+        <castItem>Паріс – наймолодший брат Кассандри.</castItem>
+        <castItem>Гелена – жінка спартанського царя Менелая, що втекла з Парісом у Трою.</castItem>
+        <castItem>Андромаха – жінка Гектора, брата Кассандри.</castItem>
+        <castItem>Левке, Хрізе, Айтра, Клімена, Креуза – рабині Андромахи.</castItem>
+        <castItem>Стара рабиня Поліксенина.</castItem>
+        <castItem>Долон – молодий троянець, колишній наречений Кассандри.</castItem>
+        <castItem>Ономай – цар лідійський, що сватав Кассандру.</castItem>
+        <castItem>1, 2, 3, 4-й вартовий – сторожа міста Іліона в Трої</castItem>
+        <castItem>Флейтист.</castItem>
+        <castItem>Кітарист.</castItem>
+        <castItem>Сінон – еллін, шпигун.</castItem>
+        <castItem>Агамемнон Атрід – цар аргоський, найстарший ватаг ахейського війська.</castItem>
+        <castItem>Менелай Атрід – брат його, цар спартанський;</castItem>
+        <castItem>Одіссей – цар Ітаки;</castItem>
+        <castItem>Діомед, Аякс – підрядні ватаги ахейського війська.</castItem>
+        <castItem>Клітемнестра – жінка Агамемнона.</castItem>
+        <castItem>Егіст – родич і намісник Агамемнона.</castItem>
+        <castItem>Троянці, троянки, раби, рабині, вояки троянські й еллінські.</castItem>
+      </castList>
+      <set>
+        <p>Діється в часи еллінсько-троянської війни в Трої, в місті Іліоні. Епілог – в Елладі, в столиці Арголіди Мікенах.</p>
+      </set>
     </front>
     <body>
       <div type="act">
@@ -257,10 +295,10 @@
         <sp who="#kassandra">
           <speaker>Кассандра</speaker>
           <l>Візьми свічадо!</l>
+          <stage>Гелена мимохіть слухається і бере свічадо в руки. Кассандра стає з нею поруч.</stage>
+          <l>Дивись: от ти і я, – у нас нічого</l>
+          <l>подібного нема.</l>
         </sp>
-        <stage>Гелена мимохіть слухається і бере свічадо в руки. Кассандра стає з нею поруч.</stage>
-        <l>Дивись: от ти і я, – у нас нічого</l>
-        <l>подібного нема.</l>
         <sp who="#gelena">
           <speaker>Гелена</speaker>
           <l>А хто ж те каже?</l>
@@ -638,14 +676,14 @@
           <l>Хіба осліпнути? Бо де візьметься</l>
           <l>у птиці віщої коханий погляд</l>
           <l>голубки, що воркує.</l>
+          <stage>Поліксена дивиться їй в очі.</stage>
+          <l>Поліксено!</l>
+          <l>Не придивляйся до моїх очей.</l>
+          <l>Не говори до мене, не питай</l>
+          <l>нічого, нічогісінько. Ти знаєш,</l>
+          <l>тебе я над усіх сестер злюбила.</l>
+          <l>Не говори до мене.</l>
         </sp>
-        <stage>Поліксена дивиться їй в очі.</stage>
-        <l>Поліксено!</l>
-        <l>Не придивляйся до моїх очей.</l>
-        <l>Не говори до мене, не питай</l>
-        <l>нічого, нічогісінько. Ти знаєш,</l>
-        <l>тебе я над усіх сестер злюбила.</l>
-        <l>Не говори до мене.</l>
         <sp who="#poliksena">
           <speaker>Поліксена</speaker>
           <l>Ні, Кассандро,</l>
@@ -1244,12 +1282,12 @@
         <sp who="#dolon">
           <speaker>Долон</speaker>
           <l>Що ти сказала?</l>
+          <stage>Кассандра мовчить.</stage>
+          <l>Я знаю, я на те не заслужив,</l>
+          <l>щоб ти слова на мене витрачала…</l>
+          <l>а тільки я хотів… Ні, я не вартий…</l>
+          <l>Вітаю вас, царівни…</l>
         </sp>
-        <stage>Кассандра мовчить.</stage>
-        <l>Я знаю, я на те не заслужив,</l>
-        <l>щоб ти слова на мене витрачала…</l>
-        <l>а тільки я хотів… Ні, я не вартий…</l>
-        <l>Вітаю вас, царівни…</l>
         <stage>(Похиливши голову, налагоджується йти.)</stage>
         <sp who="#kassandra">
           <speaker>Кассандра</speaker>
@@ -1483,11 +1521,11 @@
         <sp who="#kassandra">
           <speaker>Кассандра</speaker>
           <l>Ахейці?.. Я замовкну… я не буду…</l>
+          <stage>Довге мовчання.</stage>
+          <stage>(Кассандра тремтить всім тілом, спочатку щільно закриває лице покривалом і стоїть нерухомо, потім одкривається і пошепки говорить, стискаючи обидві руки Поліксені.)</stage>
+          <l>Ходім на браму… Ти ходи зо мною…</l>
+          <l>мені так страшно… я боюся долі…</l>
         </sp>
-        <stage>Довге мовчання.</stage>
-        <stage>(Кассандра тремтить всім тілом, спочатку щільно закриває лице покривалом і стоїть нерухомо, потім одкривається і пошепки говорить, стискаючи обидві руки Поліксені.)</stage>
-        <l>Ходім на браму… Ти ходи зо мною…</l>
-        <l>мені так страшно… я боюся долі…</l>
         <sp who="#poliksena">
           <speaker>Поліксена</speaker>
           <l>Та як же підемо? На сходах темно.</l>
@@ -2040,12 +2078,12 @@
           <speaker>Ономай</speaker>
           <stage>(входить і спиняється у порога. Мовчання.)</stage>
           <l>Царівно, радуйся.</l>
+          <stage>Кассандра мовчить.</stage>
+          <l>Я соромливість</l>
+          <l>високо поважаю, але все ж</l>
+          <l>бажав би я таки почути слово,</l>
+          <l>хоч те єдине, що мені належить.</l>
         </sp>
-        <stage>Кассандра мовчить.</stage>
-        <l>Я соромливість</l>
-        <l>високо поважаю, але все ж</l>
-        <l>бажав би я таки почути слово,</l>
-        <l>хоч те єдине, що мені належить.</l>
         <sp who="#kassandra">
           <speaker>Кассандра</speaker>
           <l>Ти певен, що воно тобі належить?</l>
@@ -2246,9 +2284,9 @@
           <l>сказав хтось по-троянськи? Я се дома</l>
           <l>почую по-лідійськи від жіноцтва,</l>
           <l>як військо приведу назад без бою.</l>
+          <stage>Мовчання.</stage>
+          <l>Так що ж, царівно?</l>
         </sp>
-        <stage>Мовчання.</stage>
-        <l>Так що ж, царівно?</l>
         <stage>(Налагоджується йти.)</stage>
         <stage>Кассандра мовчить, але, видимо, бореться з собою. Ономай бариться, завваживши се.</stage>
         <sp who="#deifob">
@@ -3608,18 +3646,18 @@
         <sp who="#sinon">
           <speaker>Сінон</speaker>
           <l>Так, ніч холодна.</l>
+          <stage>Паріс загортається щільніше в плащ.</stage>
+          <l>Дружинонька твоя золотокудра,</l>
+          <l>либонь, тепер багаття розпалила</l>
+          <l>і пахощів насипала солодких,</l>
+          <l>димок від курива, мов легка мрія,</l>
+          <l>над сніжно-білим чолом ніжно в’ється.</l>
+          <stage>Паріс мовчить, розмарений, поглядає на царський двір.</stage>
+          <l>Тепер, либонь, ті світозорі очі</l>
+          <l>сльозою пойнялись. Вона сама.</l>
+          <l>Сидить, пряде і думоньку гадає,</l>
+          <l>а ти то бенкетуєш, то вартуєш…</l>
         </sp>
-        <stage>Паріс загортається щільніше в плащ.</stage>
-        <l>Дружинонька твоя золотокудра,</l>
-        <l>либонь, тепер багаття розпалила</l>
-        <l>і пахощів насипала солодких,</l>
-        <l>димок від курива, мов легка мрія,</l>
-        <l>над сніжно-білим чолом ніжно в’ється.</l>
-        <stage>Паріс мовчить, розмарений, поглядає на царський двір.</stage>
-        <l>Тепер, либонь, ті світозорі очі</l>
-        <l>сльозою пойнялись. Вона сама.</l>
-        <l>Сидить, пряде і думоньку гадає,</l>
-        <l>а ти то бенкетуєш, то вартуєш…</l>
         <sp who="#paris">
           <speaker>Паріс</speaker>
           <stage>(тихо, немов до себе, не дивлячись на Сінона)</stage>
@@ -3671,9 +3709,9 @@
         <sp who="#kassandra">
           <speaker>Кассандра</speaker>
           <l>Ти забув чия?</l>
+          <stage>Паріс мовчить і спускає очі додолу.</stage>
+          <l>Під нею Гектор наш, троянська слава.</l>
         </sp>
-        <stage>Паріс мовчить і спускає очі додолу.</stage>
-        <l>Під нею Гектор наш, троянська слава.</l>
         <sp who="#paris">
           <speaker>Паріс</speaker>
           <l>Він вже давно поліг…</l>
@@ -3741,9 +3779,9 @@
           <l>війни згубливої. Так доверши</l>
           <l>величну перемогу край Гелени</l>
           <l>в розкішнім гінекеї!</l>
+          <stage>Паріс, налагодившись було йти, при перших словах Кассандри спинився і стоїть в нерішучості.</stage>
+          <l>Де твій меч?</l>
         </sp>
-        <stage>Паріс, налагодившись було йти, при перших словах Кассандри спинився і стоїть в нерішучості.</stage>
-        <l>Де твій меч?</l>
         <sp who="#paris">
           <speaker>Паріс</speaker>
           <l>Нащо той меч?</l>
@@ -3789,7 +3827,7 @@
           <l>тіні згублених героїв,</l>
           <l>та чого ж вони сумні?</l>
         </sp>
-        <sp who="#hor_vartovih">
+        <sp who="#vartovij_1-j #vartovij_2-j #vartovij_3-j #vartovij_4-j #vartovij_5-j">
           <speaker>Хор вартових</speaker>
           <l>На полях Асфоделонських,</l>
           <l>на долині Єлісейській</l>
@@ -3805,7 +3843,7 @@
           <l>тіні наших незабутніх,</l>
           <l>та чого ж вони сумні?</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#vartovij_1-j #vartovij_2-j #vartovij_3-j #vartovij_4-j #vartovij_5-j">
           <speaker>Хор</speaker>
           <l>Бо у Стіксі каламутнім,</l>
           <l>бо у Леті сумовитій</l>
@@ -3820,7 +3858,7 @@
           <l>тіні наших оборонців,</l>
           <l>та чого ж вони сумні?</l>
         </sp>
-        <sp who="#hor">
+        <sp who="#vartovij_1-j #vartovij_2-j #vartovij_3-j #vartovij_4-j #vartovij_5-j">
           <speaker>Хор</speaker>
           <l>Бо у Гадеса в палатах,</l>
           <l>перед троном Персефони</l>
@@ -3976,10 +4014,12 @@
           <l>Та я за вами, сам не вмію.</l>
         </sp>
         <stage>Сінон заграє у флейту, потім передає її флейтистові, той провадить далі, кітарист підхоплює, інші вступають співом.</stage>
-        <l>Над річкою сад-виноград повився,</l>
-        <l>ой саде-винограде!</l>
-        <l>Як буде йти до річки Левкотея,</l>
-        <l>обвий її, мій друже кучерявий…</l>
+        <sp who="#vartovij_1-j #vartovij_2-j #vartovij_3-j #vartovij_4-j #vartovij_5-j">
+          <l>Над річкою сад-виноград повився,</l>
+          <l>ой саде-винограде!</l>
+          <l>Як буде йти до річки Левкотея,</l>
+          <l>обвий її, мій друже кучерявий…</l>
+        </sp>
         <sp who="#vartovij_1-j">
           <speaker>1-й вартовий</speaker>
           <l>Ет, се нудна!</l>

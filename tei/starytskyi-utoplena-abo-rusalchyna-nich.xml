@@ -67,7 +67,7 @@
             <persName>Русалки</persName>
           </person>
           <person xml:id="chetvertyj_parubok" sex="MALE">
-            <persName>Четвертий парубки</persName>
+            <persName>Четвертий парубок</persName>
           </person>
           <person xml:id="tretij_parubok" sex="MALE">
             <persName>Третій парубок</persName>
@@ -699,7 +699,7 @@
             <speaker>Перший парубок</speaker>
             <p>Чи не в ченці дума пошитись?</p>
           </sp>
-          <sp who="#chetvertyj_parubok #tretij_parubok">
+          <sp who="#tretij_parubok #chetvertyj_parubok">
             <speaker>Третій і четвертий парубки</speaker>
             <p>Що ж це? Після розмови з дівчиною заманулось?</p>
           </sp>

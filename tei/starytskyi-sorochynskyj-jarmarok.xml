@@ -213,7 +213,7 @@
             <name>Голоси</name>
           </personGrp>
           <person xml:id="xvenko" sex="MALE">
-            <persName>Xвенько</persName>
+            <persName>Хвенько</persName>
           </person>
           <personGrp xml:id="chotyry_startsja" sex="MALE">
             <name>Чотири старця</name>
@@ -251,7 +251,7 @@
       <castList>
         <head>Дійові люде:</head>
         <castItem>Солопій Черевик – підстаркуватий козак.</castItem>
-        <castItem>Xівря – жінка його, друга.</castItem>
+        <castItem>Хівря – жінка його, друга.</castItem>
         <castItem>Хотина – дочка Черевика од першої жінки.</castItem>
         <castItem>Антін Цибуля – міщанин, кум Черевика.</castItem>
         <castItem>Мокрина – його жінка.</castItem>
@@ -364,7 +364,7 @@
             <l>Бабка на припічку, не вечеряючи!</l>
           </sp>
           <sp who="#khajka">
-            <speaker>Xайка</speaker>
+            <speaker>Хайка</speaker>
             <p>А що, пани козаки! Може, ще горілки, меду?</p>
           </sp>
           <sp who="#tsybulja">
@@ -372,7 +372,7 @@
             <p>А жінка там?</p>
           </sp>
           <sp who="#khajka">
-            <speaker>Xайка</speaker>
+            <speaker>Хайка</speaker>
             <p>Там, там, не турбуйтесь: вишнівочкою бавляться…</p>
           </sp>
           <sp who="#tsybulja">
@@ -380,7 +380,7 @@
             <p>Так сип мерщі нам оковитої!</p>
           </sp>
           <sp who="#khajka">
-            <speaker>Xайка</speaker>
+            <speaker>Хайка</speaker>
             <p>Зараз!</p>
             <stage>(Біжить і вносить; підходить до других).</stage>
           </sp>
@@ -498,7 +498,7 @@
             <p>Ловко! Ну, що то вже за кодло!</p>
           </sp>
           <sp who="#khazjayin">
-            <speaker>Xазяїн</speaker>
+            <speaker>Хазяїн</speaker>
             <p>Купи у мене свиню!</p>
           </sp>
           <sp who="#khvenko">
@@ -665,7 +665,7 @@
           </sp>
           <stage>Голоси: «Насилу рушив!», «Ну й миру!», «Аж боком риє!» Порон одплива. По дорозі знов підходять до пристані люде.</stage>
           <sp who="#khajka">
-            <speaker>Xайка</speaker>
+            <speaker>Хайка</speaker>
             <stage>(до Цибулі).</stage>
             <p>Там жінка вас кличуть! Плачуть, що ні з ким танцювати!</p>
           </sp>
@@ -674,7 +674,7 @@
             <p>Уже пустила патьоки! Черкнула, стало буть, вщерть!</p>
           </sp>
           <sp who="#khajka">
-            <speaker>Xайка</speaker>
+            <speaker>Хайка</speaker>
             <p>Далібуг, ні: вони тільки вишнівочки, та слив’яночки, та тернівочки, та спотикачем запили… Цц! цц!.. така слічна господиня!..</p>
           </sp>
           <sp who="#mokryna">
@@ -684,10 +684,10 @@
           </sp>
           <sp who="#tsybulja">
             <speaker>Цибуля</speaker>
-            <p>Xi! От тепер і возжайсь!</p>
+            <p>Хi! От тепер і возжайсь!</p>
           </sp>
           <sp who="#xvenko">
-            <speaker>Xвенько</speaker>
+            <speaker>Хвенько</speaker>
             <p>Авта карде! Я поможу вашу жінку ублаготворите… то й за городину зійдемось…</p>
           </sp>
           <stage>Ідуть.</stage>
@@ -704,7 +704,7 @@
         </div>
         <div type="scene">
           <head>Вихід ІІІ</head>
-          <stage>Панько сам, а потім Xвенько.</stage>
+          <stage>Панько сам, а потім Хвенько.</stage>
           <sp who="#panko">
             <speaker>Панько</speaker>
             <stage>(замислившись, співа).</stage>
@@ -1777,7 +1777,7 @@
           </sp>
           <stage>Коло третьої ятки.</stage>
           <sp who="#khajka">
-            <speaker>Xайка</speaker>
+            <speaker>Хайка</speaker>
             <p>Ах, як тобі слічно в цих кульчиках… Ой, ой, ой! Краля, правдива краля! Усі хлопці губи кусатимуть… Цц!!. цц!.. цц!!!</p>
           </sp>
           <sp who="#divchyna_2-a">
@@ -1785,7 +1785,7 @@
             <p>А що коштують?</p>
           </sp>
           <sp who="#khajka">
-            <speaker>Xайка</speaker>
+            <speaker>Хайка</speaker>
             <p>Двадцять шагів.</p>
           </sp>
           <sp who="#divchyna_2-a">
@@ -2125,7 +2125,7 @@
           </sp>
           <sp who="#khivrja">
             <speaker>Хівря</speaker>
-            <p>Xi? Ото чухатиметься…</p>
+            <p>Хi? Ото чухатиметься…</p>
           </sp>
           <sp who="#afanasij_ivanovych">
             <speaker>Афанасій Іванович</speaker>
@@ -3800,7 +3800,7 @@
             <l>Поки не зламає!</l>
           </sp>
           <sp who="#khivrja">
-            <speaker>Xiвря</speaker>
+            <speaker>Хiвря</speaker>
             <p>От, голосить почала! Ще люде збіжаться!</p>
           </sp>
           <sp who="#afanasij_ivanovych">
@@ -4560,7 +4560,7 @@
             <p>А хламида ця? При всіх виявлю!</p>
           </sp>
           <sp who="#khivrja">
-            <speaker>Xівря</speaker>
+            <speaker>Хівря</speaker>
             <p>Ой не видержу! Пустіть, хоч натовчу чоловіка!</p>
           </sp>
           <sp who="#cherevyk">
@@ -4684,7 +4684,7 @@
           </sp>
           <stage>Жиди пішли весело.</stage>
           <sp who="#khivrja">
-            <speaker>Xівря</speaker>
+            <speaker>Хівря</speaker>
             <p>Добрий парубок!</p>
           </sp>
           <sp who="#cherevyk">

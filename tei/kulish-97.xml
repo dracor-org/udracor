@@ -134,7 +134,7 @@
           <personGrp xml:id="z_natovpu_holosy">
             <persName>З натовпу голоси</persName>
           </personGrp>
-          <personGrp xml:id="monaški">
+          <personGrp xml:id="monashky">
             <persName>Монашки</persName>
           </personGrp>
           <person xml:id="holos_act_4_scene_4">
@@ -3327,7 +3327,7 @@
               Юхиме, ви ж найстаріша в слобідці нашій людина... благаємо — поставте чашу і хрест,
               покладіть на божий трон!.. Не знущайтеся!..</p>
           </sp>
-          <sp who="#monaški">
+          <sp who="#monashky">
             <speaker>Монашки</speaker>
             <stage>(як пні вклонилися).</stage>
             <p>Молимо вас, православні... Благащим просимо словом...</p>
@@ -3457,7 +3457,7 @@
             <speaker>Копистка.</speaker>
             <p>Що?</p>
           </sp>
-          <sp who="#hodovanyj #did_z_tsipkom #monaški">
+          <sp who="#hodovanyj #did_z_tsipkom #monashky">
             <speaker>Годований, дід з ціпк ом, монашки:</speaker>
             <p>— Комісарам зуби!</p>
             <p>— Каблучки!</p>

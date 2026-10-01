@@ -68,7 +68,7 @@
           <person xml:id="majster_1-j" sex="MALE">
             <persName>1-й майстер</persName>
           </person>
-          <person xml:id="shvachka" sex="MALE">
+          <person xml:id="shvachka" sex="FEMALE">
             <persName>Швачка</persName>
           </person>
           <person xml:id="robitnik_5-j" sex="MALE">
@@ -83,7 +83,7 @@
           <person xml:id="printsesa" sex="FEMALE">
             <persName>Принцеса</persName>
           </person>
-          <person xml:id="sluzhebka" sex="MALE">
+          <person xml:id="sluzhebka" sex="FEMALE">
             <persName>Служебка</persName>
           </person>
           <person xml:id="pastuh" sex="MALE">
