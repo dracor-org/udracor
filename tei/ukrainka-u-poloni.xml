@@ -119,7 +119,7 @@
           <person xml:id="did" sex="MALE">
             <persName>Дід</persName>
           </person>
-          <person xml:id="ditinka" sex="MALE">
+          <person xml:id="ditinka" sex="UNKNOWN">
             <persName>Дитинка</persName>
           </person>
           <person xml:id="mati_ditini" sex="FEMALE">

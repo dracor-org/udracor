@@ -74,15 +74,13 @@
           <person xml:id="ljutsilla" sex="FEMALE">
             <persName>Люцілла</persName>
           </person>
-          <person xml:id="golos_za_bramoju">
+          <person xml:id="golos_za_bramoju" sex="MALE">
             <persName>Голос за брамою</persName>
           </person>
           <person xml:id="ardent" sex="MALE">
             <persName>Ардент</persName>
+            <persName type="variant">Скілька голосів</persName>
           </person>
-          <personGrp xml:id="skilka_golosiv" sex="UNKNOWN">
-            <name>Скілька голосів</name>
-          </personGrp>
           <person xml:id="odin_grubij_golos" sex="UNKNOWN">
             <persName>Один грубий голос</persName>
           </person>
@@ -2443,7 +2441,7 @@
           <stage>(ще на ході)</stage>
           <l>Хто там?</l>
         </sp>
-        <sp who="#golos_za_bramoju">
+        <sp who="#ardent">
           <speaker>Голос за брамою</speaker>
           <l>Се я – Ардент… сховай мене!</l>
         </sp>

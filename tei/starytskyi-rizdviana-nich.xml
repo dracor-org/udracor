@@ -197,7 +197,7 @@
           <person xml:id="marusja_j_odarka" sex="FEMALE">
             <persName>Маруся й Одарка</persName>
           </person>
-          <person xml:id="parubky_i_divchata" sex="FEMALE">
+          <person xml:id="parubky_i_divchata" sex="UNKNOWN">
             <persName>Парубки і дівчата</persName>
           </person>
         </listPerson>

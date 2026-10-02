@@ -71,7 +71,7 @@
           <person xml:id="servilija" sex="FEMALE">
             <persName>Сервілія</persName>
           </person>
-          <person xml:id="krusta" sex="FEMALE">
+          <person xml:id="krusta" sex="MALE">
             <persName>Круста</persName>
           </person>
           <personGrp xml:id="golosi_za_hvirtkoju" sex="UNKNOWN">
@@ -146,7 +146,7 @@
           <personGrp xml:id="golosi_z_gromadi" sex="MALE">
             <name>Голоси з громади</name>
           </personGrp>
-          <person xml:id="nofretis" sex="MALE">
+          <person xml:id="nofretis" sex="FEMALE">
             <persName>Нофретіс</persName>
           </person>
           <person xml:id="vartovij_1-j" sex="MALE">
@@ -365,7 +365,7 @@
           <person xml:id="bagatij_kramar" sex="MALE">
             <persName>Багатий крамар</persName>
           </person>
-          <person xml:id="hlopja" sex="FEMALE">
+          <person xml:id="hlopja" sex="MALE">
             <persName>Хлоп’я</persName>
           </person>
           <person xml:id="babusja" sex="FEMALE">

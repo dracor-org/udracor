@@ -47,34 +47,34 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="amfion">
+          <person xml:id="amfion" sex="MALE">
             <persName>Амфіон</persName>
             <idno type="wikidata">Q242835</idno>
           </person>
-          <person xml:id="orfej">
+          <person xml:id="orfej" sex="MALE">
             <persName>Орфей</persName>
             <idno type="wikidata">Q174353</idno>
           </person>
-          <person xml:id="zet">
+          <person xml:id="zet" sex="MALE">
             <persName>Зет</persName>
             <idno type="wikidata">Q196865</idno>
           </person>
-          <person xml:id="pershij">
+          <person xml:id="pershij" sex="MALE">
             <persName>Перший чоловік</persName>
           </person>
-          <person xml:id="drugij">
+          <person xml:id="drugij" sex="MALE">
             <persName>Другий</persName>
           </person>
-          <person xml:id="tretij">
+          <person xml:id="tretij" sex="MALE">
             <persName>Третій</persName>
           </person>
-          <person xml:id="chetvertij">
+          <person xml:id="chetvertij" sex="MALE">
             <persName>Четвертий</persName>
           </person>
-          <person xml:id="pjatij">
+          <person xml:id="pjatij" sex="MALE">
             <persName>П’ятий</persName>
           </person>
-          <person xml:id="shostij">
+          <person xml:id="shostij" sex="MALE">
             <persName>Шостий</persName>
           </person>
         </listPerson>
