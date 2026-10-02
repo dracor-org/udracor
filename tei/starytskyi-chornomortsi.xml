@@ -53,54 +53,54 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="ilko" sex="MALE">
-            <persName>Ілько</persName>
-          </person>
-          <person xml:id="tsvirkunka" sex="FEMALE">
-            <persName>Цвіркунка</persName>
-          </person>
-          <person xml:id="ivan" sex="MALE">
-            <persName>Іван</persName>
+          <person xml:id="marusja" sex="FEMALE">
+            <persName>Маруся</persName>
           </person>
           <person xml:id="natalka" sex="FEMALE">
             <persName>Наталка</persName>
           </person>
-          <person xml:id="ochkurnja" sex="MALE">
-            <persName>Очкурня</persName>
+          <person xml:id="holos" sex="UNKNOWN">
+            <persName>Голос</persName>
+          </person>
+          <person xml:id="ivan" sex="MALE">
+            <persName>Іван</persName>
           </person>
           <person xml:id="tupytsja" sex="MALE">
             <persName>Тупиця</persName>
           </person>
+          <person xml:id="ilko" sex="MALE">
+            <persName>Ілько</persName>
+          </person>
           <personGrp xml:id="kozaky" sex="MALE">
             <name>Козаки</name>
           </personGrp>
-          <person xml:id="kabytsja" sex="MALE">
-            <persName>Кабиця</persName>
-          </person>
           <person xml:id="yivha" sex="FEMALE">
             <persName>Ївга</persName>
           </person>
-          <person xml:id="javdokha" sex="FEMALE">
-            <persName>Явдоха</persName>
+          <person xml:id="kabytsja" sex="MALE">
+            <persName>Кабиця</persName>
           </person>
-          <personGrp xml:id="khloptsi" sex="MALE">
-            <name>Хлопці</name>
-          </personGrp>
-          <personGrp xml:id="divchata" sex="FEMALE">
-            <name>Дівчата</name>
-          </personGrp>
-          <person xml:id="holos" sex="UNKNOWN">
-            <persName>Голос</persName>
-          </person>
-          <person xml:id="tsvirkun" sex="MALE">
-            <persName>Цвіркун</persName>
-          </person>
-          <person xml:id="marusja" sex="FEMALE">
-            <persName>Маруся</persName>
+          <person xml:id="ochkurnja" sex="MALE">
+            <persName>Очкурня</persName>
           </person>
           <person xml:id="kulyna" sex="FEMALE">
             <persName>Кулина</persName>
           </person>
+          <person xml:id="javdokha" sex="FEMALE">
+            <persName>Явдоха</persName>
+          </person>
+          <person xml:id="tsvirkun" sex="MALE">
+            <persName>Цвіркун</persName>
+          </person>
+          <personGrp xml:id="divchata" sex="FEMALE">
+            <name>Дівчата</name>
+          </personGrp>
+          <person xml:id="tsvirkunka" sex="FEMALE">
+            <persName>Цвіркунка</persName>
+          </person>
+          <personGrp xml:id="khloptsi" sex="MALE">
+            <name>Хлопці</name>
+          </personGrp>
         </listPerson>
       </particDesc>
     </profileDesc>

@@ -56,6 +56,9 @@
           <person xml:id="strofa" sex="FEMALE">
             <name>Строфа</name>
           </person>
+          <person xml:id="antistrofa" sex="FEMALE">
+            <name>Антистрофа</name>
+          </person>
           <person xml:id="ifigenija" sex="FEMALE">
             <persName>Іфігенія</persName>
             <idno type="wikidata">Q192673</idno>
@@ -63,9 +66,6 @@
           <personGrp xml:id="hor_divchat" sex="FEMALE">
             <name>Хор дівчат</name>
           </personGrp>
-          <person xml:id="antistrofa" sex="FEMALE">
-            <name>Антистрофа</name>
-          </person>
         </listPerson>
       </particDesc>
     </profileDesc>

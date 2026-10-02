@@ -53,23 +53,23 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="ljubov" sex="FEMALE">
-            <persName>Любов</persName>
-          </person>
-          <person xml:id="divchinka" sex="FEMALE">
-            <persName>Дівчинка</persName>
-          </person>
-          <person xml:id="nadezhda_petrivna" sex="FEMALE">
-            <persName>Надежда Петрівна</persName>
-          </person>
-          <person xml:id="pannochka_1-sha" sex="FEMALE">
-            <persName>1-ша панночка</persName>
-          </person>
-          <person xml:id="ostrozhin" sex="MALE">
-            <persName>Острожин</persName>
+          <person xml:id="olimpiada_ivanivna" sex="FEMALE">
+            <persName>Олімпіада Іванівна</persName>
           </person>
           <person xml:id="gruicheva" sex="FEMALE">
             <persName>Груїчева</persName>
+          </person>
+          <person xml:id="ljubov" sex="FEMALE">
+            <persName>Любов</persName>
+          </person>
+          <person xml:id="orest" sex="MALE">
+            <persName>Орест</persName>
+          </person>
+          <person xml:id="milevskij" sex="MALE">
+            <persName>Милевський</persName>
+          </person>
+          <person xml:id="ostrozhin" sex="MALE">
+            <persName>Острожин</persName>
           </person>
           <person xml:id="sanja" sex="FEMALE">
             <persName>Саня</persName>
@@ -77,29 +77,29 @@
           <person xml:id="kritskij" sex="MALE">
             <persName>Крицький</persName>
           </person>
-          <person xml:id="pannochka_2-ga" sex="FEMALE">
-            <persName>2-га панночка</persName>
+          <person xml:id="hlopchik" sex="MALE">
+            <persName>Хлопчик</persName>
           </person>
-          <person xml:id="orest" sex="MALE">
-            <persName>Орест</persName>
-          </person>
-          <person xml:id="olimpiada_ivanivna" sex="FEMALE">
-            <persName>Олімпіада Іванівна</persName>
+          <person xml:id="divchinka" sex="FEMALE">
+            <persName>Дівчинка</persName>
           </person>
           <person xml:id="likar" sex="MALE">
             <persName>Лікар</persName>
           </person>
-          <person xml:id="milevskij" sex="MALE">
-            <persName>Милевський</persName>
+          <person xml:id="pannochka_1-sha" sex="FEMALE">
+            <persName>1-ша панночка</persName>
           </person>
-          <person xml:id="hlopchik" sex="MALE">
-            <persName>Хлопчик</persName>
+          <person xml:id="pannochka_2-ga" sex="FEMALE">
+            <persName>2-га панночка</persName>
           </person>
           <person xml:id="mati" sex="FEMALE">
             <persName>Мати</persName>
           </person>
           <person xml:id="psihiatr" sex="MALE">
             <persName>Психіатр</persName>
+          </person>
+          <person xml:id="nadezhda_petrivna" sex="FEMALE">
+            <persName>Надежда Петрівна</persName>
           </person>
         </listPerson>
       </particDesc>

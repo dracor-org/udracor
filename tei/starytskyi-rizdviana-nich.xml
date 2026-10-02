@@ -53,152 +53,152 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="patsjuk" sex="MALE">
-            <persName>Пацюк</persName>
-          </person>
-          <person xml:id="odarka" sex="FEMALE">
-            <persName>Одарка</persName>
-          </person>
-          <person xml:id="parubok_2-j" sex="MALE">
-            <persName>2-й парубок</persName>
-          </person>
-          <person xml:id="djak" sex="MALE">
-            <persName>Дяк</persName>
-          </person>
-          <person xml:id="parubok_1-j" sex="MALE">
-            <persName>1-й парубок</persName>
-          </person>
-          <personGrp xml:id="druhi_divchata_act_one_scene_nine" sex="FEMALE">
-            <name>Другі дівчата</name>
-          </personGrp>
-          <personGrp xml:id="druhi_divchata_act_one_scene_thirteen" sex="FEMALE">
-            <name>Другі дівчата</name>
-          </personGrp>
-          <personGrp xml:id="druhi_divchata_act_four_scene_three" sex="FEMALE">
-            <name>Другі дівчата</name>
-          </personGrp>
-          <person xml:id="katrja" sex="FEMALE">
-            <persName>Катря</persName>
-          </person>
-          <person xml:id="vakula" sex="MALE">
-            <persName>Вакула</persName>
-          </person>
-          <person xml:id="tymish" sex="MALE">
-            <persName>Тиміш</persName>
-          </person>
-          <person xml:id="shportunykha" sex="FEMALE">
-            <persName>Шпортуниха</persName>
-          </person>
           <person xml:id="chub" sex="MALE">
             <persName>Чуб</persName>
           </person>
           <person xml:id="holova" sex="MALE">
             <persName>Голова</persName>
           </person>
-          <person xml:id="divchata_odni_act_one_scene_twelve" sex="FEMALE">
-            <persName>Дівчата одні</persName>
+          <person xml:id="oksana" sex="FEMALE">
+            <persName>Оксана</persName>
           </person>
-          <person xml:id="hrytsko" sex="MALE">
-            <persName>Грицько</persName>
+          <person xml:id="vakula" sex="MALE">
+            <persName>Вакула</persName>
           </person>
-          <personGrp xml:id="dejaki_khloptsi_act_one_scene_eleven" sex="MALE">
-            <name>Деякі хлопці</name>
+          <personGrp xml:id="holosy_act_one_scene_seven" sex="UNKNOWN">
+            <name>Голоси</name>
+          </personGrp>
+          <person xml:id="divchata" sex="FEMALE">
+            <persName>Дівчата</persName>
+          </person>
+          <personGrp xml:id="dejaki_act_one_scene_eight" sex="UNKNOWN">
+            <name>Деякі</name>
+          </personGrp>
+          <personGrp xml:id="druhi_act_one_scene_eight" sex="UNKNOWN">
+            <name>Другі</name>
           </personGrp>
           <person xml:id="yivha" sex="FEMALE">
             <persName>Ївга</persName>
           </person>
-          <personGrp xml:id="khloptsi" sex="MALE">
-            <name>Хлопці</name>
-          </personGrp>
+          <person xml:id="odarka" sex="FEMALE">
+            <persName>Одарка</persName>
+          </person>
+          <person xml:id="marusja" sex="FEMALE">
+            <persName>Маруся</persName>
+          </person>
+          <person xml:id="katrja" sex="FEMALE">
+            <persName>Катря</persName>
+          </person>
           <person xml:id="divchyna_1-a" sex="FEMALE">
             <persName>1-а дівчина</persName>
-          </person>
-          <personGrp xml:id="parubky" sex="MALE">
-            <name>Парубки</name>
-          </personGrp>
-          <person xml:id="solokha" sex="FEMALE">
-            <persName>Солоха</persName>
-          </person>
-          <person xml:id="divchata" sex="FEMALE">
-            <persName>Дівчата</persName>
           </person>
           <person xml:id="divchyna_2-a" sex="FEMALE">
             <persName>2-а дівчина</persName>
           </person>
+          <personGrp xml:id="druhi_divchata_act_one_scene_nine" sex="FEMALE">
+            <name>Другі дівчата</name>
+          </personGrp>
+          <personGrp xml:id="dejaki_act_one_scene_nine" sex="UNKNOWN">
+            <name>Деякі</name>
+          </personGrp>
+          <personGrp xml:id="khloptsi" sex="MALE">
+            <name>Хлопці</name>
+          </personGrp>
+          <person xml:id="mikhonosha" sex="FEMALE">
+            <persName>Міхоноша</persName>
+          </person>
+          <personGrp xml:id="dejaki_act_one_scene_eleven" sex="UNKNOWN">
+            <name>Деякі</name>
+          </personGrp>
+          <personGrp xml:id="parubky" sex="MALE">
+            <name>Парубки</name>
+          </personGrp>
+          <personGrp xml:id="dejaki_khloptsi_act_one_scene_eleven" sex="MALE">
+            <name>Деякі хлопці</name>
+          </personGrp>
+          <personGrp xml:id="druhi_z_zvizdoju" sex="UNKNOWN">
+            <name>Другі з звіздою</name>
+          </personGrp>
+          <person xml:id="hrytsko" sex="MALE">
+            <persName>Грицько</persName>
+          </person>
+          <person xml:id="divchata_odni_act_one_scene_twelve" sex="FEMALE">
+            <persName>Дівчата одні</persName>
+          </person>
+          <personGrp xml:id="divchata_druhi_act_one_scene_twelve" sex="FEMALE">
+            <name>Дівчата другі</name>
+          </personGrp>
+          <personGrp xml:id="dejaki_parubky_act_one_scene_twelve" sex="MALE">
+            <name>Деякі парубки</name>
+          </personGrp>
+          <person xml:id="parubok_1-j" sex="MALE">
+            <persName>1-й парубок</persName>
+          </person>
+          <person xml:id="parubok_2-j" sex="MALE">
+            <persName>2-й парубок</persName>
+          </person>
+          <personGrp xml:id="druhi_divchata_act_one_scene_thirteen" sex="FEMALE">
+            <name>Другі дівчата</name>
+          </personGrp>
+          <person xml:id="tymish" sex="MALE">
+            <persName>Тиміш</persName>
+          </person>
+          <personGrp xml:id="divchata_dejaki_act_one_scene_fourteen" sex="FEMALE">
+            <name>Дівчата деякі</name>
+          </personGrp>
+          <personGrp xml:id="holosy_act_one_scene_fifteen" sex="UNKNOWN">
+            <name>Голоси</name>
+          </personGrp>
+          <personGrp xml:id="druhi_act_one_scene_fifteen" sex="UNKNOWN">
+            <name>Другі</name>
+          </personGrp>
+          <personGrp xml:id="dejaki_act_one_scene_sixteen" sex="UNKNOWN">
+            <name>Деякі</name>
+          </personGrp>
+          <person xml:id="solokha" sex="FEMALE">
+            <persName>Солоха</persName>
+          </person>
+          <person xml:id="djak" sex="MALE">
+            <persName>Дяк</persName>
+          </person>
+          <person xml:id="holos_za_dveryma" sex="UNKNOWN">
+            <persName>Голос за дверима</persName>
+          </person>
+          <person xml:id="holos" sex="UNKNOWN">
+            <persName>Голос</persName>
+          </person>
+          <personGrp xml:id="khor" sex="UNKNOWN">
+            <name>Хор</name>
+          </personGrp>
+          <personGrp xml:id="dejaki_act_two_scene_ten" sex="UNKNOWN">
+            <name>Деякі</name>
+          </personGrp>
+          <person xml:id="odarka_i_oksana" sex="FEMALE">
+            <persName>Одарка і Оксана</persName>
+          </person>
+          <person xml:id="tkachykha" sex="FEMALE">
+            <persName>Ткачиха</persName>
+          </person>
+          <person xml:id="shportunykha" sex="FEMALE">
+            <persName>Шпортуниха</persName>
+          </person>
+          <personGrp xml:id="dejaki_divchata_act_two_scene_thirteen" sex="FEMALE">
+            <name>Деякі дівчата</name>
+          </personGrp>
+          <person xml:id="patsjuk" sex="MALE">
+            <persName>Пацюк</persName>
+          </person>
+          <personGrp xml:id="druhi_divchata_act_four_scene_three" sex="FEMALE">
+            <name>Другі дівчата</name>
+          </personGrp>
+          <personGrp xml:id="dejaki_act_four_scene_four" sex="UNKNOWN">
+            <name>Деякі</name>
+          </personGrp>
           <person xml:id="marusja_j_odarka" sex="FEMALE">
             <persName>Маруся й Одарка</persName>
           </person>
           <person xml:id="parubky_i_divchata" sex="FEMALE">
             <persName>Парубки і дівчата</persName>
-          </person>
-          <person xml:id="odarka_i_oksana" sex="FEMALE">
-            <persName>Одарка і Оксана</persName>
-          </person>
-          <person xml:id="holos" sex="UNKNOWN">
-            <persName>Голос</persName>
-          </person>
-          <personGrp xml:id="dejaki_act_one_scene_eight" sex="UNKNOWN">
-            <name>Деякі</name>
-          </personGrp>
-          <personGrp xml:id="dejaki_act_one_scene_nine" sex="UNKNOWN">
-            <name>Деякі</name>
-          </personGrp>
-          <personGrp xml:id="dejaki_act_one_scene_eleven" sex="UNKNOWN">
-            <name>Деякі</name>
-          </personGrp>
-          <personGrp xml:id="dejaki_act_one_scene_sixteen" sex="UNKNOWN">
-            <name>Деякі</name>
-          </personGrp>
-          <personGrp xml:id="dejaki_act_two_scene_ten" sex="UNKNOWN">
-            <name>Деякі</name>
-          </personGrp>
-          <personGrp xml:id="dejaki_act_four_scene_four" sex="UNKNOWN">
-            <name>Деякі</name>
-          </personGrp>
-          <person xml:id="holos_za_dveryma" sex="UNKNOWN">
-            <persName>Голос за дверима</persName>
-          </person>
-          <personGrp xml:id="khor" sex="UNKNOWN">
-            <name>Хор</name>
-          </personGrp>
-          <personGrp xml:id="divchata_druhi_act_one_scene_twelve" sex="FEMALE">
-            <name>Дівчата другі</name>
-          </personGrp>
-          <person xml:id="oksana" sex="FEMALE">
-            <persName>Оксана</persName>
-          </person>
-          <personGrp xml:id="druhi_z_zvizdoju" sex="UNKNOWN">
-            <name>Другі з звіздою</name>
-          </personGrp>
-          <person xml:id="mikhonosha" sex="FEMALE">
-            <persName>Міхоноша</persName>
-          </person>
-          <personGrp xml:id="holosy_act_one_scene_seven" sex="UNKNOWN">
-            <name>Голоси</name>
-          </personGrp>
-          <personGrp xml:id="holosy_act_one_scene_fifteen" sex="UNKNOWN">
-            <name>Голоси</name>
-          </personGrp>
-          <person xml:id="marusja" sex="FEMALE">
-            <persName>Маруся</persName>
-          </person>
-          <personGrp xml:id="dejaki_divchata_act_two_scene_thirteen" sex="FEMALE">
-            <name>Деякі дівчата</name>
-          </personGrp>
-          <personGrp xml:id="dejaki_parubky_act_one_scene_twelve" sex="MALE">
-            <name>Деякі парубки</name>
-          </personGrp>
-          <personGrp xml:id="divchata_dejaki_act_one_scene_fourteen" sex="FEMALE">
-            <name>Дівчата деякі</name>
-          </personGrp>
-          <personGrp xml:id="druhi_act_one_scene_eight" sex="UNKNOWN">
-            <name>Другі</name>
-          </personGrp>
-          <personGrp xml:id="druhi_act_one_scene_fifteen" sex="UNKNOWN">
-            <name>Другі</name>
-          </personGrp>
-          <person xml:id="tkachykha" sex="FEMALE">
-            <persName>Ткачиха</persName>
           </person>
         </listPerson>
       </particDesc>

@@ -51,23 +51,23 @@
             <persName>Хуса</persName>
             <idno type="wikidata">Q106079959</idno>
           </person>
-          <person xml:id="melhola" sex="FEMALE">
-            <persName>Мелхола</persName>
-          </person>
-          <person xml:id="rab" sex="MALE">
-            <persName>Раб</persName>
-          </person>
-          <person xml:id="martsija" sex="FEMALE">
-            <persName>Марція</persName>
-          </person>
-          <person xml:id="skorohod_gabal" sex="MALE">
-            <persName>Скороход Габал</persName>
-          </person>
           <person xml:id="upravitel" sex="MALE">
             <persName>Управитель</persName>
           </person>
           <person xml:id="kravchij" sex="MALE">
             <persName>Кравчий</persName>
+          </person>
+          <person xml:id="vinocherpets" sex="MALE">
+            <persName>Виночерпець</persName>
+          </person>
+          <person xml:id="melhola" sex="FEMALE">
+            <persName>Мелхола</persName>
+          </person>
+          <person xml:id="sabina" sex="FEMALE">
+            <persName>Сабіна</persName>
+          </person>
+          <person xml:id="rab" sex="MALE">
+            <persName>Раб</persName>
           </person>
           <person xml:id="joganna" sex="FEMALE">
             <persName>Йоганна</persName>
@@ -76,11 +76,11 @@
           <person xml:id="publij" sex="MALE">
             <persName>Публій</persName>
           </person>
-          <person xml:id="vinocherpets" sex="MALE">
-            <persName>Виночерпець</persName>
+          <person xml:id="skorohod_gabal" sex="MALE">
+            <persName>Скороход Габал</persName>
           </person>
-          <person xml:id="sabina" sex="FEMALE">
-            <persName>Сабіна</persName>
+          <person xml:id="martsija" sex="FEMALE">
+            <persName>Марція</persName>
           </person>
         </listPerson>
       </particDesc>

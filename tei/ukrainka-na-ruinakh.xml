@@ -76,9 +76,15 @@
           <person xml:id="rybalka" sex="MALE">
             <persName>Рибалка</persName>
           </person>
+          <personGrp xml:id="iudeyi" sex="MALE">
+            <name>Іудеї</name>
+          </personGrp>
           <person xml:id="prorok_samariyskyi" sex="MALE">
             <persName>Пророк самарійський</persName>
           </person>
+          <personGrp xml:id="samaryany" sex="MALE">
+            <name>Самаряни</name>
+          </personGrp>
           <person xml:id="levit" sex="MALE">
             <persName>Левіт</persName>
           </person>
@@ -88,12 +94,6 @@
           <person xml:id="samarianyn_molodyi" sex="MALE">
             <persName>Другий самарянин</persName>
           </person>          
-          <personGrp xml:id="samaryany" sex="MALE">
-            <name>Самаряни</name>
-          </personGrp>
-          <personGrp xml:id="iudeyi" sex="MALE">
-            <name>Іудеї</name>
-          </personGrp>
           <person xml:id="staryi_iudeianyn" sex="MALE">
             <persName>Старий іудеянин</persName>
           </person>

@@ -152,11 +152,11 @@
             <persName>Паріс</persName>
             <idno type="wikidata">Q167646</idno>
           </person>
-          <person xml:id="kitarist" sex="MALE">
-            <persName>Кітарист</persName>
-          </person>
           <person xml:id="vartovij_5-j" sex="MALE">
             <persName>5-й вартовий</persName>
+          </person>
+          <person xml:id="kitarist" sex="MALE">
+            <persName>Кітарист</persName>
           </person>
           <person xml:id="flejtist" sex="MALE">
             <persName>Флейтист</persName>

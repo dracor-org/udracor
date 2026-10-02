@@ -87,11 +87,11 @@
           <person xml:id="druhyj_posluhach" sex="MALE">
             <persName>Другий послугач</persName>
           </person>
-          <person xml:id="anhlichanyn" sex="MALE">
-            <persName>Англічанин</persName>
-          </person>
           <person xml:id="ivan" sex="MALE">
             <persName>Іван</persName>
+          </person>
+          <person xml:id="anhlichanyn" sex="MALE">
+            <persName>Англічанин</persName>
           </person>
         </listPerson>
       </particDesc>

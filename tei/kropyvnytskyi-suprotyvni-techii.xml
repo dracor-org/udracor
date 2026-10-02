@@ -44,47 +44,20 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="kvasolykha" sex="FEMALE">
-            <persName>Квасолиха</persName>
+          <person xml:id="nadezhda" sex="FEMALE">
+            <persName>Надежда</persName>
           </person>
-          <person xml:id="demyd" sex="MALE">
-            <persName>Демид</persName>
+          <person xml:id="havrylo" sex="MALE">
+            <persName>Гаврило</persName>
           </person>
-          <person xml:id="teklja" sex="FEMALE">
-            <persName>Текля</persName>
-          </person>
-          <person xml:id="pysar" sex="MALE">
-            <persName>Писар</persName>
-          </person>
-          <person xml:id="vasylyna" sex="FEMALE">
-            <persName>Василина</persName>
+          <person xml:id="andrij" sex="MALE">
+            <persName>Андрій</persName>
           </person>
           <person xml:id="lohvyn" sex="MALE">
             <persName>Логвин</persName>
           </person>
-          <person xml:id="divchyna" sex="FEMALE">
-            <persName>Дівчина</persName>
-          </person>
-          <person xml:id="iz_narodu_1-j" sex="MALE">
-            <persName>1-й із народу</persName>
-          </person>
-          <person xml:id="odyn_z_narodu" sex="MALE">
-            <persName>Один з народу</persName>
-          </person>
-          <person xml:id="mykyshka" sex="MALE">
-            <persName>Микишка</persName>
-          </person>
-          <person xml:id="iz_narodu_2-j" sex="MALE">
-            <persName>2-й із народу</persName>
-          </person>
-          <person xml:id="fedir" sex="MALE">
-            <persName>Федір</persName>
-          </person>
-          <person xml:id="iz_narodu_3-j" sex="MALE">
-            <persName>3-й із народу</persName>
-          </person>
-          <person xml:id="andrij" sex="MALE">
-            <persName>Андрій</persName>
+          <person xml:id="tymish" sex="MALE">
+            <persName>Тиміш</persName>
           </person>
           <person xml:id="solokha" sex="FEMALE">
             <persName>Солоха</persName>
@@ -92,14 +65,26 @@
           <person xml:id="prokhor" sex="MALE">
             <persName>Прохор</persName>
           </person>
-          <person xml:id="havrylo" sex="MALE">
-            <persName>Гаврило</persName>
+          <person xml:id="vasylyna" sex="FEMALE">
+            <persName>Василина</persName>
           </person>
-          <person xml:id="olha" sex="FEMALE">
-            <persName>Ольга</persName>
+          <person xml:id="fedir" sex="MALE">
+            <persName>Федір</persName>
           </person>
-          <person xml:id="tymish" sex="MALE">
-            <persName>Тиміш</persName>
+          <person xml:id="kvasolykha" sex="FEMALE">
+            <persName>Квасолиха</persName>
+          </person>
+          <person xml:id="demyd" sex="MALE">
+            <persName>Демид</persName>
+          </person>
+          <person xml:id="mykyshka" sex="MALE">
+            <persName>Микишка</persName>
+          </person>
+          <person xml:id="teklja" sex="FEMALE">
+            <persName>Текля</persName>
+          </person>
+          <person xml:id="divchyna" sex="FEMALE">
+            <persName>Дівчина</persName>
           </person>
           <person xml:id="khlopchyk" sex="MALE">
             <persName>Хлопчик</persName>
@@ -107,18 +92,33 @@
           <person xml:id="mykola" sex="FEMALE">
             <persName>Микола</persName>
           </person>
-          <person xml:id="nadezhda" sex="FEMALE">
-            <persName>Надежда</persName>
+          <personGrp xml:id="narod" sex="UNKNOWN">
+            <name>Народ</name>
+          </personGrp>
+          <person xml:id="odyn_z_narodu" sex="MALE">
+            <persName>Один з народу</persName>
           </person>
-          <person xml:id="dekhto" sex="MALE">
-            <persName>Дехто</persName>
+          <person xml:id="iz_narodu_1-j" sex="MALE">
+            <persName>1-й із народу</persName>
+          </person>
+          <person xml:id="iz_narodu_2-j" sex="MALE">
+            <persName>2-й із народу</persName>
+          </person>
+          <person xml:id="iz_narodu_3-j" sex="MALE">
+            <persName>3-й із народу</persName>
+          </person>
+          <person xml:id="pysar" sex="MALE">
+            <persName>Писар</persName>
           </person>
           <person xml:id="molodytsja" sex="FEMALE">
             <persName>Молодиця</persName>
           </person>
-          <personGrp xml:id="narod" sex="UNKNOWN">
-            <name>Народ</name>
-          </personGrp>
+          <person xml:id="olha" sex="FEMALE">
+            <persName>Ольга</persName>
+          </person>
+          <person xml:id="dekhto" sex="MALE">
+            <persName>Дехто</persName>
+          </person>
         </listPerson>
       </particDesc>
     </profileDesc>

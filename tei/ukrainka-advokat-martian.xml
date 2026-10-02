@@ -53,50 +53,50 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="avrelija" sex="FEMALE">
-            <persName>Аврелія</persName>
-          </person>
-          <person xml:id="tsenturion" sex="MALE">
-            <persName>Центуріон</persName>
-          </person>
           <person xml:id="martian" sex="MALE">
             <persName>Мартіан</persName>
-          </person>
-          <person xml:id="golos" sex="UNKNOWN">
-            <persName>Голос</persName>
           </person>
           <person xml:id="konstantsij" sex="MALE">
             <persName>Констанцій</persName>
           </person>
-          <person xml:id="izogen" sex="MALE">
-            <persName>Ізоген</persName>
-          </person>
-          <person xml:id="ljutsilla" sex="FEMALE">
-            <persName>Люцілла</persName>
-          </person>
-          <person xml:id="odin_grubij_golos" sex="UNKNOWN">
-            <persName>Один грубий голос</persName>
-          </person>
-          <personGrp xml:id="skilka_golosiv" sex="UNKNOWN">
-            <name>Скілька голосів</name>
-          </personGrp>
-          <person xml:id="albina" sex="FEMALE">
-            <persName>Альбіна</persName>
-          </person>
-          <person xml:id="ardent" sex="MALE">
-            <persName>Ардент</persName>
+          <person xml:id="avrelija" sex="FEMALE">
+            <persName>Аврелія</persName>
           </person>
           <person xml:id="valent" sex="MALE">
             <persName>Валент</persName>
           </person>
+          <person xml:id="izogen" sex="MALE">
+            <persName>Ізоген</persName>
+          </person>
+          <person xml:id="albina" sex="FEMALE">
+            <persName>Альбіна</persName>
+          </person>
+          <person xml:id="ljutsilla" sex="FEMALE">
+            <persName>Люцілла</persName>
+          </person>
           <person xml:id="golos_za_bramoju">
             <persName>Голос за брамою</persName>
           </person>
-          <person xml:id="odin_vigil" sex="UNKNOWN">
-            <persName>Один вігіл</persName>
+          <person xml:id="ardent" sex="MALE">
+            <persName>Ардент</persName>
+          </person>
+          <personGrp xml:id="skilka_golosiv" sex="UNKNOWN">
+            <name>Скілька голосів</name>
+          </personGrp>
+          <person xml:id="odin_grubij_golos" sex="UNKNOWN">
+            <persName>Один грубий голос</persName>
+          </person>
+          <person xml:id="golos" sex="UNKNOWN">
+            <persName>Голос</persName>
+          </person>
+          <person xml:id="tsenturion" sex="MALE">
+            <persName>Центуріон</persName>
           </person>
           <person xml:id="dehto_z_storozhi" sex="UNKNOWN">
             <persName>Дехто з сторожі</persName>
+          </person>
+          <person xml:id="odin_vigil" sex="UNKNOWN">
+            <persName>Один вігіл</persName>
           </person>
         </listPerson>
       </particDesc>

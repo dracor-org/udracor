@@ -53,13 +53,13 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="mohammed" sex="MALE">
-            <persName>Мохаммед</persName>
-            <idno type="wikidata">Q9458</idno>
-          </person>
           <person xml:id="ajsha" sex="FEMALE">
             <persName>Айша</persName>
             <idno type="wikidata">Q4730963</idno>
+          </person>
+          <person xml:id="mohammed" sex="MALE">
+            <persName>Мохаммед</persName>
+            <idno type="wikidata">Q9458</idno>
           </person>
         </listPerson>
       </particDesc>

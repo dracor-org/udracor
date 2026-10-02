@@ -51,65 +51,65 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="rjabyna" sex="MALE">
-            <persName>Рябина</persName>
+          <person xml:id="bovt" sex="MALE">
+            <persName>Бовт</persName>
           </person>
           <person xml:id="perun" sex="MALE">
             <persName>Перун</persName>
           </person>
-          <person xml:id="kazydoroha" sex="MALE">
-            <persName>Казидорога</persName>
+          <person xml:id="odyn_cholovik" sex="MALE">
+            <persName>Один чоловік</persName>
           </person>
-          <person xml:id="feska" sex="FEMALE">
-            <persName>Феська</persName>
+          <person xml:id="druhyj_cholovik" sex="MALE">
+            <persName>Другий чоловік</persName>
           </person>
-          <person xml:id="bovt" sex="MALE">
-            <persName>Бовт</persName>
-          </person>
-          <person xml:id="komisar" sex="MALE">
-            <persName>Комісар</persName>
-          </person>
-          <person xml:id="matrona" sex="FEMALE">
-            <persName>Матрона</persName>
-          </person>
-          <personGrp xml:id="baby" sex="FEMALE">
-            <name>Баби</name>
-          </personGrp>
-          <personGrp xml:id="mnohi_choloviky" sex="UNKNOWN">
-            <name>Многі чоловіки</name>
-          </personGrp>
-          <personGrp xml:id="khor_ditej" sex="UNKNOWN">
-            <name>Хор дітей</name>
-          </personGrp>
           <person xml:id="tretij" sex="MALE">
             <persName>Третій</persName>
           </person>
-          <personGrp xml:id="hurt_ditej" sex="UNKNOWN">
-            <name>Гурт дітей</name>
-          </personGrp>
-          <personGrp xml:id="ljudy" sex="UNKNOWN">
-            <name>Люди</name>
-          </personGrp>
-          <personGrp xml:id="choloviky" sex="UNKNOWN">
-            <name>Чоловіки</name>
-          </personGrp>
-          <personGrp xml:id="hromada" sex="UNKNOWN">
-            <name>Громада</name>
-          </personGrp>
-          <personGrp xml:id="khor" sex="UNKNOWN">
-            <name>Хор</name>
-          </personGrp>
-          <person xml:id="druhyj_cholovik" sex="MALE">
-            <persName>Другий чоловік</persName>
+          <person xml:id="kazydoroha" sex="MALE">
+            <persName>Казидорога</persName>
           </person>
           <person xml:id="tretij_cholovik" sex="MALE">
             <persName>Третій чоловік</persName>
           </person>
+          <person xml:id="rjabyna" sex="MALE">
+            <persName>Рябина</persName>
+          </person>
+          <personGrp xml:id="hromada" sex="UNKNOWN">
+            <name>Громада</name>
+          </personGrp>
+          <person xml:id="matrona" sex="FEMALE">
+            <persName>Матрона</persName>
+          </person>
           <person xml:id="chetvertyj" sex="MALE">
             <persName>Четвертий</persName>
           </person>
-          <person xml:id="odyn_cholovik" sex="MALE">
-            <persName>Один чоловік</persName>
+          <person xml:id="feska" sex="FEMALE">
+            <persName>Феська</persName>
+          </person>
+          <personGrp xml:id="baby" sex="FEMALE">
+            <name>Баби</name>
+          </personGrp>
+          <personGrp xml:id="choloviky" sex="UNKNOWN">
+            <name>Чоловіки</name>
+          </personGrp>
+          <personGrp xml:id="mnohi_choloviky" sex="UNKNOWN">
+            <name>Многі чоловіки</name>
+          </personGrp>
+          <personGrp xml:id="hurt_ditej" sex="UNKNOWN">
+            <name>Гурт дітей</name>
+          </personGrp>
+          <personGrp xml:id="khor" sex="UNKNOWN">
+            <name>Хор</name>
+          </personGrp>
+          <personGrp xml:id="khor_ditej" sex="UNKNOWN">
+            <name>Хор дітей</name>
+          </personGrp>
+          <personGrp xml:id="ljudy" sex="UNKNOWN">
+            <name>Люди</name>
+          </personGrp>
+          <person xml:id="komisar" sex="MALE">
+            <persName>Комісар</persName>
           </person>
         </listPerson>
       </particDesc>

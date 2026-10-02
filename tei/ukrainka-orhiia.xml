@@ -50,8 +50,8 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="hilon" sex="MALE">
-            <persName>Хілон</persName>
+          <person xml:id="germiona" sex="FEMALE">
+            <persName>Герміона</persName>
           </person>
           <person xml:id="golos" sex="UNKNOWN">
             <persName>Голос</persName>
@@ -59,35 +59,35 @@
           <person xml:id="antej" sex="MALE">
             <persName>Антей</persName>
           </person>
-          <person xml:id="fedon" sex="MALE">
-            <persName>Федон</persName>
-          </person>
-          <person xml:id="germiona" sex="FEMALE">
-            <persName>Герміона</persName>
-          </person>
-          <personGrp xml:id="hor_panegiristiv" sex="UNKNOWN">
-            <name>Хор панегіристів</name>
-          </personGrp>
-          <person xml:id="prefekt" sex="MALE">
-            <persName>Префект</persName>
-          </person>
-          <person xml:id="atrienzij" sex="MALE">
-            <persName>Раб-атрієнзій</persName>
+          <person xml:id="hilon" sex="MALE">
+            <persName>Хілон</persName>
           </person>
           <person xml:id="evfrozina" sex="FEMALE">
             <persName>Евфрозіна</persName>
           </person>
-          <person xml:id="metsenat" sex="MALE">
-            <persName>Меценат</persName>
-          </person>
-          <person xml:id="golos_z_horu_panegiristiv" sex="UNKNOWN">
-            <persName>Голос з хору панегіристів</persName>
-          </person>
           <person xml:id="nerisa" sex="FEMALE">
             <persName>Неріса</persName>
           </person>
+          <person xml:id="fedon" sex="MALE">
+            <persName>Федон</persName>
+          </person>
+          <personGrp xml:id="hor_panegiristiv" sex="UNKNOWN">
+            <name>Хор панегіристів</name>
+          </personGrp>
+          <person xml:id="metsenat" sex="MALE">
+            <persName>Меценат</persName>
+          </person>
+          <person xml:id="prefekt" sex="MALE">
+            <persName>Префект</persName>
+          </person>
           <person xml:id="prokurator" sex="MALE">
             <persName>Прокуратор</persName>
+          </person>
+          <person xml:id="atrienzij" sex="MALE">
+            <persName>Раб-атрієнзій</persName>
+          </person>
+          <person xml:id="golos_z_horu_panegiristiv" sex="UNKNOWN">
+            <persName>Голос з хору панегіристів</persName>
           </person>
         </listPerson>
       </particDesc>

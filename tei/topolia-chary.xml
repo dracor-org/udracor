@@ -79,116 +79,116 @@
           <personGrp xml:id="rebyata_act_1"> 
             <name>Ребята (сцена 1)</name>
           </personGrp>
+          <person xml:id="liubka">
+            <persName>Любка</persName>
+          </person>
           <person xml:id="lopata">
             <persName>Лопата</persName>
-          </person>
-          <personGrp xml:id="molodej_scene_4"> 
-            <name>Молодежь (сцена 4)</name>
-          </personGrp>
-          <person xml:id="katria">
-            <persName>Катря</persName>
-          </person>
-          <person xml:id="petro">
-            <persName>Петро</persName>
-          </person>
-          <person xml:id="steha">
-            <persName>Стеха</persName>
-          </person>
-          <person xml:id="andrej">
-            <persName>Андрей</persName>
-          </person>
-          <person xml:id="nastia">
-            <persName>Настя</persName>
-          </person>
-          <personGrp xml:id="neskolko_golosov_act_2">
-            <name>Несколько голосов (сцена 2)</name>
-          </personGrp>
-          <person xml:id="semen">
-            <persName>Семен</persName>
-          </person>
-          <person xml:id="maliar">
-            <persName>Маляр</persName>
           </person>
           <person xml:id="koval">
             <persName>Коваль</persName>
           </person>
-          <person xml:id="pynchuk">
-            <persName>Пинчук</persName>
-          </person>
-          <person xml:id="ivan">
-            <persName>Иван</persName>
-          </person>
-          <person xml:id="lopatiha">
-            <persName>Лопатиха</persName>
-          </person>
-          <person xml:id="honcharykha">
-            <persName>Гончариха</persName>
-          </person>
-          <person xml:id="chuchelo">
-            <persName>Чучело</persName>
-          </person>
-          <person xml:id="makogoniha">
-            <persName>Макогониха</persName>
-          </person>
-          <person xml:id="zmiiha">
-            <persName>Змииха</persName>
-          </person>
-          <person xml:id="kugutka">
-            <persName>Кугутка</persName>
-          </person>
-          <person xml:id="borshch">
-            <persName>Борщ</persName>
-          </person>
           <person xml:id="honchar">
             <persName>Гончар</persName>
           </person>
-          <personGrp xml:id="nekotorye_act_3_scene_5">
-            <name>Некоторые</name>
+          <person xml:id="pynchuk">
+            <persName>Пинчук</persName>
+          </person>
+          <person xml:id="maliar">
+            <persName>Маляр</persName>
+          </person>
+          <personGrp xml:id="neskolko_golosov_act_2">
+            <name>Несколько голосов (сцена 2)</name>
           </personGrp>
-          <personGrp xml:id="nekotorye_act_4">
-            <name>Некоторые</name>
-          </personGrp>
-          <personGrp xml:id="nekotorye_act_5">
-            <name>Некоторые</name>
-          </personGrp>
-          <personGrp xml:id="nekotorye_scene_2">
-            <name>Некоторые</name>
-          </personGrp>
-          <personGrp xml:id="jeny">
-            <name>Жены (сцена 2)</name>
-          </personGrp>         
-          <person xml:id="ivga">
-            <persName>Ивга</persName>
-          </person>
-          <person xml:id="pavlo">
-            <persName>Павло</persName>
-          </person>
-          <person xml:id="uliana">
-            <persName>Уляна</persName>
-          </person>
-          <person xml:id="ovcharykha">
-            <persName>Овчариха</persName>
-          </person>
-          <person xml:id="motuzok">
-            <persName>Мотузок</persName>
-          </person>
-          <person xml:id="ovchar">
-            <persName>Овчар</persName>
+          <person xml:id="borshch">
+            <persName>Борщ</persName>
           </person>
           <person xml:id="makogon">
             <persName>Макогон</persName>
           </person>
-          <person xml:id="liubka">
-            <persName>Любка</persName>
+          <person xml:id="ovchar">
+            <persName>Овчар</persName>
           </person>
-          <person xml:id="mnogie">
-            <persName>Многие</persName>
+          <personGrp xml:id="nekotorye_scene_2">
+            <name>Некоторые</name>
+          </personGrp>
+          <person xml:id="motuzok">
+            <persName>Мотузок</persName>
+          </person>
+          <personGrp xml:id="jeny">
+            <name>Жены (сцена 2)</name>
+          </personGrp>         
+          <person xml:id="lopatiha">
+            <persName>Лопатиха</persName>
+          </person>
+          <person xml:id="kugutka">
+            <persName>Кугутка</persName>
+          </person>
+          <person xml:id="makogoniha">
+            <persName>Макогониха</persName>
+          </person>
+          <person xml:id="ovcharykha">
+            <persName>Овчариха</persName>
           </person>
           <person xml:id="motuziha">
             <persName>Мотузиха</persName>
           </person>
+          <person xml:id="mnogie">
+            <persName>Многие</persName>
+          </person>
+          <person xml:id="zmiiha">
+            <persName>Змииха</persName>
+          </person>
+          <person xml:id="chuchelo">
+            <persName>Чучело</persName>
+          </person>
+          <person xml:id="honcharykha">
+            <persName>Гончариха</persName>
+          </person>
+          <personGrp xml:id="nekotorye_act_3_scene_5">
+            <name>Некоторые</name>
+          </personGrp>
+          <personGrp xml:id="molodej_scene_4"> 
+            <name>Молодежь (сцена 4)</name>
+          </personGrp>
+          <person xml:id="nastia">
+            <persName>Настя</persName>
+          </person>
+          <person xml:id="steha">
+            <persName>Стеха</persName>
+          </person>
+          <person xml:id="ivga">
+            <persName>Ивга</persName>
+          </person>
+          <person xml:id="katria">
+            <persName>Катря</persName>
+          </person>
+          <person xml:id="uliana">
+            <persName>Уляна</persName>
+          </person>
+          <person xml:id="andrej">
+            <persName>Андрей</persName>
+          </person>
+          <person xml:id="ivan">
+            <persName>Иван</persName>
+          </person>
+          <person xml:id="semen">
+            <persName>Семен</persName>
+          </person>
+          <person xml:id="petro">
+            <persName>Петро</persName>
+          </person>
+          <person xml:id="pavlo">
+            <persName>Павло</persName>
+          </person>
+          <personGrp xml:id="nekotorye_act_4">
+            <name>Некоторые</name>
+          </personGrp>
           <personGrp xml:id="muzhchiny">
             <name>Мужчины (сцена 4)</name>
+          </personGrp>
+          <personGrp xml:id="nekotorye_act_5">
+            <name>Некоторые</name>
           </personGrp>
           <person xml:id="golos_na_kladbishe">
             <persName>Голос на кладбище</persName>

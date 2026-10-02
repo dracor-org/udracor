@@ -47,14 +47,29 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="laryvon">
-            <persName>Ларивон</persName>
+          <person xml:id="hanna">
+            <persName>Ганна</persName>
+          </person>
+          <person xml:id="vasja">
+            <persName>Вася</persName>
           </person>
           <person xml:id="kopystka">
             <persName>Копистка</persName>
           </person>
-          <person xml:id="hodovanyj">
-            <persName>Годований</persName>
+          <person xml:id="persha_act_1_scene_2">
+            <persName>Перша</persName>
+          </person>
+          <person xml:id="druha_act_1_scene_2">
+            <persName>Друга</persName>
+          </person>
+          <personGrp xml:id="chernytsi">
+            <name>Черниці</name>
+          </personGrp>
+          <person xml:id="did_jukhym">
+            <persName>Дід Юхим</persName>
+          </person>
+          <person xml:id="panko">
+            <persName>Панько</persName>
           </person>
           <person xml:id="stonozhka">
             <persName>Стоножка</persName>
@@ -65,29 +80,37 @@
           <person xml:id="oryna">
             <persName>Орина</persName>
           </person>
-          <person xml:id="did_jukhym">
-            <persName>Дід Юхим</persName>
+          <person xml:id="smyk">
+            <persName>Смик</persName>
           </person>
           <personGrp xml:id="zhinky">
             <name>Жінки</name>
           </personGrp>
-          <person xml:id="zlyj_holos">
-            <persName>Злий голос</persName>
+          <person xml:id="laryvon">
+            <persName>Ларивон</persName>
           </person>
-          <personGrp xml:id="shche_holosy">
-            <name>Ще голоси</name>
+          <personGrp xml:id="cholovyky">
+            <name>Чоловики</name>
           </personGrp>
+          <person xml:id="htos_act_2_scene_1">
+            <persName>Хтось</persName>
+          </person>
+          <person xml:id="hyrja">
+            <persName>Гиря</persName>
+          </person>
+          <personGrp xml:id="crowd">
+            <name>Юрба</name>
+            <name>Гомін</name>
+            <name>В юрбі</name>
+          </personGrp>
+          <person xml:id="lyzja">
+            <persName>Лизя</persName>
+          </person>
           <person xml:id="did_z_tsipkom">
             <persName>Дід з ціпком</persName>
           </person>
-          <person xml:id="khtos_iz_ljudej">
-            <persName>Хтось із людей</persName>
-          </person>
-          <person xml:id="holos_act_3_scene_6">
-            <persName>Голос (незаможницький з натовпу)</persName>
-          </person>
-          <person xml:id="persha_act_1_scene_2">
-            <persName>Перша</persName>
+          <person xml:id="hodovanyj">
+            <persName>Годований</persName>
           </person>
           <person xml:id="persha_act_2_scene_8">
             <persName>Перша</persName>
@@ -95,41 +118,26 @@
           <person xml:id="druha_act_2_scene_8">
             <persName>Друга</persName>
           </person>
-          <person xml:id="druha_act_1_scene_2">
-            <persName>Друга</persName>
+          <person xml:id="zlyj_holos">
+            <persName>Злий голос</persName>
+          </person>
+          <person xml:id="khtos_iz_ljudej">
+            <persName>Хтось із людей</persName>
+          </person>
+          <person xml:id="holos_act_3_scene_6">
+            <persName>Голос (незаможницький з натовпу)</persName>
           </person>
           <personGrp xml:id="holosy_act_3_scene_7">
             <name>Голоси</name>
           </personGrp>
+          <person xml:id="holos_act_3_scene_7">
+            <persName>Голос</persName>
+          </person>
           <person xml:id="druhyj_act_3_scene_7">
             <persName>Другий</persName>
           </person>
-          <person xml:id="druhyj_act_4_scene_5">
-            <persName>Другий</persName>
-          </person>
-          <person xml:id="druhyj_act_4_scene_6">
-            <persName>Другий</persName>
-          </person>
-          <person xml:id="vasja">
-            <persName>Вася</persName>
-          </person>
-          <person xml:id="hyrja">
-            <persName>Гиря</persName>
-          </person>
-          <person xml:id="panko">
-            <persName>Панько</persName>
-          </person>
-          <person xml:id="hanna">
-            <persName>Ганна</persName>
-          </person>
-          <person xml:id="smyk">
-            <persName>Смик</persName>
-          </person>
-          <personGrp xml:id="chernytsi">
-            <name>Черниці</name>
-          </personGrp>
-          <personGrp xml:id="cholovyky">
-            <name>Чоловики</name>
+          <personGrp xml:id="dva_holosy">
+            <name>Два голоси</name>
           </personGrp>
           <personGrp xml:id="z_natovpu_holosy">
             <persName>З натовпу голоси</persName>
@@ -137,40 +145,32 @@
           <personGrp xml:id="monashky">
             <persName>Монашки</persName>
           </personGrp>
+          <person xml:id="dykyj_holos">
+            <persName>Дикий голос</persName>
+          </person>
           <person xml:id="holos_act_4_scene_4">
             <persName>Голос</persName>
           </person>
-          <person xml:id="holos_act_3_scene_7">
-            <persName>Голос</persName>
-          </person>
-          <person xml:id="lyzja">
-            <persName>Лизя</persName>
-          </person>
-          <personGrp xml:id="crowd">
-            <name>Юрба</name>
-            <name>Гомін</name>
-            <name>В юрбі</name>
+          <personGrp xml:id="shche_holosy">
+            <name>Ще голоси</name>
           </personGrp>
-          <person xml:id="htos_act_2_scene_1">
-            <persName>Хтось</persName>
-          </person>
           <person xml:id="htos_act_4_scene_5">
             <persName>Хтось</persName>
           </person>
-          <person xml:id="htos_act_4_scene_6">
-            <persName>Хтось</persName>
+          <person xml:id="druhyj_act_4_scene_5">
+            <persName>Другий</persName>
           </person>
           <person xml:id="tretij_act_4_scene_5">
             <persName>Третій</persName>
           </person>
+          <person xml:id="htos_act_4_scene_6">
+            <persName>Хтось</persName>
+          </person>
+          <person xml:id="druhyj_act_4_scene_6">
+            <persName>Другий</persName>
+          </person>
           <person xml:id="tretij_act_4_scene_6">
             <persName>Третій</persName>
-          </person>
-          <personGrp xml:id="dva_holosy">
-            <name>Два голоси</name>
-          </personGrp>
-          <person xml:id="dykyj_holos">
-            <persName>Дикий голос</persName>
           </person>
         </listPerson>
       </particDesc>
